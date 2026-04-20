@@ -10,6 +10,13 @@ interface FonteInfo {
   total: number;
 }
 
+interface CardImport {
+  fonte: string;
+  bloco: string;
+  frente: string;
+  verso: string;
+}
+
 export default function AdminPage() {
   const [fontes, setFontes]         = useState<FonteInfo[]>([]);
   const [blocos, setBlocos]         = useState<string[]>([]);
@@ -22,6 +29,12 @@ export default function AdminPage() {
   const [bloco, setBloco]   = useState("");
   const [frente, setFrente] = useState("");
   const [verso, setVerso]   = useState("");
+
+  // importação JSON
+  const [importCards, setImportCards]       = useState<CardImport[]>([]);
+  const [importErro, setImportErro]         = useState("");
+  const [importSalvando, setImportSalvando] = useState(false);
+  const [importSucesso, setImportSucesso]   = useState(0);
 
   const supabase = createClient();
 
@@ -81,6 +94,51 @@ export default function AdminPage() {
     await carregar();
   }
 
+  function handleArquivoJSON(e: React.ChangeEvent<HTMLInputElement>) {
+    setImportErro("");
+    setImportCards([]);
+    setImportSucesso(0);
+    const file = e.target.files?.[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = (ev) => {
+      try {
+        const parsed = JSON.parse(ev.target?.result as string);
+        if (!Array.isArray(parsed)) throw new Error("O arquivo deve conter um array JSON.");
+        const validos = parsed.filter(
+          (c) => typeof c.frente === "string" && typeof c.verso === "string"
+        );
+        if (validos.length === 0) throw new Error("Nenhum card válido encontrado. Verifique o formato.");
+        setImportCards(validos);
+      } catch (err) {
+        setImportErro((err as Error).message);
+      }
+    };
+    reader.readAsText(file);
+    e.target.value = "";
+  }
+
+  async function handleImportar() {
+    if (importCards.length === 0) return;
+    setImportSalvando(true);
+    const { error } = await supabase.from("flashcards").insert(
+      importCards.map((c) => ({
+        fonte: (c.fonte ?? FONTE_PADRAO).trim(),
+        bloco: (c.bloco ?? "geral").trim().toLowerCase().replace(/\s+/g, "_"),
+        frente: c.frente.trim(),
+        verso:  c.verso.trim(),
+      }))
+    );
+    if (!error) {
+      setImportSucesso(importCards.length);
+      setImportCards([]);
+      await carregar();
+    } else {
+      setImportErro(`Erro ao salvar: ${error.message}`);
+    }
+    setImportSalvando(false);
+  }
+
   if (loading) {
     return (
       <div className="flex justify-center items-center min-h-[60vh]">
@@ -111,6 +169,58 @@ export default function AdminPage() {
             </div>
           ))}
         </div>
+      </div>
+
+      {/* importar JSON */}
+      <div className="rounded-xl border border-yas-plum/30 bg-yas-plum/5 p-4 flex flex-col gap-3">
+        <div>
+          <p className="font-body text-sm font-semibold text-yas-plum">Importar cards de arquivo JSON</p>
+          <p className="font-body text-xs text-yas-ink/50 mt-0.5">
+            Envie um arquivo gerado pelo Claude. Formato: array com fonte, bloco, frente, verso.
+          </p>
+        </div>
+
+        <label className="w-full flex items-center justify-center gap-2 px-4 py-3 rounded-xl border-2 border-dashed border-yas-plum/40 hover:border-yas-plum/70 cursor-pointer transition-colors bg-white/40">
+          <span className="text-lg">📂</span>
+          <span className="font-body text-sm text-yas-plum font-medium">Escolher arquivo .json</span>
+          <input type="file" accept=".json" className="hidden" onChange={handleArquivoJSON} />
+        </label>
+
+        {importErro && (
+          <p className="font-body text-xs text-yas-terracotta font-semibold">{importErro}</p>
+        )}
+
+        {importSucesso > 0 && (
+          <p className="font-body text-xs text-green-700 font-semibold">
+            ✓ {importSucesso} card{importSucesso !== 1 ? "s" : ""} importado{importSucesso !== 1 ? "s" : ""} com sucesso!
+          </p>
+        )}
+
+        {importCards.length > 0 && (
+          <div className="flex flex-col gap-2">
+            <p className="font-body text-xs font-semibold text-yas-ink/60 uppercase tracking-wide">
+              Preview — {importCards.length} card{importCards.length !== 1 ? "s" : ""}
+            </p>
+            <div className="flex flex-col gap-1.5 max-h-60 overflow-y-auto pr-1">
+              {importCards.map((c, i) => (
+                <div key={i} className="rounded-lg bg-white border border-yas-ink/10 p-2.5">
+                  <p className="font-body text-[10px] text-yas-plum font-semibold uppercase tracking-wide">
+                    {c.fonte ?? "—"} · {c.bloco ?? "—"}
+                  </p>
+                  <p className="font-body text-xs text-yas-ink mt-0.5 font-medium">{c.frente}</p>
+                  <p className="font-body text-xs text-yas-ink/50 mt-0.5 line-clamp-2">{c.verso}</p>
+                </div>
+              ))}
+            </div>
+            <button
+              onClick={handleImportar}
+              disabled={importSalvando}
+              className="w-full py-2.5 rounded-xl bg-yas-plum text-white font-body font-semibold text-sm active:scale-95 transition-all disabled:opacity-60"
+            >
+              {importSalvando ? "Salvando..." : `Salvar ${importCards.length} cards`}
+            </button>
+          </div>
+        )}
       </div>
 
       {/* formulário */}

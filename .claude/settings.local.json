@@ -6,7 +6,15 @@
       "Bash(npm install *)",
       "Bash(npx tsc *)",
       "Bash(npm run *)",
-      "Bash(curl -s http://localhost:3000 -o /dev/null -w \"%{http_code}\")"
+      "Bash(curl -s http://localhost:3000 -o /dev/null -w \"%{http_code}\")",
+      "Bash(gh auth *)",
+      "Bash(npx vercel *)",
+      "Bash(vercel whoami *)",
+      "Bash(vercel login *)",
+      "Bash(vercel --yes)",
+      "Bash(vercel --yes --name yas-estudos)",
+      "Bash(vercel env *)",
+      "Bash(vercel --prod --yes)"
     ]
   }
 }
