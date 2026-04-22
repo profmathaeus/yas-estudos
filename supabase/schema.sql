@@ -84,6 +84,22 @@ create table if not exists questoes_usuario (
   primary key (user_id, questao_id)
 );
 
+-- 8. Histórico de avaliações (simulados completos)
+create table if not exists historico_avaliacoes (
+  id             text primary key,
+  user_id        uuid not null,
+  data           timestamptz not null default now(),
+  tema           text not null,
+  total_questoes integer not null,
+  acertos        integer not null,
+  pct            integer not null,
+  questoes       jsonb not null default '[]',
+  respostas      jsonb not null default '{}'
+);
+
+create index if not exists historico_avaliacoes_user_data
+  on historico_avaliacoes(user_id, data desc);
+
 -- Sem RLS — app pessoal, 1 usuário, sem auth
 -- Se quiser habilitar RLS no futuro, use:
 -- alter table card_progress enable row level security;

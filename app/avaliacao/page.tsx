@@ -18,8 +18,6 @@ interface HistoricoItem {
   respostas: Record<string, string>;
 }
 
-const HISTORICO_KEY = "yas_historico_avaliacoes";
-
 const TEMA_LABELS: Record<string, string> = {
   sus:         "SUS & Legislação",
   tecnicas:    "Técnicas de Enfermagem",
@@ -76,25 +74,6 @@ function shuffleAlternativas(questao: Questao): Questao {
   };
 }
 
-function salvarHistorico(item: HistoricoItem) {
-  try {
-    const existing = JSON.parse(
-      localStorage.getItem(HISTORICO_KEY) ?? "[]"
-    ) as HistoricoItem[];
-    localStorage.setItem(
-      HISTORICO_KEY,
-      JSON.stringify([item, ...existing].slice(0, 30))
-    );
-  } catch {}
-}
-
-function lerHistorico(): HistoricoItem[] {
-  try {
-    return JSON.parse(localStorage.getItem(HISTORICO_KEY) ?? "[]");
-  } catch {
-    return [];
-  }
-}
 
 // ---- Componente de questão read-only (revisão) ----
 function QuestaoRevisao({
@@ -231,7 +210,30 @@ export default function AvaliacaoPage() {
 
   const supabase = createClient();
 
-  useEffect(() => { setHistorico(lerHistorico()); }, []);
+  const carregarHistorico = useCallback(async () => {
+    const { data } = await supabase
+      .from("historico_avaliacoes")
+      .select("*")
+      .eq("user_id", STUDY_USER_ID)
+      .order("data", { ascending: false })
+      .limit(30);
+    if (data) {
+      setHistorico(
+        data.map((row) => ({
+          id:            row.id,
+          data:          row.data,
+          tema:          row.tema,
+          totalQuestoes: row.total_questoes,
+          acertos:       row.acertos,
+          pct:           row.pct,
+          questoes:      row.questoes,
+          respostas:     row.respostas,
+        }))
+      );
+    }
+  }, [supabase]);
+
+  useEffect(() => { carregarHistorico(); }, [carregarHistorico]);
 
   const carregarTemas = useCallback(async () => {
     const { data } = await supabase.from("questoes").select("tema");
@@ -287,22 +289,22 @@ export default function AvaliacaoPage() {
     ).then();
   }
 
-  function avancar() {
+  async function avancar() {
     if (indice + 1 >= questoes.length) {
       const acertos = questoes.filter((q) => respostas[q.id] === q.gabarito).length;
       const pct = questoes.length > 0 ? Math.round((acertos / questoes.length) * 100) : 0;
-      const item: HistoricoItem = {
-        id: Date.now().toString(),
-        data: new Date().toISOString(),
-        tema: temaSel || "completa",
-        totalQuestoes: questoes.length,
+      await supabase.from("historico_avaliacoes").insert({
+        id:            Date.now().toString(),
+        user_id:       STUDY_USER_ID,
+        data:          new Date().toISOString(),
+        tema:          temaSel || "completa",
+        total_questoes: questoes.length,
         acertos,
         pct,
-        questoes,           // salva as questões (com alternativas na ordem que foram exibidas)
-        respostas,          // salva as respostas dadas
-      };
-      salvarHistorico(item);
-      setHistorico(lerHistorico());
+        questoes,
+        respostas,
+      });
+      await carregarHistorico();
       setTela("resultado");
     } else {
       setIndice((i) => i + 1);
@@ -697,8 +699,8 @@ export default function AvaliacaoPage() {
         )}
         <button
           onClick={() => {
-            // abre a revisão da prova recém-feita (última do histórico)
-            const ultimo = lerHistorico()[0];
+            // abre a revisão da prova recém-feita (primeira do histórico já carregado)
+            const ultimo = historico[0];
             if (ultimo) abrirRevisao(ultimo);
           }}
           className="w-full py-3 rounded-xl border border-yas-ink/20 text-yas-ink/60 font-body font-semibold text-sm active:scale-95 transition-transform"
