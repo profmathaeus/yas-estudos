@@ -17,6 +17,17 @@ interface CardImport {
   verso: string;
 }
 
+interface QuestaoImport {
+  tema: string;
+  enunciado: string;
+  alternativas: { letra: string; texto: string }[];
+  gabarito: string;
+  justificativa: string;
+  explicacoes?: Record<string, string>;
+  fonte?: string;
+  dificuldade?: string;
+}
+
 export default function AdminPage() {
   const [fontes, setFontes]         = useState<FonteInfo[]>([]);
   const [blocos, setBlocos]         = useState<string[]>([]);
@@ -30,11 +41,17 @@ export default function AdminPage() {
   const [frente, setFrente] = useState("");
   const [verso, setVerso]   = useState("");
 
-  // importação JSON
+  // importação JSON — cards
   const [importCards, setImportCards]       = useState<CardImport[]>([]);
   const [importErro, setImportErro]         = useState("");
   const [importSalvando, setImportSalvando] = useState(false);
   const [importSucesso, setImportSucesso]   = useState(0);
+
+  // importação JSON — questões
+  const [importQuestoes, setImportQuestoes]       = useState<QuestaoImport[]>([]);
+  const [importQErro, setImportQErro]             = useState("");
+  const [importQSalvando, setImportQSalvando]     = useState(false);
+  const [importQSucesso, setImportQSucesso]       = useState(0);
 
   const supabase = createClient();
 
@@ -139,6 +156,60 @@ export default function AdminPage() {
     setImportSalvando(false);
   }
 
+  function handleArquivoQuestoes(e: React.ChangeEvent<HTMLInputElement>) {
+    setImportQErro("");
+    setImportQuestoes([]);
+    setImportQSucesso(0);
+    const file = e.target.files?.[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = (ev) => {
+      try {
+        const parsed = JSON.parse(ev.target?.result as string);
+        if (!Array.isArray(parsed)) throw new Error("O arquivo deve conter um array JSON.");
+        const validas = parsed.filter(
+          (q) =>
+            typeof q.tema === "string" &&
+            typeof q.enunciado === "string" &&
+            Array.isArray(q.alternativas) &&
+            q.alternativas.length >= 2 &&
+            typeof q.gabarito === "string" &&
+            typeof q.justificativa === "string"
+        );
+        if (validas.length === 0) throw new Error("Nenhuma questão válida encontrada. Verifique tema, enunciado, alternativas, gabarito e justificativa.");
+        setImportQuestoes(validas);
+      } catch (err) {
+        setImportQErro((err as Error).message);
+      }
+    };
+    reader.readAsText(file);
+    e.target.value = "";
+  }
+
+  async function handleImportarQuestoes() {
+    if (importQuestoes.length === 0) return;
+    setImportQSalvando(true);
+    const { error } = await supabase.from("questoes").insert(
+      importQuestoes.map((q) => ({
+        tema:          q.tema.trim(),
+        enunciado:     q.enunciado.trim(),
+        alternativas:  q.alternativas,
+        gabarito:      q.gabarito.trim().toUpperCase(),
+        justificativa: q.justificativa.trim(),
+        explicacoes:   q.explicacoes ?? {},
+        fonte:         q.fonte?.trim() ?? null,
+        dificuldade:   q.dificuldade ?? "media",
+      }))
+    );
+    if (!error) {
+      setImportQSucesso(importQuestoes.length);
+      setImportQuestoes([]);
+    } else {
+      setImportQErro(`Erro ao salvar: ${error.message}`);
+    }
+    setImportQSalvando(false);
+  }
+
   if (loading) {
     return (
       <div className="flex justify-center items-center min-h-[60vh]">
@@ -218,6 +289,58 @@ export default function AdminPage() {
               className="w-full py-2.5 rounded-xl bg-yas-plum text-white font-body font-semibold text-sm active:scale-95 transition-all disabled:opacity-60"
             >
               {importSalvando ? "Salvando..." : `Salvar ${importCards.length} cards`}
+            </button>
+          </div>
+        )}
+      </div>
+
+      {/* importar questões JSON */}
+      <div className="rounded-xl border border-yas-burgundy/30 bg-yas-burgundy/5 p-4 flex flex-col gap-3">
+        <div>
+          <p className="font-body text-sm font-semibold text-yas-burgundy">Importar questões de arquivo JSON</p>
+          <p className="font-body text-xs text-yas-ink/50 mt-0.5">
+            Formato: array com tema, enunciado, alternativas, gabarito, justificativa, explicacoes.
+          </p>
+        </div>
+
+        <label className="w-full flex items-center justify-center gap-2 px-4 py-3 rounded-xl border-2 border-dashed border-yas-burgundy/40 hover:border-yas-burgundy/70 cursor-pointer transition-colors bg-white/40">
+          <span className="text-lg">📝</span>
+          <span className="font-body text-sm text-yas-burgundy font-medium">Escolher arquivo .json de questões</span>
+          <input type="file" accept=".json" className="hidden" onChange={handleArquivoQuestoes} />
+        </label>
+
+        {importQErro && (
+          <p className="font-body text-xs text-yas-terracotta font-semibold">{importQErro}</p>
+        )}
+
+        {importQSucesso > 0 && (
+          <p className="font-body text-xs text-green-700 font-semibold">
+            ✓ {importQSucesso} questão{importQSucesso !== 1 ? "ões" : ""} importada{importQSucesso !== 1 ? "s" : ""} com sucesso!
+          </p>
+        )}
+
+        {importQuestoes.length > 0 && (
+          <div className="flex flex-col gap-2">
+            <p className="font-body text-xs font-semibold text-yas-ink/60 uppercase tracking-wide">
+              Preview — {importQuestoes.length} questão{importQuestoes.length !== 1 ? "ões" : ""}
+            </p>
+            <div className="flex flex-col gap-1.5 max-h-60 overflow-y-auto pr-1">
+              {importQuestoes.map((q, i) => (
+                <div key={i} className="rounded-lg bg-white border border-yas-ink/10 p-2.5">
+                  <p className="font-body text-[10px] text-yas-burgundy font-semibold uppercase tracking-wide">
+                    {q.tema} · gabarito {q.gabarito}
+                  </p>
+                  <p className="font-body text-xs text-yas-ink mt-0.5 line-clamp-2">{q.enunciado}</p>
+                  <p className="font-body text-[10px] text-yas-ink/40 mt-0.5">{q.alternativas.length} alternativas</p>
+                </div>
+              ))}
+            </div>
+            <button
+              onClick={handleImportarQuestoes}
+              disabled={importQSalvando}
+              className="w-full py-2.5 rounded-xl bg-yas-burgundy text-white font-body font-semibold text-sm active:scale-95 transition-all disabled:opacity-60"
+            >
+              {importQSalvando ? "Salvando..." : `Salvar ${importQuestoes.length} questões`}
             </button>
           </div>
         )}

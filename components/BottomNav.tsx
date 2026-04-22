@@ -4,9 +4,10 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 const LINKS = [
-  { href: "/flashcards", label: "Cards", icon: "🃏" },
+  { href: "/flashcards", label: "Cards",  icon: "🃏" },
   { href: "/plano",      label: "Plano",  icon: "📅" },
   { href: "/checklist",  label: "Tarefas",icon: "✅" },
+  { href: "/avaliacao",  label: "Prova",  icon: "📝" },
   { href: "/stats",      label: "Stats",  icon: "📊" },
 ];
 
@@ -22,7 +23,7 @@ export function BottomNav() {
             <Link
               key={href}
               href={href}
-              className={`flex flex-col items-center gap-0.5 py-3 px-4 min-w-0 flex-1 transition-colors ${
+              className={`flex flex-col items-center gap-0.5 py-3 px-2 min-w-0 flex-1 transition-colors ${
                 active ? "text-yas-lavender" : "text-white/40"
               }`}
             >

@@ -53,6 +53,26 @@ export interface TarefaComStatus extends Tarefa {
   concluida_em: string | null;
 }
 
+export interface Questao {
+  id: string;
+  tema: string;
+  enunciado: string;
+  alternativas: { letra: string; texto: string }[];
+  gabarito: string;
+  justificativa: string;
+  explicacoes: Record<string, string>;
+  fonte?: string;
+  dificuldade?: string;
+}
+
+export interface QuestaoUsuario {
+  user_id: string;
+  questao_id: string;
+  resposta: string | null;
+  acertou: boolean | null;
+  respondido_em: string;
+}
+
 export type BlocoKey =
   | "sus"
   | "tecnicas"

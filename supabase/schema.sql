@@ -61,6 +61,29 @@ create table if not exists tarefas_usuario (
   primary key(user_id, tarefa_id)
 );
 
+-- 6. Questões de múltipla escolha (simulado)
+create table if not exists questoes (
+  id            uuid primary key default gen_random_uuid(),
+  tema          text not null,
+  enunciado     text not null,
+  alternativas  jsonb not null,
+  gabarito      text not null,
+  justificativa text not null,
+  explicacoes   jsonb,
+  fonte         text,
+  dificuldade   text default 'media'
+);
+
+-- 7. Respostas do usuário às questões
+create table if not exists questoes_usuario (
+  user_id        uuid not null,
+  questao_id     uuid references questoes(id) on delete cascade,
+  resposta       text,
+  acertou        boolean,
+  respondido_em  timestamptz default now(),
+  primary key (user_id, questao_id)
+);
+
 -- Sem RLS — app pessoal, 1 usuário, sem auth
 -- Se quiser habilitar RLS no futuro, use:
 -- alter table card_progress enable row level security;

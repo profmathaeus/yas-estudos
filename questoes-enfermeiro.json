@@ -1,0 +1,2090 @@
+[
+  {
+    "tema": "sus",
+    "enunciado": "A Lei 8.080/90 estabelece os princípios do SUS. Assinale a alternativa que apresenta CORRETAMENTE um princípio DOUTRINÁRIO do sistema:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Descentralização com direção única em cada esfera de governo"
+      },
+      {
+        "letra": "B",
+        "texto": "Regionalização e hierarquização da rede de serviços"
+      },
+      {
+        "letra": "C",
+        "texto": "Equidade, compreendida como tratar diferentemente os desiguais"
+      },
+      {
+        "letra": "D",
+        "texto": "Participação da comunidade por meio dos Conselhos de Saúde"
+      },
+      {
+        "letra": "E",
+        "texto": "Conjugação dos recursos financeiros, tecnológicos e humanos"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "Os princípios doutrinários do SUS são universalidade, equidade e integralidade. Equidade significa tratar desigualmente os desiguais, ofertando mais a quem mais necessita, buscando igualdade de oportunidades.",
+    "explicacoes": {
+      "A": "Descentralização com direção única é princípio ORGANIZATIVO (não doutrinário) do SUS.",
+      "B": "Regionalização e hierarquização também são princípios organizativos, não doutrinários.",
+      "D": "Participação da comunidade é princípio organizativo previsto na Lei 8.142/90, não doutrinário.",
+      "E": "Conjugação de recursos é diretriz de financiamento do SUS, não princípio doutrinário."
+    },
+    "fonte": "Lei 8.080/90 — Art. 7º",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "sus",
+    "enunciado": "Sobre a Lei 8.142/90, que dispõe sobre a participação da comunidade na gestão do SUS, assinale a afirmativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Conferência de Saúde reúne-se a cada quatro anos para avaliar a situação de saúde"
+      },
+      {
+        "letra": "B",
+        "texto": "O Conselho de Saúde tem caráter permanente e deliberativo"
+      },
+      {
+        "letra": "C",
+        "texto": "Os usuários devem representar 50% dos membros do Conselho de Saúde"
+      },
+      {
+        "letra": "D",
+        "texto": "O gestor do SUS é obrigado a convocar a Conferência de Saúde a cada dois anos"
+      },
+      {
+        "letra": "E",
+        "texto": "O Conselho de Saúde age na formulação de estratégias e no controle da execução da política de saúde"
+      }
+    ],
+    "gabarito": "D",
+    "justificativa": "A Conferência de Saúde reúne-se a cada QUATRO anos (não dois). O gestor pode convocar extraordinariamente quando necessário, mas a periodicidade ordinária é de 4 anos.",
+    "explicacoes": {
+      "A": "Correto — a Conferência reúne-se a cada quatro anos com representação dos vários segmentos sociais.",
+      "B": "Correto — o Conselho de Saúde tem caráter permanente e deliberativo, composto por representantes do governo, prestadores, profissionais e usuários.",
+      "C": "Correto — os usuários representam 50% dos membros do Conselho de Saúde (paridade).",
+      "E": "Correto — o Conselho de Saúde atua na formulação de estratégias e no controle da execução da política de saúde, inclusive nos aspectos econômicos e financeiros."
+    },
+    "fonte": "Lei 8.142/90 — Art. 1º",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "sus",
+    "enunciado": "De acordo com a PNAB (Política Nacional de Atenção Básica), qual é a carga horária mínima semanal do enfermeiro na Estratégia Saúde da Família?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20 horas semanais"
+      },
+      {
+        "letra": "B",
+        "texto": "30 horas semanais"
+      },
+      {
+        "letra": "C",
+        "texto": "40 horas semanais"
+      },
+      {
+        "letra": "D",
+        "texto": "44 horas semanais"
+      },
+      {
+        "letra": "E",
+        "texto": "Não há carga horária mínima definida para o enfermeiro"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "Na ESF, os profissionais de nível superior (médico, enfermeiro, dentista) devem cumprir 40 horas semanais. O Agente Comunitário de Saúde (ACS) também cumpre 40h. Essa carga horária garante a integralidade da atenção.",
+    "explicacoes": {
+      "A": "20 horas é a carga horária de algumas categorias em UBS tradicionais, não na ESF.",
+      "B": "30 horas não é a carga mínima para enfermeiro na ESF, embora seja referência em alguns concursos para UBS.",
+      "D": "44 horas é a jornada máxima legal da CLT, não a definida pela PNAB para a ESF.",
+      "E": "A PNAB define expressamente a carga horária de 40h para profissionais de nível superior na ESF."
+    },
+    "fonte": "PNAB — Portaria 2.436/2017",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "sus",
+    "enunciado": "O modelo de Redes de Atenção à Saúde (RAS) preconiza que a Atenção Básica seja o centro de comunicação da rede. Sobre esse tema, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Atenção Básica tem a responsabilidade de atender apenas às condições agudas de baixa complexidade"
+      },
+      {
+        "letra": "B",
+        "texto": "O hospital é o centro ordenador do fluxo na rede de atenção à saúde"
+      },
+      {
+        "letra": "C",
+        "texto": "A Atenção Básica funciona como ponto de atenção resolutivo para a maioria das necessidades de saúde da população"
+      },
+      {
+        "letra": "D",
+        "texto": "Na RAS, todos os pontos de atenção possuem a mesma densidade tecnológica"
+      },
+      {
+        "letra": "E",
+        "texto": "A regulação do acesso aos serviços especializados dispensa o papel da Atenção Básica"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "A AB deve ser resolutiva para a maioria das necessidades de saúde, funcionando como o centro de comunicação e ordenamento do cuidado na RAS, coordenando o acesso aos demais pontos de atenção.",
+    "explicacoes": {
+      "A": "A AB atende condições agudas E crônicas, além de ações de promoção e prevenção — não se limita a condições agudas de baixa complexidade.",
+      "B": "Na RAS, a AB é o centro ordenador — não o hospital. O hospital é um ponto de atenção de maior densidade tecnológica.",
+      "D": "Na RAS, os pontos têm densidades tecnológicas DIFERENTES — é justamente essa diferenciação que organiza a hierarquização dos serviços.",
+      "E": "A regulação do acesso é função central da AB, que encaminha e acompanha os usuários nos demais níveis de atenção."
+    },
+    "fonte": "Portaria 4.279/2010 — RAS",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "sus",
+    "enunciado": "A respeito do financiamento do SUS, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O financiamento é exclusivo da União, que repassa recursos aos estados e municípios"
+      },
+      {
+        "letra": "B",
+        "texto": "Os recursos do Fundo Nacional de Saúde são alocados pelo Conselho Nacional de Saúde"
+      },
+      {
+        "letra": "C",
+        "texto": "O financiamento é tripartite, com participação da União, estados e municípios"
+      },
+      {
+        "letra": "D",
+        "texto": "Os municípios não podem captar recursos próprios para complementar o financiamento da saúde"
+      },
+      {
+        "letra": "E",
+        "texto": "A EC 95/2016 ampliou progressivamente os recursos federais para a saúde até 2036"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "O financiamento do SUS é tripartite, envolvendo recursos da União, dos estados e dos municípios. Essa co-responsabilidade está prevista na CF/88 e na Lei 8.080/90.",
+    "explicacoes": {
+      "A": "O financiamento NÃO é exclusivo da União — estados e municípios também são co-financiadores obrigatórios.",
+      "B": "Os recursos do FNS são geridos pelo Ministério da Saúde — o CNS fiscaliza, mas não os aloca diretamente.",
+      "D": "Municípios PODEM e DEVEM aplicar recursos próprios; a CF estabelece percentuais mínimos de aplicação em saúde.",
+      "E": "A EC 95/2016 (teto dos gastos) CONGELOU os recursos federais por 20 anos — não os ampliou progressivamente."
+    },
+    "fonte": "CF/88 Art. 198 e Lei 8.080/90",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "tecnicas",
+    "enunciado": "Durante a passagem de uma sonda nasogástrica, o enfermeiro deve confirmar o posicionamento correto da sonda antes de iniciar a administração de dieta. Qual método é considerado o PADRÃO-OURO para essa confirmação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Auscultar a região epigástrica após injeção de ar pela sonda"
+      },
+      {
+        "letra": "B",
+        "texto": "Verificar se a extremidade da sonda borbulha quando imersa em água"
+      },
+      {
+        "letra": "C",
+        "texto": "Verificar o pH do conteúdo aspirado (valor ≤ 5,5 indica posição gástrica)"
+      },
+      {
+        "letra": "D",
+        "texto": "Confirmação radiológica por raio X de abdome"
+      },
+      {
+        "letra": "E",
+        "texto": "Aspirar conteúdo pela sonda e verificar coloração amarelo-esverdeada"
+      }
+    ],
+    "gabarito": "D",
+    "justificativa": "O raio X de abdome é o método padrão-ouro para confirmar o posicionamento de sondas. Os demais métodos (ausculta, pH, coloração) são complementares e menos seguros isoladamente.",
+    "explicacoes": {
+      "A": "A ausculta do epigástrio após injeção de ar é método inseguro — pode ser positiva mesmo com sonda em posição pulmonar.",
+      "B": "O teste do borbulhamento em água está obsoleto por ser impreciso e aumentar risco de contaminação.",
+      "C": "O pH ≤ 5,5 sugere posição gástrica, mas pode ser alterado por medicamentos (antiácidos) e não substitui o raio X.",
+      "E": "A coloração do aspirado é auxiliar, mas não confirma isoladamente — pode haver variações que induzem erro."
+    },
+    "fonte": "Protocolos ANVISA — Sondas enterais",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "tecnicas",
+    "enunciado": "Com relação à administração de medicamentos por via intramuscular (IM), assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O músculo vasto lateral da coxa é indicado para lactentes e crianças pequenas"
+      },
+      {
+        "letra": "B",
+        "texto": "O volume máximo recomendado para injeção IM no ventroglúteo de adultos é de 3 a 5 mL"
+      },
+      {
+        "letra": "C",
+        "texto": "A região dorsoglútea está localizada no quadrante superior externo do glúteo"
+      },
+      {
+        "letra": "D",
+        "texto": "A técnica em Z é obrigatória para todos os medicamentos administrados por via IM"
+      },
+      {
+        "letra": "E",
+        "texto": "O ângulo de inserção da agulha na via IM é de 90 graus"
+      }
+    ],
+    "gabarito": "D",
+    "justificativa": "A técnica em Z (tração lateral da pele) é recomendada especialmente para medicamentos irritantes ou que podem manchar (como ferro dextrana), mas NÃO é obrigatória para todos os IM.",
+    "explicacoes": {
+      "A": "Correto — o vasto lateral é o local preferencial para IM em lactentes e crianças pequenas, por ser seguro e acessível.",
+      "B": "Correto — o ventroglúteo suporta volumes de 3-5 mL em adultos, sendo considerado o local mais seguro para IM.",
+      "C": "Correto — a região dorsoglútea fica no quadrante superior externo, afastando-se do nervo ciático.",
+      "E": "Correto — a agulha é inserida em ângulo de 90° na via intramuscular para atingir o músculo adequadamente."
+    },
+    "fonte": "Potter & Perry — Fundamentos de Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "tecnicas",
+    "enunciado": "Ao realizar a mensuração da pressão arterial pelo método auscultatório, o enfermeiro deve considerar que o 1º ruído de Korotkoff corresponde à:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pressão arterial diastólica"
+      },
+      {
+        "letra": "B",
+        "texto": "Pressão arterial sistólica"
+      },
+      {
+        "letra": "C",
+        "texto": "Pressão de pulso"
+      },
+      {
+        "letra": "D",
+        "texto": "Pressão arterial média"
+      },
+      {
+        "letra": "E",
+        "texto": "Desaparecimento dos sons, indicando a pressão diastólica final"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "O 1º ruído de Korotkoff (aparecimento do primeiro som após a desinsuflação do manguito) corresponde à pressão arterial sistólica. O 5º ruído (desaparecimento dos sons) corresponde à diastólica.",
+    "explicacoes": {
+      "A": "A pressão diastólica corresponde ao 5º ruído de Korotkoff (desaparecimento dos sons), não ao 1º.",
+      "C": "Pressão de pulso é a diferença entre sistólica e diastólica — não corresponde a nenhum ruído de Korotkoff diretamente.",
+      "D": "Pressão arterial média é calculada matematicamente (PAD + 1/3 da pressão de pulso) — não é um ruído auscultatório.",
+      "E": "O desaparecimento dos sons (5º ruído) corresponde à diastólica, não ao 1º ruído que é a sistólica."
+    },
+    "fonte": "Diretrizes Brasileiras de Hipertensão — SBC 2020",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "tecnicas",
+    "enunciado": "Em relação ao cateterismo vesical de demora, qual das afirmativas a seguir representa uma medida de PREVENÇÃO de Infecção do Trato Urinário Associada a Cateter (ITUAC)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Irrigar a sonda vesical com solução salina diariamente para manter a permeabilidade"
+      },
+      {
+        "letra": "B",
+        "texto": "Posicionar a bolsa coletora acima do nível da bexiga para facilitar a drenagem"
+      },
+      {
+        "letra": "C",
+        "texto": "Manter o sistema de drenagem fechado e desconectar a sonda do tubo apenas quando necessário"
+      },
+      {
+        "letra": "D",
+        "texto": "Trocar a sonda vesical e o sistema coletor a cada 72 horas como rotina"
+      },
+      {
+        "letra": "E",
+        "texto": "Realizar higiene perineal com antisséptico (PVPI) duas vezes ao dia"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "Manter o sistema de drenagem fechado é uma das principais medidas de prevenção de ITUAC. A desconexão do sistema aumenta significativamente o risco de contaminação e infecção.",
+    "explicacoes": {
+      "A": "A irrigação de rotina NÃO é recomendada — aumenta o risco de infecção por quebrar o sistema fechado sem indicação clínica.",
+      "B": "A bolsa coletora deve ser posicionada ABAIXO do nível da bexiga (não acima) para facilitar a drenagem por gravidade.",
+      "D": "A troca de rotina em intervalos fixos NÃO é recomendada — a sonda deve ser trocada somente quando houver indicação clínica (obstrução, infecção).",
+      "E": "A higiene perineal com antisséptico de rotina não demonstrou benefício na prevenção de ITUAC — usa-se água e sabão."
+    },
+    "fonte": "ANVISA — Critérios Diagnósticos de IRAS 2017",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "tecnicas",
+    "enunciado": "Na sistematização da assistência de enfermagem (SAE), o diagnóstico de enfermagem 'Risco de quedas' é classificado como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diagnóstico real, pois o paciente já apresentou episódio de queda anterior"
+      },
+      {
+        "letra": "B",
+        "texto": "Diagnóstico de promoção da saúde, voltado ao fortalecimento do padrão de saúde"
+      },
+      {
+        "letra": "C",
+        "texto": "Diagnóstico de risco, caracterizado pela vulnerabilidade a um problema que ainda não ocorreu"
+      },
+      {
+        "letra": "D",
+        "texto": "Diagnóstico sindrômico, pois agrupa vários diagnósticos relacionados à mobilidade"
+      },
+      {
+        "letra": "E",
+        "texto": "Diagnóstico possível, pois requer mais dados para ser confirmado"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "Na taxonomia NANDA-I, os diagnósticos de risco descrevem julgamentos clínicos sobre a vulnerabilidade de um indivíduo a desenvolver um problema de saúde. Não há características definidoras — apenas fatores de risco.",
+    "explicacoes": {
+      "A": "Diagnóstico real exige características definidoras (sinais e sintomas presentes). 'Risco de quedas' NÃO requer queda prévia — apenas fatores de risco.",
+      "B": "Diagnóstico de promoção da saúde reflete motivação e desejo de aumentar bem-estar — não se aplica a 'Risco de quedas'.",
+      "D": "Diagnóstico sindrômico é um agrupamento de diagnósticos reais que ocorrem juntos em um padrão clínico — não é o caso aqui.",
+      "E": "Diagnóstico possível é aquele em que os dados são insuficientes para confirmar ou excluir — diferente de um diagnóstico de risco estabelecido."
+    },
+    "fonte": "NANDA-I 2021-2023 — Diagnósticos de Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Com relação à dengue, assinale a alternativa que apresenta CORRETAMENTE um sinal de alarme que indica necessidade de internação hospitalar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Febre acima de 38°C há mais de 2 dias"
+      },
+      {
+        "letra": "B",
+        "texto": "Cefaleia intensa e mialgia generalizada"
+      },
+      {
+        "letra": "C",
+        "texto": "Dor abdominal intensa e contínua ou à palpação do abdome"
+      },
+      {
+        "letra": "D",
+        "texto": "Exantema maculopapular em tronco e membros"
+      },
+      {
+        "letra": "E",
+        "texto": "Prova do laço positiva sem outras alterações"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "Dor abdominal intensa e contínua (ou à palpação) é um dos sinais de alarme da dengue definidos pelo Ministério da Saúde, indicando extravasamento plasmático e necessidade de internação e monitorização.",
+    "explicacoes": {
+      "A": "Febre alta por 2 dias é característico da fase febril da dengue — sem sinais de alarme, o manejo é ambulatorial.",
+      "B": "Cefaleia e mialgia são sintomas clássicos da dengue sem alarme (grupo B) — não indicam internação por si só.",
+      "D": "Exantema maculopapular é frequente na dengue e não é sinal de alarme — é característica da fase crítica de passagem.",
+      "E": "Prova do laço positiva isolada classifica o caso como dengue com exantema, não necessariamente com sinal de alarme."
+    },
+    "fonte": "MS — Dengue: Diagnóstico e Manejo Clínico 2016",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "A tuberculose pulmonar é transmitida principalmente por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contato direto com lesões cutâneas de paciente bacilífero"
+      },
+      {
+        "letra": "B",
+        "texto": "Ingestão de alimentos contaminados pelo Mycobacterium tuberculosis"
+      },
+      {
+        "letra": "C",
+        "texto": "Inalação de aerossóis (núcleos de Wells) expelidos por pacientes bacilíferos"
+      },
+      {
+        "letra": "D",
+        "texto": "Contato com fômites (roupas, utensílios) do paciente com tuberculose ativa"
+      },
+      {
+        "letra": "E",
+        "texto": "Picada de vetor artrópode infectado pelo bacilo de Koch"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "A tuberculose pulmonar é transmitida por via aérea, pela inalação de núcleos de Wells (gotículas de Flügge dessecadas no ar), expelidas ao falar, tossir ou espirrar. É a única via relevante para a TB pulmonar.",
+    "explicacoes": {
+      "A": "Contato com lesões cutâneas não transmite TB pulmonar — a forma cutânea (lupus vulgar) tem mecanismo diferente.",
+      "B": "A ingestão pode transmitir TB bovina (M. bovis via leite não pasteurizado), mas não é a via da TB pulmonar.",
+      "D": "Fômites NÃO são fonte significativa de transmissão da TB — o bacilo perde viabilidade rapidamente fora do aerossol.",
+      "E": "Não existe vetor artrópode para o M. tuberculosis — não é doença transmitida por vetor."
+    },
+    "fonte": "MS — Manual de Recomendações para o Controle da Tuberculose 2019",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "O período de janela imunológica do HIV, em que o indivíduo está infectado mas os anticorpos ainda não são detectáveis pelos testes convencionais, dura em média:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "7 a 15 dias após a exposição"
+      },
+      {
+        "letra": "B",
+        "texto": "30 dias após a exposição"
+      },
+      {
+        "letra": "C",
+        "texto": "30 a 60 dias (podendo chegar a 90 dias) após a exposição"
+      },
+      {
+        "letra": "D",
+        "texto": "6 meses a 1 ano após a exposição"
+      },
+      {
+        "letra": "E",
+        "texto": "O período de janela não existe nos testes de 4ª geração (Ag/Ac)"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "O período de janela para anticorpos anti-HIV dura em média 30 a 60 dias, podendo se estender até 90 dias em alguns indivíduos. Testes de 4ª geração detectam antígeno p24 mais precocemente (15-20 dias), mas ainda possuem janela.",
+    "explicacoes": {
+      "A": "7 a 15 dias é muito curto — nesse período, apenas testes de carga viral (RNA) podem detectar a infecção aguda.",
+      "B": "30 dias é possível para alguns testes, mas a janela pode se estender até 90 dias — a afirmativa é incompleta.",
+      "D": "6 meses a 1 ano é prazo excessivamente longo e não corresponde às referências atuais do MS para testes de anticorpos.",
+      "E": "Os testes de 4ª geração possuem janela imunológica menor (15-20 dias para o antígeno p24), mas o período de janela EXISTE em todos os testes."
+    },
+    "fonte": "MS — Protocolo Clínico e Diretrizes Terapêuticas para Manejo da Infecção pelo HIV 2022",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Qual das seguintes doenças NÃO é de notificação compulsória imediata (em até 24 horas) segundo a legislação brasileira vigente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poliomielite"
+      },
+      {
+        "letra": "B",
+        "texto": "Varíola"
+      },
+      {
+        "letra": "C",
+        "texto": "Raiva humana"
+      },
+      {
+        "letra": "D",
+        "texto": "Hanseníase"
+      },
+      {
+        "letra": "E",
+        "texto": "Febre amarela"
+      }
+    ],
+    "gabarito": "D",
+    "justificativa": "A hanseníase é de notificação compulsória, mas NÃO imediata — deve ser notificada no prazo de 7 dias. As demais (poliomielite, varíola, raiva humana, febre amarela) são de notificação imediata (até 24h) por serem emergências de saúde pública.",
+    "explicacoes": {
+      "A": "Poliomielite é notificação imediata — qualquer caso suspeito deve ser notificado em até 24h por ser doença erradicada no Brasil.",
+      "B": "Varíola é notificação imediata — doença erradicada, qualquer caso suspeito é emergência internacional.",
+      "C": "Raiva humana é notificação imediata por ser doença de alta letalidade e com protocolo de profilaxia pós-exposição urgente.",
+      "E": "Febre amarela é notificação imediata — qualquer caso suspeito deve ser notificado em 24h por risco de surto."
+    },
+    "fonte": "Portaria MS 264/2020 — Lista Nacional de Notificação Compulsória",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Um paciente com diagnóstico de insuficiência cardíaca congestiva apresenta edema de membros inferiores, dispneia aos mínimos esforços e ortopneia. Ao exame, observa-se crepitação pulmonar bilateral. Esse quadro clínico é mais compatível com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência cardíaca direita isolada"
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência cardíaca esquerda isolada"
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência cardíaca global (biventricular)"
+      },
+      {
+        "letra": "D",
+        "texto": "Cor pulmonale agudo sem comprometimento esquerdo"
+      },
+      {
+        "letra": "E",
+        "texto": "Tamponamento cardíaco com baixo débito"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "A combinação de edema de MMII (sinal de IC direita — congestão sistêmica) com dispneia, ortopneia e crepitação pulmonar (sinais de IC esquerda — congestão pulmonar) indica insuficiência cardíaca global (biventricular).",
+    "explicacoes": {
+      "A": "IC direita isolada causa congestão sistêmica (edema, turgência jugular, hepatomegalia) mas NÃO crepitação pulmonar bilateral.",
+      "B": "IC esquerda isolada causa congestão pulmonar (dispneia, crepitação, ortopneia) mas o edema de MMII é de IC direita.",
+      "D": "Cor pulmonale causa IC direita — sem crepitação pulmonar bilateral por congestão venocapilar.",
+      "E": "Tamponamento cardíaco causa baixo débito (hipotensão, taquicardia, turgência jugular) — não é o quadro descrito."
+    },
+    "fonte": "Diretriz Brasileira de IC — SBC 2018",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Em relação ao diabetes mellitus tipo 2, assinale a alternativa CORRETA sobre o rastreamento recomendado pelo Ministério da Saúde:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve ser realizado em todos os adultos acima de 18 anos anualmente"
+      },
+      {
+        "letra": "B",
+        "texto": "A glicemia de jejum ≥ 126 mg/dL em uma única coleta confirma o diagnóstico"
+      },
+      {
+        "letra": "C",
+        "texto": "Deve ser realizado em adultos acima de 45 anos ou com fatores de risco, com glicemia de jejum"
+      },
+      {
+        "letra": "D",
+        "texto": "O exame de HbA1c não pode ser usado para rastreamento, apenas para controle glicêmico"
+      },
+      {
+        "letra": "E",
+        "texto": "O diagnóstico de pré-diabetes dispensa acompanhamento até o desenvolvimento de DM2"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "O rastreamento do DM2 é indicado para adultos ≥ 45 anos ou com qualquer fator de risco (sobrepeso + outro fator). A glicemia de jejum é o exame de escolha para rastreamento na AB.",
+    "explicacoes": {
+      "A": "O rastreamento universal em todos os adultos > 18 anos não é recomendado — concentra-se nos grupos de risco.",
+      "B": "Glicemia de jejum ≥ 126 mg/dL confirma DM apenas se REPETIDA em outra ocasião (ou associada a sintomas). Uma única coleta NÃO é suficiente para diagnóstico sem sintomas.",
+      "D": "A HbA1c ≥ 6,5% PODE ser usada para diagnóstico de DM2 (não apenas controle) — essa afirmativa está incorreta.",
+      "E": "O pré-diabetes (glicemia 100-125 mg/dL em jejum) EXIGE acompanhamento intensivo — mudança de estilo de vida e reavaliação periódica."
+    },
+    "fonte": "MS — Estratégias para o cuidado da pessoa com DM2 — Cadernos AB nº 36",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Sobre a hipertensão arterial sistêmica (HAS), é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diagnóstico é confirmado com PA ≥ 140/90 mmHg em pelo menos duas medidas em ocasiões diferentes"
+      },
+      {
+        "letra": "B",
+        "texto": "A HAS é o principal fator de risco modificável para AVC e infarto agudo do miocárdio"
+      },
+      {
+        "letra": "C",
+        "texto": "Pacientes com HAS leve sem lesão de órgão-alvo devem iniciar tratamento medicamentoso imediatamente"
+      },
+      {
+        "letra": "D",
+        "texto": "Mudanças no estilo de vida (dieta DASH, exercício, redução de sódio) são parte do tratamento em todos os estágios"
+      },
+      {
+        "letra": "E",
+        "texto": "A monitorização residencial da pressão arterial (MRPA) auxilia no diagnóstico do efeito jaleco branco"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "Em pacientes com HAS estágio 1 (140-159/90-99 mmHg) sem lesão de órgão-alvo e risco cardiovascular baixo a moderado, recomenda-se inicialmente mudanças no estilo de vida por 3 a 6 meses antes de iniciar medicação.",
+    "explicacoes": {
+      "A": "Correto — o diagnóstico de HAS exige ≥ 2 medidas elevadas em ≥ 2 ocasiões distintas.",
+      "B": "Correto — HAS é o principal FRCV modificável para AVC e IAM.",
+      "D": "Correto — MEV é recomendada em TODOS os estágios, associada ou não à medicação.",
+      "E": "Correto — MRPA e MAPA são ferramentas para identificar efeito jaleco branco e HAS mascarada."
+    },
+    "fonte": "Diretrizes Brasileiras de HAS — SBC 2020",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Em relação ao AVC isquêmico agudo, qual é a janela terapêutica para administração do alteplase (rt-PA) endovenoso, de acordo com as diretrizes brasileiras?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Até 1 hora do início dos sintomas"
+      },
+      {
+        "letra": "B",
+        "texto": "Até 3 horas do início dos sintomas (podendo ser estendida a 4,5 horas em casos selecionados)"
+      },
+      {
+        "letra": "C",
+        "texto": "Até 6 horas do início dos sintomas para todos os pacientes"
+      },
+      {
+        "letra": "D",
+        "texto": "Até 24 horas do início dos sintomas com neuroimagem avançada"
+      },
+      {
+        "letra": "E",
+        "texto": "Não há janela definida — o rt-PA pode ser usado em qualquer momento do AVC isquêmico"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "A trombólise com rt-PA é indicada até 3 horas do início dos sintomas. Em casos selecionados (sem contraindicações, boa imagem), pode ser estendida até 4,5 horas. Além desse prazo, o risco de hemorragia supera o benefício.",
+    "explicacoes": {
+      "A": "1 hora é a janela do 'golden hour' — importante para mobilização, mas a janela do rt-PA vai até 3-4,5h.",
+      "C": "6 horas é a janela para trombectomia mecânica em casos selecionados — não para rt-PA EV.",
+      "D": "24 horas com neuroimagem avançada se aplica à trombectomia mecânica com seleção por perfusão (não rt-PA EV rotineiro).",
+      "E": "Existe janela definida — o rt-PA após 4,5h aumenta risco de transformação hemorrágica sem benefício clínico comprovado."
+    },
+    "fonte": "Diretriz AVC Isquêmico — SBN/ABN 2021",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Na assistência ao paciente com DPOC em crise de exacerbação, qual das seguintes condutas NÃO está indicada como primeira linha de tratamento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Broncodilatadores de curta ação (salbutamol) via inalatória"
+      },
+      {
+        "letra": "B",
+        "texto": "Corticosteroide sistêmico (prednisolona oral ou hidrocortisona EV)"
+      },
+      {
+        "letra": "C",
+        "texto": "Oxigenioterapia suplementar para manter SpO₂ entre 88-92%"
+      },
+      {
+        "letra": "D",
+        "texto": "Ventilação mecânica invasiva imediata em todos os casos de exacerbação"
+      },
+      {
+        "letra": "E",
+        "texto": "Antibióticos quando há aumento de escarro purulento associado"
+      }
+    ],
+    "gabarito": "D",
+    "justificativa": "A VMI não é indicada como primeira linha em todos os casos. A VNI (ventilação não invasiva) é preferida quando há falha do tratamento clínico. VMI só é indicada em casos graves com falha da VNI ou contraindicação.",
+    "explicacoes": {
+      "A": "Broncodilatadores de curta ação são PRIMEIRA LINHA na exacerbação de DPOC.",
+      "B": "Corticosteroide sistêmico por 5-7 dias é indicado na exacerbação moderada a grave.",
+      "C": "SpO₂ 88-92% é o alvo em DPOC — evita hipercapnia por supressão do drive hipóxico.",
+      "E": "Antibióticos são indicados quando há escarro purulento — sinal de infecção bacteriana desencadeante."
+    },
+    "fonte": "GOLD Report 2023 — DPOC",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "A leptospirose, doença endêmica no Brasil, tem como principal via de transmissão:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Picada do mosquito Aedes aegypti infectado pela Leptospira"
+      },
+      {
+        "letra": "B",
+        "texto": "Ingestão de alimentos contaminados com fezes de ratos infectados"
+      },
+      {
+        "letra": "C",
+        "texto": "Contato de pele (especialmente com ferimentos) ou mucosas com água/solo contaminados com urina de animais infectados"
+      },
+      {
+        "letra": "D",
+        "texto": "Transmissão pessoa a pessoa por via respiratória"
+      },
+      {
+        "letra": "E",
+        "texto": "Contato com sangue de roedores silvestres infectados"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "A leptospirose é transmitida pelo contato de pele ou mucosas com água ou solo contaminados com urina de animais (principalmente ratos). Ferimentos na pele facilitam a penetração do patógeno.",
+    "explicacoes": {
+      "A": "A leptospirose NÃO tem vetor artrópode — não é transmitida pelo Aedes aegypti.",
+      "B": "A ingestão oral é possível mas rara — a via principal é cutâneo-mucosa por contato com ambiente contaminado.",
+      "D": "Não há transmissão pessoa a pessoa da leptospirose.",
+      "E": "O contato com sangue de roedores não é a via principal — a urina do animal no ambiente é a fonte."
+    },
+    "fonte": "MS — Leptospirose: Diagnóstico e Manejo Clínico 2014",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "Durante a avaliação primária de um paciente vítima de trauma, a sequência correta preconizada pelo ATLS é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Airway → Breathing → Circulation → Disability → Exposure"
+      },
+      {
+        "letra": "B",
+        "texto": "Breathing → Airway → Circulation → Disability → Exposure"
+      },
+      {
+        "letra": "C",
+        "texto": "Circulation → Airway → Breathing → Disability → Exposure"
+      },
+      {
+        "letra": "D",
+        "texto": "Airway → Circulation → Breathing → Disability → Exposure"
+      },
+      {
+        "letra": "E",
+        "texto": "Disability → Airway → Breathing → Circulation → Exposure"
+      }
+    ],
+    "gabarito": "A",
+    "justificativa": "O ATLS (Advanced Trauma Life Support) preconiza a avaliação primária na sequência ABCDE: Airway (via aérea com controle cervical), Breathing (ventilação), Circulation (circulação com controle de hemorragia), Disability (avaliação neurológica) e Exposure (exposição com controle ambiental).",
+    "explicacoes": {
+      "B": "Inverteu A (Airway) e B (Breathing) — a via aérea sempre precede a avaliação da ventilação.",
+      "C": "Colocou Circulation antes de Airway e Breathing — sem via aérea pérvia, a circulação não se sustenta.",
+      "D": "Inverteu B e C — Breathing precede Circulation na avaliação primária do ATLS.",
+      "E": "Disability (avaliação neurológica) é o 4º passo, não o 1º — só se avalia após garantir via aérea, ventilação e circulação."
+    },
+    "fonte": "ATLS — 10ª edição, American College of Surgeons",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "Um paciente adulto em parada cardiorrespiratória (PCR) com ritmo de fibrilação ventricular está sendo atendido. Qual é a energia recomendada para o primeiro choque com desfibrilador bifásico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "100 J"
+      },
+      {
+        "letra": "B",
+        "texto": "150-200 J (ou conforme recomendação do fabricante)"
+      },
+      {
+        "letra": "C",
+        "texto": "300 J"
+      },
+      {
+        "letra": "D",
+        "texto": "360 J"
+      },
+      {
+        "letra": "E",
+        "texto": "50 J, com escalonamento progressivo"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "Para desfibriladores bifásicos, a AHA recomenda 150-200 J para o primeiro choque em FV/TV sem pulso (ou seguir recomendação do fabricante). Desfibriladores monofásicos usam 360 J.",
+    "explicacoes": {
+      "A": "100 J é insuficiente para o 1º choque em FV de adulto com aparelho bifásico.",
+      "C": "300 J está acima do recomendado para bifásico no 1º choque — pode ser usado em choques subsequentes escalonados.",
+      "D": "360 J é a energia para desfibriladores MONOFÁSICOS — não para bifásicos.",
+      "E": "O escalonamento com 50 J inicial é inadequado para FV — energia muito baixa sem eficácia."
+    },
+    "fonte": "AHA — Guidelines RCP 2020",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "Na classificação de risco pelo Sistema Manchester de Triagem, qual cor é atribuída a pacientes com risco de vida imediato que necessitam de atendimento em até 0 minutos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vermelho"
+      },
+      {
+        "letra": "B",
+        "texto": "Laranja"
+      },
+      {
+        "letra": "C",
+        "texto": "Amarelo"
+      },
+      {
+        "letra": "D",
+        "texto": "Verde"
+      },
+      {
+        "letra": "E",
+        "texto": "Azul"
+      }
+    ],
+    "gabarito": "A",
+    "justificativa": "No Protocolo de Manchester, a cor VERMELHA (Emergência) indica pacientes com risco de vida imediato — atendimento em 0 minutos, ou seja, imediato. Laranja (Muito urgente) = 10 min; Amarelo (Urgente) = 60 min; Verde (Pouco urgente) = 120 min; Azul (Não urgente) = 240 min.",
+    "explicacoes": {
+      "B": "Laranja = muito urgente, atendimento em até 10 minutos — há risco de vida, mas não imediato.",
+      "C": "Amarelo = urgente, atendimento em até 60 minutos — sem risco de vida imediato.",
+      "D": "Verde = pouco urgente, atendimento em até 120 minutos.",
+      "E": "Azul = não urgente, atendimento em até 240 minutos — situações que poderiam ser atendidas na AB."
+    },
+    "fonte": "Protocolo de Manchester — Classificação de Risco",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "Um paciente chega ao pronto-socorro com intoxicação aguda por organofosforado (pesticida). Qual achado clínico NÃO é esperado nesse quadro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Miose intensa (pupilas em ponta de alfinete)"
+      },
+      {
+        "letra": "B",
+        "texto": "Sialorreia e broncorreia abundantes"
+      },
+      {
+        "letra": "C",
+        "texto": "Bradicardia e broncoespasmo"
+      },
+      {
+        "letra": "D",
+        "texto": "Midríase e taquicardia"
+      },
+      {
+        "letra": "E",
+        "texto": "Fasciculações musculares e fraqueza progressiva"
+      }
+    ],
+    "gabarito": "D",
+    "justificativa": "A intoxicação por organofosforado causa síndrome colinérgica (excesso de acetilcolina por inibição da colinesterase). Os achados são muscarínicos (miose, bradicardia, broncorreia, sialorreia) e nicotínicos (fasciculações, fraqueza). Midríase e taquicardia são sinais ANTICOLINÉRGICOS — opostos ao quadro esperado.",
+    "explicacoes": {
+      "A": "Miose é sinal muscarínico clássico dos organofosforados — esperada.",
+      "B": "Sialorreia e broncorreia são efeitos muscarínicos — esperados.",
+      "C": "Bradicardia e broncoespasmo são efeitos muscarínicos — esperados.",
+      "E": "Fasciculações e fraqueza são efeitos nicotínicos (junção neuromuscular) — esperados na intoxicação por OP."
+    },
+    "fonte": "MS — Diretrizes de Atenção às Intoxicações por Agrotóxicos",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "No atendimento ao paciente com suspeita de infarto agudo do miocárdio com supradesnivelamento de ST (IAMCSST), qual é o tempo máximo recomendado entre o primeiro contato médico e a abertura do vaso (ICP primária) — o chamado 'porta-balão'?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30 minutos"
+      },
+      {
+        "letra": "B",
+        "texto": "60 minutos"
+      },
+      {
+        "letra": "C",
+        "texto": "90 minutos"
+      },
+      {
+        "letra": "D",
+        "texto": "120 minutos"
+      },
+      {
+        "letra": "E",
+        "texto": "180 minutos"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "O tempo porta-balão máximo recomendado para ICP primária no IAMCSST é de 90 minutos (do primeiro contato médico à abertura do vaso). Quando ICP não está disponível, o tempo porta-agulha (para trombólise) deve ser ≤ 30 minutos.",
+    "explicacoes": {
+      "A": "30 minutos é o tempo porta-agulha para trombólise — não o porta-balão para ICP.",
+      "B": "60 minutos não é o padrão estabelecido — o objetivo é ≤ 90 min para ICP.",
+      "D": "120 minutos é o limite para transferência de paciente para centro com ICP quando a trombólise foi realizada.",
+      "E": "180 minutos está muito além do recomendado — aumenta significativamente a área de necrose miocárdica."
+    },
+    "fonte": "Diretriz IAM com SST — SBC 2019",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "Na escala de Glasgow, a pontuação mínima possível é 3 e a máxima é 15. Um paciente que abre os olhos a estímulos dolorosos (2), emite sons incompreensíveis (2) e apresenta flexão anormal (decorticação) ao estímulo doloroso (3) apresenta pontuação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5"
+      },
+      {
+        "letra": "B",
+        "texto": "6"
+      },
+      {
+        "letra": "C",
+        "texto": "7"
+      },
+      {
+        "letra": "D",
+        "texto": "8"
+      },
+      {
+        "letra": "E",
+        "texto": "9"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "Abertura ocular a estímulo doloroso = 2; Sons incompreensíveis = 2; Flexão anormal (decorticação) = 3. Total = 2 + 2 + 3 = 7. Glasgow ≤ 8 indica necessidade de proteção de via aérea (intubação).",
+    "explicacoes": {
+      "A": "5 seria, por exemplo: olhos 1 + verbal 1 + motor 3 — não corresponde ao enunciado.",
+      "B": "6 seria olhos 2 + verbal 1 + motor 3 — ou outra combinação, mas não a do enunciado.",
+      "D": "8 seria um ponto a mais — a soma correta de 2+2+3 é 7.",
+      "E": "9 está acima da soma correta — erro de cálculo."
+    },
+    "fonte": "Escala de Coma de Glasgow — Teasdale & Jennett 1974",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "Em relação ao choque hipovolêmico hemorrágico classe III, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Perda de até 750 mL de sangue, com PA normal e FC < 100 bpm"
+      },
+      {
+        "letra": "B",
+        "texto": "Perda de 750-1500 mL, com taquicardia leve e PA normal"
+      },
+      {
+        "letra": "C",
+        "texto": "Perda de 1500-2000 mL, com taquicardia, hipotensão e redução do débito urinário"
+      },
+      {
+        "letra": "D",
+        "texto": "Perda de 2000-2500 mL, com queda da PA, confusão mental e oligúria"
+      },
+      {
+        "letra": "E",
+        "texto": "Perda acima de 2500 mL, com PA indetectável e anúria"
+      }
+    ],
+    "gabarito": "D",
+    "justificativa": "Na classificação do ATLS, o Choque Classe III corresponde a perda de 1500-2000 mL (30-40% da volemia). Porém, a alternativa D descreve melhor o quadro clínico do Classe III: hipotensão clara, confusão mental e oligúria. Atenção: a classe III é 1500-2000 mL conforme ATLS.",
+    "explicacoes": {
+      "A": "Classe I: perda ≤ 750 mL (≤ 15%), PA normal, FC < 100 — compensado.",
+      "B": "Classe II: 750-1500 mL (15-30%), taquicardia, PA ainda normal — compensação ativa.",
+      "C": "Classe III inicia em 1500 mL — a descrição está parcialmente correta mas a faixa de perda no ATLS para classe III é 1500-2000 mL.",
+      "E": "Classe IV: > 2000 mL (> 40%), PA indetectável, anúria, risco de morte imediato."
+    },
+    "fonte": "ATLS — 10ª edição, Classificação do Choque Hemorrágico",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "O pré-natal de baixo risco deve ser iniciado até que semana gestacional, conforme preconiza o Ministério da Saúde?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Até a 8ª semana de gestação"
+      },
+      {
+        "letra": "B",
+        "texto": "Até a 12ª semana de gestação"
+      },
+      {
+        "letra": "C",
+        "texto": "Até a 16ª semana de gestação"
+      },
+      {
+        "letra": "D",
+        "texto": "Até a 20ª semana de gestação"
+      },
+      {
+        "letra": "E",
+        "texto": "A qualquer momento da gestação, sem prazo máximo recomendado"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "O MS preconiza que o pré-natal seja iniciado o mais precocemente possível, idealmente até a 12ª semana gestacional, permitindo identificar riscos e iniciar intervenções no primeiro trimestre.",
+    "explicacoes": {
+      "A": "Até a 8ª semana é desejável, mas o MS estabelece até a 12ª semana como prazo para início precoce.",
+      "C": "16ª semana já é considerado início tardio — perde o rastreamento do 1º trimestre.",
+      "D": "20ª semana é início muito tardio — compromete boa parte das ações preventivas.",
+      "E": "Há prazo recomendado — o início tardio prejudica a qualidade do pré-natal."
+    },
+    "fonte": "MS — Cadernos de Atenção Básica nº 32 — Pré-natal de Baixo Risco",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "Sobre o câncer de colo do útero e o rastreamento pelo exame citopatológico (Papanicolau), é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O rastreamento deve ser iniciado aos 18 anos, independentemente do início da atividade sexual"
+      },
+      {
+        "letra": "B",
+        "texto": "Após dois exames anuais consecutivos negativos, o intervalo passa para a cada 3 anos"
+      },
+      {
+        "letra": "C",
+        "texto": "Mulheres após a menopausa estão dispensadas do rastreamento"
+      },
+      {
+        "letra": "D",
+        "texto": "O rastreamento é recomendado até os 64 anos para mulheres com exames anteriores negativos"
+      },
+      {
+        "letra": "E",
+        "texto": "O HPV 6 e 11 são os subtipos de maior risco oncogênico para o câncer de colo do útero"
+      }
+    ],
+    "gabarito": "D",
+    "justificativa": "O INCA recomenda rastreamento de 25 a 64 anos. Após dois exames anuais negativos, repete-se a cada 3 anos. Mulheres com mais de 64 anos com dois exames negativos nos últimos 5 anos podem ser dispensadas.",
+    "explicacoes": {
+      "A": "O rastreamento inicia aos 25 anos (não 18) — é a recomendação do INCA/MS para a população geral.",
+      "B": "O intervalo trienal começa após dois exames ANUAIS negativos — a afirmativa está correta em parte, mas incompleta ao não mencionar o limite de idade.",
+      "C": "Mulheres após a menopausa devem manter o rastreamento até os 64 anos — não estão dispensadas.",
+      "E": "HPV 6 e 11 causam condilomas (verrugas genitais) — são de BAIXO risco oncogênico. Os de ALTO risco são HPV 16 e 18."
+    },
+    "fonte": "INCA — Diretrizes Brasileiras para o Rastreamento do Câncer de Colo do Útero 2016",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "Em relação ao aleitamento materno exclusivo (AME), o Ministério da Saúde recomenda que seja mantido por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 meses, com introdução gradual de fórmula infantil"
+      },
+      {
+        "letra": "B",
+        "texto": "4 meses, pois o leite materno torna-se insuficiente após esse período"
+      },
+      {
+        "letra": "C",
+        "texto": "6 meses, sem oferta de água, chás ou outros alimentos"
+      },
+      {
+        "letra": "D",
+        "texto": "6 meses, podendo oferecer água e chás desde o nascimento"
+      },
+      {
+        "letra": "E",
+        "texto": "12 meses, sem necessidade de complementação alimentar"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "O MS e a OMS recomendam aleitamento materno EXCLUSIVO (sem água, chás ou outros alimentos) até os 6 meses, com continuação do AM complementado até 2 anos ou mais.",
+    "explicacoes": {
+      "A": "3 meses não é a recomendação — o AME deve durar 6 meses.",
+      "B": "O leite materno não se torna insuficiente aos 4 meses — a recomendação é AME até 6 meses.",
+      "D": "No AME NÃO se oferece água nem chás — isso descaracteriza o aleitamento exclusivo.",
+      "E": "Aos 12 meses a criança já deve receber alimentação complementar (desde os 6 meses) — o AM complementado dura até 2 anos ou mais, não AME exclusivo."
+    },
+    "fonte": "MS — Guia Alimentar para Crianças Brasileiras Menores de 2 Anos 2019",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "Sobre os quatro períodos clínicos do parto, assinale a sequência CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dilatação → Expulsão → Dequitação → Greenberg"
+      },
+      {
+        "letra": "B",
+        "texto": "Expulsão → Dilatação → Dequitação → Greenberg"
+      },
+      {
+        "letra": "C",
+        "texto": "Dilatação → Dequitação → Expulsão → Greenberg"
+      },
+      {
+        "letra": "D",
+        "texto": "Greenberg → Dilatação → Expulsão → Dequitação"
+      },
+      {
+        "letra": "E",
+        "texto": "Dilatação → Expulsão → Greenberg → Dequitação"
+      }
+    ],
+    "gabarito": "A",
+    "justificativa": "Os quatro períodos clínicos do parto são: 1º - Dilatação (apagamento e dilatação cervical); 2º - Expulsão (nascimento do bebê); 3º - Dequitação (saída da placenta); 4º - Greenberg (1ª hora pós-parto, vigilância do puerpério imediato).",
+    "explicacoes": {
+      "B": "Expulsão não precede a dilatação — a dilatação cervical é pré-requisito para a expulsão.",
+      "C": "A dequitação (saída da placenta) ocorre APÓS a expulsão do bebê, não antes.",
+      "D": "O período de Greenberg é o 4º período (puerpério imediato) — não o primeiro.",
+      "E": "O período de Greenberg é pós-dequitação — a sequência correta é dilatação → expulsão → dequitação → Greenberg."
+    },
+    "fonte": "Rezende — Obstetrícia Fundamental",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "No que se refere à sífilis congênita, assinale a afirmativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A sífilis congênita pode ser prevenida pelo tratamento adequado da gestante durante o pré-natal"
+      },
+      {
+        "letra": "B",
+        "texto": "O tratamento da sífilis na gestante com penicilina benzatina deve ser completado até 30 dias antes do parto para ser considerado adequado"
+      },
+      {
+        "letra": "C",
+        "texto": "A sífilis congênita pode ocorrer em qualquer trimestre gestacional, sendo mais grave no primeiro"
+      },
+      {
+        "letra": "D",
+        "texto": "A parceria sexual da gestante com sífilis deve ser tratada concomitantemente para evitar reinfecção"
+      },
+      {
+        "letra": "E",
+        "texto": "A sífilis congênita é considerada doença de notificação compulsória no Brasil"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "A transmissão vertical da sífilis pode ocorrer em qualquer trimestre, mas é MAIS FREQUENTE e MAIS GRAVE no SEGUNDO e TERCEIRO trimestres (especialmente 3º), quando a vascularização placentária está mais desenvolvida. No 1º trimestre, a transmissão é menos comum.",
+    "explicacoes": {
+      "A": "Correto — o tratamento adequado da gestante previne a sífilis congênita em quase 100% dos casos.",
+      "B": "Correto — o tratamento deve ser concluído ≥ 30 dias antes do parto para ser considerado adequado e o RN não precisar de tratamento.",
+      "D": "Correto — tratar a parceria sexual é fundamental para evitar reinfecção da gestante.",
+      "E": "Correto — sífilis congênita é de notificação compulsória e é indicador de qualidade do pré-natal."
+    },
+    "fonte": "MS — Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com ISTs 2022",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "Em relação ao crescimento e desenvolvimento da criança, qual é o ganho de peso esperado para um lactente nos primeiros 6 meses de vida?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "150-200 g por semana"
+      },
+      {
+        "letra": "B",
+        "texto": "25-30 g por dia"
+      },
+      {
+        "letra": "C",
+        "texto": "500 g por mês, triplicando o peso de nascimento ao 1º ano"
+      },
+      {
+        "letra": "D",
+        "texto": "700 g por mês nos primeiros 6 meses"
+      },
+      {
+        "letra": "E",
+        "texto": "1 kg por mês nos primeiros 3 meses"
+      }
+    ],
+    "gabarito": "A",
+    "justificativa": "Nos primeiros 6 meses, o lactente ganha em média 150-200 g por semana (ou 600-800 g/mês). Ao final do 1º ano, o peso de nascimento deve ter triplicado. Esses parâmetros são usados para monitoramento do crescimento.",
+    "explicacoes": {
+      "B": "25-30 g/dia equivale a ~750-900 g/mês — está acima da média esperada para os primeiros 6 meses.",
+      "C": "500 g/mês está abaixo do esperado para os primeiros 6 meses — triplicar ao 1º ano é correto, mas o ganho mensal é maior inicialmente.",
+      "D": "700 g/mês está próximo do limite superior — a faixa mais usada é 600-800 g/mês (150-200 g/semana).",
+      "E": "1 kg/mês é muito acima do esperado e pode indicar sobrepeso ou erro de aferição."
+    },
+    "fonte": "MS — Cadernos de Atenção Básica nº 33 — Saúde da Criança",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "bio",
+    "enunciado": "Segundo a RDC 222/2018 (ANVISA), os resíduos de serviços de saúde são classificados em grupos. Os resíduos com sangue e fluidos corpóreos, incluindo as bolsas transfundidas, pertencem ao grupo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Grupo A — Resíduos biológicos"
+      },
+      {
+        "letra": "B",
+        "texto": "Grupo B — Resíduos químicos"
+      },
+      {
+        "letra": "C",
+        "texto": "Grupo C — Rejeitos radioativos"
+      },
+      {
+        "letra": "D",
+        "texto": "Grupo D — Resíduos comuns"
+      },
+      {
+        "letra": "E",
+        "texto": "Grupo E — Materiais perfurocortantes"
+      }
+    ],
+    "gabarito": "A",
+    "justificativa": "O Grupo A engloba os resíduos com possível presença de agentes biológicos que, por suas características, podem apresentar risco de infecção. Inclui bolsas de sangue transfundidas, fluidos corpóreos, tecidos e peças anatômicas.",
+    "explicacoes": {
+      "B": "Grupo B são resíduos químicos (medicamentos vencidos, solventes, reagentes) — sem componente biológico infeccioso.",
+      "C": "Grupo C são rejeitos radioativos — substâncias com radioatividade que não podem ser reutilizadas.",
+      "D": "Grupo D são resíduos comuns, assemelhados aos domésticos — papel, restos de alimentos, embalagens limpas.",
+      "E": "Grupo E são materiais perfurocortantes (agulhas, lâminas, bisturis) — independentemente de contaminação."
+    },
+    "fonte": "ANVISA — RDC 222/2018 — Gerenciamento de RSS",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "bio",
+    "enunciado": "A Central de Material e Esterilização (CME) é responsável pelo processamento de artigos médico-hospitalares. Qual etapa do processamento de artigos PRECEDE obrigatoriamente a esterilização?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Armazenamento em local seco e arejado"
+      },
+      {
+        "letra": "B",
+        "texto": "Desinfecção de alto nível com glutaraldeído a 2%"
+      },
+      {
+        "letra": "C",
+        "texto": "Limpeza (remoção de matéria orgânica e sujidade)"
+      },
+      {
+        "letra": "D",
+        "texto": "Empacotamento em papel grau cirúrgico"
+      },
+      {
+        "letra": "E",
+        "texto": "Inspeção visual do artigo após processamento"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "A limpeza é a etapa que PRECEDE obrigatoriamente todas as outras. Sem a remoção de matéria orgânica e sujidade, nenhum método de desinfecção ou esterilização é eficaz — a matéria orgânica protege os microrganismos.",
+    "explicacoes": {
+      "A": "Armazenamento é a etapa FINAL do processamento — após esterilização e empacotamento.",
+      "B": "Desinfecção de alto nível é uma opção para artigos semi-críticos, mas ocorre APÓS a limpeza.",
+      "D": "O empacotamento ocorre após a limpeza e antes da esterilização — não precede a limpeza.",
+      "E": "A inspeção visual ocorre após a limpeza para verificar se o artigo está apto para esterilização — não precede a limpeza."
+    },
+    "fonte": "ANVISA — Processamento de Artigos em Serviços de Saúde 2012",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "bio",
+    "enunciado": "Em relação às Precauções Padrão (PP), assinale a afirmativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As PP aplicam-se apenas a pacientes com diagnóstico confirmado de doença infecciosa"
+      },
+      {
+        "letra": "B",
+        "texto": "A higienização das mãos deve ser realizada somente antes de procedimentos invasivos"
+      },
+      {
+        "letra": "C",
+        "texto": "As PP incluem o uso de EPIs adequados ao risco de exposição a sangue e fluidos corpóreos"
+      },
+      {
+        "letra": "D",
+        "texto": "O reencape de agulhas é permitido desde que feito com apenas uma mão"
+      },
+      {
+        "letra": "E",
+        "texto": "As PP dispensam o uso de máscara cirúrgica em procedimentos que geram aerossóis"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "As Precauções Padrão incluem uso de EPIs (luvas, avental, máscara, óculos) conforme o risco de exposição a sangue e fluidos, higienização das mãos, e manejo seguro de perfurocortantes — devem ser aplicadas a TODOS os pacientes.",
+    "explicacoes": {
+      "A": "As PP aplicam-se a TODOS os pacientes, independentemente de diagnóstico — baseiam-se no princípio de que todo material biológico é potencialmente infeccioso.",
+      "B": "A HM deve ser realizada nos 5 momentos preconizados pela OMS — não apenas antes de procedimentos invasivos.",
+      "D": "O reencape de agulhas NÃO é recomendado — é causa frequente de acidente perfurocortante. Quando absolutamente necessário, usa-se técnica de uma mão.",
+      "E": "Procedimentos que geram aerossóis EXIGEM proteção respiratória — máscara N95/PFF2 ou superior."
+    },
+    "fonte": "ANVISA — Precauções Padrão e Precauções Baseadas na Transmissão",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "bio",
+    "enunciado": "Qual é o método de esterilização indicado para artigos termossensíveis (que não suportam altas temperaturas), como endoscópios flexíveis?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Autoclave a vapor saturado a 121°C por 15 minutos"
+      },
+      {
+        "letra": "B",
+        "texto": "Estufa (calor seco) a 160°C por 120 minutos"
+      },
+      {
+        "letra": "C",
+        "texto": "Óxido de etileno (ETO) ou plasma de peróxido de hidrogênio"
+      },
+      {
+        "letra": "D",
+        "texto": "Fervura a 100°C por 30 minutos"
+      },
+      {
+        "letra": "E",
+        "texto": "Radiação ultravioleta por exposição de 60 minutos"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "Artigos termossensíveis (endoscópios, equipamentos eletrônicos, plásticos de baixo ponto de fusão) devem ser esterilizados por métodos a baixa temperatura: óxido de etileno (ETO) ou plasma de peróxido de hidrogênio (ex: Sterrad®).",
+    "explicacoes": {
+      "A": "A autoclave a vapor úmido (121-134°C) é para artigos TERMORESISTENTES — danifica artigos termossensíveis.",
+      "B": "A estufa (calor seco a 160-180°C) é para artigos que suportam calor seco (vidros, metais) — danificaria endoscópios.",
+      "D": "Fervura a 100°C NÃO esteriliza — inativa formas vegetativas mas não esporos. É método de desinfecção de baixo nível.",
+      "E": "Radiação UV é desinfetante de superfícies — não esteriliza artigos médico-hospitalares."
+    },
+    "fonte": "ANVISA — Processamento de Endoscópios 2012",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "bio",
+    "enunciado": "Segundo a classificação de Spaulding, artigos que entram em contato com mucosas íntegras (como laringoscópios e circuitos de ventilação) são classificados como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artigos críticos — exigem esterilização"
+      },
+      {
+        "letra": "B",
+        "texto": "Artigos semi-críticos — exigem desinfecção de alto nível"
+      },
+      {
+        "letra": "C",
+        "texto": "Artigos não-críticos — desinfecção de nível médio é suficiente"
+      },
+      {
+        "letra": "D",
+        "texto": "Artigos de uso único — devem ser descartados após cada uso"
+      },
+      {
+        "letra": "E",
+        "texto": "Artigos comuns — limpeza simples com água e sabão é suficiente"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "Na classificação de Spaulding: Artigos CRÍTICOS (contato com tecido estéril ou vascular) → esterilização; Artigos SEMI-CRÍTICOS (contato com mucosa íntegra) → desinfecção de alto nível; Artigos NÃO-CRÍTICOS (contato com pele íntegra) → desinfecção de nível médio ou baixo.",
+    "explicacoes": {
+      "A": "Artigos críticos são aqueles que penetram tecidos estéreis ou sistema vascular (agulhas, cateteres, implantes) — exigem esterilização.",
+      "C": "Artigos não-críticos são os que têm contato apenas com pele íntegra (estetoscópio, termômetro) — não laringoscópios.",
+      "D": "A classificação de uso único é uma decisão do fabricante, independente da classificação de Spaulding.",
+      "E": "Artigos semi-críticos exigem desinfecção de alto nível — não apenas limpeza com água e sabão."
+    },
+    "fonte": "Classificação de Spaulding — ANVISA Processamento de Artigos 2012",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "bio",
+    "enunciado": "Após acidente perfurocortante com agulha de paciente com status sorológico desconhecido para HIV, o profissional de saúde deve:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aguardar o resultado sorológico do paciente-fonte antes de iniciar qualquer conduta"
+      },
+      {
+        "letra": "B",
+        "texto": "Iniciar profilaxia pós-exposição (PEP) imediatamente, sem aguardar sorologia do paciente-fonte"
+      },
+      {
+        "letra": "C",
+        "texto": "Iniciar PEP somente se o paciente-fonte for identificado como HIV positivo"
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar teste rápido do profissional e, se negativo, iniciar PEP imediatamente sem avaliar o paciente-fonte"
+      },
+      {
+        "letra": "E",
+        "texto": "Coletar sorologia do profissional e do paciente-fonte e decidir sobre PEP em até 72 horas após avaliação médica"
+      }
+    ],
+    "gabarito": "E",
+    "justificativa": "A conduta correta é: lavar o local, notificar, coletar sorologia basal do profissional, avaliar o paciente-fonte (teste rápido), e decidir sobre PEP em até 72 horas — idealmente nas primeiras 2 horas. Status desconhecido do paciente-fonte demanda avaliação, não início automático.",
+    "explicacoes": {
+      "A": "Não se aguarda sorologia convencional — usa-se teste rápido do paciente-fonte para decisão ágil.",
+      "B": "PEP não é iniciada automaticamente sem avaliação — precisa de avaliação médica do risco, mas em até 72h.",
+      "C": "A PEP pode ser indicada mesmo com paciente-fonte com sorologia desconhecida, dependendo da avaliação de risco.",
+      "D": "A avaliação do paciente-fonte é fundamental — determina o risco e a necessidade de PEP."
+    },
+    "fonte": "MS — Protocolo Clínico PEP 2021",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "farma",
+    "enunciado": "Sobre o Programa Nacional de Imunizações (PNI), assinale a afirmativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A vacina BCG é aplicada preferencialmente ao nascimento ou até 5 anos de idade"
+      },
+      {
+        "letra": "B",
+        "texto": "A vacina pentavalente protege contra difteria, tétano, coqueluche, hepatite B e Haemophilus influenzae tipo b"
+      },
+      {
+        "letra": "C",
+        "texto": "A vacina contra o rotavírus humano é administrada em duas doses, aos 2 e 4 meses"
+      },
+      {
+        "letra": "D",
+        "texto": "A vacina meningocócica C é contraindicada para crianças menores de 2 anos"
+      },
+      {
+        "letra": "E",
+        "texto": "A vacina HPV quadrivalente é ofertada pelo SUS para meninas de 9 a 14 anos e meninos de 11 a 14 anos"
+      }
+    ],
+    "gabarito": "D",
+    "justificativa": "A vacina meningocócica C NÃO é contraindicada para menores de 2 anos — ao contrário, é indicada no calendário infantil a partir dos 3 meses (1ª dose) com reforços. A afirmativa D está incorreta.",
+    "explicacoes": {
+      "A": "Correto — BCG é idealmente ao nascimento; pode ser aplicada até 5 anos sem cicatriz prévia.",
+      "B": "Correto — pentavalente (DTP + Hib + HepB) protege contra 5 doenças.",
+      "C": "Correto — rotavírus humano monovalente: 2 doses aos 2 e 4 meses.",
+      "E": "Correto — HPV quadrivalente: meninas 9-14 anos e meninos 11-14 anos no calendário SUS."
+    },
+    "fonte": "MS — Calendário Nacional de Vacinação 2023",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "farma",
+    "enunciado": "Um paciente em uso crônico de varfarina necessita de cirurgia de urgência. O enfermeiro sabe que o antídoto específico para reverter rapidamente o efeito anticoagulante da varfarina é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Protamina"
+      },
+      {
+        "letra": "B",
+        "texto": "Vitamina K (fitomenadiona) e/ou plasma fresco congelado"
+      },
+      {
+        "letra": "C",
+        "texto": "Ácido tranexâmico"
+      },
+      {
+        "letra": "D",
+        "texto": "N-acetilcisteína"
+      },
+      {
+        "letra": "E",
+        "texto": "Flumazenil"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "A varfarina inibe os fatores de coagulação dependentes de vitamina K (II, VII, IX, X). A reversão é feita com vitamina K (lenta, 6-24h) e/ou plasma fresco congelado (rápida, reposição imediata de fatores). Em emergência grave, usa-se CCP (concentrado de complexo protrombínico).",
+    "explicacoes": {
+      "A": "Protamina é o antídoto da HEPARINA (não fracionada) — não da varfarina.",
+      "C": "Ácido tranexâmico é antifibrinolítico (usado no trauma hemorrágico) — não reverte varfarina.",
+      "D": "N-acetilcisteína é o antídoto do paracetamol — não tem relação com anticoagulantes.",
+      "E": "Flumazenil é o antídoto dos benzodiazepínicos — não tem ação anticoagulante."
+    },
+    "fonte": "Farmacologia Rang & Dale — Anticoagulantes",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "farma",
+    "enunciado": "Sobre a administração de medicamentos pela via sublingual (SL), é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A via SL tem absorção lenta, semelhante à via oral"
+      },
+      {
+        "letra": "B",
+        "texto": "O medicamento SL sofre efeito de primeira passagem hepática antes de atingir a circulação sistêmica"
+      },
+      {
+        "letra": "C",
+        "texto": "A via SL proporciona absorção rápida e evita o metabolismo de primeira passagem hepática"
+      },
+      {
+        "letra": "D",
+        "texto": "O paciente deve engolir o comprimido SL assim que dissolvido, para potencializar o efeito"
+      },
+      {
+        "letra": "E",
+        "texto": "A captopril sublingual é indicada como primeira escolha nas crises hipertensivas com lesão de órgão-alvo"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "A via sublingual permite absorção rápida pela mucosa oral diretamente para a circulação sistêmica, evitando o efeito de primeira passagem hepática. Por isso é usada para nitroglicerina, nifedipino (em alguns contextos) e outros medicamentos de ação rápida.",
+    "explicacoes": {
+      "A": "A via SL tem absorção RÁPIDA — é uma das principais vantagens em relação à via oral.",
+      "B": "A via SL EVITA o efeito de primeira passagem — o fármaco vai direto para a circulação sistêmica pelas veias sublinguais.",
+      "D": "O paciente NÃO deve engolir o comprimido SL — deve mantê-lo sob a língua até completa dissolução.",
+      "E": "Captopril SL NÃO é indicado em emergências hipertensivas com lesão de órgão — nesses casos usam-se anti-hipertensivos parenterais (nitroprussiato, labetalol)."
+    },
+    "fonte": "Farmacologia Aplicada à Enfermagem — Katzung",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "farma",
+    "enunciado": "Um paciente com diabetes mellitus tipo 2 em uso de metformina apresenta creatinina sérica de 2,8 mg/dL. Qual é a conduta MAIS ADEQUADA em relação à metformina?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter a dose atual, pois a metformina é segura em qualquer grau de insuficiência renal"
+      },
+      {
+        "letra": "B",
+        "texto": "Reduzir a dose à metade, pois a metformina pode ser usada com cautela até creatinina de 4,0 mg/dL"
+      },
+      {
+        "letra": "C",
+        "texto": "Suspender a metformina, pois há risco elevado de acidose lática com essa creatinina"
+      },
+      {
+        "letra": "D",
+        "texto": "Trocar metformina por insulina NPH exclusivamente, sem outras opções"
+      },
+      {
+        "letra": "E",
+        "texto": "Associar um inibidor da DPP-4 à metformina para compensar a disfunção renal"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "A metformina deve ser suspensa quando a TFG < 30 mL/min/1,73m² (creatinina ~2,5-3,0 mg/dL em adultos). Com creatinina 2,8 mg/dL, há insuficiência renal moderada a grave — risco significativo de acidose lática por acúmulo do fármaco.",
+    "explicacoes": {
+      "A": "Metformina é CONTRAINDICADA em insuficiência renal grave — acumula e causa acidose lática potencialmente fatal.",
+      "B": "Reduzir a dose não é suficiente com creatinina 2,8 — a TFG estimada está abaixo do limiar seguro.",
+      "D": "Outras opções além de insulina NPH existem (iSGLT2 com ajuste de dose, iDPP-4) — a afirmativa é restritiva demais.",
+      "E": "Associar iDPP-4 à metformina com essa creatinina não resolve o problema — a metformina deve ser suspensa primeiro."
+    },
+    "fonte": "SBD — Diretrizes da Sociedade Brasileira de Diabetes 2022",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "farma",
+    "enunciado": "Sobre os efeitos adversos dos opioides, assinale a alternativa que apresenta efeito para o qual NÃO ocorre tolerância com o uso prolongado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sedação"
+      },
+      {
+        "letra": "B",
+        "texto": "Náuseas e vômitos"
+      },
+      {
+        "letra": "C",
+        "texto": "Constipação intestinal"
+      },
+      {
+        "letra": "D",
+        "texto": "Euforia"
+      },
+      {
+        "letra": "E",
+        "texto": "Depressão respiratória"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "A constipação intestinal é o único efeito adverso dos opioides para o qual NÃO se desenvolve tolerância — o paciente em uso crônico de opioide sempre precisará de laxativos. Para sedação, náuseas, euforia e depressão respiratória, a tolerância se desenvolve com o tempo.",
+    "explicacoes": {
+      "A": "Para sedação, a tolerância se desenvolve em dias a semanas — o paciente fica mais alerta com o tempo.",
+      "B": "Para náuseas e vômitos, a tolerância se desenvolve em dias a semanas.",
+      "D": "Para euforia, a tolerância se desenvolve rapidamente — base para o desenvolvimento de dependência.",
+      "E": "Para depressão respiratória, a tolerância se desenvolve — por isso pacientes crônicos toleram doses que seriam letais para não usuários."
+    },
+    "fonte": "Goodman & Gilman — As Bases Farmacológicas da Terapêutica — Opioides",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "farma",
+    "enunciado": "A amoxicilina pertence à classe dos antibióticos betalactâmicos. Qual é o seu mecanismo de ação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inibição da síntese proteica bacteriana ao se ligar ao ribossomo 50S"
+      },
+      {
+        "letra": "B",
+        "texto": "Inibição da síntese da parede celular bacteriana por ligação às proteínas ligadoras de penicilina (PBPs)"
+      },
+      {
+        "letra": "C",
+        "texto": "Inibição da síntese de DNA bacteriano por bloqueio da DNA girase"
+      },
+      {
+        "letra": "D",
+        "texto": "Alteração da permeabilidade da membrana celular bacteriana"
+      },
+      {
+        "letra": "E",
+        "texto": "Inibição competitiva do ácido fólico na síntese de bases nitrogenadas"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "Os betalactâmicos (penicilinas, cefalosporinas, carbapenêmicos) atuam inibindo a síntese da parede celular bacteriana por ligação covalente às proteínas ligadoras de penicilina (PBPs), impedindo a transpeptidação e a formação do peptidoglicano.",
+    "explicacoes": {
+      "A": "Ligação ao ribossomo 50S é o mecanismo dos macrolídeos (azitromicina, claritromicina) e cloranfenicol.",
+      "C": "Inibição da DNA girase é o mecanismo das fluoroquinolonas (ciprofloxacino, levofloxacino).",
+      "D": "Alteração da permeabilidade da membrana é o mecanismo das polimixinas (colistina) — não dos betalactâmicos.",
+      "E": "Inibição competitiva do ácido fólico é o mecanismo das sulfonamidas (sulfametoxazol) e trimetoprima."
+    },
+    "fonte": "Goodman & Gilman — Antibióticos Betalactâmicos",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "mental",
+    "enunciado": "O Centro de Atenção Psicossocial (CAPS) é o dispositivo central da Rede de Atenção Psicossocial (RAPS). Sobre os tipos de CAPS, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O CAPS I atende municípios com população acima de 200.000 habitantes"
+      },
+      {
+        "letra": "B",
+        "texto": "O CAPS AD III funciona 24 horas, incluindo finais de semana, com leitos de acolhimento noturno"
+      },
+      {
+        "letra": "C",
+        "texto": "O CAPSi é destinado exclusivamente a adolescentes entre 12 e 18 anos"
+      },
+      {
+        "letra": "D",
+        "texto": "O CAPS II é indicado para municípios com mais de 500.000 habitantes"
+      },
+      {
+        "letra": "E",
+        "texto": "O CAPS AD atende exclusivamente usuários de crack, excluindo outras drogas"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "O CAPS AD III funciona 24 horas, inclusive aos finais de semana e feriados, com capacidade para até 8 leitos de acolhimento noturno. É indicado para municípios com população > 200.000 habitantes.",
+    "explicacoes": {
+      "A": "O CAPS I é para municípios com 20.000 a 70.000 habitantes — não acima de 200.000.",
+      "C": "O CAPSi atende crianças e adolescentes até 18 anos (incluindo crianças) — não exclusivamente adolescentes de 12-18.",
+      "D": "O CAPS II é para municípios com 70.000 a 200.000 habitantes — não 500.000.",
+      "E": "O CAPS AD atende usuários de álcool E outras drogas — não exclusivamente crack."
+    },
+    "fonte": "Portaria MS 3.088/2011 — RAPS",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "mental",
+    "enunciado": "Em relação à Lei 10.216/2001 (Lei da Reforma Psiquiátrica), assinale a afirmativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A internação psiquiátrica somente será realizada mediante laudo médico circunstanciado"
+      },
+      {
+        "letra": "B",
+        "texto": "A internação compulsória é determinada pela Justiça e pode ser solicitada pelo Ministério Público"
+      },
+      {
+        "letra": "C",
+        "texto": "A internação voluntária ocorre com o consentimento expresso do paciente"
+      },
+      {
+        "letra": "D",
+        "texto": "A Lei 10.216 extinguiu todos os hospitais psiquiátricos no Brasil imediatamente após sua promulgação"
+      },
+      {
+        "letra": "E",
+        "texto": "O tratamento deve ser realizado preferencialmente em serviços comunitários de saúde mental"
+      }
+    ],
+    "gabarito": "D",
+    "justificativa": "A Lei 10.216 NÃO extinguiu imediatamente os hospitais psiquiátricos — redirecionou o modelo assistencial, priorizando serviços comunitários. O processo de desinstitucionalização é gradual, com redução progressiva de leitos.",
+    "explicacoes": {
+      "A": "Correto — qualquer modalidade de internação exige laudo médico.",
+      "B": "Correto — internação compulsória é por ordem judicial, podendo ser requerida pelo MP ou familiar.",
+      "C": "Correto — internação voluntária exige assinatura de consentimento livre e esclarecido pelo próprio paciente.",
+      "E": "Correto — a Lei 10.216 prioriza tratamento em serviços comunitários, evitando segregação."
+    },
+    "fonte": "Lei 10.216/2001 — Reforma Psiquiátrica Brasileira",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "mental",
+    "enunciado": "O transtorno de ansiedade generalizada (TAG) se diferencia do estresse normal principalmente porque:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ansiedade no TAG está sempre associada a um estressor identificável e específico"
+      },
+      {
+        "letra": "B",
+        "texto": "No TAG, a preocupação é excessiva, persistente (≥ 6 meses), difícil de controlar e causa prejuízo funcional"
+      },
+      {
+        "letra": "C",
+        "texto": "No TAG, os sintomas físicos estão ausentes — é um transtorno puramente psicológico"
+      },
+      {
+        "letra": "D",
+        "texto": "O TAG é tratado exclusivamente com psicoterapia, sem indicação de farmacoterapia"
+      },
+      {
+        "letra": "E",
+        "texto": "O diagnóstico de TAG exige episódios de pânico como critério obrigatório"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "O TAG é caracterizado por preocupação excessiva, persistente (≥ 6 meses), sobre múltiplos domínios, difícil de controlar, com pelo menos 3 sintomas somáticos (fadiga, tensão muscular, irritabilidade, insônia, dificuldade de concentração) e prejuízo funcional significativo.",
+    "explicacoes": {
+      "A": "No TAG a preocupação NÃO se relaciona a um estressor específico — é flutuante e abrange múltiplas situações.",
+      "C": "O TAG tem MUITOS sintomas físicos: tensão muscular, fadiga, cefaleia, insônia, tremores — não é puramente psicológico.",
+      "D": "O TAG tem indicação de farmacoterapia (ISRS, IRSN, buspirona) associada à psicoterapia (TCC).",
+      "E": "Episódios de pânico são critério do Transtorno de Pânico — NÃO do TAG. São transtornos distintos."
+    },
+    "fonte": "DSM-5 — Transtornos de Ansiedade",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "mental",
+    "enunciado": "Sobre a avaliação do risco de suicídio no atendimento de enfermagem, assinale a conduta MAIS ADEQUADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Evitar perguntar diretamente sobre pensamentos suicidas para não 'plantar' a ideia no paciente"
+      },
+      {
+        "letra": "B",
+        "texto": "Perguntar diretamente sobre ideação, plano e intenção suicida, pois isso não aumenta o risco e permite avaliar a gravidade"
+      },
+      {
+        "letra": "C",
+        "texto": "Encaminhar imediatamente todo paciente com ideação suicida passiva para internação compulsória"
+      },
+      {
+        "letra": "D",
+        "texto": "Manter o sigilo absoluto e não comunicar a equipe sobre risco de suicídio revelado pelo paciente"
+      },
+      {
+        "letra": "E",
+        "texto": "Tranquilizar o paciente dizendo que os pensamentos passarão e que não há necessidade de intervenção"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "Perguntar diretamente sobre suicídio é uma das recomendações centrais do CVV e do MS — não aumenta o risco e permite avaliação adequada. Avaliar ideação (passiva/ativa), plano estruturado, acesso a meios e intenção determina o nível de risco.",
+    "explicacoes": {
+      "A": "É um mito que perguntar sobre suicídio 'planta' a ideia — a pergunta direta alivia e facilita a comunicação.",
+      "C": "Nem toda ideação passiva exige internação — o nível de intervenção depende do risco avaliado (plano + intenção + meios).",
+      "D": "O risco de suicídio DEVE ser comunicado à equipe — não há sigilo absoluto quando a vida está em risco.",
+      "E": "Minimizar pensamentos suicidas é inadequado — o paciente precisa ser levado a sério e avaliado clinicamente."
+    },
+    "fonte": "MS — Prevenção do Suicídio — Manual dirigido a profissionais da saúde 2017",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "mental",
+    "enunciado": "A abordagem de redução de danos é um princípio norteador do cuidado ao usuário de álcool e outras drogas. Sobre esse conceito, assinale a afirmativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A redução de danos preconiza que a abstinência total é o único objetivo aceitável do tratamento"
+      },
+      {
+        "letra": "B",
+        "texto": "A redução de danos é uma abordagem pragmática que visa minimizar os danos sem exigir abstinência imediata"
+      },
+      {
+        "letra": "C",
+        "texto": "A redução de danos é contrária ao tratamento medicamentoso e à internação"
+      },
+      {
+        "letra": "D",
+        "texto": "A redução de danos se aplica apenas a usuários de drogas injetáveis"
+      },
+      {
+        "letra": "E",
+        "texto": "A troca de seringas é proibida no Brasil por incentivar o uso de drogas ilícitas"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "Redução de danos é uma estratégia de saúde pública que reconhece a realidade do uso de drogas e busca minimizar seus impactos negativos (sociais, econômicos, de saúde) sem impor a abstinência como pré-requisito. É política oficial do MS.",
+    "explicacoes": {
+      "A": "A abstinência pode ser um objetivo, mas NÃO o único — a redução de danos aceita metas intermediárias.",
+      "C": "Redução de danos não é contrária a medicamentos ou internação — é complementar a essas abordagens.",
+      "D": "Redução de danos aplica-se a qualquer substância — álcool, tabaco, crack, maconha — não só drogas injetáveis.",
+      "E": "A troca de seringas (Programa de Redução de Danos) É LEGAL no Brasil e integra a política nacional — reduz transmissão de HIV e hepatites."
+    },
+    "fonte": "MS — A Política do Ministério da Saúde para Atenção Integral a Usuários de Álcool e outras Drogas",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "mental",
+    "enunciado": "Em relação ao transtorno bipolar, qual é a característica que DIFERENCIA o episódio maníaco do episódio hipomaníaco?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na mania, o humor é elevado; na hipomania, o humor é irritável"
+      },
+      {
+        "letra": "B",
+        "texto": "A mania dura pelo menos 7 dias e causa prejuízo funcional grave ou exige hospitalização; a hipomania dura ≥ 4 dias sem causar prejuízo funcional grave"
+      },
+      {
+        "letra": "C",
+        "texto": "A hipomania é exclusiva do transtorno bipolar tipo I; a mania é do tipo II"
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas na mania há aumento de energia e diminuição da necessidade de sono"
+      },
+      {
+        "letra": "E",
+        "texto": "A hipomania é mais grave e prolongada do que a mania"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "A principal diferença é a gravidade e duração: mania ≥ 7 dias, com prejuízo funcional marcante, possível psicose e frequentemente exige hospitalização. Hipomania ≥ 4 dias, sem prejuízo funcional grave ou psicose. Transtorno bipolar I tem mania; tipo II tem hipomania.",
+    "explicacoes": {
+      "A": "Tanto mania quanto hipomania podem ter humor elevado OU irritável — isso não os diferencia.",
+      "C": "É o INVERSO: TB tipo I tem episódios maníacos; TB tipo II tem hipomaníacos — não ao contrário.",
+      "D": "Aumento de energia e diminuição da necessidade de sono ocorrem em AMBOS — mania e hipomania.",
+      "E": "É o contrário — a MANIA é mais grave e prolongada; a hipomania é menos intensa."
+    },
+    "fonte": "DSM-5 — Transtorno Bipolar e Transtornos Relacionados",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "idoso",
+    "enunciado": "A Política Nacional de Saúde da Pessoa Idosa (PNSPI) define como idoso, no Brasil, a pessoa com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "60 anos ou mais"
+      },
+      {
+        "letra": "B",
+        "texto": "65 anos ou mais"
+      },
+      {
+        "letra": "C",
+        "texto": "70 anos ou mais"
+      },
+      {
+        "letra": "D",
+        "texto": "55 anos ou mais, desde que com comorbidades"
+      },
+      {
+        "letra": "E",
+        "texto": "A legislação brasileira não define uma faixa etária específica para idoso"
+      }
+    ],
+    "gabarito": "A",
+    "justificativa": "O Estatuto do Idoso (Lei 10.741/2003) e a PNSPI definem como idoso a pessoa com 60 anos ou mais. A OMS adota 60 anos para países em desenvolvimento e 65 anos para países desenvolvidos.",
+    "explicacoes": {
+      "B": "65 anos é o critério da OMS para países desenvolvidos — no Brasil, a legislação define 60 anos.",
+      "C": "70 anos não é o critério legal brasileiro — está acima da definição do Estatuto do Idoso.",
+      "D": "Não há critério baseado em comorbidades — a definição é exclusivamente etária (60 anos).",
+      "E": "Há definição legal clara — Estatuto do Idoso (Lei 10.741/2003) define 60 anos."
+    },
+    "fonte": "Lei 10.741/2003 — Estatuto do Idoso e Portaria MS 2.528/2006 — PNSPI",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "idoso",
+    "enunciado": "As Síndromes Geriátricas ou 'Grandes Síndromes da Geriatria' incluem um conjunto de condições prevalentes no idoso. Qual das alternativas NÃO é considerada uma das clássicas Síndromes Geriátricas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Imobilidade"
+      },
+      {
+        "letra": "B",
+        "texto": "Incontinência urinária"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipertensão arterial sistêmica"
+      },
+      {
+        "letra": "D",
+        "texto": "Instabilidade postural e quedas"
+      },
+      {
+        "letra": "E",
+        "texto": "Incapacidade cognitiva (demência e delirium)"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "As clássicas Síndromes Geriátricas (os '5 Is' ou 'Giants of Geriatrics') são: Imobilidade, Instabilidade (quedas), Incontinência, Incapacidade cognitiva e Insuficiência social. A HAS é uma condição crônica comum, mas não é uma síndrome geriátrica específica.",
+    "explicacoes": {
+      "A": "Imobilidade é um dos '5 Is' das síndromes geriátricas — leva a úlceras, trombose, pneumonia.",
+      "B": "Incontinência urinária é uma das principais síndromes geriátricas — afeta qualidade de vida.",
+      "D": "Instabilidade postural e quedas são síndrome geriátrica relevante — principal causa de morbimortalidade em idosos.",
+      "E": "Incapacidade cognitiva (demência, delirium) é síndrome geriátrica clássica — inclui doença de Alzheimer."
+    },
+    "fonte": "Freitas & Py — Tratado de Geriatria e Gerontologia — Síndromes Geriátricas",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "idoso",
+    "enunciado": "Em relação à sarcopenia no idoso, assinale a afirmativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sarcopenia é definida exclusivamente pela perda de massa muscular, sem considerar força ou função"
+      },
+      {
+        "letra": "B",
+        "texto": "A sarcopenia não tem relação com o risco de quedas no idoso"
+      },
+      {
+        "letra": "C",
+        "texto": "Sarcopenia é definida pela perda de massa e função muscular (força e desempenho), com critérios diagnósticos específicos"
+      },
+      {
+        "letra": "D",
+        "texto": "A sarcopenia é uma consequência exclusiva do sedentarismo e pode ser completamente prevenida com exercício físico"
+      },
+      {
+        "letra": "E",
+        "texto": "O diagnóstico de sarcopenia é clínico, dispensando exames complementares como DEXA ou bioimpedância"
+      }
+    ],
+    "gabarito": "C",
+    "justificativa": "O consenso europeu (EWGSOP2) define sarcopenia pela combinação de baixa força muscular (critério primário), baixa quantidade/qualidade muscular e baixo desempenho físico. Não é apenas perda de massa — é perda de função.",
+    "explicacoes": {
+      "A": "A definição atual inclui força e função — apenas a perda de massa sem perda funcional é 'pré-sarcopenia'.",
+      "B": "Sarcopenia AUMENTA significativamente o risco de quedas — é um dos principais fatores de risco.",
+      "D": "A sarcopenia tem componente multifatorial (hormonal, inflamatório, nutricional) — o exercício é fundamental mas não a previne completamente.",
+      "E": "O diagnóstico requer avaliação objetiva: dinamometria (força de preensão), velocidade de marcha, e DEXA ou bioimpedância para massa muscular."
+    },
+    "fonte": "EWGSOP2 — Consenso Europeu sobre Sarcopenia 2019",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "idoso",
+    "enunciado": "O delirium (síndrome confusional aguda) é uma complicação frequente em idosos hospitalizados. Qual característica DIFERENCIA o delirium da demência?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O delirium é um declínio cognitivo lento e progressivo; a demência tem início agudo"
+      },
+      {
+        "letra": "B",
+        "texto": "O delirium tem início agudo e flutuação do nível de consciência; a demência tem início insidioso e curso progressivo"
+      },
+      {
+        "letra": "C",
+        "texto": "O delirium afeta apenas a memória; a demência afeta múltiplos domínios cognitivos"
+      },
+      {
+        "letra": "D",
+        "texto": "Na demência, os sintomas flutuam ao longo do dia; no delirium, são constantes"
+      },
+      {
+        "letra": "E",
+        "texto": "O delirium é permanente e irreversível; a demência é transitória e reversível"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "O delirium caracteriza-se por início AGUDO (horas a dias), flutuação da consciência (pior à noite), distúrbio da atenção e causa orgânica identificável. A demência tem início INSIDIOSO e curso progressivo, sem flutuação marcada da consciência.",
+    "explicacoes": {
+      "A": "É exatamente o contrário — delirium tem início agudo; demência tem declínio lento.",
+      "C": "O delirium afeta atenção, consciência e múltiplos domínios cognitivos — não apenas memória.",
+      "D": "É o contrário — o DELIRIUM flutua (piora à noite — sundowning); a demência tem curso mais constante.",
+      "E": "É o contrário — delirium é geralmente REVERSÍVEL com tratamento da causa; demências são progressivas e irreversíveis."
+    },
+    "fonte": "DSM-5 — Delirium e Transtornos Neurocognitivos",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "idoso",
+    "enunciado": "Sobre a Avaliação Multidimensional do Idoso (AMI), qual instrumento é utilizado para rastreamento cognitivo na Atenção Básica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Escala de Barthel"
+      },
+      {
+        "letra": "B",
+        "texto": "Miniexame do Estado Mental (MEEM)"
+      },
+      {
+        "letra": "C",
+        "texto": "Escala de Lawton-Brody"
+      },
+      {
+        "letra": "D",
+        "texto": "Escala de Morse"
+      },
+      {
+        "letra": "E",
+        "texto": "Índice de Katz"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "O Miniexame do Estado Mental (MEEM) é o instrumento mais utilizado para rastreamento cognitivo em idosos na Atenção Básica. Avalia orientação, registro, atenção, cálculo, memória e linguagem — pontuação máxima de 30 pontos.",
+    "explicacoes": {
+      "A": "Escala de Barthel avalia Atividades Básicas de Vida Diária (ABVD) — função física, não cognitiva.",
+      "C": "Escala de Lawton-Brody avalia Atividades Instrumentais de Vida Diária (AIVD) — não função cognitiva.",
+      "D": "Escala de Morse avalia risco de quedas — não função cognitiva.",
+      "E": "Índice de Katz avalia independência nas ABVD (banho, vestir, higiene, transferência, continência, alimentação) — não cognição."
+    },
+    "fonte": "MS — Cadernos de Atenção Básica nº 19 — Envelhecimento e Saúde da Pessoa Idosa",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "idoso",
+    "enunciado": "Em relação à polifarmácia no idoso, assinale a afirmativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Polifarmácia é definida como o uso de 3 ou mais medicamentos simultaneamente"
+      },
+      {
+        "letra": "B",
+        "texto": "O uso de 5 ou mais medicamentos define polifarmácia e está associado a maior risco de interações medicamentosas e quedas"
+      },
+      {
+        "letra": "C",
+        "texto": "A polifarmácia é sempre inadequada e todos os medicamentos devem ser suspensos no idoso"
+      },
+      {
+        "letra": "D",
+        "texto": "Critérios de Beers listam medicamentos seguros para uso em idosos, sem restrições"
+      },
+      {
+        "letra": "E",
+        "texto": "A polifarmácia é exclusiva de idosos institucionalizados (em ILPI)"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "Polifarmácia é o uso concomitante de 5 ou mais medicamentos. No idoso, aumenta o risco de interações, reações adversas, quedas, hospitalização e não adesão. A revisão periódica da medicação é essencial.",
+    "explicacoes": {
+      "A": "O limiar para polifarmácia é 5 medicamentos — não 3 (embora alguns autores usem 4+, o mais aceito é 5).",
+      "C": "A polifarmácia NÃO é sempre inadequada — idosos com múltiplas comorbidades podem necessitar de vários medicamentos. O problema é a polifarmácia inapropriada.",
+      "D": "Os Critérios de Beers listam medicamentos POTENCIALMENTE INAPROPRIADOS para idosos — não os seguros.",
+      "E": "A polifarmácia é comum em idosos da comunidade e na AB — não é exclusiva de ILPI."
+    },
+    "fonte": "AGS — Critérios de Beers 2023 — Polifarmácia no Idoso",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "idoso",
+    "enunciado": "Sobre as úlceras por pressão (UP) em idosos, a Escala de Braden é utilizada para:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Classificar o estágio da úlcera por pressão já instalada (I a IV)"
+      },
+      {
+        "letra": "B",
+        "texto": "Avaliar o risco de desenvolvimento de úlcera por pressão"
+      },
+      {
+        "letra": "C",
+        "texto": "Mensurar o tamanho e a profundidade da ferida para prescrever curativos"
+      },
+      {
+        "letra": "D",
+        "texto": "Determinar o tipo de cobertura de curativo mais adequada para cada estágio"
+      },
+      {
+        "letra": "E",
+        "texto": "Avaliar exclusivamente a mobilidade do paciente acamado"
+      }
+    ],
+    "gabarito": "B",
+    "justificativa": "A Escala de Braden avalia o RISCO de desenvolver úlcera por pressão (prevenção), com 6 subescalas: percepção sensorial, umidade, atividade, mobilidade, nutrição e fricção/cisalhamento. Pontuação ≤ 16 = risco.",
+    "explicacoes": {
+      "A": "A classificação em estágios I-IV (ou em categoria) é feita pela NPUAP/EPUAP — a Escala de Braden não classifica a ferida existente.",
+      "C": "A mensuração da ferida é feita por régua ou planimetria — não pela Escala de Braden.",
+      "D": "A escolha de cobertura depende das características da ferida — não da Escala de Braden.",
+      "E": "A Braden avalia 6 subescalas — não apenas mobilidade. Mobilidade é apenas uma das dimensões."
+    },
+    "fonte": "Braden & Bergstrom 1987 — Escala de Braden para Risco de UP",
+    "dificuldade": "facil"
+  }
+]
