@@ -1,0 +1,968 @@
+[
+  {
+    "tema": "bio",
+    "enunciado": "As infecções relacionadas a assistência à saúde (IRAS) têm recebido destaque e atenção como um importante problema de saúde pública, correspondendo a um prevalente evento adverso que acomete os pacientes durante o cuidado assistencial. As IRAS são resultados da interação de três elementos. Assinale a alternativa que apresenta esses elementos:",
+    "alternativas": [
+      {"letra": "A", "texto": "Uma evidência clínica; uma evidência laboratorial; uma evidência de estudos."},
+      {"letra": "B", "texto": "Uma fonte; um hospedeiro; um modo de transmissão."},
+      {"letra": "C", "texto": "Identificação do paciente; comunicação efetiva; segurança de medicamentos de alta vigilância."},
+      {"letra": "D", "texto": "Resistência antimicrobiana; higienize suas mãos; identificação do paciente."},
+      {"letra": "E", "texto": "Uma evidência clínica; uma fonte; higienize suas mãos."}
+    ],
+    "gabarito": "B",
+    "justificativa": "As IRAS resultam da interação de três elementos epidemiológicos: a fonte (reservatório do agente infeccioso), o hospedeiro suscetível e o modo de transmissão. Esses três componentes formam a cadeia epidemiológica das infecções.",
+    "explicacoes": {
+      "A": "Evidências clínica, laboratorial e de estudos são ferramentas diagnósticas, não os elementos da cadeia de transmissão das IRAS.",
+      "C": "Identificação do paciente, comunicação efetiva e segurança de medicamentos são metas internacionais de segurança do paciente, não os elementos das IRAS.",
+      "D": "Resistência antimicrobiana e higiene das mãos são fatores relacionados, mas não os três elementos que definem a interação nas IRAS.",
+      "E": "Combinação incorreta — mistura evidência clínica (diagnóstico) com fonte (epidemiologia) e higiene das mãos (prevenção)."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q21",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "bio",
+    "enunciado": "A criação da rede Brasileira de Hospitais Sentinela pela ANVISA, em 2001, pode ser considerada (assinale a alternativa CORRETA):",
+    "alternativas": [
+      {"letra": "A", "texto": "A primeira iniciativa nacional na direção mais ampliada de segurança do paciente."},
+      {"letra": "B", "texto": "A rede sentinela inicialmente foi constituída de hospitais de ensino ou hospitais de alta complexidade."},
+      {"letra": "C", "texto": "Os principais produtos do Programa Nacional de Segurança do Paciente seriam a constituição dos Núcleos de Segurança do Paciente (NSP)."},
+      {"letra": "D", "texto": "A implantação dos seis protocolos básicos nos Planos de Segurança do Paciente."},
+      {"letra": "E", "texto": "A precursora na adoção do Manual de Qualidade."}
+    ],
+    "gabarito": "A",
+    "justificativa": "A Rede Brasileira de Hospitais Sentinela, criada em 2001 pela ANVISA, é considerada a primeira iniciativa nacional ampliada em segurança do paciente no Brasil, com foco em tecnovigilância e farmacovigilância.",
+    "explicacoes": {
+      "B": "A Rede Sentinela foi constituída inicialmente por hospitais de grande porte e de ensino, mas a afirmativa 'inicialmente foi constituída de...' como resposta correta não está no gabarito — a afirmativa A descreve melhor a relevância histórica.",
+      "C": "Os NSP são produtos do PNSP (Portaria 529/2013), criado em 2013, e não da Rede Sentinela de 2001.",
+      "D": "Os seis protocolos básicos são parte do PNSP de 2013, não da Rede Sentinela.",
+      "E": "Manual de qualidade não é o principal produto associado à criação da Rede Sentinela."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q22",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "O paciente N.P.D, sexo masculino, chega à unidade de saúde apresentando os seguintes sintomas: sibilância, dispneia, desconforto torácico e tosse, e durante a anamnese relata que esses sintomas pioram à noite e no início da manhã. São sinais sugestivos de que patologia? Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "Asma."},
+      {"letra": "B", "texto": "Tuberculose."},
+      {"letra": "C", "texto": "Bronquiectasia."},
+      {"letra": "D", "texto": "Doença Pulmonar Obstrutiva Crônica (DPOC)."},
+      {"letra": "E", "texto": "Neoplasia (pulmão, laringe, esôfago)."}
+    ],
+    "gabarito": "A",
+    "justificativa": "Sibilância, dispneia, desconforto torácico e tosse com piora noturna e matinal são características clássicas da asma brônquica. A variação circadiana (piora à noite e manhã) é um marcador importante que diferencia a asma de outras doenças respiratórias.",
+    "explicacoes": {
+      "B": "Tuberculose se manifesta com tosse produtiva crônica, hemoptise, febre vespertina e emagrecimento — sem o padrão de variação circadiana.",
+      "C": "Bronquiectasia causa tosse crônica com expectoração abundante e purulenta — sem o padrão de sibilância e piora noturna típicos da asma.",
+      "D": "DPOC tem dispneia progressiva e tosse crônica, mas não apresenta a variação noturna/matinal característica da asma; acomete predominantemente tabagistas.",
+      "E": "Neoplasias respiratórias cursam com tosse persistente, hemoptise e perda de peso — não com sibilância variável e padrão noturno."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q23",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "tecnicas",
+    "enunciado": "O Cateter venoso central de inserção periférica (PICC) vem sendo amplamente utilizado, uma vez que é um dispositivo com tempo de permanência prolongado e de fácil instalação, associado a menor risco de complicações mecânicas infecciosas. Cabe à enfermagem observar, EXCETO:",
+    "alternativas": [
+      {"letra": "A", "texto": "Local de inserção."},
+      {"letra": "B", "texto": "Fixação do cateter."},
+      {"letra": "C", "texto": "Retirar amostra de sangue."},
+      {"letra": "D", "texto": "Curativo, o qual deve ser trocado sempre que sujo, úmido ou solto."},
+      {"letra": "E", "texto": "Sangramento ao redor da inserção do cateter."}
+    ],
+    "gabarito": "C",
+    "justificativa": "A retirada de amostra de sangue pelo PICC é uma atribuição que requer avaliação criteriosa e não é uma observação de rotina da enfermagem — as demais alternativas (local de inserção, fixação, curativo e sangramento) são vigilâncias de manutenção do cateter.",
+    "explicacoes": {
+      "A": "Observar o local de inserção é vigilância essencial para detectar sinais de flebite, infecção ou extravasamento.",
+      "B": "A fixação do cateter deve ser verificada para evitar deslocamento e garantir a estabilidade do dispositivo.",
+      "D": "O curativo deve ser trocado conforme protocolo e sempre que sujo, úmido ou solto para prevenir IRAS.",
+      "E": "Sangramento ao redor da inserção é sinal de alerta que requer avaliação e intervenção imediata."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q24",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Paciente apresenta espessamento de nervo periférico, associado a alterações sensitivas e/ou motoras e/ou autonômicas. Esses sintomas são sugestivos de que doença (BRASIL, 2016)? Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "Dengue."},
+      {"letra": "B", "texto": "Tuberculose."},
+      {"letra": "C", "texto": "Hepatite."},
+      {"letra": "D", "texto": "Hanseníase."},
+      {"letra": "E", "texto": "Diabetes."}
+    ],
+    "gabarito": "D",
+    "justificativa": "O espessamento de nervo periférico é um sinal patognomônico da hanseníase. O Mycobacterium leprae tem tropismo pelo tecido nervoso periférico, causando espessamento dos nervos e alterações sensitivas, motoras e autonômicas características.",
+    "explicacoes": {
+      "A": "Dengue é doença febril aguda transmitida pelo Aedes aegypti — não causa espessamento de nervo periférico.",
+      "B": "Tuberculose pode causar neuropatia por deficiência de B6 (em uso de isoniazida), mas espessamento de nervo periférico é característico da hanseníase.",
+      "C": "Hepatite pode causar neuropatia em casos avançados, mas espessamento de nervo periférico visível/palpável é específico da hanseníase.",
+      "E": "Neuropatia diabética causa alterações sensitivas, mas não o espessamento de nervo periférico palpável típico da hanseníase."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q25",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "Conforme pontos de atenção, estrutura de assistência e competências da linha de cuidado materno infantil (PARANÁ, 2022), a definição: 'é um ponto de atenção na Linha de Cuidado que presta assistência às gestantes estratificadas como risco intermediário e alto risco, com cuidado compartilhado pela APS', está relacionada a qual nível de atenção? Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "Centro de Atenção Psicossocial."},
+      {"letra": "B", "texto": "Atenção primária à saúde materno infantil."},
+      {"letra": "C", "texto": "Atenção hospitalar."},
+      {"letra": "D", "texto": "Unidade Básica de Saúde."},
+      {"letra": "E", "texto": "Atenção ambulatorial especializada materno infantil."}
+    ],
+    "gabarito": "E",
+    "justificativa": "A Atenção Ambulatorial Especializada materno infantil é o ponto de atenção que atende gestantes de risco intermediário e alto risco, com cuidado compartilhado com a Atenção Primária à Saúde (APS), conforme a Linha Guia de Atenção Materno Infantil do Paraná.",
+    "explicacoes": {
+      "A": "CAPS é o ponto de atenção para saúde mental — não faz parte da linha de cuidado materno infantil.",
+      "B": "A APS realiza pré-natal de baixo risco e encaminha os casos de risco — não é o nível que presta assistência especializada às gestantes de alto risco.",
+      "C": "A atenção hospitalar é para internações, partos e urgências — não corresponde ao atendimento ambulatorial descrito.",
+      "D": "A UBS é o ponto da APS — não o ambulatório especializado que compartilha cuidado com APS para gestantes de risco."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q26",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "Conforme a Linha Guia de Atenção Materno Infantil (PARANÁ, 2022), qual número de atendimento com a equipe multiprofissional é previsto para a Gestante de Alto Risco na atenção ambulatorial especializada? Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "5 atendimentos com cada profissional da equipe multiprofissional durante o período gestacional."},
+      {"letra": "B", "texto": "3 atendimentos com cada profissional da equipe multiprofissional durante o período gestacional."},
+      {"letra": "C", "texto": "1 atendimento com cada profissional da equipe multiprofissional durante o período gestacional."},
+      {"letra": "D", "texto": "7 atendimentos com cada profissional da equipe multiprofissional durante o período gestacional."},
+      {"letra": "E", "texto": "8 atendimentos com cada profissional da equipe multiprofissional durante o período gestacional."}
+    ],
+    "gabarito": "A",
+    "justificativa": "A Linha Guia de Atenção Materno Infantil do Paraná (2022) prevê 5 atendimentos com cada profissional da equipe multiprofissional durante o período gestacional para gestantes de alto risco na atenção ambulatorial especializada.",
+    "explicacoes": {
+      "B": "3 atendimentos é insuficiente para o monitoramento adequado da gestante de alto risco conforme a linha guia paranaense.",
+      "C": "1 atendimento seria mínimo e não garante o acompanhamento necessário para gestante de alto risco.",
+      "D": "7 atendimentos está acima do previsto pela linha guia para o período gestacional.",
+      "E": "8 atendimentos também ultrapassa o número previsto pela Linha Guia do Paraná."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q27",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "sus",
+    "enunciado": "A Resolução do Conselho Nacional de Saúde (CNS), n.º 588, de 12 de julho de 2018, institui a Política Nacional de (assinale a alternativa CORRETA):",
+    "alternativas": [
+      {"letra": "A", "texto": "Política Nacional de Humanização."},
+      {"letra": "B", "texto": "Política Nacional de Vigilância em Saúde (PNVS)."},
+      {"letra": "C", "texto": "Política Nacional de Segurança do Paciente."},
+      {"letra": "D", "texto": "Política Nacional de Imunização."},
+      {"letra": "E", "texto": "Política Nacional de Saúde do Idoso."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A Resolução CNS n.º 588/2018 instituiu a Política Nacional de Vigilância em Saúde (PNVS), que integra as vigilâncias epidemiológica, sanitária, ambiental e saúde do trabalhador no SUS.",
+    "explicacoes": {
+      "A": "A Política Nacional de Humanização (PNH/HumanizaSUS) foi instituída em 2003 pelo Ministério da Saúde — não pela Resolução CNS 588/2018.",
+      "C": "A Política Nacional de Segurança do Paciente foi instituída pela Portaria MS 529/2013.",
+      "D": "O PNI (Programa Nacional de Imunizações) existe desde 1973; não foi a Resolução CNS 588/2018 que o instituiu.",
+      "E": "A Política Nacional de Saúde da Pessoa Idosa foi instituída pela Portaria MS 2.528/2006."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q28",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "sus",
+    "enunciado": "Conforme o Caderno de Atenção Básica (2014), a reorganização das atividades das equipes de Saúde para o alcance de melhores resultados nas doenças crônicas está dentro de um contexto, sendo considerados alguns nós críticos nos Serviços de Atenção Primária. Nesse sentido, qual alternativa a seguir se refere a um nó crítico para os serviços de atenção primária? Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "Ampliar o acesso da população aos recursos e aos serviços das Unidades Básicas de Saúde."},
+      {"letra": "B", "texto": "Construção do plano conjunto de cuidado."},
+      {"letra": "C", "texto": "Os determinantes da saúde e seu impacto na saúde da população brasileira."},
+      {"letra": "D", "texto": "Tratamento medicamentoso."},
+      {"letra": "E", "texto": "Educação para o autocuidado."}
+    ],
+    "gabarito": "A",
+    "justificativa": "Ampliar o acesso é identificado como nó crítico nos serviços de APS — trata-se de um gargalo estrutural que dificulta a assistência integral às pessoas com doenças crônicas, sendo essencial para a reorganização das equipes.",
+    "explicacoes": {
+      "B": "Construção do plano conjunto de cuidado é uma estratégia de atenção, não um nó crítico/problema.",
+      "C": "Os determinantes da saúde são contexto epidemiológico, não um nó crítico operacional dos serviços de APS.",
+      "D": "Tratamento medicamentoso é componente do cuidado, não um nó crítico que representa gargalo organizacional.",
+      "E": "Educação para o autocuidado é estratégia de promoção da saúde, não nó crítico dos serviços."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q29",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "sus",
+    "enunciado": "Conforme a Política Nacional de Atenção Básica 2436/2017: A gestão municipal deve articular e criar condições para que a referência aos serviços especializados ambulatoriais sejam realizados preferencialmente pela Atenção Básica, sendo de sua responsabilidade, EXCETO:",
+    "alternativas": [
+      {"letra": "A", "texto": "Ordenar o fluxo das pessoas nos demais pontos de atenção da Rede de Atenção à Saúde (RAS)."},
+      {"letra": "B", "texto": "Gerir a referência em outros pontos de atenção."},
+      {"letra": "C", "texto": "Estabelecer relação com os especialistas que cuidam das pessoas do território."},
+      {"letra": "D", "texto": "Inconsistência no Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES) por duplicidade de profissional, ausência de profissional da equipe mínima ou erro no registro, conforme normatização vigente."},
+      {"letra": "E", "texto": "Gerir a contrarreferência em outros pontos de atenção."}
+    ],
+    "gabarito": "D",
+    "justificativa": "Inconsistências no SCNES são uma questão administrativa de cadastro dos estabelecimentos de saúde, que não é responsabilidade direta da Atenção Básica no que tange à referência e contrarreferência. As demais alternativas são responsabilidades explícitas da AB na PNAB 2017.",
+    "explicacoes": {
+      "A": "Ordenar o fluxo na RAS é responsabilidade explícita da AB como coordenadora do cuidado.",
+      "B": "Gerir a referência em outros pontos é função da AB na articulação da rede.",
+      "C": "Estabelecer relação com especialistas para garantir continuidade do cuidado é responsabilidade da AB.",
+      "E": "Gerir a contrarreferência garante o retorno do usuário à AB após atendimento especializado."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q30",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "Na primeira consulta do recém-nascido, o Enfermeiro deve identificar a presença de situações de risco e vulnerabilidade para o bom desenvolvimento do recém-nascido e para que seja acompanhado pela equipe de saúde. Entre as alternativas listadas a seguir, qual NÃO representa um risco à saúde para o recém-nascido?",
+    "alternativas": [
+      {"letra": "A", "texto": "Criança residente em área de risco."},
+      {"letra": "B", "texto": "Mãe com menos de 18 anos de idade."},
+      {"letra": "C", "texto": "Baixo peso ao nascer (inferior a 2.500g)."},
+      {"letra": "D", "texto": "Não reconhecer e mostrar interesse por cores primárias (vermelho, azul e amarelo)."},
+      {"letra": "E", "texto": "Mãe com baixa escolaridade (menos de oito anos de estudo)."}
+    ],
+    "gabarito": "D",
+    "justificativa": "Não reconhecer cores primárias não é um critério de risco para recém-nascidos — a percepção de cores se desenvolve gradualmente nos primeiros meses de vida e não é esperada na primeira consulta. As demais alternativas são fatores de risco biopsicossociais reconhecidos.",
+    "explicacoes": {
+      "A": "Residir em área de risco (violência, saneamento precário) é fator de vulnerabilidade social para o RN.",
+      "B": "Mãe adolescente (<18 anos) é fator de risco para vínculo, aleitamento e cuidados adequados ao RN.",
+      "C": "Baixo peso ao nascer (<2.500g) é critério de risco neonatal que exige vigilância e acompanhamento intensificado.",
+      "E": "Baixa escolaridade materna está associada a menor adesão às consultas de puericultura e dificuldades no cuidado."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q32",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "sus",
+    "enunciado": "A Norma Operacional Básica (NOB/SUS), de 1996, foi resultado de ampla discussão e participação. Assinale qual foi o foco dessa NOB.",
+    "alternativas": [
+      {"letra": "A", "texto": "O foco da NOB está centrado na promoção da saúde física."},
+      {"letra": "B", "texto": "O foco da NOB está no meio ambiente."},
+      {"letra": "C", "texto": "O foco da NOB foi a redefinição do modelo de gestão."},
+      {"letra": "D", "texto": "O foco da NOB está nos hábitos e crenças da população."},
+      {"letra": "E", "texto": "O foco da NOB está na construção de hospitais e ambulatórios."}
+    ],
+    "gabarito": "C",
+    "justificativa": "A NOB/SUS 01/96 teve como foco central a redefinição do modelo de gestão do SUS, promovendo a descentralização e municipalização da saúde, com a criação das condições de gestão Plena da Atenção Básica e Plena do Sistema Municipal.",
+    "explicacoes": {
+      "A": "Promoção da saúde física não foi o foco da NOB 96 — ela era voltada à organização do sistema de gestão.",
+      "B": "Questões de meio ambiente são tratadas pela Vigilância Ambiental — não foi o foco da NOB 96.",
+      "D": "Hábitos e crenças são aspectos culturais abordados em educação em saúde — não o foco normativo da NOB.",
+      "E": "Construção de infraestrutura física não é foco de norma operacional — esta trata de modelos de gestão e financiamento."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q33",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "sus",
+    "enunciado": "Conforme o Código de Ética e Principais Legislações para o Exercício da Enfermagem, o Enfermeiro exerce todas as atividades de Enfermagem, cabendo-lhe privativamente (assinale a alternativa INCORRETA):",
+    "alternativas": [
+      {"letra": "A", "texto": "Direção do órgão de enfermagem integrante da estrutura básica da instituição de saúde, pública e privada, e chefia de serviço e de unidade de enfermagem."},
+      {"letra": "B", "texto": "Organização e direção dos serviços de enfermagem e de suas atividades técnicas e auxiliares nas empresas prestadoras desses serviços."},
+      {"letra": "C", "texto": "Consultoria, auditoria e emissão de parecer sobre matéria de enfermagem."},
+      {"letra": "D", "texto": "Prescrição da assistência de enfermagem."},
+      {"letra": "E", "texto": "Prescrição de medicamentos em qualquer situação."}
+    ],
+    "gabarito": "E",
+    "justificativa": "A prescrição de medicamentos em QUALQUER situação NÃO é atribuição privativa do enfermeiro. A Lei 7.498/86 e o Decreto 94.406/87 permitem ao enfermeiro prescrever medicamentos somente em programas de saúde pública e em rotinas aprovadas pela instituição — não em qualquer situação.",
+    "explicacoes": {
+      "A": "Correto — direção do órgão de enfermagem e chefia de serviço são atribuições privativas do enfermeiro (Lei 7.498/86, Art. 11).",
+      "B": "Correto — organização e direção dos serviços de enfermagem em empresas é atribuição privativa do enfermeiro.",
+      "C": "Correto — consultoria, auditoria e emissão de parecer sobre enfermagem são privativos do enfermeiro.",
+      "D": "Correto — prescrição da assistência de enfermagem (não de medicamentos) é privativa do enfermeiro."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q34",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "sus",
+    "enunciado": "Com a implementação da Política Nacional de Humanização (PNH), foram definidas Diretrizes específicas de responsabilidade de cada nível de atenção. Assinale a alternativa que representa a responsabilidade da atenção Especializada:",
+    "alternativas": [
+      {"letra": "A", "texto": "Elaborar projetos de saúde individuais e coletivos para usuários e sua rede social, considerando as políticas intersetoriais e as necessidades de saúde."},
+      {"letra": "B", "texto": "Otimizar o atendimento ao usuário, articulando a agenda multiprofissional em ações diagnósticas, terapêuticas, que impliquem diferentes saberes e terapêuticas de reabilitação."},
+      {"letra": "C", "texto": "Acolher a demanda por meio de critérios de avaliação de risco, garantindo o acesso referenciado aos demais níveis de assistência."},
+      {"letra": "D", "texto": "Incentivar práticas promocionais de saúde."},
+      {"letra": "E", "texto": "Comprometer-se com a referência e a contrarreferência, aumentando a resolução da urgência e emergência, provendo o acesso à estrutura hospitalar e a transferência segura, conforme a necessidade dos usuários."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A responsabilidade da Atenção Especializada na PNH é otimizar o atendimento por meio da articulação da agenda multiprofissional, integrando ações diagnósticas, terapêuticas e de reabilitação com diferentes saberes.",
+    "explicacoes": {
+      "A": "Elaborar projetos de saúde individuais e coletivos é responsabilidade da Atenção Básica na PNH.",
+      "C": "Acolher a demanda com avaliação de risco e garantir acesso referenciado é diretriz da Atenção Básica/UBS.",
+      "D": "Incentivar práticas promocionais de saúde é diretriz da Atenção Básica — promoção da saúde é foco da AB.",
+      "E": "Comprometimento com referência/contrarreferência e resolução de urgências é responsabilidade hospitalar na PNH."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q35",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "Qual descrição listada a seguir define 'Morte materna'? Assinale a alternativa CORRETA (BRASIL, 2021):",
+    "alternativas": [
+      {"letra": "A", "texto": "É a morte de uma mulher durante a gestação ou até 42 dias após o término da gestação, independentemente da duração ou da localização da gravidez."},
+      {"letra": "B", "texto": "É a morte de mulheres por causas obstétricas no período maior de 42 dias e menor de 1 ano após o término da gravidez."},
+      {"letra": "C", "texto": "Ocorre quando as informações registradas na declaração de óbito permitem classificar o óbito como materno."},
+      {"letra": "D", "texto": "É resultante de causas incidentais ou acidentais durante o ciclo gravídico-puerperal."},
+      {"letra": "E", "texto": "É aquela cuja causa básica 'esconde' uma causa relacionada ao ciclo gravídico-puerperal, não constando na declaração de óbito por falhas no seu preenchimento."}
+    ],
+    "gabarito": "A",
+    "justificativa": "A morte materna é definida pela OMS e pelo MS como a morte de uma mulher durante a gestação ou até 42 dias após o término da gestação, independentemente da duração ou localização da gravidez, por causas relacionadas ou agravadas pela gestação ou por medidas tomadas em relação a ela.",
+    "explicacoes": {
+      "B": "A morte no período de 42 dias a 1 ano pós-gestação por causa obstétrica é chamada de morte materna tardia — não a definição clássica de morte materna.",
+      "C": "Essa é a definição de morte materna declarada — um subtipo classificatório, não a definição geral.",
+      "D": "Causas incidentais ou acidentais no ciclo gravídico-puerperal são classificadas como morte materna não obstétrica (ou acidental) — diferente da definição principal.",
+      "E": "A morte com causa obstétrica 'escondida' na DO é chamada de morte materna não declarada — também um subtipo, não a definição geral."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q36",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "bio",
+    "enunciado": "A vigilância dos ambientes e dos processos de trabalho é uma das ações de saúde do trabalhador com vistas a identificar os fatores e as situações de risco para doenças e agravos relacionados ao trabalho (BRASIL, 2017). As ações gerais de vigilância de ambientes e processos de trabalho envolvem (assinale a alternativa CORRETA):",
+    "alternativas": [
+      {"letra": "A", "texto": "Identificação e análise das atividades laborais que apresentem risco de causarem doenças e agravos relacionados ao trabalho, como os acidentes de trabalho, incluindo os fatais e entre pessoas com idade abaixo de 18 anos."},
+      {"letra": "B", "texto": "Vigilância da situação vacinal requer avaliações sistemáticas com recomendações de ações corretivas aos gestores, priorizando os municípios, conforme a classificação da situação de risco."},
+      {"letra": "C", "texto": "Identificação de vazios de recomendações ou aperfeiçoamentos considerados necessários pelos integrantes do Comitê Gestor."},
+      {"letra": "D", "texto": "Debate e consenso de recomendações em duas oficinas de trabalho para ajustes nas recomendações recebidas e discutidas, envolvendo Comitê Gestor e líderes de equipes revisoras."},
+      {"letra": "E", "texto": "Garantia de qualidade dos procedimentos realizados em todos os níveis do cuidado."}
+    ],
+    "gabarito": "A",
+    "justificativa": "A vigilância de ambientes e processos de trabalho envolve identificar e analisar atividades laborais com risco de causar doenças e agravos, incluindo acidentes de trabalho fatais e com trabalhadores menores de 18 anos, conforme as diretrizes de saúde do trabalhador do MS.",
+    "explicacoes": {
+      "B": "Vigilância da situação vacinal com avaliações sistemáticas é ação do PNI/Vigilância Epidemiológica — não da vigilância de ambientes de trabalho.",
+      "C": "Identificação de vazios de recomendações por Comitê Gestor é processo de gestão normativa — não ação de vigilância de ambientes.",
+      "D": "Oficinas de trabalho para consenso de recomendações são atividades de planejamento normativo — não vigilância de campo.",
+      "E": "Garantia de qualidade dos procedimentos é função da gestão da qualidade assistencial — não especificamente da vigilância de ambientes de trabalho."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q37",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Doença de alta transmissibilidade e infecciosa, a Coqueluche tem grande significância para causa de morbimortalidade infantil, comprometendo especificamente o aparelho respiratório (traqueia e brônquios) e se caracteriza por paroxismos de tosse seca. Assinale a alternativa CORRETA quanto ao seu agente etiológico (BRASIL, 2021):",
+    "alternativas": [
+      {"letra": "A", "texto": "Histoplasma capsulatum"},
+      {"letra": "B", "texto": "Corynebacterium diphtheriae"},
+      {"letra": "C", "texto": "Cryptococcus neoformans"},
+      {"letra": "D", "texto": "Plasmodium sp"},
+      {"letra": "E", "texto": "Bordetella pertussis"}
+    ],
+    "gabarito": "E",
+    "justificativa": "A Coqueluche (pertussis) é causada pela Bordetella pertussis, bacilo Gram-negativo que produz toxinas que lesam o epitélio respiratório e causam os paroxismos de tosse característicos.",
+    "explicacoes": {
+      "A": "Histoplasma capsulatum é o agente da histoplasmose, uma micose sistêmica — não da coqueluche.",
+      "B": "Corynebacterium diphtheriae é o agente da difteria — doença diferente, que afeta faringe e laringe com formação de pseudomembrana.",
+      "C": "Cryptococcus neoformans é o agente da criptococose, micose oportunista — não da coqueluche.",
+      "D": "Plasmodium sp é o agente da malária, transmitida pelo Anopheles — não tem relação com coqueluche."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q38",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "A síndrome da imunodeficiência adquirida (AIDS) ainda representa um problema de saúde pública (BRASIL, 2021). Assinale a alternativa CORRETA quanto ao tempo entre a infecção pelo HIV e o aparecimento de sinais e de sintomas da fase aguda, denominada síndrome retroviral aguda (SRA):",
+    "alternativas": [
+      {"letra": "A", "texto": "De uma a três semanas."},
+      {"letra": "B", "texto": "De um ano a dois anos."},
+      {"letra": "C", "texto": "De trinta a sessenta dias."},
+      {"letra": "D", "texto": "Após sessenta dias."},
+      {"letra": "E", "texto": "Imediatamente ao contato."}
+    ],
+    "gabarito": "A",
+    "justificativa": "A síndrome retroviral aguda (SRA) ocorre entre 1 e 3 semanas após a infecção pelo HIV, manifestando-se como síndrome semelhante à mononucleose (febre, adenopatia, faringite, exantema). Essa fase corresponde à alta viremia inicial.",
+    "explicacoes": {
+      "B": "1 a 2 anos após a infecção corresponde ao período de latência clínica — não à fase aguda.",
+      "C": "30 a 60 dias é o período de janela imunológica dos testes de anticorpos — não o início dos sintomas agudos.",
+      "D": "Após 60 dias já estamos no período assintomático — não na fase aguda.",
+      "E": "A SRA não é imediata — há um período de incubação de 1 a 3 semanas antes do aparecimento dos sintomas."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q39",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "bio",
+    "enunciado": "Conforme as diretrizes de práticas em Enfermagem Perioperatória e processamento de produtos para a saúde (SOBECC, 2021), no preparo de caixas cirúrgicas: forrar a mesa de trabalho com campos de tecidos de cor clara, devendo ser trocados sempre que molhados e/ou sujos e a cada troca de plantão. Esses cuidados têm por objetivo (assinale a alternativa CORRETA):",
+    "alternativas": [
+      {"letra": "A", "texto": "Proteger a saúde ocupacional."},
+      {"letra": "B", "texto": "Prevenir ao máximo sujidade adicional no preparo dos produtos para a saúde."},
+      {"letra": "C", "texto": "Absorver a água proveniente da lavagem e facilitar a visualização de sujidade."},
+      {"letra": "D", "texto": "Manter o material limpo, sem o risco de sujar novamente."},
+      {"letra": "E", "texto": "Garantir o bom funcionamento e vida útil dos materiais."}
+    ],
+    "gabarito": "C",
+    "justificativa": "O campo de tecido de cor clara na mesa de preparo tem dupla função: absorver a água residual da lavagem dos artigos e facilitar a visualização de sujidades (manchas, resíduos) sobre o campo claro, garantindo a qualidade do processo de limpeza.",
+    "explicacoes": {
+      "A": "Proteção da saúde ocupacional é objetivo dos EPIs — não da forragem da mesa de trabalho.",
+      "B": "Prevenir sujidade adicional é objetivo do processamento como um todo — não especificamente do campo de tecido claro.",
+      "D": "Manter o material limpo sem risco de sujidade é objetivo das embalagens de esterilização — não do campo de preparação.",
+      "E": "Garantir bom funcionamento e vida útil dos materiais é objetivo da manutenção preventiva — não do campo de preparação."
+    },
+    "fonte": "Concurso Guaratuba/PR — Edital 001/2022 — UNIOESTE — Q40",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "sus",
+    "enunciado": "O Código de Ética dos Profissionais de Enfermagem leva em consideração a necessidade e o direito de assistência em enfermagem da população, os interesses do profissional e de sua organização. No item de suas relações com a pessoa, família e coletividade, assinale a alternativa CORRETA quanto aos seus direitos.",
+    "alternativas": [
+      {"letra": "A", "texto": "Recusar-se a executar atividades que não sejam de sua competência técnica, científica, ética e legal ou que não ofereçam segurança ao profissional, à pessoa, à família e à coletividade."},
+      {"letra": "B", "texto": "Assegurar à pessoa, família e coletividade assistência de enfermagem livre de danos decorrentes de imperícia, negligência ou imprudência."},
+      {"letra": "C", "texto": "Prestar assistência de enfermagem sem discriminação de qualquer natureza."},
+      {"letra": "D", "texto": "Negar assistência de enfermagem em qualquer situação que se caracterize como urgência ou emergência."},
+      {"letra": "E", "texto": "Executar prescrições de qualquer natureza, que comprometam a segurança da pessoa."}
+    ],
+    "gabarito": "A",
+    "justificativa": "É DIREITO do profissional de enfermagem recusar-se a executar atividades fora de sua competência ou que não ofereçam segurança. Diferentemente dos deveres (como B e C), essa é uma prerrogativa do profissional estabelecida no Código de Ética de Enfermagem.",
+    "explicacoes": {
+      "B": "Assegurar assistência livre de danos é um DEVER do profissional de enfermagem — não um direito.",
+      "C": "Prestar assistência sem discriminação é um DEVER ético — não um direito do profissional.",
+      "D": "Incorreto — negar assistência em urgências/emergências é proibido pelo Código de Ética; o profissional tem o DEVER de atender.",
+      "E": "Incorreto — executar prescrições que comprometam a segurança é proibido; o profissional deve recusar prescrições inseguras."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q15",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "sus",
+    "enunciado": "Assinale a alternativa CORRETA sobre a lei que 'Dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências', publicada pelo Ministério da Saúde:",
+    "alternativas": [
+      {"letra": "A", "texto": "Lei n.º 12.845 de 1º de agosto de 2013."},
+      {"letra": "B", "texto": "Lei n.º 13.427 de 30 de março de 2017."},
+      {"letra": "C", "texto": "Lei n.º 8.080 de 19 de setembro de 1990."},
+      {"letra": "D", "texto": "Lei n.º 10.861 de 14 de abril de 1990."},
+      {"letra": "E", "texto": "Lei n.º 11.129 de 30 de junho de 2005."}
+    ],
+    "gabarito": "C",
+    "justificativa": "A Lei 8.080/90, Lei Orgânica da Saúde, dispõe sobre as condições para a promoção, proteção e recuperação da saúde e a organização dos serviços de saúde, regulamentando o SUS.",
+    "explicacoes": {
+      "A": "Lei 12.845/2013 dispõe sobre o atendimento obrigatório e integral de pessoas em situação de violência sexual — não é a lei orgânica do SUS.",
+      "B": "Lei 13.427/2017 não corresponde à ementa descrita — não é a lei orgânica do SUS.",
+      "D": "Lei 10.861/2004 instituiu o SINAES (avaliação do ensino superior) — data e ementa não correspondem.",
+      "E": "Lei 11.129/2005 criou o ProJovem e o Conselho Nacional da Juventude — não tem relação com a organização do SUS."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q16",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "A cardioversão elétrica é um procedimento terapêutico que consiste na aplicação de uma corrente elétrica contínua no músculo cardíaco. Dentre as situações listadas a seguir, em qual ela é indicada? Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "Traumatismo craniano."},
+      {"letra": "B", "texto": "Dor precordial."},
+      {"letra": "C", "texto": "Fibrilação ventricular e taquicardia ventricular sem pulso."},
+      {"letra": "D", "texto": "Aneurisma de aorta abdominal."},
+      {"letra": "E", "texto": "Fibrilação atrial e flutter atrial."}
+    ],
+    "gabarito": "E",
+    "justificativa": "A cardioversão elétrica sincronizada é indicada para arritmias com pulso como fibrilação atrial e flutter atrial. A fibrilação ventricular e TV sem pulso requerem DESFIBRILAÇÃO (choque não sincronizado), que é diferente da cardioversão.",
+    "explicacoes": {
+      "A": "Traumatismo craniano é uma emergência neurológica — não tem indicação de cardioversão elétrica.",
+      "B": "Dor precordial pode ter diversas causas — não é indicação de cardioversão por si só.",
+      "C": "FV e TV sem pulso são indicações de DESFIBRILAÇÃO (não sincronizada) — não de cardioversão sincronizada.",
+      "D": "Aneurisma de aorta é emergência cirúrgica vascular — sem relação com cardioversão elétrica."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q19",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "tecnicas",
+    "enunciado": "O conhecimento da fisiologia da regulação da temperatura corporal é essencial para acessar e avaliar a resposta do cliente a alterações da temperatura e realizar intervenções de forma segura. Uma temperatura corporal elevada relacionada com a incapacidade do organismo de promover perda de calor ou de reduzir sua produção (POTTER, 2009) denomina-se (assinale a alternativa CORRETA):",
+    "alternativas": [
+      {"letra": "A", "texto": "Hipertermia"},
+      {"letra": "B", "texto": "Insolação"},
+      {"letra": "C", "texto": "Febre"},
+      {"letra": "D", "texto": "Exaustão Térmica"},
+      {"letra": "E", "texto": "Hipotermia"}
+    ],
+    "gabarito": "A",
+    "justificativa": "Hipertermia é o aumento da temperatura corporal por incapacidade do organismo de perder calor ou reduzir sua produção, sem envolvimento do centro termorregulador hipotalâmico (diferente da febre, que é mediada por pirógenos).",
+    "explicacoes": {
+      "B": "Insolação é uma forma grave de hipertermia por exposição ao sol/calor intenso — é um subtipo, não o conceito geral.",
+      "C": "Febre é a elevação da temperatura por ação de pirógenos no hipotálamo — envolve o centro termorregulador, diferente da hipertermia.",
+      "D": "Exaustão térmica é uma síndrome por perda de fluidos/eletrólitos pelo calor — sem necessariamente temperatura muito elevada.",
+      "E": "Hipotermia é a temperatura corporal abaixo do normal (< 35°C) — oposto do descrito."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q20",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "Os hormônios ovarianos causam alterações cíclicas nas estruturas do aparelho genital, notadamente no endométrio. O ciclo menstrual pode ser dividido em quatro fases. Sobre a fase em que 'a progesterona induz o entortilhamento das glândulas, que passam a segregar em abundância, e o edema do estroma' (MONTENEGRO, REZENDE FILHO, 2017), assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "Fase menstrual"},
+      {"letra": "B", "texto": "Fase proliferativa"},
+      {"letra": "C", "texto": "Fase secretória ou progestacional"},
+      {"letra": "D", "texto": "Fase isquêmica ou pré-menstrual"},
+      {"letra": "E", "texto": "Fase folicular"}
+    ],
+    "gabarito": "C",
+    "justificativa": "A fase secretória (ou progestacional/lútea) é caracterizada pela ação da progesterona sobre o endométrio, causando entortilhamento das glândulas, secreção abundante e edema do estroma, preparando o endométrio para a implantação do ovo.",
+    "explicacoes": {
+      "A": "Fase menstrual é a descamação do endométrio — ocorre quando não há implantação.",
+      "B": "Fase proliferativa é dominada pelo estrogênio — ocorre crescimento do endométrio sem a ação da progesterona.",
+      "D": "Fase isquêmica/pré-menstrual ocorre pela queda de progesterona, com vasoconstrição e início da descamação.",
+      "E": "Fase folicular é do ciclo ovariano (maturação do folículo) — corresponde à fase proliferativa no endométrio."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q21",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "A hemorragia, segundo Montenegro e Rezende Filho (2017) é ainda a segunda causa de morte materna direta no Brasil, seguida apenas da hipertensão. A conduta ativa no secundamento consiste em intervenções destinadas a aumentar a contratilidade uterina e, assim, evitar a hemorragia pós-parto por atonia. Assinale a alternativa CORRETA quanto às intervenções que ajudam a evitar a hemorragia pós-parto.",
+    "alternativas": [
+      {"letra": "A", "texto": "Administração de agentes uterotônicos; Ligadura precoce do cordão; Tração controlada do cordão; Massagem uterina após o secundamento."},
+      {"letra": "B", "texto": "Alongamento do cordão protruso através da vulva; Elevação do fundo do útero acima do umbigo, que se torna duro e globular."},
+      {"letra": "C", "texto": "Posições que modificam a amplitude da bacia; flexão moderada da perna sobre a coxa, e dessa sobre o tronco (posição de Bonnaire-Bué); exagero da flexão que aumenta o diâmetro anteroposterior do estreito inferior."},
+      {"letra": "D", "texto": "Ativação imune decidual, quimiotaxia, ativação de leucócitos e de células."},
+      {"letra": "E", "texto": "Pinçamento ou ligadura do funículo, próximo à vulva, que dela se distancia com o progresso de migração placentária (sinal de Ahfeld)."}
+    ],
+    "gabarito": "A",
+    "justificativa": "A conduta ativa no secundamento para prevenir hemorragia pós-parto inclui: uterotônicos (ocitocina), ligadura precoce do cordão, tração controlada do cordão umbilical e massagem uterina após a saída da placenta. Essas são as quatro intervenções preconizadas pela OMS.",
+    "explicacoes": {
+      "B": "Descreve sinais clínicos de descolamento placentário (sinal de Küstner/Ahlfeld) — não a conduta ativa completa.",
+      "C": "Descreve manobras obstétricas para distocias de apresentação — não tem relação com prevenção de hemorragia pós-parto.",
+      "D": "Descreve processos imunológicos da decídua — não são intervenções clínicas do secundamento.",
+      "E": "Descreve especificamente o sinal de Ahfeld (migração placentária) — não é a conduta ativa completa para prevenção de hemorragia."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q22",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "Conforme os Protocolos de Intervenção para o SAMU 192 (BRASIL, 2016), em que situação é indicado realizar a 'Escala de coma de Glasgow'? Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "Como parte da avaliação secundária e sempre que necessário para a avaliação e monitoramento do resultado das intervenções realizadas e da evolução do quadro clínico."},
+      {"letra": "B", "texto": "Na suspeita de hipotermia."},
+      {"letra": "C", "texto": "Em todas as situações de suspeita clínica de acidente vascular cerebral (AVC)."},
+      {"letra": "D", "texto": "Na suspeita de hemorragia abdominal."},
+      {"letra": "E", "texto": "Na avaliação neurológica para determinar o nível de consciência e detectar precocemente alterações."}
+    ],
+    "gabarito": "E",
+    "justificativa": "Segundo os Protocolos SAMU 192, a Escala de Glasgow é indicada na avaliação neurológica para determinar o nível de consciência e detectar precocemente alterações — função primária e mais abrangente desta escala.",
+    "explicacoes": {
+      "A": "A Glasgow pode ser usada na avaliação secundária e no monitoramento, mas sua indicação principal é a avaliação neurológica — a alternativa E descreve melhor a indicação primária.",
+      "B": "Na hipotermia, a avaliação neurológica é importante, mas a indicação da Glasgow não se restringe a esse cenário.",
+      "C": "No AVC, a Glasgow é utilizada, mas a indicação não é exclusiva do AVC.",
+      "D": "Hemorragia abdominal não é indicação primária para Glasgow — o foco seria sinais hemodinâmicos."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q24",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "Quanto às definições das formas de abortamento, ao ler o enunciado 'o colo está dilatado, mas o produto da concepção não foi eliminado' (MONTENEGRO; REZENDE FILHO, 2017), a que forma de abortamento se refere? Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "Abortamento completo."},
+      {"letra": "B", "texto": "Abortamento inevitável."},
+      {"letra": "C", "texto": "Ameaça de abortamento."},
+      {"letra": "D", "texto": "Abortamento incompleto."},
+      {"letra": "E", "texto": "Abortamento retido."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Abortamento inevitável: colo dilatado, mas o produto ainda não foi eliminado — a perda é certa (inevitável). Distingue-se do incompleto (parte já foi eliminada) e do completo (tudo foi eliminado).",
+    "explicacoes": {
+      "A": "Abortamento completo: todo o produto da concepção já foi eliminado — colo pode estar se fechando.",
+      "C": "Ameaça de abortamento: sangramento com colo fechado — produto ainda não está sendo perdido.",
+      "D": "Abortamento incompleto: parte do produto foi eliminada, parte ainda está retida — colo aberto com restos.",
+      "E": "Abortamento retido: óvulo morto retido na cavidade uterina, colo fechado, sem eliminação."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q25",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "A equipe de emergência recebe um chamado; no local, paciente apresenta-se irresponsivo ao estímulo, com respiração agônica ou ausente, sem pulso central palpável. Uma das condutas é iniciar a RCP (Reanimação Cardiopulmonar). Assinale a alternativa CORRETA quanto aos ciclos de reanimação, previsto nos Protocolos de Intervenção para o SAMU 192 (BRASIL, 2016).",
+    "alternativas": [
+      {"letra": "A", "texto": "Iniciar RCP pelas compressões torácicas, mantendo ciclos de: 30 compressões eficientes (na frequência de 100 a 120/min, deprimindo o tórax em 5 a 6 cm com completo retorno)."},
+      {"letra": "B", "texto": "Iniciar RCP pelas compressões torácicas, mantendo ciclos de: 30 compressões eficientes (na frequência de 80 a 100/min, deprimindo o tórax em 5 a 6 cm com completo retorno)."},
+      {"letra": "C", "texto": "Iniciar RCP pelas compressões torácicas, mantendo ciclos de: 20 compressões eficientes (na frequência de 120 a 150/min, deprimindo o tórax em 5 a 6 cm com completo retorno)."},
+      {"letra": "D", "texto": "Iniciar RCP pelas compressões torácicas, mantendo ciclos de: 30 compressões eficientes (na frequência de 100 a 100/min, deprimindo o tórax em 5 a 6 cm com completo retorno)."},
+      {"letra": "E", "texto": "Iniciar RCP pelas compressões torácicas, mantendo ciclos de: 10 compressões eficientes (na frequência de 80 a 100/min, deprimindo o tórax em 5 a 6 cm com completo retorno)."}
+    ],
+    "gabarito": "A",
+    "justificativa": "Conforme as diretrizes AHA e Protocolos SAMU 192: RCP com 30 compressões torácicas eficientes a 100-120 compressões/min, deprimindo o tórax 5-6 cm com completo retorno do tórax entre as compressões, seguidas de 2 ventilações.",
+    "explicacoes": {
+      "B": "A frequência correta é 100-120/min — não 80-100/min (muito lenta).",
+      "C": "São 30 compressões por ciclo — não 20; e a frequência de 120-150/min está acima do recomendado.",
+      "D": "'100 a 100/min' é redundante e incorreto — a faixa é 100 a 120/min.",
+      "E": "10 compressões por ciclo é insuficiente — a proporção correta é 30 compressões para 2 ventilações."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q28",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "A hiperêmese gravídica é uma condição que requer atenção dos profissionais da saúde, uma vez que a gestante pode vomitar muitas vezes, e pode ficar desidratada. Nesse caso, qual das medicações a seguir pode ser administrada? Assinale a alternativa CORRETA.",
+    "alternativas": [
+      {"letra": "A", "texto": "Chás caseiros."},
+      {"letra": "B", "texto": "Hidroclorotiazida."},
+      {"letra": "C", "texto": "Sulfato Ferroso."},
+      {"letra": "D", "texto": "Talidomida."},
+      {"letra": "E", "texto": "Metoclopramida."}
+    ],
+    "gabarito": "E",
+    "justificativa": "A metoclopramida é antiemético seguro na gestação, indicado para o tratamento da hiperêmese gravídica. Age bloqueando receptores dopaminérgicos, reduzindo náuseas e vômitos.",
+    "explicacoes": {
+      "A": "Chás caseiros não têm eficácia comprovada e alguns podem ser teratogênicos — não são indicação formal.",
+      "B": "Hidroclorotiazida é diurético — contraindicada na hiperêmese, pois agravaria a desidratação.",
+      "C": "Sulfato ferroso é suplemento de ferro — não trata vômitos; pode até piorar náuseas.",
+      "D": "Talidomida é TERMINANTEMENTE CONTRAINDICADA na gestação — causa graves malformações fetais (focomelia)."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q30",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "A Punção intraóssea é indicada em que situação? (BRASIL, 2016). Assinale a alternativa CORRETA.",
+    "alternativas": [
+      {"letra": "A", "texto": "Necessidade de acesso vascular quando a obtenção do acesso venoso periférico não for possível de imediato ou após três tentativas sem sucesso de acesso venoso periférico."},
+      {"letra": "B", "texto": "Necessidade de via de acesso para infusão de soluções e/ou medicamentos e quaisquer outras situações, conforme indicação do protocolo e/ou sob ordem do médico na cena ou médico regulador."},
+      {"letra": "C", "texto": "Em pacientes que necessitem de avaliação do funcionamento ou comprometimento ventilatório ou cardiovascular."},
+      {"letra": "D", "texto": "Em pacientes com hipoxemia moderada a grave, sugestiva de DPOC, que necessitam de controle rigoroso da oferta de O2."},
+      {"letra": "E", "texto": "Em situações de ferimentos ou lesões com sangramentos externos visíveis observados durante a avaliação inicial."}
+    ],
+    "gabarito": "A",
+    "justificativa": "A punção intraóssea é indicada quando não é possível obter acesso venoso periférico de imediato ou após três tentativas sem sucesso. É via de emergência que permite infusão rápida de medicamentos e fluidos.",
+    "explicacoes": {
+      "B": "Necessidade de acesso para infusão em quaisquer situações descreve o acesso venoso periférico rotineiro — não a indicação específica da intraóssea.",
+      "C": "Avaliação ventilatória/cardiovascular não tem relação com indicação de punção intraóssea.",
+      "D": "Hipoxemia em DPOC é indicação de oxigenioterapia — não de punção intraóssea.",
+      "E": "Sangramentos externos visíveis são tratados com compressão direta e torniquete — não com punção intraóssea."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q31",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "tecnicas",
+    "enunciado": "Segundo Kurcgant et al. (1991), o processo administrativo desempenhado pelos enfermeiros nos serviços de saúde se constitui em cinco funções. Assinale a alternativa CORRETA quanto a essas funções:",
+    "alternativas": [
+      {"letra": "A", "texto": "Planejamento, Estratégia, Direção, Coordenação e Monitoramento."},
+      {"letra": "B", "texto": "Planejamento, Organização, Direção, Coordenação e Controle."},
+      {"letra": "C", "texto": "Planejamento, Cuidar, Dirigir, Ensinar e Controlar."},
+      {"letra": "D", "texto": "Supervisão, Comunicação, Dimensionamento de Pessoal, Organização e Controle."},
+      {"letra": "E", "texto": "Administração, Gerenciamento de materiais, Gerenciamento de recursos humanos, Coordenação e Controle."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Kurcgant (1991) define as cinco funções do processo administrativo de enfermagem como: Planejamento, Organização, Direção, Coordenação e Controle — clássicas funções da administração aplicadas à gestão dos serviços de enfermagem.",
+    "explicacoes": {
+      "A": "'Estratégia' e 'Monitoramento' não constam entre as cinco funções clássicas de Kurcgant.",
+      "C": "'Cuidar' e 'Ensinar' são funções assistenciais e educativas — não funções do processo administrativo.",
+      "D": "'Supervisão', 'Comunicação' e 'Dimensionamento de Pessoal' são ferramentas — não as cinco funções do processo administrativo.",
+      "E": "'Gerenciamento de materiais' e 'RH' são subfunções — não as cinco funções clássicas do processo administrativo."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q32",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "Quanto à triagem e classificação de risco nos serviços de urgência e emergência no Brasil, a escala mais utilizada é (assinale a alternativa CORRETA):",
+    "alternativas": [
+      {"letra": "A", "texto": "Escala Global de Hamilton."},
+      {"letra": "B", "texto": "Escala de Morse."},
+      {"letra": "C", "texto": "Sistema de triagem de Manchester."},
+      {"letra": "D", "texto": "Escala Global de Hamilton."},
+      {"letra": "E", "texto": "Escala de Aldrete e Kroulik."}
+    ],
+    "gabarito": "C",
+    "justificativa": "O Sistema de Triagem de Manchester (STM) é o protocolo mais utilizado nos serviços de urgência e emergência no Brasil, classificando pacientes em 5 categorias por cor: vermelho (emergência), laranja (muito urgente), amarelo (urgente), verde (pouco urgente) e azul (não urgente).",
+    "explicacoes": {
+      "A": "A Escala de Hamilton avalia ansiedade e depressão — usada em saúde mental, não em triagem de urgências.",
+      "B": "A Escala de Morse avalia risco de quedas — não é protocolo de triagem em urgências.",
+      "D": "Repete a alternativa A — Escala de Hamilton, que não é de triagem em urgências.",
+      "E": "Aldrete e Kroulik avalia recuperação pós-anestésica (critérios de alta da SRPA) — não triagem de urgências."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q33",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "O atendimento a acidentes com múltiplas vítimas é um desafio com o qual os serviços de atendimentos pré-hospitalares e os hospitais se deparam com frequência. Uma das táticas de triagem adotada obedece à técnica denominada START (simples triagem e rápido tratamento), por ser um método simples, que se baseia na avaliação da respiração, circulação e nível de consciência, dividindo as vítimas em prioridades e utiliza cartões coloridos. Nesse sentido, com relação às vítimas que não apresentam risco de vida imediato, mas necessitam de algum tipo de tratamento no local enquanto aguardam transporte ao hospital, que cartão elas receberam? Assinale a alternativa CORRETA.",
+    "alternativas": [
+      {"letra": "A", "texto": "Cartão Preto."},
+      {"letra": "B", "texto": "Cartão Vermelho."},
+      {"letra": "C", "texto": "Cartão Amarelo."},
+      {"letra": "D", "texto": "Cartão Verde."},
+      {"letra": "E", "texto": "Cartão Branco"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Na triagem START, o cartão AMARELO (segunda prioridade) identifica vítimas que não apresentam risco de vida imediato, mas necessitam de tratamento no local enquanto aguardam transporte — podem esperar até 30-60 minutos.",
+    "explicacoes": {
+      "A": "Cartão PRETO: vítimas sem sinais de vida ou com lesões incompatíveis com a sobrevivência — óbito ou expectante.",
+      "B": "Cartão VERMELHO (primeira prioridade): vítimas com risco de vida imediato que precisam de atendimento em minutos.",
+      "D": "Cartão VERDE (terceira prioridade): vítimas com lesões menores que podem caminhar e aguardar mais tempo.",
+      "E": "Cartão BRANCO não existe na triagem START convencional."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q34",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "A avaliação primária no atendimento ao paciente com suspeita de trauma segue, conforme os Protocolos de Intervenção para o SAMU 192 (BRASIL, 2016), uma sequência fixa de passos estabelecida cientificamente. Assinale a alternativa CORRETA quanto à sequência dos passos a ser seguida pela equipe:",
+    "alternativas": [
+      {"letra": "A", "texto": "1) Vias aéreas com controle cervical; 2) Respiração (existente e qualidade); 3) Circulação com controle de hemorragias; 4) Estado neurológico; 5) Exposição da vítima (para abordagem secundária)."},
+      {"letra": "B", "texto": "1) Estado neurológico; 2) Respiração (existente e qualidade); 3) Circulação com controle de hemorragias; 4) Vias aéreas com controle cervical; 5) Exposição da vítima (para abordagem secundária)."},
+      {"letra": "C", "texto": "1) Exposição da vítima (para abordagem secundária); 2) Respiração (existente e qualidade); 3) Circulação com controle de hemorragias; 4) Vias aéreas com controle cervical; 5) Estado neurológico."},
+      {"letra": "D", "texto": "1) Circulação com controle de hemorragias; 2) Respiração (existente e qualidade); 3) Exposição da vítima (para abordagem secundária); 4) Vias aéreas com controle cervical; 5) Estado neurológico."},
+      {"letra": "E", "texto": "1) Respiração (existente e qualidade); 2) Vias aéreas com controle cervical; 3) Exposição da vítima (para abordagem secundária); 4) Circulação com controle de hemorragias; 5) Estado neurológico."}
+    ],
+    "gabarito": "A",
+    "justificativa": "A sequência ABCDE do ATLS/SAMU 192: A) Airway (Vias aéreas + controle cervical), B) Breathing (Respiração), C) Circulation (Circulação + hemorragia), D) Disability (Estado neurológico), E) Exposure (Exposição). Essa ordem é prioritária e não pode ser alterada.",
+    "explicacoes": {
+      "B": "Colocar estado neurológico primeiro é incorreto — sem via aérea pérvia, a avaliação neurológica é inútil.",
+      "C": "Exposição é o último passo — realizá-la primeiro expõe o paciente sem que as prioridades vitais sejam estabelecidas.",
+      "D": "Circulação antes de vias aéreas e respiração é incorreto — sem vias aéreas abertas e ventilação, não há circulação efetiva.",
+      "E": "Respiração antes de vias aéreas é ilógico — sem garantir via aérea pérvia, a avaliação da respiração é ineficaz."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q35",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "bio",
+    "enunciado": "O trabalhador tem algumas responsabilidades quanto aos Equipamentos de Proteção Individual (EPIs), e, de acordo com a NR-06, a seleção dos EPIs deve considerar o uso de óculos de segurança de sobrepor em conjunto com lentes corretivas ou a adaptação do EPI. Assinale a alternativa INCORRETA quanto às responsabilidades do trabalhador.",
+    "alternativas": [
+      {"letra": "A", "texto": "Usar o fornecido pela organização."},
+      {"letra": "B", "texto": "Utilizar apenas para a finalidade a que se destina."},
+      {"letra": "C", "texto": "Responsabilizar-se pela limpeza."},
+      {"letra": "D", "texto": "Responsabilizar-se pela guarda e conservação."},
+      {"letra": "E", "texto": "Comprar os EPIs, sempre que necessário."}
+    ],
+    "gabarito": "E",
+    "justificativa": "A NR-06 determina que é obrigação do EMPREGADOR fornecer gratuitamente o EPI adequado ao risco — NUNCA é responsabilidade do trabalhador comprar os EPIs. O trabalhador deve usar, guardar, conservar e comunicar qualquer defeito.",
+    "explicacoes": {
+      "A": "Correto — o trabalhador deve usar o EPI fornecido pela organização.",
+      "B": "Correto — o EPI deve ser usado apenas para a finalidade para a qual foi aprovado.",
+      "C": "Correto — o trabalhador é responsável pela higienização do EPI conforme orientação do fabricante.",
+      "D": "Correto — guardar e conservar adequadamente o EPI é obrigação do trabalhador."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q37",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "Os fatores de risco que as crianças enfrentam para seu desenvolvimento são classificados em dois grupos: Biológicos e Ambientais. Os fatores Biológicos são divididos em pré, peri e pós-natais. Assinale a alternativa que apresenta os fatores de risco mais comuns relacionados ao período neonatal (COLLET; OLIVEIRA; VIEIRA, 2013).",
+    "alternativas": [
+      {"letra": "A", "texto": "Má nutrição da mãe; Falta no Pré-natal; Prematuridade."},
+      {"letra": "B", "texto": "Sepsis; Convulsões, Hemorragia Intracraniana; Encefalopatia Hipóxico-isquêmica."},
+      {"letra": "C", "texto": "Eclampsia; Hipóxia; Doenças maternas."},
+      {"letra": "D", "texto": "Eclampsia; Falta no Pré-natal; Prematuridade."},
+      {"letra": "E", "texto": "Moradia; Desigualdades sociais; Mães solteiras."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Os fatores de risco biológicos do período NEONATAL (pós-natal imediato) incluem: sepsis neonatal, convulsões, hemorragia intracraniana e encefalopatia hipóxico-isquêmica — condições que ocorrem após o nascimento e afetam o desenvolvimento neurológico.",
+    "explicacoes": {
+      "A": "Má nutrição materna, falta de pré-natal e prematuridade são fatores pré-natais (risco durante a gestação) — não especificamente neonatais.",
+      "C": "Eclampsia, hipóxia e doenças maternas são fatores perinatais (do parto) — não especificamente neonatais.",
+      "D": "Eclampsia e pré-natal são fatores pré/perinatais — mistura incorreta de períodos.",
+      "E": "Moradia, desigualdades sociais e estado civil da mãe são fatores AMBIENTAIS — não biológicos neonatais."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q38",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "Fraturas ocorrem quando a resistência do osso ao estresse que está sendo exercido cede a força de tensão. As fraturas em crianças são consequência de acidentes traumáticos em casa, na escola, num veículo motorizado ou em associação a atividades recreativas. Os tipos de fraturas em crianças são: Arqueamento, fivela, galho verde, completa, dobradiça e perióstea (COLLET; OLIVEIRA; VIEIRA, 2013). Assinale a alternativa CORRETA que corresponde à seguinte fratura infantil: 'Ocorre quando um osso sofre angulação além dos limites do arqueamento'.",
+    "alternativas": [
+      {"letra": "A", "texto": "Arqueamento."},
+      {"letra": "B", "texto": "Fivela."},
+      {"letra": "C", "texto": "Dobradiça perióstea."},
+      {"letra": "D", "texto": "Galho verde."},
+      {"letra": "E", "texto": "Completa."}
+    ],
+    "gabarito": "D",
+    "justificativa": "A fratura em galho verde (greenstick) ocorre quando o osso sofre angulação além dos limites do arqueamento plástico, quebrando em um lado mas mantendo continuidade no outro — como ao dobrar um galho verde de árvore. É típica em crianças pelo osso mais flexível.",
+    "explicacoes": {
+      "A": "Arqueamento: o osso curva sem fraturar — deformação plástica dentro dos limites de elasticidade óssea.",
+      "B": "Fivela (torus): compressão que causa enrugamento da córtex óssea sem fratura completa — típica de quedas sobre o punho.",
+      "C": "Dobradiça perióstea (greenstick incompleta): fratura de um lado com o periósteo intacto no outro — semelhante ao galho verde mas com periósteo preservado.",
+      "E": "Fratura completa: rompimento completo do osso em dois ou mais fragmentos — sem continuidade óssea."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q39",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "Assinale a alternativa CORRETA quanto à indicação para o uso da Cânula Orofaríngea (COF), segundo os Protocolos de Intervenção para o SAMU 192 (BRASIL, 2016).",
+    "alternativas": [
+      {"letra": "A", "texto": "Em paciente inconsciente sem reflexo de vômito ou tosse, incapaz de manter a via aérea permeável."},
+      {"letra": "B", "texto": "Em pacientes conscientes, com respiração espontânea e leve desconforto respiratório, que necessitam de baixo fluxo de oxigênio."},
+      {"letra": "C", "texto": "Em paciente incapaz de eliminar de maneira eficiente o acúmulo de secreções, sangue ou corpos estranhos das vias aéreas superiores."},
+      {"letra": "D", "texto": "Em paciente inconsciente, apresentando vômito ou tosse, incapaz de manter a via aérea permeável."},
+      {"letra": "E", "texto": "Em pacientes com importante desconforto respiratório, que necessitam de altas concentrações de O2."}
+    ],
+    "gabarito": "A",
+    "justificativa": "A Cânula Orofaríngea (Guedel) é indicada apenas em paciente inconsciente SEM reflexo de vômito ou tosse — o reflexo preservado causaria laringoespasmo e vômito. Em pacientes conscientes ou com reflexo, é contraindicada.",
+    "explicacoes": {
+      "B": "Pacientes conscientes com desconforto leve recebem cateter nasal ou máscara de O2 — a COF não pode ser usada em pacientes conscientes.",
+      "C": "Para eliminar secreções das vias aéreas usa-se aspiração — não é indicação da COF.",
+      "D": "Presença de reflexo de vômito ou tosse é CONTRAINDICAÇÃO da COF — estimularia vômito e aspiração.",
+      "E": "Altas concentrações de O2 são ofertadas por máscara com reservatório — não pela COF, que é dispositivo de vias aéreas."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q41",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "Conforme os Protocolos de Intervenção para o SAMU 192 (BRASIL, 2016), para o controle de hemorragias, em que situação a compressão direta da lesão é indicada? Assinale a alternativa CORRETA.",
+    "alternativas": [
+      {"letra": "A", "texto": "Ferimentos com sangramentos internos."},
+      {"letra": "B", "texto": "Em todas as situações de suspeita clínica de acidente vascular cerebral."},
+      {"letra": "C", "texto": "Na suspeita de parada cardíaca ou parada cardiorrespiratória, ou na presença de instabilidade do quadro do paciente."},
+      {"letra": "D", "texto": "Ferimentos ou lesões com sangramentos externos visíveis observados durante a avaliação inicial."},
+      {"letra": "E", "texto": "Em pacientes com ferimentos e apresentando agitação."}
+    ],
+    "gabarito": "D",
+    "justificativa": "A compressão direta é a técnica de primeira escolha para controle de sangramentos externos visíveis, aplicada durante a avaliação inicial (C do ABCDE). Para sangramentos internos, não há acesso direto.",
+    "explicacoes": {
+      "A": "Sangramentos internos não são acessíveis à compressão direta — requerem intervenção cirúrgica.",
+      "B": "AVC não cursa com sangramento externo — não há indicação de compressão direta.",
+      "C": "Na PCR, a prioridade é RCP — não compressão de ferimentos.",
+      "E": "Agitação não é indicação de compressão direta — pode ser sintoma de hipóxia, dor ou intoxicação."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q42",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "mulher",
+    "enunciado": "Sepse e choque séptico são fases evolutivas de quadros infecciosos que acabam levando a um comprometimento da perfusão de múltiplos órgãos, podendo provocar a disfunção dos órgãos e morte. Assinale a alternativa CORRETA quanto aos principais focos infecciosos que levam aos quadros sépticos em gestantes e puérperas.",
+    "alternativas": [
+      {"letra": "A", "texto": "As infecções gastrointestinais."},
+      {"letra": "B", "texto": "As infecções por bactérias piodermites."},
+      {"letra": "C", "texto": "As infecções por distúrbios nutricionais."},
+      {"letra": "D", "texto": "As infecções do trato geniturinário."},
+      {"letra": "E", "texto": "As infecções sanguíneas."}
+    ],
+    "gabarito": "D",
+    "justificativa": "As infecções do trato geniturinário (ITU, endometrite pós-parto, infecção de ferida cirúrgica da cesariana, corioamnionite) são os principais focos infecciosos que levam à sepse em gestantes e puérperas — devido às alterações anatômicas e imunológicas da gestação.",
+    "explicacoes": {
+      "A": "Infecções gastrointestinais não são os principais focos sépticos na gestação/puerpério.",
+      "B": "Piodermites (infecções de pele) são causas incomuns de sepse em gestantes — não as principais.",
+      "C": "Distúrbios nutricionais não causam infecções — são fatores de risco, não focos infecciosos.",
+      "E": "Infecções sanguíneas (bacteremia/septicemia) são consequência da disseminação — não o foco primário."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q43",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "tecnicas",
+    "enunciado": "Na prática clínica, todos os sistemas relevantes são examinados ao longo do exame físico. A sequência tradicional na porção focalizada do exame físico é? (BRUNNER; SUDDARTH, 2016). Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "Palpação; Inspeção; Percussão e Ausculta."},
+      {"letra": "B", "texto": "Palpação; Percussão; Inspeção e Ausculta."},
+      {"letra": "C", "texto": "Inspeção; Palpação; Percussão e Ausculta."},
+      {"letra": "D", "texto": "Ausculta; Palpação; Percussão e Inspeção."},
+      {"letra": "E", "texto": "Percussão; Inspeção; Palpação e Ausculta."}
+    ],
+    "gabarito": "C",
+    "justificativa": "A sequência clássica do exame físico é: Inspeção (observação visual), Palpação (toque), Percussão (percutir para avaliar sons) e Ausculta (sons com estetoscópio). No abdome, a ausculta precede a percussão e palpação para não alterar os ruídos intestinais.",
+    "explicacoes": {
+      "A": "Iniciar pela palpação antes da inspeção inverte a sequência lógica — observa-se antes de tocar.",
+      "B": "Palpação antes de inspeção e percussão antes de ausculta está fora da sequência tradicional.",
+      "D": "Iniciar pela ausculta é específico do abdome — não é a sequência geral do exame físico.",
+      "E": "Percussão antes de inspeção inverte completamente a sequência lógica do exame físico."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q44",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Quanto à assistência de enfermagem ao paciente com história de DPOC com sinais e sintomas respiratórios, sugestivos de exacerbação: piora da dispneia, aumento da produção de escarro e/ou alteração de sua característica (purulento), segundo os Protocolos de Intervenção para o SAMU 192 (BRASIL, 2016), é CORRETO:",
+    "alternativas": [
+      {"letra": "A", "texto": "Iniciar abordagem medicamentosa após chegar ao hospital."},
+      {"letra": "B", "texto": "Corrigir a hipoxemia: oferecer O2 suplementar com cautela se SatO2 < 85 a 1-3 l/min."},
+      {"letra": "C", "texto": "Corrigir a hipoxemia: oferecer O2 suplementar com cautela se SatO2 < 90% a 1-3 l/min."},
+      {"letra": "D", "texto": "Iniciar abordagem medicamentosa: Salbutamol aerossol dosimetrado acoplado a espaçador e máscara: 4 a 8 jatos, com espaçador a cada 10-20 min (até 2 repetições)."},
+      {"letra": "E", "texto": "Na crise grave associar: Brometo de Ipratrópio: 20 gotas por nebulização com Fenoterol ou em nebulização com 5 mL de SF, após Salbutamol aerossol."}
+    ],
+    "gabarito": "C",
+    "justificativa": "No DPOC em exacerbação, o O2 suplementar é ofertado com cautela quando SatO2 < 90%, a 1-3 L/min, para corrigir hipoxemia sem suprimir o drive ventilatório hipóxico característico desses pacientes.",
+    "explicacoes": {
+      "A": "A abordagem medicamentosa deve ser iniciada no local — não aguardar o hospital, pois o SAMU tem protocolos para iniciar broncodilatadores.",
+      "B": "SatO2 < 85% é muito baixa como limiar — o protocolo indica iniciar O2 com cautela quando < 90%.",
+      "D": "A dose de Salbutamol aerossol descrita (4-8 jatos a cada 10-20 min) está descrita corretamente, mas a alternativa C é a mais abrangente e correta sobre a conduta de O2.",
+      "E": "Ipratrópio em nebulização após salbutamol pode ser usado, mas o protocolo SAMU indica a sequência específica diferente da descrita."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q46",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "O SAMU foi chamado para atender um caso de súbita perda da consciência, acompanhada de contrações musculares involuntárias, cianose, sialorreia, lábios e dentes cerrados. Sobre as crises convulsivas (BRASIL, 2016), é CORRETO:",
+    "alternativas": [
+      {"letra": "A", "texto": "A crise convulsiva ou epiléptica pode ser uma manifestação de um processo patológico sistêmico irreversível ou de uma disfunção inerente ao Sistema Nervoso Central."},
+      {"letra": "B", "texto": "O estado de mal epiléptico é a ocorrência de crises epilépticas prolongadas (acima de 10 minutos) ou repetitivas, persistindo por 60 minutos ou mais, que não permitem a recuperação da consciência entre os eventos."},
+      {"letra": "C", "texto": "A 'Crise generalizada tônico-clônica' (CGTC) raramente ultrapassa 5 minutos de duração e é a mais comum das manifestações."},
+      {"letra": "D", "texto": "A 'Crise generalizada tônico-clônica' (CGTC) raramente ultrapassa 10 minutos de duração e é a mais comum das manifestações."},
+      {"letra": "E", "texto": "O estado de mal epiléptico é a ocorrência de crises epilépticas prolongadas (acima de 15 minutos) ou repetitivas, persistindo por 30 minutos ou mais, que não permitem a recuperação da consciência entre os eventos."}
+    ],
+    "gabarito": "C",
+    "justificativa": "A CGTC raramente ultrapassa 5 minutos de duração — crises com mais de 5 minutos já indicam necessidade de intervenção medicamentosa. A CGTC é a forma mais reconhecida de manifestação convulsiva na população geral.",
+    "explicacoes": {
+      "A": "Crise convulsiva pode ser manifestação de processo patológico reversível (hipoglicemia, febre) — a afirmativa diz 'irreversível', o que é incorreto.",
+      "B": "Estado de mal epiléptico: crises > 5 min (não 10 min) ou repetitivas por 30 min (não 60 min) sem recuperação entre elas.",
+      "D": "10 minutos é o limiar incorreto — a CGTC raramente ultrapassa 5 minutos.",
+      "E": "Estado de mal epiléptico: início da preocupação com crises > 5 min, e definição operacional de 30 min — a afirmativa menciona 15 min e 30 min, mas com critério inicial incorreto."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q47",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "mental",
+    "enunciado": "Enfermeiro do SAMU chega ao atendimento de uma cena que envolve uma pessoa em situação de sofrimento, com sinais de desespero, angústia, desesperança, em local de risco elevado que possa levar a lesões graves ou à morte. Ela está em um viaduto, dizendo que vai se jogar na frente de um caminhão. Sobre as frases a serem utilizadas para demonstrar uma postura de cuidado, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "'Você não pode estar considerando que acabar com a própria vida é a melhor solução?'"},
+      {"letra": "B", "texto": "'Imagino que o tamanho do seu sofrimento (dor) seja tão grande (insuportável) a ponto de já ter desejado morrer'."},
+      {"letra": "C", "texto": "'Estou aqui para ajudar, mas não posso ficar contigo por muito tempo, outras pessoas podem precisar da minha ajuda, sabe'."},
+      {"letra": "D", "texto": "'É compreensível o que você está sentindo, mas eu não entendo'."},
+      {"letra": "E", "texto": "'Você deve ter fé em Deus e parar de pensar em se matar, a vida é muito bonita'."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A alternativa B demonstra empatia e validação do sofrimento sem julgamento, acolhendo a dor da pessoa e criando vínculo. É a abordagem preconizada para crise suicida — reconhecer o sofrimento sem minimizá-lo ou julgar.",
+    "explicacoes": {
+      "A": "Usar negação ('você não pode...') é invalidante e confrontador — pode gerar resistência na pessoa em crise.",
+      "C": "Dizer que não pode ficar por muito tempo cria abandono e rejeição — o oposto do vínculo necessário na crise suicida.",
+      "D": "Dizer 'não entendo' após 'é compreensível' é contraditório e rompe o vínculo empático.",
+      "E": "Fazer apelos religiosos e minimizar ('a vida é bonita') é julgativo e invalida o sofrimento da pessoa."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q48",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "mental",
+    "enunciado": "Paciente em condição de intenso sofrimento, que se manifesta por meio de desejo, impulso, ideação ou planejamento de atos autolesivos comumente direcionados ao objetivo de levar à morte, a equipe se depara com uma situação de 'Autoagressão e risco de suicídio'. A equipe do serviço móvel utiliza um método para avaliar as condições do ambiente, sujeitos e segurança. Que método é esse? Assinale a alternativa CORRETA, conforme os Protocolos de Intervenção para o SAMU 192 (BRASIL, 2016).",
+    "alternativas": [
+      {"letra": "A", "texto": "Método de SAMPLA."},
+      {"letra": "B", "texto": "Método ACENA."},
+      {"letra": "C", "texto": "Método de AMOSTRA."},
+      {"letra": "D", "texto": "Método de ACOLHIMENTO."},
+      {"letra": "E", "texto": "Método de CRISE."}
+    ],
+    "gabarito": "B",
+    "justificativa": "O método ACENA é utilizado pelo SAMU para avaliação em situações de autoagressão e risco de suicídio, avaliando: Ambiente, Cena, Equipe, sujeito (eNvolto), Abordagem — garantindo segurança antes da aproximação.",
+    "explicacoes": {
+      "A": "SAMPLA é o método de anamnese rápida para avaliação clínica (Sintomas, Alergias, Medicamentos, Passado médico, Líquidos/alimentação, Ambiente) — não específico para crise suicida.",
+      "C": "AMOSTRA é outro mnemônico de anamnese (Alergias, Medicamentos, Outros antecedentes, Sinais/Sintomas, Tratamento, Refeição/Ambiente) — não o método para crise suicida.",
+      "D": "ACOLHIMENTO é uma diretriz de humanização do SUS — não é o método específico do SAMU para avaliação de crise suicida.",
+      "E": "CRISE não é o nome do método protocolar do SAMU para esse tipo de avaliação."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q49",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "emergencias",
+    "enunciado": "Ao atender uma chamada, a equipe do serviço móvel encontra uma criança não reativa e irresponsiva aos estímulos externos, tanto verbais, como táteis e aos sinais dolorosos. Assinale a alternativa CORRETA quanto ao protocolo de suporte avançado de pediatria a ser utilizado (BRASIL, 2016).",
+    "alternativas": [
+      {"letra": "A", "texto": "Rebaixamento do nível de consciência."},
+      {"letra": "B", "texto": "Epistaxe."},
+      {"letra": "C", "texto": "Manejo da dor."},
+      {"letra": "D", "texto": "Febre."},
+      {"letra": "E", "texto": "Queimaduras."}
+    ],
+    "gabarito": "A",
+    "justificativa": "Criança não reativa a estímulos verbais, táteis e dolorosos apresenta rebaixamento do nível de consciência — o protocolo a ser ativado é o de Rebaixamento do Nível de Consciência do suporte avançado de pediatria do SAMU 192.",
+    "explicacoes": {
+      "B": "Epistaxe é sangramento nasal — o protocolo seria de hemorragias, não de consciência.",
+      "C": "Manejo da dor é para pacientes que referem dor — incompatível com criança irresponsiva.",
+      "D": "Febre é temperatura elevada com paciente responsivo — não o quadro descrito.",
+      "E": "Queimaduras envolvem lesão térmica — sem relação com o rebaixamento de consciência descrito."
+    },
+    "fonte": "Concurso CONSAMU — UNIOESTE — 23/10/2022 — Q50",
+    "dificuldade": "facil"
+  }
+]
