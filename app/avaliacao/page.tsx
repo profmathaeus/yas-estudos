@@ -252,8 +252,10 @@ export default function AvaliacaoPage() {
     setTemaSel(tema);
     setModo(false);
     const { data } = await supabase
-      .from("questoes").select("*").eq("tema", tema).limit(10);
-    setQuestoes(shuffle(data ?? []).map(shuffleAlternativas));
+      .from("questoes").select("*").eq("tema", tema);
+    // busca todas do tema → embaralha → pega 10 aleatórias
+    const selecionadas = shuffle(data ?? []).slice(0, 10);
+    setQuestoes(selecionadas.map(shuffleAlternativas));
     setIndice(0);
     setRespostas({});
     setLoading(false);
@@ -264,8 +266,10 @@ export default function AvaliacaoPage() {
     setLoading(true);
     setTemaSel("completa");
     setModo(true);
-    const { data } = await supabase.from("questoes").select("*").limit(60);
-    setQuestoes(shuffle(data ?? []).map(shuffleAlternativas));
+    const { data } = await supabase.from("questoes").select("*");
+    // busca todas → embaralha → pega 60 aleatórias
+    const selecionadas = shuffle(data ?? []).slice(0, 60);
+    setQuestoes(selecionadas.map(shuffleAlternativas));
     setIndice(0);
     setRespostas({});
     setLoading(false);
