@@ -43,15 +43,17 @@ export default function AdminPage() {
 
   // importação JSON — cards
   const [importCards, setImportCards]       = useState<CardImport[]>([]);
+  const [importArquivos, setImportArquivos] = useState<{nome: string; total: number}[]>([]);
   const [importErro, setImportErro]         = useState("");
   const [importSalvando, setImportSalvando] = useState(false);
   const [importSucesso, setImportSucesso]   = useState(0);
 
   // importação JSON — questões
-  const [importQuestoes, setImportQuestoes]       = useState<QuestaoImport[]>([]);
-  const [importQErro, setImportQErro]             = useState("");
-  const [importQSalvando, setImportQSalvando]     = useState(false);
-  const [importQSucesso, setImportQSucesso]       = useState(0);
+  const [importQuestoes, setImportQuestoes]         = useState<QuestaoImport[]>([]);
+  const [importQArquivos, setImportQArquivos]       = useState<{nome: string; total: number}[]>([]);
+  const [importQErro, setImportQErro]               = useState("");
+  const [importQSalvando, setImportQSalvando]       = useState(false);
+  const [importQSucesso, setImportQSucesso]         = useState(0);
 
   const supabase = createClient();
 
@@ -114,24 +116,37 @@ export default function AdminPage() {
   function handleArquivoJSON(e: React.ChangeEvent<HTMLInputElement>) {
     setImportErro("");
     setImportCards([]);
+    setImportArquivos([]);
     setImportSucesso(0);
-    const file = e.target.files?.[0];
-    if (!file) return;
-    const reader = new FileReader();
-    reader.onload = (ev) => {
-      try {
-        const parsed = JSON.parse(ev.target?.result as string);
-        if (!Array.isArray(parsed)) throw new Error("O arquivo deve conter um array JSON.");
-        const validos = parsed.filter(
-          (c) => typeof c.frente === "string" && typeof c.verso === "string"
-        );
-        if (validos.length === 0) throw new Error("Nenhum card válido encontrado. Verifique o formato.");
-        setImportCards(validos);
-      } catch (err) {
-        setImportErro((err as Error).message);
-      }
-    };
-    reader.readAsText(file);
+    const files = Array.from(e.target.files ?? []);
+    if (files.length === 0) return;
+
+    const todos: CardImport[] = [];
+    const resumo: {nome: string; total: number}[] = [];
+    let lidos = 0;
+
+    files.forEach((file) => {
+      const reader = new FileReader();
+      reader.onload = (ev) => {
+        try {
+          const parsed = JSON.parse(ev.target?.result as string);
+          if (!Array.isArray(parsed)) throw new Error(`${file.name}: deve ser um array JSON.`);
+          const validos = parsed.filter(
+            (c) => typeof c.frente === "string" && typeof c.verso === "string"
+          );
+          todos.push(...validos);
+          resumo.push({ nome: file.name, total: validos.length });
+        } catch (err) {
+          setImportErro((err as Error).message);
+        }
+        lidos++;
+        if (lidos === files.length) {
+          setImportCards([...todos]);
+          setImportArquivos([...resumo]);
+        }
+      };
+      reader.readAsText(file);
+    });
     e.target.value = "";
   }
 
@@ -159,30 +174,43 @@ export default function AdminPage() {
   function handleArquivoQuestoes(e: React.ChangeEvent<HTMLInputElement>) {
     setImportQErro("");
     setImportQuestoes([]);
+    setImportQArquivos([]);
     setImportQSucesso(0);
-    const file = e.target.files?.[0];
-    if (!file) return;
-    const reader = new FileReader();
-    reader.onload = (ev) => {
-      try {
-        const parsed = JSON.parse(ev.target?.result as string);
-        if (!Array.isArray(parsed)) throw new Error("O arquivo deve conter um array JSON.");
-        const validas = parsed.filter(
-          (q) =>
-            typeof q.tema === "string" &&
-            typeof q.enunciado === "string" &&
-            Array.isArray(q.alternativas) &&
-            q.alternativas.length >= 2 &&
-            typeof q.gabarito === "string" &&
-            typeof q.justificativa === "string"
-        );
-        if (validas.length === 0) throw new Error("Nenhuma questão válida encontrada. Verifique tema, enunciado, alternativas, gabarito e justificativa.");
-        setImportQuestoes(validas);
-      } catch (err) {
-        setImportQErro((err as Error).message);
-      }
-    };
-    reader.readAsText(file);
+    const files = Array.from(e.target.files ?? []);
+    if (files.length === 0) return;
+
+    const todas: QuestaoImport[] = [];
+    const resumo: {nome: string; total: number}[] = [];
+    let lidos = 0;
+
+    files.forEach((file) => {
+      const reader = new FileReader();
+      reader.onload = (ev) => {
+        try {
+          const parsed = JSON.parse(ev.target?.result as string);
+          if (!Array.isArray(parsed)) throw new Error(`${file.name}: deve ser um array JSON.`);
+          const validas = parsed.filter(
+            (q) =>
+              typeof q.tema === "string" &&
+              typeof q.enunciado === "string" &&
+              Array.isArray(q.alternativas) &&
+              q.alternativas.length >= 2 &&
+              typeof q.gabarito === "string" &&
+              typeof q.justificativa === "string"
+          );
+          todas.push(...validas);
+          resumo.push({ nome: file.name, total: validas.length });
+        } catch (err) {
+          setImportQErro((err as Error).message);
+        }
+        lidos++;
+        if (lidos === files.length) {
+          setImportQuestoes([...todas]);
+          setImportQArquivos([...resumo]);
+        }
+      };
+      reader.readAsText(file);
+    });
     e.target.value = "";
   }
 
@@ -253,8 +281,8 @@ export default function AdminPage() {
 
         <label className="w-full flex items-center justify-center gap-2 px-4 py-3 rounded-xl border-2 border-dashed border-yas-plum/40 hover:border-yas-plum/70 cursor-pointer transition-colors bg-white/40">
           <span className="text-lg">📂</span>
-          <span className="font-body text-sm text-yas-plum font-medium">Escolher arquivo .json</span>
-          <input type="file" accept=".json" className="hidden" onChange={handleArquivoJSON} />
+          <span className="font-body text-sm text-yas-plum font-medium">Escolher arquivos .json</span>
+          <input type="file" accept=".json" multiple className="hidden" onChange={handleArquivoJSON} />
         </label>
 
         {importErro && (
@@ -269,19 +297,34 @@ export default function AdminPage() {
 
         {importCards.length > 0 && (
           <div className="flex flex-col gap-2">
+            {importArquivos.length > 1 && (
+              <div className="flex flex-col gap-1">
+                {importArquivos.map((a) => (
+                  <div key={a.nome} className="flex justify-between items-center">
+                    <span className="font-body text-xs text-yas-ink/60 truncate pr-2">{a.nome}</span>
+                    <span className="font-body text-xs font-semibold text-yas-plum shrink-0">{a.total} cards</span>
+                  </div>
+                ))}
+              </div>
+            )}
             <p className="font-body text-xs font-semibold text-yas-ink/60 uppercase tracking-wide">
-              Preview — {importCards.length} card{importCards.length !== 1 ? "s" : ""}
+              Preview — {importCards.length} card{importCards.length !== 1 ? "s" : ""} de {importArquivos.length} arquivo{importArquivos.length !== 1 ? "s" : ""}
             </p>
-            <div className="flex flex-col gap-1.5 max-h-60 overflow-y-auto pr-1">
-              {importCards.map((c, i) => (
+            <div className="flex flex-col gap-1.5 max-h-48 overflow-y-auto pr-1">
+              {importCards.slice(0, 20).map((c, i) => (
                 <div key={i} className="rounded-lg bg-white border border-yas-ink/10 p-2.5">
                   <p className="font-body text-[10px] text-yas-plum font-semibold uppercase tracking-wide">
                     {c.fonte ?? "—"} · {c.bloco ?? "—"}
                   </p>
                   <p className="font-body text-xs text-yas-ink mt-0.5 font-medium">{c.frente}</p>
-                  <p className="font-body text-xs text-yas-ink/50 mt-0.5 line-clamp-2">{c.verso}</p>
+                  <p className="font-body text-xs text-yas-ink/50 mt-0.5 line-clamp-1">{c.verso}</p>
                 </div>
               ))}
+              {importCards.length > 20 && (
+                <p className="font-body text-xs text-yas-ink/40 text-center py-1">
+                  + {importCards.length - 20} cards não exibidos
+                </p>
+              )}
             </div>
             <button
               onClick={handleImportar}
@@ -305,8 +348,8 @@ export default function AdminPage() {
 
         <label className="w-full flex items-center justify-center gap-2 px-4 py-3 rounded-xl border-2 border-dashed border-yas-burgundy/40 hover:border-yas-burgundy/70 cursor-pointer transition-colors bg-white/40">
           <span className="text-lg">📝</span>
-          <span className="font-body text-sm text-yas-burgundy font-medium">Escolher arquivo .json de questões</span>
-          <input type="file" accept=".json" className="hidden" onChange={handleArquivoQuestoes} />
+          <span className="font-body text-sm text-yas-burgundy font-medium">Escolher arquivos .json de questões</span>
+          <input type="file" accept=".json" multiple className="hidden" onChange={handleArquivoQuestoes} />
         </label>
 
         {importQErro && (
@@ -321,11 +364,21 @@ export default function AdminPage() {
 
         {importQuestoes.length > 0 && (
           <div className="flex flex-col gap-2">
+            {importQArquivos.length > 1 && (
+              <div className="flex flex-col gap-1">
+                {importQArquivos.map((a) => (
+                  <div key={a.nome} className="flex justify-between items-center">
+                    <span className="font-body text-xs text-yas-ink/60 truncate pr-2">{a.nome}</span>
+                    <span className="font-body text-xs font-semibold text-yas-burgundy shrink-0">{a.total} questões</span>
+                  </div>
+                ))}
+              </div>
+            )}
             <p className="font-body text-xs font-semibold text-yas-ink/60 uppercase tracking-wide">
-              Preview — {importQuestoes.length} questão{importQuestoes.length !== 1 ? "ões" : ""}
+              Preview — {importQuestoes.length} questão{importQuestoes.length !== 1 ? "ões" : ""} de {importQArquivos.length} arquivo{importQArquivos.length !== 1 ? "s" : ""}
             </p>
-            <div className="flex flex-col gap-1.5 max-h-60 overflow-y-auto pr-1">
-              {importQuestoes.map((q, i) => (
+            <div className="flex flex-col gap-1.5 max-h-48 overflow-y-auto pr-1">
+              {importQuestoes.slice(0, 20).map((q, i) => (
                 <div key={i} className="rounded-lg bg-white border border-yas-ink/10 p-2.5">
                   <p className="font-body text-[10px] text-yas-burgundy font-semibold uppercase tracking-wide">
                     {q.tema} · gabarito {q.gabarito}
@@ -334,6 +387,11 @@ export default function AdminPage() {
                   <p className="font-body text-[10px] text-yas-ink/40 mt-0.5">{q.alternativas.length} alternativas</p>
                 </div>
               ))}
+              {importQuestoes.length > 20 && (
+                <p className="font-body text-xs text-yas-ink/40 text-center py-1">
+                  + {importQuestoes.length - 20} questões não exibidas
+                </p>
+              )}
             </div>
             <button
               onClick={handleImportarQuestoes}

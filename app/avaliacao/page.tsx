@@ -24,10 +24,12 @@ const TEMA_LABELS: Record<string, string> = {
   doencas:     "Doenças & Epidemiologia",
   emergencias: "Urgência & Emergência",
   mulher:      "Saúde da Mulher & Criança",
+  pediatria:   "Saúde da Criança",
   bio:         "Biossegurança & CME",
   farma:       "Farmacologia & PNI",
   mental:      "Saúde Mental",
   idoso:       "Saúde do Idoso",
+  gestao:      "Gestão & Auditoria",
   completa:    "Avaliação Completa",
 };
 
@@ -253,8 +255,8 @@ export default function AvaliacaoPage() {
     setModo(false);
     const { data } = await supabase
       .from("questoes").select("*").eq("tema", tema);
-    // busca todas do tema → embaralha → pega 10 aleatórias
-    const selecionadas = shuffle(data ?? []).slice(0, 10);
+    // busca todas do tema → embaralha → pega até 30 aleatórias
+    const selecionadas = shuffle(data ?? []).slice(0, 30);
     setQuestoes(selecionadas.map(shuffleAlternativas));
     setIndice(0);
     setRespostas({});
@@ -267,8 +269,8 @@ export default function AvaliacaoPage() {
     setTemaSel("completa");
     setModo(true);
     const { data } = await supabase.from("questoes").select("*");
-    // busca todas → embaralha → pega 60 aleatórias
-    const selecionadas = shuffle(data ?? []).slice(0, 60);
+    // busca todas → embaralha → pega 110 aleatórias
+    const selecionadas = shuffle(data ?? []).slice(0, 110);
     setQuestoes(selecionadas.map(shuffleAlternativas));
     setIndice(0);
     setRespostas({});
@@ -346,7 +348,7 @@ export default function AvaliacaoPage() {
         >
           <p className="text-2xl mb-1">📚</p>
           <p className="font-display text-xl font-semibold">Bloco por tema</p>
-          <p className="font-body text-xs opacity-70 mt-0.5">10 questões de um tema específico</p>
+          <p className="font-body text-xs opacity-70 mt-0.5">até 30 questões de um tema específico</p>
         </div>
 
         <div
@@ -355,7 +357,7 @@ export default function AvaliacaoPage() {
         >
           <p className="text-2xl mb-1">🎯</p>
           <p className="font-display text-xl font-semibold">Avaliação completa</p>
-          <p className="font-body text-xs opacity-70 mt-0.5">60 questões de todos os temas</p>
+          <p className="font-body text-xs opacity-70 mt-0.5">110 questões de todos os temas</p>
         </div>
 
         <div
