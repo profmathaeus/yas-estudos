@@ -1,0 +1,1802 @@
+[
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "Quais são os princípios doutrinários do SUS?",
+    "verso": "Universalidade (acesso para todos), Equidade (tratar diferentemente os desiguais) e Integralidade (atenção integral à saúde, promoção, prevenção e reabilitação)."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é o princípio da equidade no SUS?",
+    "verso": "Tratar desigualmente os desiguais, priorizando quem mais precisa. Não é sinônimo de igualdade — igualdade dá o mesmo a todos, equidade dá mais a quem tem maior necessidade."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "Quais são os princípios organizativos (ou operacionais) do SUS?",
+    "verso": "Regionalização e hierarquização, descentralização com direção única em cada esfera, e participação social (controle social)."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é a regionalização no SUS?",
+    "verso": "Organização dos serviços de saúde em regiões geográficas definidas, com referência e contrarreferência entre níveis de atenção (primária, secundária, terciária), formando redes de atenção à saúde."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "Qual é a diferença entre descentralização e desconcentração no SUS?",
+    "verso": "Descentralização: transferência de poder/responsabilidade para outro ente federativo (União → Estado → Município). Desconcentração: distribuição administrativa dentro da mesma esfera, sem transferência de poder político."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que prevê a Lei 8.080/90 (Lei Orgânica da Saúde)?",
+    "verso": "Dispõe sobre as condições para promoção, proteção e recuperação da saúde, organização e funcionamento do SUS. Define competências, financiamento, estrutura organizacional e princípios do sistema."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é a Lei 8.142/90?",
+    "verso": "Dispõe sobre a participação da comunidade na gestão do SUS e sobre as transferências intergovernamentais. Cria as Conferências de Saúde e os Conselhos de Saúde como instâncias de controle social."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "Quais são as instâncias de controle social do SUS?",
+    "verso": "Conselho de Saúde (permanente, deliberativo, paritário — 50% usuários, 25% trabalhadores, 25% gestores/prestadores) e Conferência de Saúde (reunião periódica, a cada 4 anos, avalia situação e propõe diretrizes)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é a Política Nacional de Atenção Básica (PNAB)?",
+    "verso": "Define a AB como ordenadora das redes de atenção, com Estratégia Saúde da Família como prioritária. Estabelece atributos (primeiro contato, longitudinalidade, integralidade, coordenação do cuidado, orientação familiar e comunitária)."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "Quais são as atribuições da equipe de Saúde da Família?",
+    "verso": "Cadastramento e acompanhamento da população adscrita; visitas domiciliares; ações de promoção, prevenção e recuperação da saúde; referência e contrarreferência; educação permanente em saúde."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é o NASF-AB (Núcleo Ampliado de Saúde da Família e Atenção Básica)?",
+    "verso": "Equipe multiprofissional (psicólogo, nutricionista, fisioterapeuta, farmacêutico etc.) que apoia as equipes de AB/ESF por meio de matriciamento, não tendo clientela própria, não sendo porta de entrada."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que são as RAS (Redes de Atenção à Saúde)?",
+    "verso": "Arranjos organizativos de ações e serviços de saúde, de diferentes densidades tecnológicas, integradas por sistemas de apoio, logístico e de gestão, que visam garantir integralidade do cuidado. Ex.: Rede Cegonha, Rede de Urgências, RAAS."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é a RENAME?",
+    "verso": "Relação Nacional de Medicamentos Essenciais — lista de medicamentos que devem ser disponibilizados pelo SUS. Baseia-se nos critérios da OMS e orienta as listas estaduais (RESME) e municipais."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é o SCTIE e qual a sua função?",
+    "verso": "Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde (MS). Coordena a RENAME, a CONITEC (incorporação de tecnologias) e a política de assistência farmacêutica."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "Cite as três esferas de gestão do SUS e suas competências principais.",
+    "verso": "Federal (MS): formular e avaliar a política nacional. Estadual (SES): coordenar a rede no estado, apoiar municípios. Municipal (SMS): executar ações e serviços de saúde, gerir a rede local — é o principal executor do SUS."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é a vigilância epidemiológica?",
+    "verso": "Conjunto de ações que propiciam o conhecimento, detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes de saúde coletiva, a fim de recomendar e adotar medidas de controle (Lei 8.080/90, art. 7º)."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "Qual a diferença entre promoção, proteção e recuperação da saúde?",
+    "verso": "Promoção: ações que favorecem QV e autonomia (ex: atividade física, alimentação saudável). Proteção: prevenção específica (vacinação, saneamento). Recuperação: diagnóstico, tratamento e reabilitação."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é notificação compulsória? Cite 5 doenças de notificação imediata.",
+    "verso": "Comunicação obrigatória de doenças/agravos à autoridade de saúde. Imediata (24h): COVID-19, raiva humana, varíola, poliomielite, SRAG. Lista definida pela Portaria SVS/MS 217/2023."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é o princípio da hierarquização nos serviços de saúde?",
+    "verso": "Organização dos serviços em níveis de complexidade crescente (primária → secundária → terciária), com fluxo de referência e contrarreferência, garantindo que cada problema seja resolvido no nível mais adequado."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é a ANVISA e quais são suas competências?",
+    "verso": "Agência Nacional de Vigilância Sanitária — autarquia federal que regulamenta e fiscaliza produtos, serviços e ambientes que podem oferecer risco à saúde: alimentos, medicamentos, cosméticos, saneantes, estabelecimentos de saúde."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "Explique o que é a portabilidade no sistema de saúde suplementar.",
+    "verso": "Direito do beneficiário de plano de saúde de migrar para outro plano compatível sem cumprir nova carência, desde que respeitados requisitos da ANS (tempo mínimo de permanência, compatibilidade de coberturas e preço)."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é o CAPS e quais são seus tipos?",
+    "verso": "Centro de Atenção Psicossocial — serviço comunitário de saúde mental. Tipos: CAPS I (municípios 20–70 mil hab), CAPS II (>70 mil), CAPS III (24h, >200 mil), CAPSi (infanto-juvenil), CAPSad (álcool e drogas)."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é a Política Nacional de Humanização (PNH)?",
+    "verso": "Política transversal do MS que valoriza os sujeitos envolvidos no processo de saúde. Princípios: transversalidade, indissociabilidade clínica-gestão, protagonismo. Diretrizes: acolhimento, clínica ampliada, cogestão, ambiência, defesa dos direitos."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é o acolhimento segundo a PNH?",
+    "verso": "Postura ética e política que implica escuta qualificada, responsabilização e resolutividade. Não é triagem, não é uma sala, e não é exclusividade de um profissional — é postura de toda a equipe."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "Quais são os determinantes sociais de saúde segundo a CSDH/OMS?",
+    "verso": "Condições em que as pessoas nascem, crescem, vivem, trabalham e envelhecem: renda, educação, emprego, moradia, alimentação, saneamento, acesso aos serviços de saúde, fatores culturais e ambientais."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é a Portaria GM/MS 2.436/2017?",
+    "verso": "Aprova a Política Nacional de Atenção Básica (PNAB), definindo revisão dos fundamentos, diretrizes, normas para organização da AB e ESF. Amplia a flexibilidade na composição das equipes."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é o e-SUS AB e para que serve?",
+    "verso": "Estratégia do DAB/MS para reestruturar as informações da atenção básica. Utiliza o Prontuário Eletrônico do Cidadão (PEC) e coleta de dados (CDS), gerando indicadores para gestão da saúde local."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "Qual é o papel do enfermeiro na Estratégia Saúde da Família?",
+    "verso": "Assistência integral individual e coletiva; consulta de enfermagem; supervisão dos ACS; solicitação de exames complementares conforme protocolos; visitas domiciliares; atividades de educação em saúde; gestão da equipe."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é a Rede Cegonha?",
+    "verso": "Rede de cuidados que assegura às mulheres o direito ao planejamento reprodutivo e à atenção humanizada no pré-natal, parto e puerpério, e às crianças o direito ao nascimento seguro e desenvolvimento saudável (Portaria 1.459/2011)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que são os indicadores de saúde? Exemplifique.",
+    "verso": "Medidas que sintetizam informações relevantes sobre atributos e dimensões do estado de saúde e do desempenho do sistema. Ex: taxa de mortalidade infantil, cobertura vacinal, taxa de internação por condições sensíveis à AB."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "Quais são os 5 certos (ou 9 certos) na administração de medicamentos?",
+    "verso": "5 certos: paciente certo, medicamento certo, dose certa, via certa, horário certo. 9 certos: + registro certo, razão/indicação certa, resposta certa, forma certa."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "Qual é a diferença entre antissepsia e esterilização?",
+    "verso": "Antissepsia: redução de microrganismos na pele/mucosas (uso de antisséptico). Esterilização: eliminação de TODAS as formas de vida microbiana, inclusive esporos (autoclave, óxido de etileno, calor seco). Desinfecção elimina patógenos mas não esporos."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "Quais são as vias de administração de medicamentos injetáveis e os ângulos de inserção?",
+    "verso": "Intradérmica (ID): 5–15° (borbulha). Subcutânea (SC): 45° (ou 90° em obesos). Intramuscular (IM): 90°. Intravenosa (IV): 15–30°."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "Quais são os sítios de aplicação IM e os volumes máximos em cada um?",
+    "verso": "Deltóide: até 2 mL. Vasto lateral da coxa: até 5 mL adulto, 3 mL criança. Ventroglúteo (Hochstetter): até 5 mL — PREFERENCIAL por menor risco de lesão nervosa/vascular."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é a técnica Z para injeção IM? Quando usar?",
+    "verso": "Traciona-se a pele lateralmente antes de introduzir a agulha; após injetar, solta-se. Indica-se para medicamentos irritantes (ferro dextrano, hidroxizina IM), evitando extravasamento para tecido subcutâneo."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é sondagem vesical de alívio x de demora?",
+    "verso": "Alívio (intermitente): introdução e retirada imediata após esvaziamento. Demora: fixada para drenagem contínua (sonda de Foley com balão). Indicações, riscos (ITU) e cuidados com cateter de demora devem ser monitorados."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é cateterismo vesical e quais os cuidados de enfermagem?",
+    "verso": "Introdução de sonda na bexiga via uretra. Cuidados: técnica asséptica, higiene do meato antes, lubrificação da sonda, confirmar posição pelo retorno de urina, fixação adequada (homem: abdômen; mulher: face interna da coxa), bolsa abaixo da bexiga."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "Quais são os tipos de curativo e quando indicar cada um?",
+    "verso": "Seco: feridas limpas sem exsudato. Úmido (hidrocolóide, alginato, espuma): feridas com exsudato. Oclusivo: feridas com risco de contaminação. Compressivo: controle de hemorragia. A escolha depende do tipo, fase e exsudato da ferida."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é o protocolo de higienização das mãos da OMS? Quais os 5 momentos?",
+    "verso": "5 momentos: 1) Antes de tocar o paciente; 2) Antes de procedimento asséptico; 3) Após risco de exposição a fluidos; 4) Após tocar o paciente; 5) Após tocar áreas próximas ao paciente. Higienização simples (20s), antisséptica (40–60s) ou FRIC (20–30s)."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é cateter de oxigênio e quais os fluxos de O₂?",
+    "verso": "Cateter nasal/óculos: 1–6 L/min (FiO₂ ≈ 24–44%). Máscara simples: 5–10 L/min (FiO₂ 40–60%). Máscara com reservatório (não-reinalante): 10–15 L/min (FiO₂ até 90%). Venturi: FiO₂ precisa (24–50%)."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "Como calcular o gotejamento de uma solução venosa?",
+    "verso": "Gotas/min = Volume (mL) ÷ Tempo (min) × 20 (macrogotas). Microgotas/min = Volume ÷ Tempo × 60. Exemplo: 500 mL em 4h → 500/240 × 20 = 41,7 ≈ 42 gotas/min."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "Quais são os tipos de isolamento segundo o CDC?",
+    "verso": "Isolamento padrão (contato com sangue/fluidos). Específicos: por contato (direto/indireto), por gotículas (distância <1m), por aerossóis (partículas <5μm, quarto pressão negativa). Pode ser combinado."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é a técnica de inserção de sonda nasogástrica (SNG)?",
+    "verso": "Medir da narina ao lóbulo da orelha e ao apêndice xifóide (distância NEX). Lubrificar, inserir com pescoço fletido, pedir para engolir. Verificar posição: ausculta epigástrica com injeção de ar, aspiração de conteúdo gástrico ou RX."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "Quais são os cuidados de enfermagem com acesso venoso periférico?",
+    "verso": "Escolher veia adequada (evitar membros com fístula AV, mastectomia). Fixar com película transparente. Trocar a cada 72–96h ou conforme protocolo. Avaliar flebite (dor, calor, eritema, endurecimento). Flush com SF 0,9% antes e após medicação."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é flebite? Como classificar?",
+    "verso": "Inflamação da veia associada ao cateter. Classificação (escala de Maddox/INS): 0 = sem sintomas; 1 = dor/eritema; 2 = + endurecimento; 3 = + cordão palpável >2,5 cm; 4 = + cordão >2,5 cm + pus/febre. Grau ≥2: remover cateter."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é punção lombar e quais os cuidados de enfermagem?",
+    "verso": "Procedimento médico para coleta de LCR ou anestesia raquidiana. Enfermagem: posicionar em decúbito lateral com joelhos fletidos ao peito (posição fetal) ou sentado. Após: DDH por 4–6h, hidratação, monitorar cefaleia e déficit neurológico."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é o teste de Coombs direto e indireto?",
+    "verso": "Coombs direto: detecta anticorpos fixados nas hemácias (anemia hemolítica autoimune, eritroblastose fetal). Coombs indireto: detecta anticorpos anti-hemácias no soro (triagem pré-transfusional, pré-natal)."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "Quais são os posicionamentos terapêuticos e suas indicações?",
+    "verso": "Fowler (cabeceira 45–90°): IC, DPOC, pós-refeição. Semi-Fowler (30°): pós-operatório geral. Trendelenburg: choque hipovolêmico (controverso). Sim: gestantes, cirurgia colorretal. Litotômico: ginecológico, urinário."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "Como realizar glicemia capilar corretamente?",
+    "verso": "Higienizar mão do paciente, secar. Puncionar lateral da polpa digital (não a ponta). Descartar 1ª gota, usar 2ª. Aplicar na tira reagente. Registrar resultado e horário. Valores de referência: jejum <100 mg/dL; 2h pós-prandial <140 mg/dL."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "Quais são os sinais vitais e seus valores normais no adulto?",
+    "verso": "PA: 120/80 mmHg (normal). FC: 60–100 bpm. FR: 12–20 irpm. Temperatura axilar: 35,5–37°C (oral: +0,5°C; retal: +1°C). SpO₂: 95–100%. Dor: 0–10 (5ª verificação — protocolo)."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é diurese e quais os valores normais de débito urinário?",
+    "verso": "Volume de urina excretado. Normal: 0,5–1,5 mL/kg/h (adulto), ou ~30 mL/h como mínimo aceitável. Oligúria: <400 mL/24h; anúria: <100 mL/24h; poliúria: >3.000 mL/24h. Monitorar em pacientes críticos e renais."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é balanço hídrico e como calcular?",
+    "verso": "Diferença entre entradas e saídas de líquidos. Entradas: VO, EV, NPT, diálise. Saídas: urina, fezes, drenos, suor estimado, perdas insensíveis (~700–1000 mL/dia). BH positivo: retenção; negativo: déficit. Balanço zero = equilíbrio."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "Quais são os princípios da curativos de feridas crônicas?",
+    "verso": "1) Limpeza com SF 0,9% morno; 2) Desbridamento (autolítico, enzimático, cirúrgico); 3) Controle da infecção; 4) Manutenção da umidade (cobertura adequada); 5) Proteção da ferida. WOUND BED PREPARATION."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é escala de Braden e para que serve?",
+    "verso": "Avalia risco para úlceras por pressão (LPP). 6 subescalas: percepção sensorial, umidade, atividade, mobilidade, nutrição, fricção/cisalhamento. Total: 6–23 pontos. Alto risco: ≤12 pontos; baixo risco: >18. Quanto menor a pontuação, maior o risco."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é lesão por pressão (LPP) e como classificar?",
+    "verso": "Dano localizado na pele e/ou tecido subjacente por pressão ou pressão+cisalhamento. Estadiamento: Estágio 1 (pele íntegra, eritema não branqueável); 2 (perda parcial, derme exposta); 3 (perda total, gordura visível); 4 (perda total + músculo/osso/tendão)."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é a dieta por sonda nasoenteral (SNE) e quando indicar?",
+    "verso": "Oferta de nutrição diretamente no duodeno/jejuno via sonda. Indica-se quando paciente não pode ingerir VO mas trato GI funciona. Preferida à parenteral por manter integridade intestinal, menor custo e menos complicações."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "Como verificar o posicionamento correto de sonda nasoenteral antes da dieta?",
+    "verso": "Aspirar conteúdo e verificar pH (<5,5 indica posição gástrica). RX de tórax/abdome é padrão ouro. Auscultar injeção de ar (menos confiável, não recomendado isoladamente). Nunca administrar antes de confirmar posição."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "Quais são os cuidados de enfermagem na transfusão de sangue?",
+    "verso": "Verificar prescrição, tipagem e DACRE. Dupla checagem do hemocomponente. Instalar acesso exclusivo com equipo com filtro. Iniciar lentamente (50 mL/h por 15min). Monitorar reações (febre, calafrio, urticária, dispneia). Registrar início, término e intercorrências."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "doencas",
+    "frente": "Quais são as formas de transmissão da dengue e como prevenir?",
+    "verso": "Vetor: Aedes aegypti (pica de dia). Transmissão: picada do mosquito infectado. Prevenção: eliminação de criadouros (água parada), uso de repelente, telas, roupas compridas. Não há transmissão pessoa a pessoa."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "Como classificar a dengue segundo o protocolo do MS (2016)?",
+    "verso": "Grupo A: sem sinais de alarme, sem comorbidades → ambulatorial. Grupo B: sem sinais de alarme + comorbidades ou risco social → observação. Grupo C: com sinais de alarme → internação. Grupo D: dengue grave (choque, sangramento grave, disfunção orgânica grave) → UTI."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "Quais são os sinais de alarme da dengue?",
+    "verso": "Dor abdominal intensa/contínua; vômitos persistentes; acúmulo de líquidos (ascite, derrame pleural); hipotensão postural ou lipotimia; hepatomegalia >2 cm; sangramento de mucosas; letargia/irritabilidade; aumento progressivo do hematócrito."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "doencas",
+    "frente": "O que é a leishmaniose visceral (calazar) e como tratar?",
+    "verso": "Doença causada por Leishmania chagasi, transmitida pelo flebotomíneo (mosquito-palha). Manifestações: febre prolongada, esplenomegalia, perda de peso, anemia. Tratamento: antimoniato de meglumina (1ª linha) ou anfotericina B lipossômica."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "Quais são os sinais e sintomas da tuberculose pulmonar?",
+    "verso": "Tosse produtiva por ≥3 semanas, hemoptise, febre vespertina, sudorese noturna, emagrecimento, astenia. Diagnóstico: baciloscopia do escarro (BK), cultura, teste rápido molecular (TRM-TB)."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "Qual é o esquema de tratamento da tuberculose no Brasil?",
+    "verso": "Esquema básico (adulto e adolescente ≥10 anos): RHZE por 2 meses (Rifampicina, Isoniazida, Pirazinamida, Etambutol) + RH por 4 meses. Total: 6 meses. Tratamento diretamente observado (TDO) é recomendado."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "doencas",
+    "frente": "O que é a doença de Chagas e quais as formas clínicas?",
+    "verso": "Causada por Trypanosoma cruzi, transmitida pelo barbeiro. Fase aguda: febre, mal-estar, sinal de Romaña (edema periocular). Fase crônica: cardiopatia chagásica (forma mais grave), megaesôfago, megacólon. Transmissão oral (açaí) cada vez mais frequente."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "O que é a síndrome respiratória aguda grave (SRAG) e quando diagnosticar?",
+    "verso": "SRAG: síndrome gripal com dispneia/desconforto respiratório, SpO₂ <95%, pressão em tórax, cianose. Diagnóstico clínico. Exige internação, notificação compulsória e investigação etiológica (Influenza, SARS-CoV-2 etc.)."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "O que é HIV/AIDS e como é transmitido?",
+    "verso": "HIV: vírus que destrói linfócitos TCD4+, causando imunodeficiência. Transmissão: sexual (sem preservativo), sanguínea (compartilhamento de agulhas, transfusão), vertical (gestação, parto, amamentação). Não se transmite por beijo, abraço, saliva, picada de inseto."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "doencas",
+    "frente": "O que é profilaxia pós-exposição (PEP) para HIV?",
+    "verso": "Uso de antirretrovirais após exposição ao HIV. Deve ser iniciada em até 72h (idealmente <2h). Duração: 28 dias. Indicada em: exposição ocupacional, sexual sem proteção, violência sexual. Não é método contraceptivo nem substitui preservativo."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "O que é hanseníase e como classificar operacionalmente?",
+    "verso": "Causada por Mycobacterium leprae. Classificação operacional (OMS): Paucibacilar (PB) — até 5 lesões, baciloscopia negativa; Multibacilar (MB) — ≥6 lesões ou baciloscopia positiva. Tratamento: PQT (poliquimioterapia)."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "Quais são as reações hansênicas e como manejar?",
+    "verso": "Tipo 1 (reversa): inflamação nas lesões, neurite. Tipo 2 (eritema nodoso hansênico/ENH): nódulos dolorosos, febre, artralgia. Manejo: prednisona (tipo 1), talidomida (tipo 2, CONTRAINDICADA na gestante — teratogênica). Não interromper PQT."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "doencas",
+    "frente": "O que é leptospirose e qual o sinal mais característico?",
+    "verso": "Doença causada por Leptospira spp., transmitida pelo contato com água/lama contaminada por urina de ratos. Sinal de Ormond: hemorragia conjuntival. Manifestações: febre, mialgia, icterícia, insuficiência renal. Síndrome de Weil = forma grave."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "O que é a malária e como tratar?",
+    "verso": "Causada por Plasmodium spp. (P. falciparum mais grave). Transmissão: Anopheles fêmea. Tratamento: P. vivax → cloroquina + primaquina. P. falciparum → arteméter-lumefantrina ou quinina + doxiciclina + primaquina. Gestante: não usar primaquina no 1º trimestre."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "Quais são os principais exames para diagnóstico de infecção urinária (ITU)?",
+    "verso": "Urinocultura com antibiograma (padrão ouro). EAS (elementos anormais): leucocitúria (>10.000 leucócitos/mL), bacteriúria, nitrito positivo. ITU não complicada feminina pode ser tratada empiricamente sem cultura."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "doencas",
+    "frente": "O que é a sepse e como diagnosticar segundo o Sepsis-3?",
+    "verso": "Sepsis-3 (2016): disfunção orgânica ameaçadora à vida causada por resposta desregulada do hospedeiro à infecção. Diagnóstico: infecção suspeita + aumento de ≥2 pontos no escore SOFA. SIRS não é mais critério diagnóstico."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "O que é IRAS (Infecção Relacionada à Assistência à Saúde)? Cite os tipos mais comuns.",
+    "verso": "Infecção adquirida após 48–72h de internação. Tipos: ITU associada a cateter (IUAC), PAV (pneumonia associada à ventilação), IPCS (infecção primária de corrente sanguínea), ISC (infecção de sítio cirúrgico)."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "O que é a doença meningocócica e como profilaxiar os contatos?",
+    "verso": "Meningite/meningococcemia por Neisseria meningitidis. Transmissão: gotículas. Contatos próximos (<1m, >8h na semana anterior): quimioprofilaxia com rifampicina por 2 dias (ou ciprofloxacino dose única, ou ceftriaxona). Vacina não é profilaxia pós-exposição."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "doencas",
+    "frente": "O que é o PCR (Proteína C-Reativa) e quando solicitar?",
+    "verso": "Proteína de fase aguda produzida pelo fígado em resposta à inflamação. Eleva-se em 4–6h após início do processo inflamatório. Útil para monitorar infecção bacteriana e resposta ao tratamento. Alta sensibilidade, baixa especificidade."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "O que é a doença de Parkinson e quais as manifestações clínicas?",
+    "verso": "Doença neurodegenerativa (perda de neurônios dopaminérgicos na substância negra). Clínica (TRAP): Tremor de repouso (pílula), Rigidez plástica em roda denteada, Acinesia/bradicinesia, Postura festinante. Tratamento: levodopa (principal)."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "O que é o AVC isquêmico e quais os sinais de alerta (FAST)?",
+    "verso": "FAST: Face (assimetria facial), Arm (fraqueza de membro), Speech (alteração da fala), Time (hora do início dos sintomas). Janela terapêutica para trombolítico (rtPA): até 4,5h. Meta: 'door-to-needle' ≤60 minutos."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "doencas",
+    "frente": "O que é o DM tipo 1 vs tipo 2?",
+    "verso": "DM1: autoimune, destruição das células beta, insulinodependente, geralmente jovens. DM2: resistência à insulina + deficiência relativa, associada à obesidade/sedentarismo, tratamento inicia com metformina. Ambos: critério diagnóstico — glicemia jejum ≥126 mg/dL (2× ou 1× com sintomas)."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "O que é a cetoacidose diabética (CAD) e como manejar?",
+    "verso": "CAD: glicemia >250 mg/dL, cetonemia, acidose metabólica (pH<7,3, HCO₃<18 mEq/L). Manejo: hidratação (SF 0,9%), insulina regular EV (0,1 U/kg/h), reposição de potássio (K+ sérico deve ser ≥3,5 antes da insulina), monitorização contínua."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "emergencias",
+    "frente": "O que é o ABCDE do trauma (ATLS)?",
+    "verso": "A: Airway (vias aéreas com controle cervical); B: Breathing (respiração e ventilação); C: Circulation (circulação e controle de hemorragia); D: Disability (estado neurológico — AVDI, Glasgow); E: Exposure/Environment (exposição e controle térmico)."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "O que é a Escala de Coma de Glasgow e como pontuar?",
+    "verso": "Avalia nível de consciência. Abertura ocular (1–4) + Resposta verbal (1–5) + Resposta motora (1–6). Total: 3–15. Leve: 13–15; moderado: 9–12; grave: ≤8. Indicação de intubação: Glasgow ≤8."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "O que é o Protocolo de Manchester (sistema de triagem)?",
+    "verso": "Sistema de triagem hospitalar que classifica pacientes por cores/prioridade clínica. Vermelho (imediato/emergência), Laranja (muito urgente, <10min), Amarelo (urgente, <60min), Verde (pouco urgente, <120min), Azul (não urgente, <240min)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "emergencias",
+    "frente": "Quais são as etapas do suporte básico de vida (SBV) no adulto?",
+    "verso": "Checar responsividade; acionar SAMU/bombeiros; checar pulso (≤10s); iniciar RCP 30:2 (compressões torácicas:ventilações); usar DEA assim que disponível; continuar até RCE, SAMU chegar ou exaustão. Taxa de compressão: 100–120/min, profundidade 5–6 cm."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "O que é DEA e como usar?",
+    "verso": "Desfibrilador Externo Automático. Ligar → fixar eletradores (adulto: subclávio D + lateral E abaixo da axila) → aguardar análise → afastar todos → acionar botão de choque se indicado → retomar RCP imediatamente por 2 min."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "O que é choque e quais os tipos?",
+    "verso": "Choque: hipoperfusão tecidual. Tipos: Hipovolêmico (hemorragia, desidratação); Distributivo (séptico, anafilático, neurogênico); Cardiogênico (IAM, IC grave); Obstrutivo (tamponamento, embolia pulmonar maciça)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "emergencias",
+    "frente": "O que é anafilaxia e qual o tratamento de primeira linha?",
+    "verso": "Reação alérgica sistêmica grave com hipotensão e/ou broncoespasmo e/ou angioedema. 1ª linha: adrenalina (epinefrina) 0,3–0,5 mg IM na face anterolateral da coxa. Posição supina, oxigênio, acesso EV, anti-histamínico e corticoide como adjuvantes."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "O que é a síndrome coronariana aguda (SCA) e quais os tipos?",
+    "verso": "SCA: angina instável, IAMSSST (sem supra de ST), IAMCSST (com supra de ST). IAMCSST: supra de ST ≥2 mm em 2 derivações contíguas → tratamento preferencial: angioplastia primária em <90 min; trombolítico se angioplastia indisponível em <120 min."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "Quais são os cuidados de enfermagem nas 12h pós-angioplastia?",
+    "verso": "Monitorização contínua (ECG, PA, FC, SpO₂). Manter repouso no leito 4–6h. Verificar sítio de punção (sangramento, hematoma). Manter hidratação. Observar sinais de reoclusão (dor torácica, alteração do ECG). Administrar antiplaquetários conforme prescrição."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "emergencias",
+    "frente": "Quais são as principais arritmias de parada cardiorrespiratória (PCR)?",
+    "verso": "Ritmos chocáveis (DEA/cardioversor): FV (fibrilação ventricular) e TV sem pulso. Ritmos não chocáveis: AESP (atividade elétrica sem pulso) e assistolia. FV é a mais comum em adultos fora do hospital."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "O que é embolia pulmonar e quais os sinais mais comuns?",
+    "verso": "Obstrução da artéria pulmonar por trombo. Sinais: dispneia súbita, dor pleurítica, hemoptise, taquicardia, hipoxemia. Tríade de Virchow (fatores de risco): estase venosa, lesão endotelial, hipercoagulabilidade. Diagnóstico: angio-TC de tórax."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "O que é crise hipertensiva e qual a diferença entre urgência e emergência hipertensiva?",
+    "verso": "Crise: PA ≥180/120 mmHg. Urgência: sem lesão aguda de órgão-alvo → redução gradual em horas, VO. Emergência: com lesão aguda de órgão-alvo (AVC, IAM, EAP, encefalopatia) → redução rápida (20–25% em 1–2h), EV."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "emergencias",
+    "frente": "O que é edema agudo de pulmão (EAP) e como manejar?",
+    "verso": "Acúmulo de líquido nos alvéolos por falha cardíaca esquerda. Sinais: dispneia intensa, crepitações bilaterais, ortopneia, expectoração rósea. Manejo: sentar paciente, O₂ de alto fluxo (VNI preferencial), furosemida IV, morfina, nitrato sublingual/IV."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "Quais são os cuidados de enfermagem no paciente com VMI (ventilação mecânica invasiva)?",
+    "verso": "Monitorar parâmetros ventilatórios e alarmes; cabeceira 30–45° (prevenir PAV); higiene oral com clorexidina 0,12% 2x/dia; cuff insuflado 20–30 cmH₂O; fixação e posicionamento do tubo; aspiração traqueal a critério; mobilização precoce."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "O que é tétano e qual o manejo pós-acidente perfurocortante?",
+    "verso": "Doença causada pela toxina do Clostridium tetani. Manejo pós-exposição: verificar cartão vacinal. ≥3 doses e última há <5 anos: nada. ≥3 doses, última há 5–10 anos: 1 dose reforço. ≥3 doses, última >10 anos ou esquema incompleto: reforço. Sem vacinação: imunoglobulina + vacina."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "emergencias",
+    "frente": "Quais são os sinais de insuficiência respiratória aguda?",
+    "verso": "Dispneia intensa, uso de musculatura acessória, cianose, SpO₂ <90%, PaO₂ <60 mmHg (ar ambiente), taquipneia (FR>25), agitação ou confusão (hipóxia SNC). Requer intervenção imediata."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "O que é o Índice de Trauma (Revised Trauma Score - RTS) e para que serve?",
+    "verso": "Escala que combina Glasgow, PAS (pressão arterial sistólica) e FR para predizer mortalidade no trauma. Quanto menor o escore, mais grave o trauma. Usado na triagem pré-hospitalar para definir destino do paciente."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "Quais são as intervenções de enfermagem no AVC agudo na fase pré-hospitalar?",
+    "verso": "Reconhecer sinais (FAST); acionar SAMU; monitorar FC, PA, SpO₂; não dar nada VO; manter cabeceira a 0° (a menos que dificuldade respiratória); controlar glicemia (evitar hipoglicemia/hiperglicemia); registrar hora dos sintomas — essencial para decisão terapêutica."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é pré-natal de risco habitual? Quantas consultas mínimas recomenda o MS?",
+    "verso": "Acompanhamento de gestação sem complicações. MS recomenda mínimo 6 consultas (1 no 1º trimestre, 2 no 2º, 3 no 3º). Primeira consulta: o mais cedo possível. Preferencialmente: consulta de puerpério até 10 dias após o parto."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "Quais exames são solicitados na 1ª consulta de pré-natal?",
+    "verso": "Tipagem sanguínea e Rh; hemograma; glicemia de jejum; urina + urinocultura; VDRL (sífilis); HIV; Hepatite B (HBsAg); toxoplasmose (IgG e IgM); Hepatite C; citopatológico de colo (se necessário); TSH (se indicado)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é o pré-natal do parceiro e por que é importante?",
+    "verso": "Exame do parceiro: tipagem, VDRL, HIV, Hepatite B e C, hemograma. Importante para reduzir transmissão vertical de ISTs, incluir o homem nos cuidados e promover corresponsabilidade na gestação."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é a manobra de Leopold-Zweifel? Quais são os 4 tempos?",
+    "verso": "Palpação obstétrica para avaliar apresentação e posição fetal. 1º: fundo uterino (qual polo?); 2º: dorso e partes fetais; 3º: apresentação (qual polo está no estreito superior?); 4º: insinuação (grau de penetração no canal de parto)."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é a DUM e como calcular a DPP (Regra de Naegele)?",
+    "verso": "DUM = Data da Última Menstruação. DPP = DUM + 7 dias (nas unidades de dia) e +9 meses (ou -3 meses). Ex.: DUM 01/04 → DPP 08/01 do ano seguinte. Gestação normal = 40 semanas (280 dias)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é eclâmpsia e quais as diferenças em relação à pré-eclâmpsia?",
+    "verso": "Pré-eclâmpsia (PE): PA ≥140/90 + proteinúria após 20ª semana. PE grave: PA ≥160/110 ou disfunção orgânica. Eclâmpsia: PE + convulsões (não atribuíveis a outra causa). Tratamento eclâmpsia: sulfato de magnésio IV (anti-convulsivante) + anti-hipertensivos."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é a síndrome HELLP?",
+    "verso": "Complicação da pré-eclâmpsia grave: Hemólise, Elevação de enzimas hepáticas (ELevated Liver enzymes) e baixa contagem de Plaquetas (Low Platelets). Tratamento: resolução da gestação, corticoide, hemoderivados conforme necessidade."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é a Doença Trofoblástica Gestacional (DTG) e como manejar?",
+    "verso": "DTG inclui mola hidatiforme (benigna) a coriocarcinoma (maligno). Mola: tratamento = esvaziamento uterino por aspiração; seguimento com β-hCG seriado por 6–12 meses; anticoncepção obrigatória nesse período (não engravidar até normalização do β-hCG)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é o partograma e para que serve?",
+    "verso": "Gráfico para acompanhamento do trabalho de parto. Registra dilatação cervical, descida da apresentação, contrações e condições materno-fetais. Linha de alerta: dilatação <1 cm/h. Linha de ação (4h após linha de alerta): indica necessidade de intervenção."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "Quais são os períodos do trabalho de parto?",
+    "verso": "1º período: dilatação (latente: 0–5 cm; ativa: ≥6 cm até dilatação completa de 10 cm). 2º período: expulsão (da dilatação completa ao nascimento). 3º período: dequitação (saída da placenta, ≤30 min). 4º período: hemostasia (Greenberg, 1ª hora pós-parto)."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é o Apgar e como calcular?",
+    "verso": "Avalia vitalidade do RN no 1º e 5º minuto. Critérios (cada 0–2): Aparência (cor), Pulso (FC), Grimace (reflexos), Atividade (tônus), Respiration (respiração). Total 0–10: ≥7 = normal; 4–6 = moderada depressão; 0–3 = grave."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "Quais são as orientações para o aleitamento materno exclusivo?",
+    "verso": "AME até os 6 meses. Posição correta: abdômen do bebê voltado para mãe, boca aberta com aréola incluída. Amamentar em livre demanda. Não oferecer chupeta, mamadeira ou outros líquidos. Banco de leite humano para impossibilidade."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é a vaginose bacteriana e como diferenciar da candidíase e tricomoníase?",
+    "verso": "Vaginose: corrimento acinzentado, homogêneo, odor de peixe (aminas), pH >4,5, células guia no esfregaço. Candidíase: corrimento branco grumoso, prurido intenso, sem odor. Tricomoníase (IST): corrimento amarelo-esverdeado, bolhoso, pruridoso, colo em 'morango'."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é o Teste de Schiller e o Papanicolaou?",
+    "verso": "Schiller: aplicação de lugol no colo — área que não cora (iodo-negativa) é suspeita de lesão. Papanicolaou (colpocitologia): coleta de células do colo do útero para rastrear lesões precursoras do câncer cervical. Recomendação: mulheres de 25–64 anos, a cada 3 anos após 2 negativos anuais."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é o câncer de mama e quais os fatores de risco?",
+    "verso": "Fator de risco: sexo feminino, idade ≥50 anos, história familiar, BRCA1/2, menarca precoce, menopausa tardia, nuliparidade, TRH prolongada, obesidade pós-menopausa, álcool. Rastreamento (INCA): mamografia anual dos 50–69 anos."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é a infecção puerperal e quais os critérios diagnósticos?",
+    "verso": "Infecção do trato genital após o parto. Critérios: febre ≥38°C por mais de 2 dias consecutivos nas primeiras 10 dias pós-parto (excluindo as primeiras 24h). Sítios: endometrite (mais comum), mastite, ITU, ferida operatória."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "Quais são as indicações de cesárea do ponto de vista obstétrico?",
+    "verso": "Absolutas: desproporção cefalopélvica, placenta prévia total, dois ou mais cesáreos anteriores (controverso), apresentação pélvica/transversa. Relativas: sofrimento fetal, falha de indução, HIV sem TARV adequada. O MS incentiva o parto vaginal quando possível."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é a transmissão vertical do HIV e como prevenir?",
+    "verso": "Transmissão da mãe para o filho durante gestação, parto ou amamentação. Prevenção: TARV durante gestação (objetivo: CV indetectável); AZT IV no parto; parto cesáreo se CV ≥1.000 cópias; AZT xarope para o RN por 4 semanas; não amamentar (fórmula láctea gratuita)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "pediatria",
+    "frente": "Quais são os marcos do desenvolvimento infantil ao longo do 1º ano?",
+    "verso": "1–2m: sorriso social, segue objetos. 3–4m: sustentação da cabeça, vocaliza. 6m: senta com apoio, transfere objetos. 9m: senta sem apoio, engatinha, pinça. 12m: fica em pé, dá passos, diz 'mama/papa' com significado."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "pediatria",
+    "frente": "O que é o calendário vacinal da criança? Cite as vacinas do RN ao 2º mês.",
+    "verso": "RN: BCG + Hepatite B. 2 meses: Penta (DTP+Hib+HepB), VIP, Pneumo 10-valente, Rotavírus. IMPORTANTE: BCG deve ser aplicada ainda na maternidade (peso ≥2 kg), preferencialmente antes da alta."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "pediatria",
+    "frente": "O que é a Triagem Neonatal (Teste do Pezinho)? O que detecta?",
+    "verso": "Exame de sangue coletado do calcanhar do RN entre 3º–5º dia de vida. Detecta: fenilcetonúria, hipotireoidismo congênito, anemia falciforme (hemoglobinopatias), fibrose cística, deficiência de biotinidase, e hiperplasia adrenal congênita (básico). Pode incluir mais doenças dependendo do estado."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "pediatria",
+    "frente": "O que é a escala de dor NIPS (Neonatal Infant Pain Scale)?",
+    "verso": "Avalia dor em neonatos. Parâmetros: expressão facial, choro, padrão respiratório, posição dos braços, posição das pernas, estado de vigília. Pontuação 0–7; ≥4 indica dor moderada/intensa que requer intervenção."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "pediatria",
+    "frente": "O que é pneumonia adquirida na comunidade (PAC) na criança e qual o principal agente etiológico?",
+    "verso": "PAC pediátrica mais comum: 0–5 anos → vírus (VSR, influenza) são mais prevalentes; >5 anos → bactérias (S. pneumoniae principal). Sinal de gravidade: FR elevada (≥50 irpm em <12m; ≥40 em 12m–5a), tiragem, cianose, SpO₂ <92%."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "pediatria",
+    "frente": "O que é desidratação e como classificar pelo MS/AIDPI?",
+    "verso": "AIDPI: Sem desidratação (ativo, olhos normais, bebe normalmente, turgor normal). Com desidratação (2 dos seguintes: agitação/irritação, olhos fundos, sedento, turgor lento). Grave (2 dos: letargia/inconsciente, olhos muito fundos, não bebe/dificuldade, turgor muito lento)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "pediatria",
+    "frente": "O que é o Plano B de reidratação oral (SRO)?",
+    "verso": "Indicado para desidratação leve-moderada. SRO = 50–100 mL/kg em 4–6h, por VO ou SNE. Fórmula OMS: Na 75 mEq/L, K 20, Cl 65, citrato 10, glicose 75 mOsm/L. Manter AME/alimentação. Reavaliar após hidratação."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "pediatria",
+    "frente": "O que é o SISVAN e qual a sua função?",
+    "verso": "Sistema de Vigilância Alimentar e Nutricional — monitora o estado nutricional de crianças (e outras faixas etárias) no Brasil usando curvas da OMS. Classifica: desnutrição, baixo peso, eutrofia, sobrepeso, obesidade. Integrado ao SISPRENATAL e e-SUS."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "pediatria",
+    "frente": "Quais são os sinais de alerta na criança segundo o AIDPI?",
+    "verso": "Sinais gerais de perigo: criança não consegue beber/mamar, vomita tudo, já teve convulsão, letárgica/inconsciente. Esses sinais indicam doença muito grave → transferência imediata + primeira dose de antibiótico/antimalárico."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "pediatria",
+    "frente": "O que é a icterícia neonatal fisiológica e quando tratar?",
+    "verso": "Icterícia fisiológica: surge após 24h de vida, pico 3–5 dias, resolução ≤14 dias (ou 21 em prematuros). Tratar quando bilirrubina total acima do limiar por idade em horas (nomograma de Bhutani). Tratamento: fototerapia; exsanguineotransfusão em casos graves."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "pediatria",
+    "frente": "O que é o ECA (Estatuto da Criança e do Adolescente) — Lei 8.069/90?",
+    "verso": "Lei que dispõe sobre a proteção integral à criança (até 12 anos) e ao adolescente (12–18 anos). Princípio da proteção integral: prioridade absoluta, melhor interesse da criança, corresponsabilidade (família, sociedade, Estado). Notificação obrigatória de maus-tratos."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "pediatria",
+    "frente": "O que é a sepse neonatal e como classificar?",
+    "verso": "Sepse neonatal precoce: <72h de vida (agentes do canal de parto: GBS, E. coli). Tardia: >72h (agentes nosocomiais: Staphylococcus coagulase-negativo, Candida). Sinais: instabilidade térmica, apneia, bradicardia, hipotonia, recusa alimentar, distensão abdominal."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "pediatria",
+    "frente": "O que é o vírus sincicial respiratório (VSR) e quem tem maior risco?",
+    "verso": "Principal causa de bronquiolite e pneumonia viral em lactentes (<2 anos). Maior risco: prematuros, cardiopatas, imunodeficientes. Tratamento: suporte (O₂, hidratação). Prevenção em alto risco: palivizumabe (anticorpo monoclonal) mensal na sazonalidade."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "pediatria",
+    "frente": "O que é o peso ideal e qual a fórmula simplificada para crianças de 1–10 anos?",
+    "verso": "1–5 anos: Peso (kg) = Idade × 2 + 8. 5–10 anos: Peso (kg) = Idade × 3 + 3. Comprimento/altura: ao nascer ~50 cm; 1 ano ~75 cm; 4 anos ~100 cm; depois + 5–7 cm/ano até puberdade."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "pediatria",
+    "frente": "O que é o refluxo gastroesofágico (RGE) fisiológico vs DRGE na criança?",
+    "verso": "RGE fisiológico: regurgitação sem complicações ('bebê feliz'), melhora com posicionamento e espessamento. DRGE: RGE com complicações (esofagite, falha de crescimento, apneia, broncoespasmo). DRGE requer investigação e tratamento farmacológico."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "pediatria",
+    "frente": "Quais são os principais sinais de abuso físico infantil?",
+    "verso": "Equimoses em diferentes estágios de cicatrização, em locais incomuns (costas, nádegas, dorso); queimaduras com padrão definido (cigarro, objetos); fratura em espiral em lactente que não deambula; lesões inconsistentes com a história; atraso na busca de cuidado médico."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "Quais são as classes de risco biológico (Classificação de risco dos agentes biológicos)?",
+    "verso": "Classe de Risco 1: baixo risco individual e coletivo (ex: E. coli K12). Classe 2: risco moderado, tratamento disponível (Staphylococcus aureus, Hepatite B). Classe 3: alto risco individual, baixo coletivo (Mycobacterium tuberculosis, HIV). Classe 4: alto risco, sem tratamento (Ebola, varíola)."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "O que são EPI e EPCs obrigatórios na assistência de saúde?",
+    "verso": "EPC: equipamentos de proteção coletiva (cabines de segurança biológica, rede de esgoto hospitalar, ventilação adequada). EPI individual: luvas, máscara cirúrgica ou N95, óculos, capote/avental, protetor facial, botas. A escolha depende do risco do procedimento."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "O que é Central de Material e Esterilização (CME) e quais as etapas do processamento?",
+    "verso": "CME processa artigos médico-hospitalares. Etapas: limpeza (remove sujidade) → secagem → inspeção/preparo → embalagem → esterilização → armazenamento → distribuição. Limpeza é a etapa mais importante (sem ela a esterilização é ineficaz)."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "Quais são os métodos de esterilização e suas indicações?",
+    "verso": "Autoclave (vapor saturado sob pressão, 121°C/30min ou 134°C/3–4min): padrão ouro, material que suporta calor/umidade. Calor seco (Forno Poupinel, 160°C/120min): oleosidade, pós. Óxido de etileno: termossensíveis. Plasma de peróxido de hidrogênio: endoscópios. Radiação gama: industriais."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "Qual a diferença entre artigos críticos, semicríticos e não críticos (classificação de Spaulding)?",
+    "verso": "Críticos: entram em tecidos estéreis/sistema vascular → esterilização obrigatória (bisturi, agulhas, cateteres). Semicríticos: mucosas íntegras → desinfecção de alto nível (endoscópios, termômetros). Não críticos: pele íntegra → limpeza + desinfecção baixo/médio nível (estetoscópio, manguito)."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "O que é o PGRSS (Plano de Gerenciamento de Resíduos de Serviços de Saúde)?",
+    "verso": "Documento obrigatório que descreve ações e procedimentos para manejo correto dos RSS. Classifica os resíduos em: Grupo A (infectantes), B (químicos), C (radioativos), D (comuns) e E (perfurocortantes). RDC ANVISA 222/2018."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "Como descartar corretamente um resíduo perfurocortante?",
+    "verso": "Em caixa resistente a perfuração (coletor rígido, tipo descartex), de cor amarela, identificada com símbolo de biorrisco. Não reencapar agulhas (técnica de uma mão se necessário). Fechar quando 2/3 da capacidade. Nunca esvaziar ou reutilizar."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "O que é biossegurança e quais os seus princípios?",
+    "verso": "Conjunto de ações para prevenir, minimizar ou eliminar riscos em atividades de pesquisa, produção e ensino, que possam comprometer saúde humana, animal e o meio ambiente. Princípios: contenção (primária/secundária), boas práticas laboratoriais e uso de EPI/EPC."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "Quais são os indicadores de qualidade da esterilização?",
+    "verso": "Indicadores físicos: tempo, temperatura, pressão (gráficos da autoclave). Indicadores químicos (IQ): mudam de cor (IQ classe 1–6, sendo 6 mais completo — integrador). Indicadores biológicos: esporos de B. stearothermophilus (padrão ouro) — teste definitivo de esterilidade."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "Quais são as medidas de precaução padrão obrigatórias para todos os pacientes?",
+    "verso": "Higienização das mãos (5 momentos OMS); uso de luvas ao contato com sangue/fluidos; máscara e óculos em procedimentos com risco de respingos; avental em contato com fluidos; descarte adequado de perfurocortantes; respiratória (tosse coberta). Para TODOS independente de diagnóstico."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "O que fazer em caso de acidente com material biológico (perfurocortante)?",
+    "verso": "1) Lavar exaustivamente com água e sabão (mucosas: SF 0,9%; olhos: água corrente). 2) Notificar chefia imediata. 3) Preencher CAT. 4) Encaminhar para serviço de saúde ocupacional. 5) Avaliar indicação de PEP para HIV (até 72h), HBIg (hepatite B) conforme vacinação."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "O que é cabine de segurança biológica (CSB) e quando usar?",
+    "verso": "EPC que protege o trabalhador, a amostra e o ambiente de aerossóis durante manipulação de agentes biológicos. Classe II B2 (fluxo laminar): usada com agentes de classe 2 e 3. Obrigatória no processamento de amostras infecciosas em laboratório."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "Quais são os cuidados com roupas hospitalares contaminadas?",
+    "verso": "Não sacudir no quarto (aerossóis). Acondicionar em saco hamper identificado (cor padronizada). Não lavar no mesmo equipamento de roupas comuns. Enviar à lavanderia hospitalar para processamento térmico ou químico conforme RDC 6/2013."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que é farmacocinética? Cite as 4 fases.",
+    "verso": "Estudo do que o organismo faz com o medicamento: A (Absorção) → D (Distribuição) → M (Metabolismo/biotransformação, principalmente hepático) → E (Excreção, principalmente renal). Resumo: ADME."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que é a meia-vida de um medicamento?",
+    "verso": "Tempo necessário para que a concentração plasmática do fármaco caia à metade do valor inicial. Determina o intervalo de dose e o tempo para atingir o estado de equilíbrio (platô: ~4–5 meias-vidas). Importante para ajuste em insuficiência renal/hepática."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que é interação medicamentosa? Cite um exemplo clinicamente relevante.",
+    "verso": "Modificação do efeito de um fármaco pela presença de outro. Ex: varfarina + AINEs → risco aumentado de sangramento (sinergismo). Outro: metformina + álcool → risco de acidose lática. Warfarina + alimentos ricos em vitamina K → antagonismo."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que são os antibióticos beta-lactâmicos? Cite exemplos e mecanismo de ação.",
+    "verso": "Antibióticos que inibem a síntese da parede celular bacteriana por inibição das PBPs. Classes: penicilinas (amoxicilina, ampicilina), cefalosporinas (cefalexina, cefazolina, ceftriaxona), carbapenêmicos (meropeném), monobactâmicos (aztreonam)."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que são antibióticos inibidores de síntese proteica? Exemplos e cuidados.",
+    "verso": "Macrólidos (azitromicina): anaeróbios, atípicos; 1x/dia. Aminoglicosídeos (gentamicina): gram-negativos; nefrotóxico e ototóxico — monitorar função renal e audição. Tetraciclinas (doxiciclina): não usar em gestante/criança <8a (quelatam cálcio). Clindamicina: anaeróbios, MRSA pele."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que é o anticoagulante heparina? Diferencie HNF de HBPM.",
+    "verso": "HNF (heparina não fracionada): EV ou SC, monitorar TTPA, antídoto protamina, pode ser usada na insuficiência renal. HBPM (enoxaparina, dalteparina): SC, dose fixa, não requer monitoramento de rotina, maior biodisponibilidade. CONTRAINDICADA na IR grave."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que é a varfarina e como monitorar? Qual o antídoto?",
+    "verso": "Anticoagulante oral, inibidor da vitamina K (fatores II, VII, IX, X). Monitoramento: INR (alvo 2–3 para FA e TVP; 2,5–3,5 para prótese mecânica). Antídoto: vitamina K (ação em 12–24h); para emergência: plasma fresco congelado ou CCP."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que são os antidiabéticos orais? Compare metformina e sulfonilureias.",
+    "verso": "Metformina (biguanida): 1ª linha no DM2, reduz produção hepática de glicose, não causa hipoglicemia, causa GI frequente. Sulfonilureias (glibenclamida): estimulam secreção de insulina, causa hipoglicemia, ganho de peso. Metformina: CONTRAINDICADA na IR grave (ClCr <30)."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "Quais são os cuidados de enfermagem na administração de insulina?",
+    "verso": "Rodízio de sítios (abdômen 2cm do umbigo, coxas, braços, glúteos). Injeção SC a 45° (agulha 8mm) ou 90° (agulha 4–6mm). Temperatura ambiente. Não masagear após. NPH deve ser homogeneizada (rolar entre palmas). Monitorar glicemia antes e após."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que é o Protocolo de segurança: 'alerta para eletrólitos concentrados'?",
+    "verso": "Potássio concentrado (KCl ≥10%), cloreto de sódio hipertônico (NaCl >0,9%), fosfato de potássio e magnésio devem ser armazenados em local restrito, rotulados com alerta e não podem ser administrados em bolus IV sem diluição e supervisão — risco de morte."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "Quais são os anti-hipertensivos mais usados e seus mecanismos?",
+    "verso": "IECA (enalapril): inibe ECA → bloqueia angiotensina II. BRA (losartana): bloqueia receptor AT1. Betabloqueador (atenolol): reduz débito cardíaco. BCC (anlodipino): vasodilatação. Diurético (hidroclorotiazida): reduz volemia. IECA e BRA: CONTRAINDICADOS na gestação."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que é o sulfato de magnésio e como usar na eclâmpsia?",
+    "verso": "Anticonvulsivante de escolha na eclâmpsia. Dose de ataque: 4–6 g EV em 15–20 min. Manutenção: 1–2 g/h em bomba de infusão. Monitorar: reflexo patelar (deve estar presente), diurese (>25 mL/h), FR (≥16 irpm). Antídoto: gluconato de cálcio 10%."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que é o calendário nacional de vacinação do adulto? Cite as principais.",
+    "verso": "Influenza (anual, especialmente ≥60 anos e grupos de risco). dT (difteria/tétano, reforço a cada 10 anos). Hepatite B (3 doses se não vacinado). dTpa (gestantes, a cada gestação). Febre amarela (1 dose, para quem vive ou viaja para áreas de risco). HPV (9–45 anos feminino; 9–26 masculino)."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que são opioides e quais os sinais de intoxicação?",
+    "verso": "Analgésicos que agem nos receptores opioides (mu, kappa, delta). Ex: morfina, codeína, tramadol, fentanil. Intoxicação (tríade): miose puntiforme, depressão respiratória, coma. Antídoto: naloxona (0,4–2 mg IV/IM). Risco de dependência e tolerância."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mental",
+    "frente": "O que é a Reforma Psiquiátrica no Brasil? Lei 10.216/2001.",
+    "verso": "Lei que redireciona o modelo assistencial em saúde mental, priorizando o tratamento em serviços comunitários (CAPS, SRT, centros de convivência) em detrimento dos hospitais psiquiátricos. Estabelece direitos da pessoa com transtorno mental e tipos de internação."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "mental",
+    "frente": "Quais são os tipos de internação psiquiátrica segundo a Lei 10.216?",
+    "verso": "Voluntária: com consentimento do paciente (assina termo). Involuntária: sem consentimento, a pedido de familiar/responsável (notificar MP em 72h). Compulsória: determinada pela Justiça. Em todos os casos: garantir dignidade e direitos do paciente."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mental",
+    "frente": "O que é o transtorno depressivo maior e quais os critérios diagnósticos (DSM-5)?",
+    "verso": "≥5 sintomas por ≥2 semanas, sendo obrigatoriamente ≥1 dos 2 principais: humor deprimido ou anedonia. Outros: distúrbio do sono, alteração apetite/peso, fadiga, sentimento de culpa/inutilidade, dificuldade de concentração, pensamentos de morte. Causar prejuízo funcional."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "mental",
+    "frente": "O que é o risco de suicídio e como abordar?",
+    "verso": "Perguntar diretamente sobre ideação suicida NÃO aumenta o risco — desfaz o tabu. Avaliar: ideação (tem plano?), intenção (pretende executar?), meio (acesso a arma/medicamento?). Fator de proteção: rede de suporte, espiritualidade, filhos. Internar se risco alto."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mental",
+    "frente": "O que é o transtorno bipolar e como diferenciar os episódios?",
+    "verso": "Episódio maníaco: humor elevado/expansivo/irritável por ≥1 semana + 3 dos: grandiosidade, diminuição sono, logopatia, fuga de ideias, distratibilidade, agitação, comportamentos de risco. Episódio depressivo: critérios de depressão maior. Hipomania: maníaco mas <1 semana, sem psicose."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "mental",
+    "frente": "O que é a esquizofrenia e quais os sintomas positivos e negativos?",
+    "verso": "Positivos (produção excessiva): alucinações (mais comuns: auditivas), delírios, desorganização do pensamento. Negativos (empobrecimento): alogia, abulia/apatia, anedonia, afeto embotado, isolamento social. Critérios: ≥2 sintomas por ≥6 meses."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mental",
+    "frente": "O que é o transtorno de ansiedade generalizada (TAG)?",
+    "verso": "Ansiedade e preocupação excessiva e incontrolável sobre múltiplos eventos por ≥6 meses + ≥3 sintomas: inquietação, fadiga fácil, dificuldade de concentração, irritabilidade, tensão muscular, alteração do sono. Tratamento: ISRS (1ª linha) + TCC."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "mental",
+    "frente": "Quais são os antipsicóticos típicos e atípicos? Diferencie os efeitos adversos.",
+    "verso": "Típicos (1ª geração): haloperidol, clorpromazina — efeitos extrapiramidais (parkinsonismo, acatisia, distonia aguda, discinesia tardia). Atípicos (2ª geração): risperidona, olanzapina, clozapina — menor extrapiramidal, mas metabolismo (ganho de peso, DM, dislipidemia). Clozapina: agranulocitose (raro)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mental",
+    "frente": "O que é a síndrome neuroléptica maligna?",
+    "verso": "Emergência psiquiátrica rara causada por antipsicóticos. Tríade: hipertermia (>38°C), rigidez muscular grave, alteração do nível de consciência. + disfunção autonômica (taquicardia, PA instável). CPK elevado (miorexe). Tratamento: suspender antipsicótico, suporte intensivo, bromocriptina, dantroleno."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "mental",
+    "frente": "Quais são os estágios de luto de Elisabeth Kübler-Ross?",
+    "verso": "5 estágios (não são lineares nem obrigatórios): 1) Negação; 2) Raiva; 3) Barganha (negociação com Deus/médico); 4) Depressão (tristeza profunda); 5) Aceitação. Aplicado a qualquer perda significativa, não só morte."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mental",
+    "frente": "O que são os transtornos por uso de substâncias (TUS) e como classificar?",
+    "verso": "Critérios DSM-5: ≥2 dos 11 critérios em 12 meses (perda de controle, prejuízo social/ocupacional, uso arriscado, critérios farmacológicos — tolerância e abstinência). Leve: 2–3 critérios; moderado: 4–5; grave: ≥6."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "mental",
+    "frente": "O que é a síndrome de abstinência alcoólica e quando se torna emergência?",
+    "verso": "Leve-moderada: tremor, sudorese, ansiedade, náusea (6–24h após última dose). Grave (72h): delirium tremens — confusão, alucinações (visuais+táteis+auditivas), convulsões, instabilidade autonômica. Tratamento: benzodiazepínicos (diazepam, lorazepam); tiamina antes da glicose."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mental",
+    "frente": "O que é a contenção física e quando é indicada?",
+    "verso": "Procedimento terapêutico para proteger o paciente e a equipe quando há risco de auto ou heteroagressão. Deve ser prescrita por médico, com duração mínima necessária, monitorização contínua (circulação, respiração, posição), e documentação. Nunca como punição."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "mental",
+    "frente": "O que é o transtorno de estresse pós-traumático (TEPT)?",
+    "verso": "Reação psicopatológica a evento traumático (violência, desastre, guerra). Critérios: reexperiência do trauma (flashbacks, pesadelos), evitação, alterações cognitivas/humor negativos, hiperativação autonômica. Duração >1 mês. Tratamento: trauma-focada (TCC, EMDR) + ISRS."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é o Estatuto do Idoso (Lei 10.741/2003)?",
+    "verso": "Lei que assegura direitos às pessoas ≥60 anos. Direitos: saúde, educação, habitação, transporte (gratuidade se renda ≤2 SM), lazer, alimentação, dignidade, respeito, liberdade. Proíbe discriminação e abandono. Crimes: maus-tratos ao idoso, abandono."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é a Avaliação Geriátrica Ampla (AGA)?",
+    "verso": "Processo multidimensional e interdisciplinar que avalia: estado cognitivo (MEEM), humor (GDS), funcionalidade (Katz, Lawton), marcha e equilíbrio (Tinetti, TUG), polifarmácia, continência, nutrição, suporte social, condições médicas. Fundamental para planejamento do cuidado."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é o Mini Exame do Estado Mental (MEEM)?",
+    "verso": "Teste de rastreio cognitivo (0–30 pontos). Avalia: orientação, registro, atenção/cálculo, evocação, linguagem, habilidade construtiva. Pontos de corte: analfabeto ≤19; 1–4a ≤24; 5–8a ≤26; 9–11a ≤27; superior ≤28. Não diagnóstico isolado de demência."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é a Síndrome de Fragilidade do idoso e como avaliar?",
+    "verso": "Síndrome biológica de reserva diminuída e vulnerabilidade ao estresse. Critérios de Fried: perda de peso não intencional, exaustão, força de preensão reduzida, velocidade de marcha lenta, baixa atividade física. Robusto: 0; pré-frágil: 1–2; frágil: ≥3."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é polifarmácia e quais os riscos no idoso?",
+    "verso": "Uso de ≥5 medicamentos simultaneamente. Riscos: interações medicamentosas, cascata de prescrições, efeitos adversos (queda, confusão, hipotensão ortostática), não adesão. Critérios de Beers: lista de medicamentos potencialmente inapropriados para idosos (ex: benzodiazepínicos, AINEs, anti-histamínicos 1ª geração)."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é a Escala de Katz e o que avalia?",
+    "verso": "Avalia independência nas AVDs básicas (Atividades de Vida Diária): banho, vestuário, higiene pessoal, transferência/mobilidade, continência e alimentação. Cada item: 0 (dependente) ou 1 (independente). Total: 0–6. Quanto menor, maior a dependência."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é a escala de Lawton e o que avalia?",
+    "verso": "Avalia AVDs instrumentais (atividades complexas para vida independente): usar telefone, fazer compras, preparar refeições, tarefas domésticas, lavar roupas, usar transporte, tomar medicamentos, controlar finanças. 0–8 pontos (mulheres) ou 0–5 (homens). Menor = mais dependente."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é osteoporose e quais os fatores de risco?",
+    "verso": "Doença esquelética com baixa massa óssea e deterioração da microarquitetura, aumentando o risco de fraturas. Fatores: mulher, pós-menopausa, baixo IMC, tabagismo, álcool, sedentarismo, história familiar, corticoterapia crônica. Diagnóstico: DXA (T-score ≤-2,5)."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "Quais são as quedas no idoso? Cite fatores de risco e prevenção.",
+    "verso": "Principal causa de morbimortalidade no idoso. Fatores intrínsecos: hipotensão ortostática, disfunção vestibular, sarcopenia, polifarmácia, demência. Extrínsecos: piso escorregadio, iluminação inadequada, calçado inapropriado. Prevenção: adaptação ambiental, fisioterapia, revisão de medicamentos."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é a demência e como diferenciar Alzheimer de demência vascular?",
+    "verso": "Alzheimer: início insidioso, progressão gradual, perda de memória episódica proeminente, sem relação com AVC. Demência vascular: início abrupto após AVC, progressão em degraus, déficits neurológicos focais. TAC/RNM: infartos lacunares na vascular."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é hipotensão ortostática no idoso e como avaliar?",
+    "verso": "Queda da PAS ≥20 mmHg ou PAD ≥10 mmHg após mudança de decúbito (deitado → em pé) em 3 minutos. Causas: desidratação, polifarmácia (anti-hipertensivos, diuréticos, levodopa). Cuidados: levantar gradualmente, hidratação adequada, revisão medicamentosa."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é a Política Nacional de Saúde da Pessoa Idosa (PNSPI)?",
+    "verso": "Portaria MS 2.528/2006. Diretrizes: promoção do envelhecimento ativo e saudável; atenção integral à saúde; cuidado domiciliar; respeito à especificidade; capacitação dos profissionais; apoio ao cuidador; desinstitucionalização (evitar asilos). Referência: UBS como porta de entrada."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "Quais são os sinais e sintomas de desnutrição no idoso?",
+    "verso": "Perda de peso involuntária (>5% em 6 meses ou >10% em 12 meses), sarcopenia, IMC <22 kg/m², albumina sérica <3,5 g/dL, anorexia. Rastreio: MNA (Mini Nutritional Assessment). Idoso desnutrido: maior risco de infecções, quedas, fraturas, úlceras e morte."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é o Teste Timed Up and Go (TUG) e o que avalia?",
+    "verso": "Avalia mobilidade funcional e risco de quedas. Paciente levanta de cadeira, anda 3 metros, retorna e senta. Normal: <10s; risco moderado: 10–19s; alto risco: ≥20s. Indicador de fragilidade e preditor de institutionalização."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é gestão em saúde e quais são as funções administrativas básicas (PODC)?",
+    "verso": "Planejar: definir objetivos e meios. Organizar: distribuir recursos e responsabilidades. Dirigir: liderar e motivar a equipe. Controlar: monitorar resultados e corrigir desvios. Aplicado à gestão de serviços de enfermagem e saúde."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é planejamento estratégico situacional (PES) em saúde?",
+    "verso": "Método de planejamento de Matus: identifica problemas (explicação), seleciona nós críticos, formula projetos de intervenção e define estratégias. Participativo e baseado na análise situacional. Mais adequado ao setor público que o planejamento normativo."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é auditoria em saúde e quais os tipos?",
+    "verso": "Exame sistemático de serviços e registros de saúde para verificar conformidade, qualidade e eficiência. Tipos: interna (equipe própria), externa (órgãos reguladores/convênios). Quanto ao momento: prévia (análise antes do evento), concomitante (durante) e subsequente (após, análise de prontuários)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é indicador de qualidade em saúde? Cite exemplos assistenciais.",
+    "verso": "Medida que permite avaliar dimensões da qualidade (efetividade, segurança, eficiência). Exemplos: taxa de infecção hospitalar, taxa de queda de paciente, taxa de úlcera por pressão hospitalar, taxa de medicação incorreta, tempo de espera para atendimento."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é o COFEN e quais as suas atribuições?",
+    "verso": "Conselho Federal de Enfermagem — autarquia que fiscaliza e normatiza o exercício profissional de enfermeiros, técnicos e auxiliares de enfermagem. Emite resoluções (ex: COFEN 564/2017 — Código de Ética), registra profissionais, aplica penalidades disciplinares."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é o Código de Ética de Enfermagem (Resolução COFEN 564/2017)?",
+    "verso": "Documento que normatiza a conduta profissional do enfermeiro baseado em princípios éticos. Abrange: direitos, deveres, proibições e penalidades (advertência, censura, suspensão, cassação). Fundamenta-se nos valores de beneficência, não-maleficência, autonomia e justiça."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é a Sistematização da Assistência de Enfermagem (SAE)?",
+    "verso": "Metodologia de trabalho privativa do enfermeiro que organiza a assistência. Etapas: Coleta de dados → Diagnóstico de Enfermagem (NANDA) → Planejamento → Implementação → Avaliação. Regulamentada pela Resolução COFEN 358/2009 como obrigatória em todos os ambientes."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é o dimensionamento de pessoal de enfermagem? O que é o SCP?",
+    "verso": "Cálculo do quantitativo necessário de profissionais. Baseado no SCP (Sistema de Classificação de Pacientes) por Fugulin: tipo I (cuidados mínimos), II (intermediários), III (semi-intensivos), IV (intensivos). Resolução COFEN 293/2004 define os parâmetros mínimos."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é o prontuário do paciente e quais as informações obrigatórias?",
+    "verso": "Documento legal e de comunicação que contém dados de identificação, histórico de saúde, evolução, prescrições, exames, consentimentos. Deve ser legível, assinado com CRM/COREN, sem rasuras. Resolução CFM 1638/2002. Prazo mínimo de guarda: 20 anos (prontuário físico); definitivo (eletrônico)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "Quais são as metas internacionais de segurança do paciente da JCI (Joint Commission)?",
+    "verso": "1) Identificação correta do paciente (pulseira); 2) Comunicação efetiva (SBAR); 3) Segurança na administração de medicamentos de alto risco; 4) Cirurgia segura (checklist); 5) Higienização das mãos; 6) Prevenção de quedas."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é o conceito de liderança situacional (Hersey e Blanchard)?",
+    "verso": "O líder adapta seu estilo ao nível de maturidade (competência + motivação) do liderado. Estilos: E1 Direção (baixa maturidade); E2 Coaching (moderada); E3 Apoio (boa competência, baixa motivação); E4 Delegação (alta maturidade). Não existe estilo único melhor."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é a acreditação hospitalar e quais os níveis da ONA?",
+    "verso": "Processo de avaliação externa que certifica a qualidade do serviço de saúde. ONA (Organização Nacional de Acreditação): Nível 1 (segurança — requisitos básicos); Nível 2 (organização — gerenciamento); Nível 3 (excelência — educação continuada e melhoria contínua). Voluntária no Brasil."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é a gestão de materiais hospitalares? O que é curva ABC?",
+    "verso": "Gestão de estoques para garantir disponibilidade com menor custo. Curva ABC: classifica materiais por valor de consumo. A: 20% dos itens, 80% do valor (controle rigoroso). B: 30% itens, 15% valor. C: 50% itens, 5% valor (controle simples). Também usada para medicamentos."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é a educação permanente em saúde (EPS)?",
+    "verso": "Política do MS (Portaria 198/2004) que propõe que o aprendizado aconteça a partir dos problemas cotidianos do trabalho, de forma crítica e reflexiva. Diferente de educação continuada (atualização técnica pontual). EPS é processo contínuo, no local de trabalho, para transformação da prática."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "Quais são os desinfetantes de alto, médio e baixo nível?",
+    "verso": "Alto nível: glutaraldeído 2%, ácido peracético, HP 6–7,5% — elimina esporos (semicríticos como endoscópios). Médio: cloro 0,5–1%, álcool 70%, fenólicos — não elimina esporos. Baixo: cloro <0,1%, quaternário de amônio — pele íntegra, superfícies não críticas."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "Qual a concentração correta do álcool para antissepsia das mãos?",
+    "verso": "Álcool gel 70% (p/p) ou etílico 70% (v/v). Concentrações menores (<60%) ou maiores (>85%) são menos eficazes. O álcool não age em presença de matéria orgânica visível — nesse caso, lavagem com água e sabão antes do FRIC."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "O que é CME classe I, II e III segundo a RDC ANVISA?",
+    "verso": "RDC 15/2012 classifica CMEs: Classe I — básica (materiais simples, autoclave). Classe II — intermediária (todos os tipos de esterilização). Classe III — avançada (processos de alta complexidade, plasma, óxido de etileno). Exige estrutura física e equipe capacitada crescente."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "O que é o tempo de esterilização na autoclave?",
+    "verso": "121°C por 30 minutos (1 atm): artigos porosos e embalados. 134°C por 3–4 minutos (2 atm): ciclo rápido. Tempo de exposição + tempo de secagem + tempo de purga = ciclo completo. Carga não pode tocar as paredes da câmara."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "Quais artigos não podem ser esterilizados em autoclave?",
+    "verso": "Materiais termossensíveis: plásticos, borrachas, eletrônicos, ópticos, artigos com lubrificação oleosa. Esses devem ser processados com métodos alternativos: plasma de peróxido de hidrogênio, óxido de etileno ou imersão em glutaraldeído."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "O que é a rastreabilidade de artigos na CME e por que é importante?",
+    "verso": "Registro do histórico de processamento de cada artigo (lote, data, operador, indicadores, destino). Permite investigação em caso de falha de esterilização e notificação de pacientes expostos. Obrigatória conforme RDC ANVISA 15/2012."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "Quais são os riscos ocupacionais em saúde e como classificar?",
+    "verso": "Físicos: ruído, calor, radiação. Químicos: desinfetantes, gases anestésicos, citostáticos. Biológicos: microrganismos. Ergonômicos: postura, carga de peso. Psicossociais: estresse, burnout. Mecânicos/acidentais: quedas, perfurocortantes. NR 32 regula saúde do trabalhador da saúde."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "O que é o Plano de Gerenciamento de Resíduos (PGRSS) e quem deve ter?",
+    "verso": "Todo estabelecimento de saúde que gera RSS deve ter PGRSS aprovado pela vigilância sanitária local. Responsável técnico: profissional habilitado. Prevê segregação, acondicionamento, coleta interna, armazenamento, transporte e destinação final dos resíduos."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "O que é limpeza concorrente e limpeza terminal no hospital?",
+    "verso": "Concorrente: limpeza diária do ambiente do paciente internado (cama, mesa, chão) sem interrupção da assistência. Terminal: limpeza completa após alta, transferência ou óbito do paciente — inclui paredes, janelas, equipamentos fixos. Fundamental para controle de infecções."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "O que é hepatite B ocupacional e como prevenir?",
+    "verso": "Principal causa de hepatite viral ocupacional em saúde. Prevenção: vacinação completa (3 doses) + anti-HBs ≥10 mUI/mL. Pós-exposição: não vacinado ou anti-HBs <10 → HBIg + vacina em até 24h. NÃO existe antiretroviral específico — prevenção é prioridade."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "O que é a NR 32 e o que regulamenta?",
+    "verso": "Norma Regulamentadora 32 (MTE): segurança e saúde no trabalho em serviços de saúde. Abrange: riscos biológicos (EPI, vacinação, acidentes), químicos (manipulação, descarte), radiações ionizantes, resíduos. Estabelece medidas preventivas obrigatórias."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "O que é o Programa de Controle de Infecção Hospitalar (PCIH)?",
+    "verso": "Conjunto de ações para prevenir e controlar IRAs no hospital. Componentes: CCIH (comissão), vigilância epidemiológica hospitalar, elaboração de normas, treinamento da equipe, uso racional de antimicrobianos, higienização das mãos. Obrigatório pela Lei 9.431/1997."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que é a Política Nacional de Medicamentos (PNM)?",
+    "verso": "Portaria MS 3.916/1998. Diretrizes: adoção da RENAME, reorientação da assistência farmacêutica, promoção do uso racional de medicamentos (URM), desenvolvimento científico e tecnológico, promoção da produção de medicamentos, regulamentação sanitária de medicamentos."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que são medicamentos genéricos e biossimilares?",
+    "verso": "Genérico: mesmo princípio ativo, concentração, forma farmacêutica e via que o referência — deve ter bioequivalência comprovada. Identificado pela emissão amarela. Biossimilar: versão de produto biológico (insulina, anticorpo) com qualidade, segurança e eficácia comparáveis ao referência."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "Quais são os AINES e seus efeitos adversos principais?",
+    "verso": "Anti-inflamatórios não esteroidais: ibuprofeno, diclofenaco, naproxeno, cetoprofeno, ácido acetilsalicílico. Inibem COX-1 e COX-2 → reduzem prostaglandinas. Efeitos: úlcera gástrica, nefrotoxicidade, broncoespasmo, retenção hidrossódica. Contraindicados: IRA/IRC, úlcera ativa, gestação (3º trimestre)."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que são os corticosteroides? Cite indicações e efeitos adversos.",
+    "verso": "Hormônios anti-inflamatórios e imunossupressores. Indicações: asma, DPOC exacerbada, doenças autoimunes, anafilaxia, edema cerebral. Efeitos crônicos: hiperglicemia, osteoporose, Cushing iatrogênico, imunossupressão, HAS, úlcera gástrica. Não suspender abruptamente (insuficiência adrenal)."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "Quais são os beta-2 agonistas? Diferença entre curta e longa ação.",
+    "verso": "Beta-2 agonistas relaxam musculatura brônquica. Curta ação (SABA): salbutamol — broncodilatação de alívio, início 5–15 min. Longa ação (LABA): formoterol, salmeterol — manutenção, não usar sem corticoide inalatório. LABA isolado: contraindicado na asma não controlada."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que é a Portaria 344 e o que regula?",
+    "verso": "Portaria SVS/MS 344/1998 — dispõe sobre controle de substâncias sujeitas a controle especial (psicotrópicos, entorpecentes, precursores). Regulamenta: prescrição (receita especial A1, A2, A3, B1, B2, C1–C5), dispensação, armazenamento, balancete e descarte. Notificação de receita obrigatória para lista A e B."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que é a bomba de infusão de insulina e como monitorar?",
+    "verso": "Dispositivo que infunde insulina basal continuamente + bolus nas refeições. Monitoramento: glicemia capilar 6–8x/dia (ou sensor contínuo). Cuidados de enfermagem: verificar local de infusão do cateter (trocar a cada 2–3 dias), alarmes, nível de insulina no reservatório, sinais de hipoglicemia."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que é soro fisiológico 0,9% e solução glicosada 5%? Quando indicar?",
+    "verso": "SF 0,9% (isotônico, 308 mOsm/L): reposição volêmica, manutenção, diluição de medicamentos. SG 5% (isotônico no frasco, hipotônico ao distribuir, 252 mOsm/L): hidratação, fonte energética mínima. NÃO use SF em excesso (sobrecarga de sódio); não use SG em choque hipovolêmico puro."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que é a oncologia e quais os cuidados com quimioterápicos?",
+    "verso": "Citostáticos: drogas que inibem proliferação celular. Manuseio: EPI completo (luvas, máscara N95, avental impermeável, óculos), cabine de segurança biológica Classe II. Extravasamento: interromper, aspirar, injetar antídoto específico. Descarte em embalagem roxa (resíduo B – químico especial)."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que é a vitamina K e quando administrar no RN?",
+    "verso": "Vitamina K profilática no RN: dose única de 1 mg IM nas primeiras horas após o nascimento. Previne a doença hemorrágica do RN (DHRN) por deficiência de fatores de coagulação vitamina K-dependentes (II, VII, IX, X). Obrigatória no Brasil."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "farma",
+    "frente": "O que são anticoagulantes de ação direta oral (DOACs)? Cite exemplos e monitoramento.",
+    "verso": "Dabigatrana (inibidor direto da trombina), rivaroxabana, apixabana (inibidores do Fator Xa). Vantagens: dose fixa, sem monitoramento de rotina (exceto rifaroxabana → anti-Xa). Desvantagem: custo e antídoto limitado (idarucizumabe para dabigatrana; andexanet alfa para Xa)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é a Escala de Morse para quedas?",
+    "verso": "Escala de avaliação de risco de quedas. Avalia: histórico de quedas (0/25), diagnóstico secundário (0/15), auxílio para deambulação (0–30), acesso a soro/medicação EV (0/20), marcha (0–20), estado mental (0/15). Total: 0–125. Alto risco: ≥45 pontos."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é o protocolo de cirurgia segura (OMS/MS)?",
+    "verso": "Checklist de verificação em 3 momentos: Sign-in (antes da anestesia), Time-out (antes da incisão), Sign-out (antes de o paciente sair da SO). Verifica: identidade, local cirúrgico marcado, materiais contados, profilaxia antibiótica, equipamentos disponíveis. Reduz mortalidade cirúrgica em 40%."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é a metodologia SBAR (ISBAR) de comunicação?",
+    "verso": "Ferramenta para comunicação segura entre profissionais. S (Situação): o que está acontecendo. B (Background/contexto): histórico relevante. A (Avaliação): o que o profissional acha. R (Recomendação): o que propõe. Reduz erros na passagem de plantão e solicitações médicas."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é a cultura de segurança do paciente?",
+    "verso": "Conjunto de valores, atitudes e comportamentos que demonstram compromisso coletivo com a segurança. Características: comunicação aberta, relato de incidentes sem punição (cultura justa), aprendizado com erros, trabalho em equipe, liderança comprometida. Base para melhorias no cuidado."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é o near miss (quase erro) e por que reportar?",
+    "verso": "Incidente que poderia ter causado dano ao paciente, mas não causou por acaso ou intervenção oportuna. Reportar é fundamental para aprender com a falha antes de causar dano real. O sistema de notificação deve ser não punitivo para encorajar o relato."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é o modelo de qualidade PDCA?",
+    "verso": "Ciclo de melhoria contínua: Plan (planejar: identificar problema, definir metas e estratégias), Do (executar: implementar o plano), Check (verificar: avaliar resultados x metas), Act (agir: padronizar se funcionou ou reiniciar se não). Base do gerenciamento da qualidade em saúde."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é o Diagrama de Ishikawa (espinha de peixe)?",
+    "verso": "Ferramenta de qualidade para identificar causas-raiz de um problema (efeito). Organiza causas em categorias (6M): Método, Máquina, Material, Mão-de-obra, Meio ambiente, Medição. Usado na análise de incidentes e melhoria de processos em saúde."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é a gestão por competências em enfermagem?",
+    "verso": "Abordagem que identifica, desenvolve e avalia competências (conhecimento + habilidade + atitude — CHA) dos profissionais alinhadas às necessidades da organização. Possibilita planos de desenvolvimento individuais, avaliação de desempenho e seleção por competências."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é a Lei 7.498/86 (Lei do Exercício Profissional de Enfermagem)?",
+    "verso": "Regulamenta o exercício da enfermagem no Brasil. Define: Enfermeiro (nível superior, atividades privativas e de maior complexidade); Técnico de Enfermagem (nível médio técnico); Auxiliar de Enfermagem (nível fundamental, funções elementares). Decreto 94.406/87 regulamenta."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que são as atividades privativas do enfermeiro?",
+    "verso": "Conforme Lei 7.498/86: direção do órgão de enfermagem; organização e direção dos serviços; planejamento, organização, coordenação e avaliação dos serviços de enfermagem; prescrição de enfermagem; cuidados de maior complexidade técnica que exijam conhecimento científico e capacidade de tomar decisões imediatas."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é o benchmarking em saúde?",
+    "verso": "Processo de comparação sistemática de práticas, processos e resultados com organizações de referência (melhores práticas). Tipos: interno (entre setores), competitivo (com concorrentes), funcional (com organizações de outros ramos). Objetivo: identificar oportunidades de melhoria."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é a sarcopenia e como diagnosticar?",
+    "verso": "Perda de massa muscular e força associada ao envelhecimento. Diagnóstico (EWGSOP2): baixa força de preensão (<27 kg H, <16 kg M) + baixa massa muscular (DEXA, BIA). Grave: + baixo desempenho (velocidade de marcha <0,8 m/s). Tratamento: exercício resistido + proteína."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é a depressão no idoso e como rastrear com a GDS?",
+    "verso": "GDS (Geriatric Depression Scale): versão 15 itens (GDS-15). Respostas sim/não. Pontuação: ≤5 normal; 6–10 depressão leve-moderada; 11–15 depressão grave. GDS não substitui diagnóstico clínico. Atenção: idoso pode não relatar tristeza, mas sim queixas somáticas."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é a delirium no idoso e como diferenciar da demência?",
+    "verso": "Delirium: confusão aguda (horas/dias), flutuante, distúrbio da atenção, causa orgânica identificável (infecção, medicamento, desidratação). Demência: início insidioso, progressiva, atenção preservada no início. Delirium pode ocorrer sobre demência (mais grave). Método diagnóstico: CAM (Confusion Assessment Method)."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "Quais são os cuidados de enfermagem com o idoso acamado?",
+    "verso": "Mudança de decúbito a cada 2h; inspeção da pele (especialmente proeminências ósseas); hidratação cutânea; higiene íntima e oral; nutrição adequada; fisioterapia motora e respiratória; estimulação cognitiva; comunicação afetiva; prevenção de contraturas e trombose."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é a incontinência urinária (IU) no idoso? Tipos e manejo.",
+    "verso": "IU: perda involuntária de urina. Tipos: esforço (tosse, espirro → insuficiência do esfíncter); urgência (bexiga hiperativa); mista; transbordamento (retenção + overflow); funcional (imobilidade/demência). Manejo: exercícios de Kegel, micção programada, medicamentos anticolinérgicos (cuidado no idoso), cirurgia."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é a hipertensão arterial no idoso — aspectos específicos?",
+    "verso": "Pressão arterial isolada sistólica é a forma mais comum (>140 mmHg com diastólica normal). Pseudo-hipertensão (rigidez arterial). Meta: PAS 130–140 mmHg (individualizar). Cuidado: hipotensão ortostática com anti-hipertensivos; preferir IECA, BRA ou BCC (anlodipino) em monoterapia inicial."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é o cuidador do idoso e quais os seus direitos e responsabilidades?",
+    "verso": "Pessoa (familiar ou profissional) que assiste o idoso dependente. Cuidador formal: treinado, remunerado. Informal: familiar, voluntário. Responsabilidades: higiene, alimentação, medicação, apoio emocional, mobilização. Direitos: acesso a treinamento, suporte psicológico, descanso (respite care). Burnout do cuidador é frequente."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "Quais são os objetivos da atenção domiciliar ao idoso?",
+    "verso": "Manter idoso no domicílio com qualidade de vida e segurança; reduzir hospitalizações; suporte ao cuidador; monitoramento de doenças crônicas; prevenção de complicações; promoção da autonomia; cuidados paliativos. Equipe multiprofissional (enfermeiro, médico, fisioterapeuta, AS)."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é o serviço de geriatria e gerontologia?",
+    "verso": "Geriatria: especialidade médica (ou de enfermagem) voltada para prevenção, diagnóstico e tratamento de doenças no idoso. Gerontologia: ciência multidisciplinar que estuda o envelhecimento (biológico, psicológico e social). Enfermeiro gerontológico: especialidade reconhecida pela COFEN."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "O que é o direito ao esquecimento do idoso e sigilo?",
+    "verso": "Estatuto do Idoso (art. 17): garantia de sigilo de informações pessoais, vedado o fornecimento de informações que possam identificar o idoso sem seu consentimento. Dados de saúde: compartilhar apenas com equipe terapêutica e responsável legal, quando o idoso não tem capacidade de decidir."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "idoso",
+    "frente": "Quais são os sinais de maus-tratos ao idoso e como agir?",
+    "verso": "Físicos: hematomas, fraturas inexplicadas, restrições. Psicológicos: isolamento, humilhação, ameaças. Financeiros: desvio de bens. Negligência: má nutrição, higiene precária, falta de medicamentos. Agir: notificação ao Conselho do Idoso, Ministério Público, delegacia, vigilância epidemiológica. Obrigatório pela lei."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mental",
+    "frente": "O que é o movimento antimanicomial e a Luta Antimanicomial no Brasil?",
+    "verso": "Movimento social dos anos 1980 que questionou os manicômios como forma de exclusão e violência. Culminou na Lei 10.216/2001. Dia 18 de maio: Dia Nacional da Luta Antimanicomial. Propõe substituição por serviços comunitários (CAPS, SRTs, residências terapêuticas)."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "mental",
+    "frente": "O que são as Residências Terapêuticas (SRT)?",
+    "verso": "Moradias inseridas na comunidade para pessoas egressas de internações psiquiátricas prolongadas (longa permanência). Máximo 8 moradores por casa. Equipe de referência: CAPS. Custeadas pelo MS. Parte da desinstitucionalização — evitar a reinternação."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mental",
+    "frente": "Quais são os princípios da entrevista terapêutica em saúde mental?",
+    "verso": "Rapport (vínculo): criar relação de confiança. Escuta ativa: sem julgamentos. Empatia: compreender o sofrimento do outro. Não diretividade: o paciente é protagonista. Limites: estabelecer relação profissional. Confidencialidade: sigilo salvo risco à vida."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "mental",
+    "frente": "O que é o diagnóstico de enfermagem em saúde mental? Exemplos.",
+    "verso": "Usa terminologia NANDA. Exemplos: risco de autoagressão (relacionado a ideação suicida), processos de pensamento perturbados (esquizofrenia), ansiedade, interação social prejudicada, enfrentamento ineficaz, déficit de autocuidado. Guia o plano de cuidados individualizado."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mental",
+    "frente": "O que é o transtorno de pânico e como distinguir de um evento cardíaco?",
+    "verso": "Transtorno de pânico: episódios súbitos de medo intenso + ≥4 sintomas físicos (palpitação, sudorese, dispneia, tontura, parestesias, sensação de morte iminente). Distinto de IAM por: jovem, sem histórico cardíaco, ECG e enzimas normais, resposta a ansiolíticos. Sempre descartar cardiopatia primeiro."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "mental",
+    "frente": "O que é o transtorno obsessivo-compulsivo (TOC)?",
+    "verso": "Presença de obsessões (pensamentos intrusivos, recorrentes, causadores de ansiedade) e/ou compulsões (rituais comportamentais para reduzir a ansiedade). Causa disfunção significativa. Tratamento: TCC com exposição e prevenção de resposta (EPR) + ISRS em dose alta (fluoxetina 40–80 mg/dia)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mental",
+    "frente": "O que é o TEPT (Transtorno de Estresse Pós-Traumático) e como o enfermeiro pode ajudar?",
+    "verso": "Cuidados de enfermagem: ambiente seguro e sigiloso; comunicação não julgadora; respeitar limites do paciente sobre reviver o trauma; psicoeducação; suporte para adesão ao tratamento (TCC/EMDR e ISRS); identificar rede de suporte; monitorar risco de suicídio associado."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "mental",
+    "frente": "O que são os benzodiazepínicos e quando usar na saúde mental?",
+    "verso": "Potencializam o GABA-A → sedação, ansiolítico, anticonvulsivante, miorrelaxante. Exemplos: diazepam, lorazepam, clonazepam, midazolam. Indicações: ansiedade aguda, insônia pontual, abstinência alcoólica, convulsão, sedação. Riscos: dependência, tolerância, quedas no idoso. CONTRAINDICADO em longo prazo isolado."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mental",
+    "frente": "O que é a terapia electroconvulsiva (ECT) e quais os cuidados de enfermagem?",
+    "verso": "Procedimento terapêutico para depressão grave refratária, mania grave, esquizofrenia catatônica. Cuidados pré: jejum 6–8h, retirar próteses/joias, verificar PA e glicemia. Pós: monitorar nível de consciência, PA, O₂; orientar confusão transitória; garantir via aérea."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "mental",
+    "frente": "O que é a psicoeducação em saúde mental?",
+    "verso": "Processo de educação do paciente e família sobre a doença mental, tratamento, sinais de recaída e estratégias de enfrentamento. Melhora adesão ao tratamento, reduz hospitalizações e estigma. O enfermeiro tem papel fundamental na psicoeducação nas consultas e grupos terapêuticos."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mental",
+    "frente": "O que é o Centro de Atenção Psicossocial (CAPS) III?",
+    "verso": "CAPS que funciona 24h, incluindo fins de semana e feriados. Tem leitos de acolhimento noturno (até 5 leitos de observação/estabilização). Indicado para municípios com >200.000 habitantes. Evita hospitalizações psiquiátricas. Equipe multiprofissional incluindo enfermeiro."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "pediatria",
+    "frente": "O que é a asma brônquica na criança e como classificar a gravidade?",
+    "verso": "Doença inflamatória crônica das vias aéreas. Classificação: Intermitente (sintomas ≤2 dias/semana); Leve persistente (>2 dias/semana, mas não diária); Moderada persistente (diária); Grave persistente (contínua + exacerbações frequentes). Crise: sibilos, taquipneia, uso de acessória."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "pediatria",
+    "frente": "O que é otite média aguda (OMA) em crianças e quando tratar com antibiótico?",
+    "verso": "Inflamação do ouvido médio. Mais comum em <2 anos. Sintomas: otalgia, febre, choro, irritabilidade. Tratamento: analgesia (paracetamol) em todos. Antibiótico: amoxicilina — obrigatório em <2 anos, bilateral ou com otorreia; opcional em >2 anos sem fator de risco."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "pediatria",
+    "frente": "O que é a amamentação e quais os benefícios para mãe e bebê?",
+    "verso": "Bebê: imunidade (IgA secretória), desenvolvimento cognitivo, redução de alergias e infecções, vínculo afetivo, desenvolvimento da mandíbula. Mãe: involução uterina, redução de Ca de mama/ovário, contraceptivo natural (LAM), vínculo. AME: reduz 1,5 milhão de mortes infantis/ano globalmente."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "pediatria",
+    "frente": "O que é o refluxo neonatal e como orientar os pais?",
+    "verso": "Orientações: posicionamento semi-sentado após mamadas por 20–30 min; eructação após cada mamada; não comprimir o abdômen; reduzir volume e aumentar frequência das mamadas; espessamento do leite (se indicado). Nunca posicionar em prono no sono (risco de morte súbita)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "pediatria",
+    "frente": "O que é a doença falciforme e o que é a crise vasooclusiva?",
+    "verso": "Doença genética (HbSS) com hemácias em foice que obstruem capilares. Crise vasooclusiva: dor intensa (ossos, abdômen, tórax) por isquemia tecidual. Manejo: hidratação, analgesia potente (opioides), oxigênio, calor local. Notificação pelo Teste do Pezinho. Penicilina profilática até 5 anos."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "pediatria",
+    "frente": "Quais são as características do recém-nascido a termo normal?",
+    "verso": "Peso: 2.500–4.000 g. Estatura: 48–54 cm. PC: 33–37 cm. Frequência cardíaca: 120–160 bpm. Frequência respiratória: 40–60 irpm. Temperatura: 36,5–37°C. Apgar: ≥7 no 5º min. Reflexos: sucção, Moro, preensão, Babinski."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "pediatria",
+    "frente": "O que é a triagem neonatal auditiva (Teste da Orelhinha)?",
+    "verso": "Rastreamento de perda auditiva no RN por Emissões Otoacústicas (EOA) ou Potencial Evocado Auditivo de Tronco Encefálico (PEATE). Deve ser feito antes da alta hospitalar. Falha = encaminhamento para diagnóstico e intervenção precoce. Objetivo: diagnóstico antes dos 3 meses."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "pediatria",
+    "frente": "O que é a desnutrição infantil segundo a classificação de Gomez?",
+    "verso": "Classifica pelo deficit de peso para idade: Grau I (leve): 75–90% do peso esperado. Grau II (moderado): 60–74%. Grau III (grave): <60%. A OMS usa curvas Z-score: <-2 DP (magreza/baixa estatura); <-3 DP (magreza acentuada). Desnutrição grave: marasmo (peso) ou kwashiorkor (proteínas)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "pediatria",
+    "frente": "O que é a imunização e qual a importância do Calendário Nacional de Vacinação da Criança?",
+    "verso": "Prevenção de doenças infecciosas por estimulação da imunidade ativa. PNI (Programa Nacional de Imunizações) — criado 1973 — garante vacinas gratuitamente no SUS. Cobertura vacinal mínima: 95% para controle/erradicação. Queda da cobertura = ressurgimento de doenças (ex: sarampo em 2018–19)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "emergencias",
+    "frente": "O que é o índice de choque (shock index) e como calcular?",
+    "verso": "IC = FC / PAS. Normal: 0,5–0,7. IC ≥1,0: choque hemodinâmico grave. IC 0,7–1,0: alerta. Simples, disponível sem exames. Útil na triagem do politraumatizado e hemorragia obstétrica (IC ≥0,9 na gestante = alto risco)."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "O que é intoxicação exógena e qual o manejo inicial?",
+    "verso": "Exposição a substâncias tóxicas (medicamentos, agrotóxicos, animais peçonhentos). Manejo: identificar o agente (nome, quantidade, hora). Descontaminação: lavagem gástrica (se <1h e substância grave), carvão ativado (absorvente), soro antiofídico (mordida de cobra). Contato imediato com CIATox."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "O que é o acidente com animais peçonhentos? Cite os principais.",
+    "verso": "Serpentes: cascavel, jararaca, surucucu, coral verdadeira. Escorpião: Tityus serrulatus (amarelo — mais perigoso). Aranha: Loxosceles (marrom — necrose), Phoneutria (armadeira — dor intensa), Latrodectus (viúva-negra). Tratamento: soro antiofídico específico conforme animal."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "emergencias",
+    "frente": "O que é a reanimação volêmica no trauma? O que é o Damage Control?",
+    "verso": "Estratégia de ressuscitação hemostática: evitar a tríade letal (hipotermia, acidose, coagulopatia). Damage Control: controlar hemorragia rapidamente (cirurgia abreviada), ressuscitar com hemoderivados (plasma:plaquetas:CH 1:1:1), evitar excesso de cristalóides. Permitir hipotensão permissiva (PAS 80–90 mmHg) até controle hemostático."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "Quais são os critérios de internação em UTI?",
+    "verso": "Insuficiência de órgão: respiratória (VM ou VNI), circulatória (vasopressores), renal (diálise), hepática grave, neurológica (Glasgow <10, crise refratária). PCR ressuscitada. Pós-op de cirurgia de grande porte. Monitorização intensiva necessária (aritmia instável, pós-trombolítico)."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "emergencias",
+    "frente": "Quais são as complicações do acesso venoso central (CVC)?",
+    "verso": "Imediatas: pneumotórax, hemotórax, punção arterial, arritmia. Tardias: infecção (IPCS/CRBSI), trombose. Prevenção de IPCS: bundle (pacote): higiene das mãos, clorexidina 2% para antissepsia, campo máximo, sítio preferencial (subclávia), remoção precoce. Revisão diária da necessidade do cateter."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "emergencias",
+    "frente": "O que é ventilação não-invasiva (VNI) e quando indicar?",
+    "verso": "VNI: CPAP ou BiPAP por máscara facial. Indicações: EAP cardiogênico (CPAP 1ª linha), DPOC exacerbado (BiPAP reduz intubação em 50%), IR hipoxêmica leve-moderada, imunossuprimidos. Contraindicações: rebaixamento de consciência, vômito, trauma facial, obstrução de VA."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "doencas",
+    "frente": "O que é o tabagismo e quais os agravos associados?",
+    "verso": "Principal fator de risco modificável para DPOC (causa 85% dos casos), câncer (pulmão, boca, laringe, esôfago, bexiga), DCV (IAM, AVC, DAP), hipertensão, úlcera péptica. Abordagem: pergunta, avaliação, aconselhamento, acompanhamento (4As). TRN (nicotina) e vareniclina são os tratamentos de 1ª linha."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "O que é a DPOC e como classificar?",
+    "verso": "Doença Pulmonar Obstrutiva Crônica: limitação crônica ao fluxo aéreo, irreversível, associada ao tabagismo. Classificação espirométrica (GOLD): I (VEF1≥80%); II (50–79%); III (30–49%); IV (<30%). Tratamento: broncodilatadores (SABA, LABA, LAMA), oxigenoterapia domiciliar se PaO₂<55 mmHg."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "O que é a insuficiência renal crônica (IRC) e como estadiar?",
+    "verso": "IRC: perda progressiva e irreversível da função renal. Estadiamento por TFG (KDIGO): G1 ≥90; G2 60–89; G3a 45–59; G3b 30–44; G4 15–29; G5 <15 (diálise). Causas: HAS (1ª), DM (2ª), glomerulonefrites. Manejo: controle da causa, IECA/BRA, restrição proteica e de fósforo, diálise no G5."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "doencas",
+    "frente": "O que é a obesidade e como classificar pelo IMC?",
+    "verso": "IMC = Peso(kg) / Altura²(m). Normal: 18,5–24,9. Sobrepeso: 25–29,9. Obesidade I: 30–34,9. Obesidade II: 35–39,9. Obesidade III (mórbida): ≥40. Circunferência abdominal de risco: ≥88 cm (M) e ≥102 cm (H). Fatores: genética, sedentarismo, dieta hipercalórica, medicamentos."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é o planejamento reprodutivo e quais os métodos contraceptivos disponíveis no SUS?",
+    "verso": "SUS oferece: ACO combinada e minipílula, injetável mensal e trimestral, DIU de cobre, preservativo masculino e feminino, diafragma. Laqueadura e vasectomia (Lei 9.263/96: ≥25 anos ou ≥2 filhos). Implante subdérmico e DIU hormonal foram incorporados à RENAME em 2019."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é o Método de Amenorreia da Lactação (MAM/LAM)?",
+    "verso": "Contraceptivo natural eficaz (98,5%) se: AME exclusivo, bebê <6 meses E amenorreia mantida. Todos os 3 critérios devem estar presentes. Quando um falhar → orientar outro método. Informa a família que o AME é a melhor prevenção de gravidez nos 6 primeiros meses."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é o câncer de colo do útero e como prevenir?",
+    "verso": "Causado pelo HPV (principalmente tipos 16 e 18). Prevenção primária: vacinação HPV (9–14 anos no SUS). Secundária: rastreamento com colpocitologia (Papanicolaou) dos 25–64 anos a cada 3 anos (após 2 negativos anuais). IST — uso de preservativo reduz o risco."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é amniorrexe prematura (RPMO) e como manejar?",
+    "verso": "Rotura prematura de membranas antes do trabalho de parto. <34 semanas: conduta expectante, antibioticoprofilaxia (ampicilina + eritromicina), corticoide para maturação pulmonar fetal, sulfato de magnésio (neuroproteção se <32 semanas). ≥34 semanas: resolução da gestação."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é o líquido amniótico e como avaliar?",
+    "verso": "Produzido pelo feto (urina fetal) e pelos pulmões. Avaliação: ILA (Índice de Líquido Amniótico) por USG. Normal: 8–18 cm. Oligodramnia (<5 cm): sofrimento fetal, malformação renal. Polidrâmnia (>24 cm): anencefalia, atresia esofágica, DM materno."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é a episiotomia e quando é indicada?",
+    "verso": "Incisão cirúrgica no períneo para ampliar o canal de parto. Política atual: NÃO deve ser rotineira (OMS). Indicações: sofrimento fetal com necessidade de parto imediato, distócia de ombro, parto de nalgas, períneo muito rígido. Tipos: mediana (maior risco de extensão para reto), médio-lateral (padrão)."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "mulher",
+    "frente": "O que é a diabetes gestacional (DMG) e como rastrear?",
+    "verso": "DMG: intolerância à glicose diagnosticada pela 1ª vez na gestação. Rastreamento universal: glicemia de jejum na 1ª consulta. Se normal (<92 mg/dL): TOTG 75g entre 24–28 semanas. Critérios IADPSG: jejum ≥92 mg/dL OU 1h ≥180 OU 2h ≥153 mg/dL = DMG."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é o Programa Previne Brasil?",
+    "verso": "Política de financiamento da AB (2020) que substitui o PAB variável. Repasse em 3 componentes: por captação ponderada (cadastros ativos), por desempenho (indicadores) e por incentivo a ações estratégicas. Incentiva o cadastramento de pacientes e vinculação à equipe de saúde."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é a contrarreferência e por que é importante no SUS?",
+    "verso": "Retorno do paciente ao nível de menor complexidade após resolução do problema em nível especializado, com relatório para o profissional que o referenciou. Garante continuidade do cuidado e longitudinalidade. Fragilidade da contrarreferência é um dos principais gargalos do SUS atual."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é o SISAB e quais dados registra?",
+    "verso": "Sistema de Informação em Saúde para a Atenção Básica — substitui o SIAB. Registra cadastro individual e domiciliar, fichas de atendimento, visitas domiciliares do ACS, procedimentos e vacinação. Alimentado pelo e-SUS AB (PEC ou CDS). Base para indicadores do Previne Brasil."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é aspiração traqueal e quando realizar?",
+    "verso": "Procedimento para remoção de secreções das vias aéreas artificiais. Indicação a critério clínico (não em horário fixo): secreções visíveis, roncos, queda de SpO₂, aumento da pressão de pico. Técnica: pressão –80 a –120 mmHg, movimentos rotatórios, ≤10–15 segundos. Pré-oxigenar com O₂ 100%."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é a sonda de Foley e qual o calibre mais comum?",
+    "verso": "Sonda vesical de demora com balão de fixação. Calibre em Charrière (Fr) ou French: 14–16 Fr (mulher), 16–18 Fr (homem). Balão: 5–10 mL água destilada. Drenagem contínua para bolsa coletora abaixo da bexiga. Trocar conforme protocolo (geralmente 30 dias ou conforme material)."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "O que é a síndrome metabólica e quais os critérios diagnósticos?",
+    "verso": "IDF 2006 (critério mais usado): circunferência abdominal aumentada (≥94 cm H; ≥80 cm M) + ≥2 dos: TG ≥150; HDL <40 H/<50 M; PA ≥130/85 mmHg; glicemia jejum ≥100 mg/dL. Aumenta o risco cardiovascular e de DM2."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "Quais são os tipos de enemas e suas indicações?",
+    "verso": "Enema evacuador: limpar o intestino antes de cirurgia/exame. Enema de retenção: administrar medicamentos (corticoide em retocolite). Solução: SF ou água morna (500–1000 mL). Posição de Sims esquerda. Introduzir a cânula 7–10 cm. Temperatura: 37–38°C."
+  },
+  {
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é a Escala Visual Analógica (EVA) de dor?",
+    "verso": "Régua de 0 a 10 para avaliação subjetiva da dor pelo próprio paciente. 0 = sem dor; 1–3 = leve; 4–6 = moderada; 7–10 = intensa. Outras escalas pediátricas: FLACC (lactentes), Faces Wong-Baker (≥3 anos). Dor é o 5º sinal vital — avaliar em toda consulta."
+  },
+  {
+    "fonte": "AOCP 2024 — Enfermagem",
+    "bloco": "tecnicas",
+    "frente": "O que é eletrocardiograma (ECG) e o que o enfermeiro deve saber?",
+    "verso": "Registro da atividade elétrica cardíaca. 12 derivações (I, II, III, aVR, aVL, aVF, V1–V6). Enfermeiro realiza o exame. Reconhece: ritmo sinusal normal (FC 60–100, onda P antes de QRS regular); taquicardia/bradicardia; FV/TV sem pulso (indicação de DEA); supra de ST (IAM)."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "bio",
+    "frente": "O que é o PCMSO (NR-7) e para que serve?",
+    "verso": "Programa de Controle Médico de Saúde Ocupacional — obrigatório para empregadores. Inclui: exames admissional, periódico, de retorno ao trabalho, mudança de risco e demissional. Em saúde: sorologia para hepatites, HIV (se exposto), vacinação. Responsável: médico do trabalho."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "Quais são as diretrizes da Política Nacional de Alimentação e Nutrição (PNAN)?",
+    "verso": "PNAN (Portaria 2.715/2011): promoção da alimentação adequada e saudável; vigilância alimentar e nutricional (SISVAN); promoção do aleitamento materno; controle de doenças relacionadas à alimentação; segurança alimentar e nutricional (SAN); qualificação da força de trabalho."
+  },
+  {
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "bloco": "sus",
+    "frente": "O que é o princípio da integralidade na prática do enfermeiro?",
+    "verso": "Ver o indivíduo como um todo (biopsicossocial-espiritual), não somente pela doença. Na prática: consulta que inclui promoção, prevenção e recuperação; atenção ao contexto familiar e social; articulação com outros níveis de atenção e outros serviços sociais."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "bloco": "gestao",
+    "frente": "O que é o relatório de enfermagem e a anotação de enfermagem?",
+    "verso": "Anotação: registro de todas as observações, cuidados e intercorrências do paciente na evolução do prontuário (evento-a-evento). Relatório: síntese estruturada para comunicação entre turnos. Ambos têm valor legal, ético e científico. Devem ser precisos, objetivos, legíveis, datados e assinados."
+  },
+  {
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "bloco": "doencas",
+    "frente": "O que é a síndrome de Guillain-Barré?",
+    "verso": "Polirradiculoneuropatia autoimune pós-infecciosa (Campylobacter, Zika, CMV). Manifesta-se por fraqueza muscular progressiva ascendente, arreflexia, possível paralisia respiratória. Diagnóstico: LCR (dissociação albumino-citológica). Tratamento: imunoglobulina IV ou plasmaférese."
+  },
+  {
+    "fonte": "MS/EBSERH 2024 — Enfermagem",
+    "bloco": "mulher",
+    "frente": "O que é a violência obstétrica e como o enfermeiro pode combater?",
+    "verso": "Qualquer ato que cause dano físico, verbal, psicológico, sexual ou institucional à mulher no parto/pós-parto. Ex: episiotomia sem consentimento, não permitir acompanhante, cesárea desnecessária, violência verbal. O enfermeiro: respeita autonomia, orienta direitos, documenta, acolhe e notifica."
+  }
+]
