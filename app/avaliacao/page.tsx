@@ -1,11 +1,23 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, useRef } from "react";
 import { createClient, STUDY_USER_ID } from "@/lib/supabase";
 import { ProgressBar } from "@/components/ProgressBar";
 import type { Questao } from "@/types";
 
 type Tela = "menu" | "temas" | "prova" | "resultado" | "historico" | "revisao";
+
+const PROVA_KEY = "yas_prova_em_curso";
+
+interface ProvaSalva {
+  questoes: Questao[];
+  indice: number;
+  respostas: Record<string, string>;
+  temaSel: string;
+  modoCompleto: boolean;
+  segundos: number;
+  salvoEm: string;
+}
 
 interface HistoricoItem {
   id: string;
@@ -35,6 +47,12 @@ const TEMA_LABELS: Record<string, string> = {
 
 function labelTema(t: string) {
   return TEMA_LABELS[t] ?? t;
+}
+
+function formatarTempo(seg: number) {
+  const m = Math.floor(seg / 60).toString().padStart(2, "0");
+  const s = (seg % 60).toString().padStart(2, "0");
+  return `${m}:${s}`;
 }
 
 function shuffle<T>(arr: T[]): T[] {
@@ -210,7 +228,60 @@ export default function AvaliacaoPage() {
   const [historico, setHistorico]     = useState<HistoricoItem[]>([]);
   const [revisaoItem, setRevisaoItem] = useState<HistoricoItem | null>(null);
 
+  // Pause / resume states
+  const [pausada, setPausada]           = useState(false);
+  const [segundos, setSegundos]         = useState(0);
+  const [provaSalvaLS, setProvaSalvaLS] = useState<ProvaSalva | null>(null);
+
+  // Refs para usar nos event listeners sem stale closure
+  const estadoRef = useRef({ tela, questoes, indice, respostas, temaSel, modoCompleto, segundos });
+  useEffect(() => {
+    estadoRef.current = { tela, questoes, indice, respostas, temaSel, modoCompleto, segundos };
+  });
+
   const supabase = createClient();
+
+  // ── Carregar prova salva do localStorage ao montar ──
+  useEffect(() => {
+    try {
+      const salvo = localStorage.getItem(PROVA_KEY);
+      if (salvo) setProvaSalvaLS(JSON.parse(salvo));
+    } catch {}
+  }, []);
+
+  // ── Timer: conta segundos quando em prova e não pausada ──
+  useEffect(() => {
+    if (tela !== "prova" || pausada) return;
+    const id = setInterval(() => setSegundos((s) => s + 1), 1000);
+    return () => clearInterval(id);
+  }, [tela, pausada]);
+
+  // ── Auto-save ao esconder aba / sair da página ──
+  useEffect(() => {
+    const salvarSeNecessario = () => {
+      const { tela: t, respostas: r, questoes: q, indice: i, temaSel: ts, modoCompleto: mc, segundos: s } = estadoRef.current;
+      if (t === "prova" && Object.keys(r).length >= 30) {
+        const dados: ProvaSalva = {
+          questoes: q, indice: i, respostas: r,
+          temaSel: ts, modoCompleto: mc, segundos: s,
+          salvoEm: new Date().toISOString(),
+        };
+        localStorage.setItem(PROVA_KEY, JSON.stringify(dados));
+      }
+    };
+
+    const handleVisibility = () => {
+      if (document.hidden) salvarSeNecessario();
+    };
+    const handleBeforeUnload = () => salvarSeNecessario();
+
+    document.addEventListener("visibilitychange", handleVisibility);
+    window.addEventListener("beforeunload", handleBeforeUnload);
+    return () => {
+      document.removeEventListener("visibilitychange", handleVisibility);
+      window.removeEventListener("beforeunload", handleBeforeUnload);
+    };
+  }, []); // monta uma vez; lê estado pelo ref
 
   const carregarHistorico = useCallback(async () => {
     const { data } = await supabase
@@ -249,31 +320,87 @@ export default function AvaliacaoPage() {
 
   useEffect(() => { carregarTemas(); }, [carregarTemas]);
 
+  // ── Funções de pausa / retomada ──
+  function salvarProvaSalva(
+    qArr = questoes, idx = indice, resp = respostas,
+    ts = temaSel, mc = modoCompleto, secs = segundos
+  ) {
+    const dados: ProvaSalva = {
+      questoes: qArr, indice: idx, respostas: resp,
+      temaSel: ts, modoCompleto: mc, segundos: secs,
+      salvoEm: new Date().toISOString(),
+    };
+    localStorage.setItem(PROVA_KEY, JSON.stringify(dados));
+    setProvaSalvaLS(dados);
+  }
+
+  function limparProvaSalva() {
+    localStorage.removeItem(PROVA_KEY);
+    setProvaSalvaLS(null);
+  }
+
+  function pausarProva() {
+    setPausada(true);
+    salvarProvaSalva();
+  }
+
+  function retornarProva() {
+    setPausada(false);
+  }
+
+  function continuarProvaSalva(salva: ProvaSalva) {
+    setQuestoes(salva.questoes);
+    setIndice(salva.indice);
+    setRespostas(salva.respostas);
+    setTemaSel(salva.temaSel);
+    setModo(salva.modoCompleto);
+    setSegundos(salva.segundos);
+    setPausada(false);
+    limparProvaSalva();
+    setTela("prova");
+  }
+
+  function sairProva() {
+    // Salva como incompleto se ≥30 respondidas
+    if (Object.keys(respostas).length >= 30) {
+      salvarProvaSalva();
+    } else {
+      limparProvaSalva();
+    }
+    setPausada(false);
+    setSegundos(0);
+    setTela("menu");
+  }
+
   async function iniciarBloco(tema: string) {
     setLoading(true);
+    limparProvaSalva();
     setTemaSel(tema);
     setModo(false);
     const { data } = await supabase
       .from("questoes").select("*").eq("tema", tema);
-    // busca todas do tema → embaralha → pega até 30 aleatórias
     const selecionadas = shuffle(data ?? []).slice(0, 30);
     setQuestoes(selecionadas.map(shuffleAlternativas));
     setIndice(0);
     setRespostas({});
+    setSegundos(0);
+    setPausada(false);
     setLoading(false);
     setTela("prova");
   }
 
   async function iniciarCompleta() {
     setLoading(true);
+    limparProvaSalva();
     setTemaSel("completa");
     setModo(true);
     const { data } = await supabase.from("questoes").select("*");
-    // busca todas → embaralha → pega 110 aleatórias
     const selecionadas = shuffle(data ?? []).slice(0, 110);
     setQuestoes(selecionadas.map(shuffleAlternativas));
     setIndice(0);
     setRespostas({});
+    setSegundos(0);
+    setPausada(false);
     setLoading(false);
     setTela("prova");
   }
@@ -297,6 +424,7 @@ export default function AvaliacaoPage() {
 
   async function avancar() {
     if (indice + 1 >= questoes.length) {
+      limparProvaSalva();
       const acertos = questoes.filter((q) => respostas[q.id] === q.gabarito).length;
       const pct = questoes.length > 0 ? Math.round((acertos / questoes.length) * 100) : 0;
       await supabase.from("historico_avaliacoes").insert({
@@ -311,6 +439,7 @@ export default function AvaliacaoPage() {
         respostas,
       });
       await carregarHistorico();
+      setSegundos(0);
       setTela("resultado");
     } else {
       setIndice((i) => i + 1);
@@ -322,9 +451,12 @@ export default function AvaliacaoPage() {
       (q) => respostas[q.id] && respostas[q.id] !== q.gabarito
     );
     if (erradas.length === 0) return;
+    limparProvaSalva();
     setQuestoes(shuffle(erradas).map(shuffleAlternativas));
     setIndice(0);
     setRespostas({});
+    setSegundos(0);
+    setPausada(false);
     setTela("prova");
   }
 
@@ -341,6 +473,40 @@ export default function AvaliacaoPage() {
           <h1 className="font-display text-2xl text-yas-burgundy font-semibold">Avaliação</h1>
           <p className="font-body text-xs text-yas-ink/50 mt-0.5">simulados com gabarito comentado</p>
         </div>
+
+        {/* Card de prova pausada / em andamento */}
+        {provaSalvaLS && (
+          <div className="rounded-xl bg-amber-50 border-2 border-amber-300 p-4 flex flex-col gap-3">
+            <div className="flex items-center gap-2">
+              <span className="text-xl">⏸</span>
+              <div className="flex-1">
+                <p className="font-body text-sm font-semibold text-amber-800">Prova pausada</p>
+                <p className="font-body text-xs text-amber-700">
+                  {labelTema(provaSalvaLS.temaSel)} · {Object.keys(provaSalvaLS.respostas).length}/{provaSalvaLS.questoes.length} respondidas · {formatarTempo(provaSalvaLS.segundos)}
+                </p>
+                <p className="font-body text-[10px] text-amber-600 mt-0.5">
+                  Salva {new Date(provaSalvaLS.salvoEm).toLocaleDateString("pt-BR", {
+                    day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit"
+                  })}
+                </p>
+              </div>
+            </div>
+            <div className="flex gap-2">
+              <button
+                onClick={() => continuarProvaSalva(provaSalvaLS)}
+                className="flex-1 py-2 rounded-xl bg-amber-500 text-white font-body font-semibold text-sm active:scale-95 transition-transform"
+              >
+                ▶ Continuar
+              </button>
+              <button
+                onClick={limparProvaSalva}
+                className="px-4 py-2 rounded-xl border border-amber-300 text-amber-700 font-body text-sm active:scale-95 transition-transform"
+              >
+                Descartar
+              </button>
+            </div>
+          </div>
+        )}
 
         <div
           onClick={() => { carregarTemas(); setTela("temas"); }}
@@ -552,16 +718,79 @@ export default function AvaliacaoPage() {
       );
     }
 
+    // ── Tela de pausa ──
+    if (pausada) {
+      const respondidas = Object.keys(respostas).length;
+      const acertosParcial = questoes.slice(0, respondidas).filter((q) => respostas[q.id] === q.gabarito).length;
+      return (
+        <div className="flex flex-col items-center justify-center min-h-[70vh] gap-6 text-center px-2">
+          <div>
+            <p className="text-5xl mb-3">⏸</p>
+            <p className="font-display text-2xl text-yas-burgundy font-semibold">Prova pausada</p>
+            <p className="font-body text-sm text-yas-ink/60 mt-1">{labelTema(temaSel)}</p>
+          </div>
+
+          <div className="w-full rounded-xl bg-white/60 border border-yas-ink/10 p-5 flex flex-col gap-3">
+            <div className="flex items-center justify-between text-sm">
+              <span className="font-body text-yas-ink/60">Progresso</span>
+              <span className="font-body font-semibold text-yas-ink">{respondidas} / {questoes.length}</span>
+            </div>
+            <ProgressBar value={respondidas} max={questoes.length} colorClass="bg-yas-burgundy" />
+            <div className="flex items-center justify-between text-sm">
+              <span className="font-body text-yas-ink/60">Acertos parciais</span>
+              <span className="font-body font-semibold text-green-600">
+                {acertosParcial}/{respondidas} {respondidas > 0 ? `(${Math.round(acertosParcial / respondidas * 100)}%)` : ""}
+              </span>
+            </div>
+            <div className="flex items-center justify-between text-sm border-t border-yas-ink/10 pt-3">
+              <span className="font-body text-yas-ink/60">Tempo decorrido</span>
+              <span className="font-display text-lg font-semibold text-yas-plum">{formatarTempo(segundos)}</span>
+            </div>
+          </div>
+
+          <div className="w-full flex flex-col gap-2">
+            <button
+              onClick={retornarProva}
+              className="w-full py-3 rounded-xl bg-yas-burgundy text-white font-body font-semibold text-sm active:scale-95 transition-transform"
+            >
+              ▶ Continuar prova
+            </button>
+            <button
+              onClick={sairProva}
+              className="w-full py-3 rounded-xl border border-yas-ink/20 text-yas-ink/60 font-body font-semibold text-sm active:scale-95 transition-transform"
+            >
+              {Object.keys(respostas).length >= 30
+                ? "Salvar e sair (incompleta)"
+                : "Abandonar prova"}
+            </button>
+          </div>
+
+          {Object.keys(respostas).length >= 30 && (
+            <p className="font-body text-[11px] text-yas-ink/40 text-center px-4">
+              Você respondeu ≥30 questões. Ao sair, a prova será salva como incompleta e você poderá retomar depois.
+            </p>
+          )}
+        </div>
+      );
+    }
+
     const q = questoes[indice];
     const respondeu = Boolean(respostas[q.id]);
     const respostaUser = respostas[q.id];
     const acertou = respostaUser === q.gabarito;
+    const totalRespondidas = Object.keys(respostas).length;
 
     return (
       <div className="flex flex-col gap-5 pb-4">
+        {/* Header com pause */}
         <div className="flex items-center justify-between">
-          <button onClick={() => setTela("menu")} className="font-body text-xs text-yas-ink/50">✕ Sair</button>
-          <p className="font-body text-xs text-yas-ink/50">{indice + 1} / {questoes.length}</p>
+          <button onClick={pausarProva} className="font-body text-xs text-yas-ink/50 flex items-center gap-1">
+            <span>⏸</span> Pausar
+          </button>
+          <div className="flex flex-col items-center">
+            <p className="font-body text-xs text-yas-ink/50">{indice + 1} / {questoes.length}</p>
+            <p className="font-body text-[10px] text-yas-ink/30">{formatarTempo(segundos)}</p>
+          </div>
           <p className="font-body text-[10px] text-yas-plum font-semibold uppercase tracking-wide">
             {labelTema(q.tema)}
           </p>
@@ -705,7 +934,6 @@ export default function AvaliacaoPage() {
         )}
         <button
           onClick={() => {
-            // abre a revisão da prova recém-feita (primeira do histórico já carregado)
             const ultimo = historico[0];
             if (ultimo) abrirRevisao(ultimo);
           }}
