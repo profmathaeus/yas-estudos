@@ -1,0 +1,695 @@
+[
+  {
+    "tema": "informatica",
+    "enunciado": "No sistema operacional Windows 10, ao pressionar o atalho de teclado Windows + D, qual é a ação executada?",
+    "alternativas": [
+      {"letra": "A", "texto": "Abre o Gerenciador de Tarefas."},
+      {"letra": "B", "texto": "Minimiza todas as janelas e exibe a Área de Trabalho (Desktop)."},
+      {"letra": "C", "texto": "Abre o painel de Configurações do sistema."},
+      {"letra": "D", "texto": "Bloqueia a tela do computador."},
+      {"letra": "E", "texto": "Abre o menu Iniciar do Windows."}
+    ],
+    "gabarito": "B",
+    "justificativa": "O atalho Windows + D minimiza todas as janelas abertas e exibe a Área de Trabalho. Pressionando novamente, restaura as janelas. Este atalho é um dos mais utilizados para acesso rápido à área de trabalho.",
+    "explicacoes": {
+      "A": "Gerenciador de Tarefas: Ctrl + Shift + Esc (ou Ctrl + Alt + Delete → Gerenciador de Tarefas).",
+      "C": "Configurações: Windows + I.",
+      "D": "Bloquear tela: Windows + L.",
+      "E": "Menu Iniciar: tecla Windows ou Ctrl + Esc."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "No Microsoft Word 2019/365, qual é o atalho de teclado para salvar um documento com um novo nome (Salvar Como)?",
+    "alternativas": [
+      {"letra": "A", "texto": "Ctrl + S"},
+      {"letra": "B", "texto": "Ctrl + Shift + S"},
+      {"letra": "C", "texto": "F12"},
+      {"letra": "D", "texto": "Alt + S"},
+      {"letra": "E", "texto": "Ctrl + Alt + S"}
+    ],
+    "gabarito": "C",
+    "justificativa": "No Word, a tecla F12 abre diretamente a caixa de diálogo 'Salvar Como', permitindo escolher o local e o formato do arquivo. Ctrl + S salva no mesmo local sem abrir a caixa de diálogo.",
+    "explicacoes": {
+      "A": "Ctrl + S: salva o documento atual (Salvar), sem abrir caixa de diálogo para novo nome.",
+      "B": "Ctrl + Shift + S: abre o painel de estilos no Word — não é 'Salvar Como'.",
+      "D": "Alt + S: ativa a guia 'Enviar' (em algumas versões) ou insere objeto.",
+      "E": "Ctrl + Alt + S não tem função padrão definida no Word."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "No Microsoft Excel, qual fórmula calcula a MÉDIA dos valores nas células de A1 até A10?",
+    "alternativas": [
+      {"letra": "A", "texto": "=SOMA(A1:A10)/10"},
+      {"letra": "B", "texto": "=MÉDIA(A1;A10)"},
+      {"letra": "C", "texto": "=MÉDIA(A1:A10)"},
+      {"letra": "D", "texto": "=CALCULAR(MÉDIA;A1:A10)"},
+      {"letra": "E", "texto": "=AVG(A1:A10)"}
+    ],
+    "gabarito": "C",
+    "justificativa": "A fórmula correta no Excel (versão em português) para calcular a média de um intervalo é =MÉDIA(A1:A10). O dois-pontos (:) define o intervalo de A1 até A10.",
+    "explicacoes": {
+      "A": "=SOMA(A1:A10)/10 funcionaria, mas apenas se houver exatamente 10 células — não é a forma padrão da função média.",
+      "B": "=MÉDIA(A1;A10) calcularia a média apenas de A1 e A10 (dois valores separados por ponto e vírgula), ignorando A2:A9.",
+      "D": "=CALCULAR não é função válida do Excel em português (seria DAX do Power BI).",
+      "E": "=AVG é a função em inglês, não funciona no Excel em português."
+    },
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "Em relação aos navegadores de internet, o protocolo HTTPS (Hypertext Transfer Protocol Secure) difere do HTTP porque:",
+    "alternativas": [
+      {"letra": "A", "texto": "O HTTPS é mais rápido que o HTTP na transmissão de dados."},
+      {"letra": "B", "texto": "O HTTPS utiliza criptografia SSL/TLS para proteger os dados transmitidos."},
+      {"letra": "C", "texto": "O HTTPS só pode ser usado em redes Wi-Fi, não em redes cabeadas."},
+      {"letra": "D", "texto": "O HTTPS impede completamente qualquer tipo de ataque cibernético."},
+      {"letra": "E", "texto": "O HTTPS utiliza a porta 80, enquanto o HTTP utiliza a porta 443."}
+    ],
+    "gabarito": "B",
+    "justificativa": "O HTTPS usa criptografia SSL/TLS (Secure Sockets Layer/Transport Layer Security) para criptografar os dados transmitidos entre o navegador e o servidor, garantindo confidencialidade, integridade e autenticação.",
+    "explicacoes": {
+      "A": "O HTTPS tende a ser ligeiramente mais lento que o HTTP puro pelo overhead da criptografia.",
+      "C": "HTTPS funciona em qualquer tipo de rede (Wi-Fi, cabeada, 4G etc.).",
+      "D": "HTTPS protege a transmissão de dados, mas não impede todos os tipos de ataques.",
+      "E": "É o inverso: HTTP usa a porta 80, HTTPS usa a porta 443."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "Sobre segurança da informação, o termo 'phishing' refere-se a:",
+    "alternativas": [
+      {"letra": "A", "texto": "Um programa que monitora e registra as teclas digitadas pelo usuário."},
+      {"letra": "B", "texto": "Um software que criptografa os arquivos do usuário e exige resgate em dinheiro."},
+      {"letra": "C", "texto": "Uma tentativa fraudulenta de obter informações confidenciais por meio de e-mails ou sites falsos."},
+      {"letra": "D", "texto": "Um ataque que sobrecarrega um servidor com requisições para deixá-lo fora do ar."},
+      {"letra": "E", "texto": "Um vírus que se replica automaticamente de computador em computador pela rede."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Phishing é um tipo de ataque de engenharia social em que o atacante tenta enganar o usuário com e-mails, mensagens ou sites falsos que imitam entidades legítimas (bancos, empresas) para roubar senhas, dados bancários e informações pessoais.",
+    "explicacoes": {
+      "A": "Descreve um keylogger (registrador de teclas).",
+      "B": "Descreve um ransomware (sequestro de dados).",
+      "D": "Descreve um ataque DDoS (Distributed Denial of Service).",
+      "E": "Descreve um worm (verme de rede)."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "No Microsoft Word, para centralizar o texto de um parágrafo selecionado, utiliza-se o atalho:",
+    "alternativas": [
+      {"letra": "A", "texto": "Ctrl + E"},
+      {"letra": "B", "texto": "Ctrl + J"},
+      {"letra": "C", "texto": "Ctrl + L"},
+      {"letra": "D", "texto": "Ctrl + R"},
+      {"letra": "E", "texto": "Ctrl + M"}
+    ],
+    "gabarito": "A",
+    "justificativa": "Ctrl + E centraliza o parágrafo selecionado no Word. Mnemônico: 'E' de 'Espaço central'. Os outros atalhos têm funções diferentes.",
+    "explicacoes": {
+      "B": "Ctrl + J: justificar o texto (alinhamento justificado).",
+      "C": "Ctrl + L: alinhar à esquerda (ou abrir caixa de localizar, dependendo do contexto).",
+      "D": "Ctrl + R: alinhar à direita.",
+      "E": "Ctrl + M: aumentar recuo de parágrafo."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "No Microsoft Excel, ao digitar a fórmula =SE(A1>10;\"Aprovado\";\"Reprovado\"), o resultado será 'Aprovado' quando:",
+    "alternativas": [
+      {"letra": "A", "texto": "A1 for igual a 10."},
+      {"letra": "B", "texto": "A1 for menor que 10."},
+      {"letra": "C", "texto": "A1 for maior que 10."},
+      {"letra": "D", "texto": "A1 for igual a zero."},
+      {"letra": "E", "texto": "A1 estiver vazia."}
+    ],
+    "gabarito": "C",
+    "justificativa": "A função SE testa a condição A1>10 (A1 estritamente maior que 10). Se VERDADEIRO → retorna 'Aprovado'. Se FALSO (A1 ≤ 10) → retorna 'Reprovado'. A1=10 retorna 'Reprovado' (10 não é maior que 10).",
+    "explicacoes": {
+      "A": "A1=10: condição A1>10 é FALSA → 'Reprovado'.",
+      "B": "A1<10: condição A1>10 é FALSA → 'Reprovado'.",
+      "D": "A1=0: condição FALSA → 'Reprovado'.",
+      "E": "Célula vazia equivale a 0 no Excel → condição FALSA → 'Reprovado'."
+    },
+    "fonte": "AOCP 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "Sobre os componentes de hardware de um computador, qual alternativa descreve CORRETAMENTE a função da memória RAM?",
+    "alternativas": [
+      {"letra": "A", "texto": "Armazena permanentemente os dados e programas instalados no computador."},
+      {"letra": "B", "texto": "Processa as instruções matemáticas e lógicas dos programas."},
+      {"letra": "C", "texto": "Armazena temporariamente os dados e programas em uso pela CPU."},
+      {"letra": "D", "texto": "Controla a comunicação entre os dispositivos de entrada e saída."},
+      {"letra": "E", "texto": "Converte corrente alternada em corrente contínua para os componentes internos."}
+    ],
+    "gabarito": "C",
+    "justificativa": "A RAM (Random Access Memory) é uma memória volátil de acesso aleatório que armazena temporariamente os dados e programas que estão sendo usados pela CPU no momento. Ao desligar o computador, os dados da RAM são perdidos.",
+    "explicacoes": {
+      "A": "Descreve o HD/SSD (memória secundária/armazenamento permanente).",
+      "B": "Descreve a CPU (Unidade Central de Processamento).",
+      "D": "Descreve parcialmente a função da placa-mãe/chipset.",
+      "E": "Descreve a fonte de alimentação (PSU)."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "No Windows 10/11, qual é a função da tecla de atalho Ctrl + Z?",
+    "alternativas": [
+      {"letra": "A", "texto": "Refazer a última ação desfeita."},
+      {"letra": "B", "texto": "Desfazer a última ação realizada."},
+      {"letra": "C", "texto": "Recortar o item selecionado."},
+      {"letra": "D", "texto": "Selecionar todos os itens da tela."},
+      {"letra": "E", "texto": "Fechar o programa em execução."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Ctrl + Z é o atalho universal para 'Desfazer' (Undo) a última ação realizada. Funciona na maioria dos programas (Word, Excel, Windows Explorer, etc.).",
+    "explicacoes": {
+      "A": "Refazer: Ctrl + Y (ou Ctrl + Shift + Z em alguns programas).",
+      "C": "Recortar: Ctrl + X.",
+      "D": "Selecionar tudo: Ctrl + A.",
+      "E": "Fechar programa: Alt + F4."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "Sobre redes de computadores, o protocolo TCP/IP pode ser descrito corretamente como:",
+    "alternativas": [
+      {"letra": "A", "texto": "Um sistema operacional desenvolvido para gerenciar redes sem fio."},
+      {"letra": "B", "texto": "Um conjunto de protocolos de comunicação que permite a interconexão de redes heterogêneas, sendo a base da internet."},
+      {"letra": "C", "texto": "Um programa antivírus que protege computadores em rede."},
+      {"letra": "D", "texto": "Um tipo de cabo utilizado para conectar computadores em rede local."},
+      {"letra": "E", "texto": "Um protocolo exclusivo para redes Wi-Fi, não utilizado em redes cabeadas."}
+    ],
+    "gabarito": "B",
+    "justificativa": "TCP/IP (Transmission Control Protocol/Internet Protocol) é o conjunto de protocolos de comunicação padrão que permite a interconexão de diferentes tipos de redes e é a base técnica da internet. TCP garante entrega confiável; IP endereça e roteia os pacotes.",
+    "explicacoes": {
+      "A": "TCP/IP é um protocolo de comunicação, não um sistema operacional.",
+      "C": "TCP/IP não é antivírus — é protocolo de rede.",
+      "D": "TCP/IP é software (protocolo), não hardware (cabo).",
+      "E": "TCP/IP funciona tanto em redes cabeadas quanto em Wi-Fi — é independente do meio físico."
+    },
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "No Microsoft Word, ao selecionar um texto e pressionar Ctrl + B (Bold), qual formatação é aplicada?",
+    "alternativas": [
+      {"letra": "A", "texto": "Itálico"},
+      {"letra": "B", "texto": "Sublinhado"},
+      {"letra": "C", "texto": "Negrito"},
+      {"letra": "D", "texto": "Tachado"},
+      {"letra": "E", "texto": "Maiúsculas"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Ctrl + B (do inglês 'Bold') aplica negrito ao texto selecionado. Em teclados configurados em português, o atalho equivalente é Ctrl + N (de 'Negrito').",
+    "explicacoes": {
+      "A": "Itálico: Ctrl + I (inglês) ou Ctrl + I (português).",
+      "B": "Sublinhado: Ctrl + U (inglês) ou Ctrl + S (português).",
+      "D": "Tachado: não tem atalho padrão de teclado — usualmente feito pela faixa de opções.",
+      "E": "Maiúsculas: Shift + F3 alterna entre maiúsculas/minúsculas."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "O que é um arquivo com extensão .PDF?",
+    "alternativas": [
+      {"letra": "A", "texto": "Um arquivo de planilha eletrônica criado pelo Microsoft Excel."},
+      {"letra": "B", "texto": "Um arquivo de banco de dados relacional."},
+      {"letra": "C", "texto": "Um arquivo de Formato de Documento Portátil, que preserva a formatação independentemente do sistema operacional ou dispositivo."},
+      {"letra": "D", "texto": "Um arquivo de imagem comprimida utilizado em fotografias digitais."},
+      {"letra": "E", "texto": "Um arquivo executável que instala programas no computador."}
+    ],
+    "gabarito": "C",
+    "justificativa": "PDF (Portable Document Format) foi criado pela Adobe e é um formato de arquivo que preserva a formatação original de documentos de forma independente de hardware, software e sistema operacional, sendo amplamente utilizado para documentos prontos para impressão ou distribuição.",
+    "explicacoes": {
+      "A": "Planilha Excel: .xlsx, .xls, .csv.",
+      "B": "Banco de dados: .mdb, .accdb (Access), .sql.",
+      "D": "Imagem comprimida: .jpg/.jpeg (fotografia).",
+      "E": "Arquivo executável: .exe, .msi."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "Em relação ao Microsoft Excel, o que significa uma referência de célula ABSOLUTA, como $A$1?",
+    "alternativas": [
+      {"letra": "A", "texto": "A célula está bloqueada para edição, não podendo ser alterada."},
+      {"letra": "B", "texto": "Ao copiar ou mover a fórmula, o endereço da célula não se altera."},
+      {"letra": "C", "texto": "A célula contém um valor obrigatório que não pode ser deixado em branco."},
+      {"letra": "D", "texto": "A célula está em uma planilha diferente da atual."},
+      {"letra": "E", "texto": "A célula faz referência à célula mais importante (absoluta) da planilha."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Uma referência absoluta ($A$1) usa o símbolo $ para 'travar' a coluna e a linha. Ao copiar a fórmula para outra célula, o endereço $A$1 permanece fixo, sem ajuste automático. Diferente da referência relativa (A1), que se ajusta conforme a posição.",
+    "explicacoes": {
+      "A": "Bloquear células para edição é uma função de proteção de planilha, não de referência absoluta.",
+      "C": "Obrigatoriedade de preenchimento não é função de referência de célula.",
+      "D": "Referência a outra planilha usa o nome da planilha seguido de !: Planilha2!A1.",
+      "E": "'Mais importante' não é conceito do Excel."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "O que é um backup de dados e qual é a sua principal finalidade?",
+    "alternativas": [
+      {"letra": "A", "texto": "É uma cópia de segurança dos dados, criada para recuperar informações em caso de perda, corrupção ou desastre."},
+      {"letra": "B", "texto": "É um programa que monitora o uso de dados do sistema operacional em tempo real."},
+      {"letra": "C", "texto": "É um processo de compressão de arquivos para reduzir o espaço em disco."},
+      {"letra": "D", "texto": "É uma técnica de criptografia para proteger arquivos confidenciais de acessos não autorizados."},
+      {"letra": "E", "texto": "É a sincronização automática de dados entre dois computadores conectados em rede."}
+    ],
+    "gabarito": "A",
+    "justificativa": "Backup é uma cópia de segurança dos dados importantes. Sua principal finalidade é garantir a recuperação das informações em caso de perda acidental, falha de hardware, ataque de ransomware, desastre natural ou corrupção de dados. É uma prática essencial de segurança da informação.",
+    "explicacoes": {
+      "B": "Monitoramento em tempo real refere-se a ferramentas de diagnóstico do sistema.",
+      "C": "Compressão de arquivos refere-se a programas como WinRAR, 7-Zip — não é backup.",
+      "D": "Criptografia protege dados contra acesso não autorizado — processo diferente do backup.",
+      "E": "Sincronização é diferente de backup; backup é cópia pontual para recuperação, não sincronização contínua."
+    },
+    "fonte": "AOCP 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "No Microsoft Word, qual é a função do botão 'Localizar e Substituir' (Ctrl + H)?",
+    "alternativas": [
+      {"letra": "A", "texto": "Verificar a ortografia e gramática do documento."},
+      {"letra": "B", "texto": "Localizar uma palavra ou expressão e substituí-la por outra em todo o documento automaticamente."},
+      {"letra": "C", "texto": "Inserir hiperlinks em palavras selecionadas do documento."},
+      {"letra": "D", "texto": "Substituir a fonte (tipo de letra) de todo o documento de uma vez."},
+      {"letra": "E", "texto": "Localizar imagens no documento e substituí-las por outras."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Ctrl + H abre a caixa de diálogo 'Localizar e Substituir', que permite encontrar uma palavra, expressão ou formatação e substituí-la por outra em todo o documento com um clique em 'Substituir Tudo'.",
+    "explicacoes": {
+      "A": "Ortografia: F7 ou guia Revisão → Ortografia e Gramática.",
+      "C": "Inserir hiperlink: Ctrl + K.",
+      "D": "Substituir fonte: pode ser feito parcialmente por Localizar e Substituir com opções de formatação, mas não é a função principal.",
+      "E": "Word não substitui imagens automaticamente pela função Localizar e Substituir padrão."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "Em relação à segurança da informação, qual das alternativas a seguir descreve corretamente o conceito de FIREWALL?",
+    "alternativas": [
+      {"letra": "A", "texto": "Um programa que detecta e remove vírus dos arquivos do computador."},
+      {"letra": "B", "texto": "Um sistema de monitoramento e controle do tráfego de rede, que filtra pacotes com base em regras de segurança."},
+      {"letra": "C", "texto": "Um protocolo de criptografia utilizado em transações bancárias on-line."},
+      {"letra": "D", "texto": "Um tipo de senha de segurança de múltiplos fatores."},
+      {"letra": "E", "texto": "Um software que comprime e protege arquivos com senha."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Firewall (parede de fogo) é um sistema (hardware, software ou ambos) que monitora e controla o tráfego de rede de entrada e saída com base em regras de segurança predefinidas. Age como uma barreira entre redes confiáveis e não confiáveis.",
+    "explicacoes": {
+      "A": "Descreve um antivírus.",
+      "C": "Protocolo de criptografia em transações: TLS/SSL.",
+      "D": "Múltiplos fatores de autenticação (MFA) é conceito diferente.",
+      "E": "Compressão com senha: ferramentas como WinRAR/7-Zip."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "No Microsoft Excel, qual é a função que CONTA o número de células não vazias em um intervalo?",
+    "alternativas": [
+      {"letra": "A", "texto": "=CONTAR(A1:A10)"},
+      {"letra": "B", "texto": "=CONT.NÚM(A1:A10)"},
+      {"letra": "C", "texto": "=CONT.VALORES(A1:A10)"},
+      {"letra": "D", "texto": "=CONTASE(A1:A10;\">0\")"},
+      {"letra": "E", "texto": "=CONTAR.VAZIO(A1:A10)"}
+    ],
+    "gabarito": "C",
+    "justificativa": "=CONT.VALORES(A1:A10) conta todas as células não vazias no intervalo, incluindo números, texto, datas e qualquer outro valor. =CONT.NÚM conta apenas células com números. =CONTAR.VAZIO conta células vazias.",
+    "explicacoes": {
+      "A": "=CONTAR não é função válida no Excel em português.",
+      "B": "=CONT.NÚM conta apenas células que contêm números, ignorando texto.",
+      "D": "=CONT.SE conta células que atendem a critério específico — não equivale a contar não-vazias de forma geral.",
+      "E": "=CONTAR.VAZIO conta células VAZIAS (o oposto do que a questão pede)."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "Sobre armazenamento em nuvem (cloud storage), qual das alternativas está INCORRETA?",
+    "alternativas": [
+      {"letra": "A", "texto": "Permite o acesso aos arquivos de qualquer dispositivo com internet."},
+      {"letra": "B", "texto": "Exemplos de serviços: Google Drive, OneDrive, Dropbox e iCloud."},
+      {"letra": "C", "texto": "Os dados são armazenados em servidores remotos gerenciados por terceiros."},
+      {"letra": "D", "texto": "Garante 100% de segurança e impossibilidade de perda de dados."},
+      {"letra": "E", "texto": "Permite o compartilhamento de arquivos entre usuários de diferentes locais."}
+    ],
+    "gabarito": "D",
+    "justificativa": "Nenhum serviço de armazenamento garante 100% de segurança ou impossibilidade absoluta de perda de dados. Servidores podem ter falhas, e a segurança depende de configurações adequadas, senhas fortes e políticas do provedor. A questão pede a alternativa INCORRETA.",
+    "explicacoes": {
+      "A": "Verdadeira: a principal vantagem do cloud storage é o acesso ubíquo.",
+      "B": "Verdadeira: esses são exemplos corretos de serviços de armazenamento em nuvem.",
+      "C": "Verdadeira: os dados ficam em data centers do provedor.",
+      "E": "Verdadeira: compartilhamento é um dos recursos principais."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "No sistema operacional Windows 10, o atalho de teclado Ctrl + Alt + Delete é utilizado para:",
+    "alternativas": [
+      {"letra": "A", "texto": "Reiniciar o computador imediatamente sem confirmação."},
+      {"letra": "B", "texto": "Formatar o disco rígido do computador."},
+      {"letra": "C", "texto": "Acessar um menu de segurança com opções como bloquear, trocar usuário, fazer logout, alterar senha e acesso ao Gerenciador de Tarefas."},
+      {"letra": "D", "texto": "Capturar uma imagem da tela (print screen)."},
+      {"letra": "E", "texto": "Abrir as configurações do BIOS/UEFI do computador."}
+    ],
+    "gabarito": "C",
+    "justificativa": "No Windows 10/11, Ctrl + Alt + Delete exibe uma tela de segurança com opções: Bloquear, Trocar usuário, Sair (logoff), Alterar senha e Gerenciador de Tarefas. Historicamente era usado para reiniciar o computador no DOS/Windows antigas versões.",
+    "explicacoes": {
+      "A": "Reiniciar: feito pelo menu Iniciar → Ligar/Desligar → Reiniciar.",
+      "B": "Formatar disco: através do Windows Explorer ou ferramentas específicas.",
+      "D": "Capturar tela: tecla Print Screen, Windows + Print Screen ou Windows + Shift + S.",
+      "E": "BIOS/UEFI: acesso geralmente pela tecla Del, F2 ou F10 durante a inicialização."
+    },
+    "fonte": "AOCP 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "Sobre e-mail, qual das alternativas a seguir está CORRETA?",
+    "alternativas": [
+      {"letra": "A", "texto": "O campo 'CC' (com cópia) envia a mensagem sem que o destinatário principal saiba que outros receberam."},
+      {"letra": "B", "texto": "O campo 'CCO' ou 'BCC' (cópia oculta) oculta os destinatários dos outros destinatários."},
+      {"letra": "C", "texto": "O campo 'Para' pode conter apenas um único destinatário por mensagem."},
+      {"letra": "D", "texto": "O protocolo POP3 mantém as mensagens sincronizadas em múltiplos dispositivos."},
+      {"letra": "E", "texto": "O protocolo SMTP é utilizado para receber mensagens de e-mail."}
+    ],
+    "gabarito": "B",
+    "justificativa": "CCO (Cópia Carbono Oculta) ou BCC (Blind Carbon Copy) permite enviar cópia da mensagem para destinatários sem que os outros destinatários (em Para ou CC) saibam que essa pessoa recebeu a mensagem.",
+    "explicacoes": {
+      "A": "CC (Cópia Carbono): todos os destinatários veem quem está em CC — não é oculto.",
+      "C": "'Para' pode conter vários destinatários separados por vírgula ou ponto e vírgula.",
+      "D": "POP3 baixa e remove as mensagens do servidor (sem sincronização multi-dispositivo). IMAP mantém sincronização.",
+      "E": "SMTP é usado para ENVIAR mensagens. Para receber: POP3 ou IMAP."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "No Microsoft Word, ao inserir um cabeçalho ou rodapé, qual é a forma CORRETA de inserir o número de página atual automaticamente?",
+    "alternativas": [
+      {"letra": "A", "texto": "Digitando manualmente o número em cada página."},
+      {"letra": "B", "texto": "Usando a guia Inserir → Número de Página, que insere um campo automático que se atualiza."},
+      {"letra": "C", "texto": "Usando Ctrl + P para imprimir com numeração."},
+      {"letra": "D", "texto": "Clicando com o botão direito e selecionando 'Inserir número'."},
+      {"letra": "E", "texto": "Digitando a fórmula =PÁGINA() no cabeçalho."}
+    ],
+    "gabarito": "B",
+    "justificativa": "No Word, para inserir numeração de página automática vai-se à guia 'Inserir' → 'Número de Página', que insere um campo dinâmico que se atualiza automaticamente em todas as páginas. Alternativamente, dentro do cabeçalho/rodapé, pode-se usar o botão 'Número de Página' na guia contextual 'Design'.",
+    "explicacoes": {
+      "A": "Digitar manualmente não é automático — terá que atualizar a cada mudança.",
+      "C": "Ctrl + P abre o diálogo de impressão, não insere numeração.",
+      "D": "Botão direito não oferece opção de inserir número de página diretamente.",
+      "E": "=PÁGINA() é função do Excel, não do Word."
+    },
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "Sobre vírus de computador, qual alternativa está CORRETA?",
+    "alternativas": [
+      {"letra": "A", "texto": "Vírus de computador podem infectar apenas arquivos do tipo .exe."},
+      {"letra": "B", "texto": "Um antivírus atualizado garante proteção absoluta contra todos os tipos de ameaças."},
+      {"letra": "C", "texto": "O vírus necessita de um programa hospedeiro para se propagar, diferente do worm que se propaga sozinho."},
+      {"letra": "D", "texto": "Vírus de computador podem se transmitir por meio de leitura de e-mails em texto puro, sem abrir anexos."},
+      {"letra": "E", "texto": "Todo malware é classificado como vírus, independentemente de sua forma de propagação."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Vírus de computador é um tipo de malware que se anexa a um programa hospedeiro legítimo e precisa que o usuário execute esse programa para se propagar. O worm, por outro lado, se propaga automaticamente pela rede, sem necessitar de interação do usuário.",
+    "explicacoes": {
+      "A": "Vírus podem infectar documentos Office (macrovírus), scripts, arquivos de inicialização, entre outros.",
+      "B": "Nenhum antivírus oferece proteção absoluta — sempre há zero-days e ameaças novas.",
+      "D": "E-mails em texto puro geralmente não executam código; o risco maior é abrir anexos ou clicar em links.",
+      "E": "Vírus é um tipo específico de malware; outros tipos incluem worms, trojans, ransomware, spyware, etc."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "No Windows Explorer (Explorador de Arquivos), o atalho Ctrl + C seguido de Ctrl + V realiza, respectivamente:",
+    "alternativas": [
+      {"letra": "A", "texto": "Recortar e colar."},
+      {"letra": "B", "texto": "Copiar e colar."},
+      {"letra": "C", "texto": "Copiar e recortar."},
+      {"letra": "D", "texto": "Selecionar tudo e colar."},
+      {"letra": "E", "texto": "Colar e copiar."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Ctrl + C copia o item selecionado para a área de transferência (o arquivo original permanece). Ctrl + V cola o conteúdo da área de transferência no destino. Para recortar, usa-se Ctrl + X.",
+    "explicacoes": {
+      "A": "Recortar e colar seria Ctrl + X seguido de Ctrl + V.",
+      "C": "Copiar e recortar: a ordem e os atalhos estão incorretos.",
+      "D": "Selecionar tudo: Ctrl + A.",
+      "E": "A ordem está invertida."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "O que é RAM e o que é ROM? Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "RAM é memória permanente usada para armazenar o sistema operacional; ROM é memória temporária usada para processar dados."},
+      {"letra": "B", "texto": "RAM é volátil (perde dados ao desligar) e usada para processamento; ROM é não-volátil e armazena o firmware/BIOS do computador."},
+      {"letra": "C", "texto": "RAM e ROM são sinônimos — ambas referem-se ao disco rígido do computador."},
+      {"letra": "D", "texto": "ROM pode ser reescrita livremente pelo usuário; RAM não pode ser alterada após a fabricação."},
+      {"letra": "E", "texto": "RAM é a sigla para 'Read Accessible Memory' e ROM para 'Random Operational Memory'."}
+    ],
+    "gabarito": "B",
+    "justificativa": "RAM (Random Access Memory): memória volátil (perde dados ao desligar), de leitura/escrita, usada para executar programas e processar dados. ROM (Read-Only Memory): memória não-volátil (mantém dados sem energia), geralmente somente leitura, armazena o firmware/BIOS.",
+    "explicacoes": {
+      "A": "Inverte as características de RAM e ROM.",
+      "C": "RAM e ROM são tipos de memória, não disco rígido.",
+      "D": "ROM é somente leitura (na maioria dos casos); RAM é que pode ser livremente lida e escrita.",
+      "E": "RAM = Random Access Memory (Memória de Acesso Aleatório); ROM = Read-Only Memory (Memória Somente Leitura)."
+    },
+    "fonte": "AOCP 2024 — Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "No Microsoft Excel, qual das fórmulas a seguir é utilizada para SOMAR apenas as células que atendem a determinado critério?",
+    "alternativas": [
+      {"letra": "A", "texto": "=SOMA.SE(intervalo; critério; intervalo_soma)"},
+      {"letra": "B", "texto": "=SOMASE(intervalo; critério; intervalo_soma)"},
+      {"letra": "C", "texto": "=SOMARE(intervalo; critério)"},
+      {"letra": "D", "texto": "=SOMAR.CONDICIONAL(intervalo; critério)"},
+      {"letra": "E", "texto": "=SE.SOMA(intervalo; critério)"}
+    ],
+    "gabarito": "B",
+    "justificativa": "No Excel em português, a função correta é =SOMASE(intervalo; critério; intervalo_soma). Exemplos: =SOMASE(A1:A10;\">100\";B1:B10) soma os valores em B correspondentes às células em A maiores que 100. Nota: algumas versões aceitam tanto SOMASE quanto SOMA.SE.",
+    "explicacoes": {
+      "A": "=SOMA.SE pode funcionar em algumas versões, mas a grafia padrão é SOMASE (sem ponto).",
+      "C": "=SOMARE não é função válida do Excel.",
+      "D": "=SOMAR.CONDICIONAL não existe no Excel em português.",
+      "E": "=SE.SOMA não existe no Excel."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "Sobre navegadores de internet (browsers), qual das alternativas está CORRETA?",
+    "alternativas": [
+      {"letra": "A", "texto": "O navegador é o software utilizado para criar páginas web (sites)."},
+      {"letra": "B", "texto": "Google Chrome, Mozilla Firefox, Microsoft Edge e Safari são exemplos de navegadores de internet."},
+      {"letra": "C", "texto": "O navegador armazena permanentemente todos os sites visitados no disco rígido."},
+      {"letra": "D", "texto": "O modo de navegação anônima (privada) impede que o provedor de internet rastreie o usuário."},
+      {"letra": "E", "texto": "O URL (Uniform Resource Locator) é o servidor de e-mails integrado ao navegador."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Chrome (Google), Firefox (Mozilla), Edge (Microsoft) e Safari (Apple) são os principais navegadores de internet em uso atualmente. Navegadores são softwares usados para acessar e visualizar páginas web.",
+    "explicacoes": {
+      "A": "Programas para criar páginas web são editores de código (VS Code, Dreamweaver etc.) e linguagens como HTML/CSS.",
+      "C": "Navegadores armazenam cache (temporário) e histórico, mas podem ser apagados; não é armazenamento permanente.",
+      "D": "Modo anônimo não esconde a navegação do provedor de internet (ISP), apenas não salva localmente.",
+      "E": "URL é o endereço de uma página web (ex: https://www.google.com.br), não um servidor de e-mails."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "No Windows 10, qual é a diferença entre 'Desligar' e 'Hibernar'?",
+    "alternativas": [
+      {"letra": "A", "texto": "Não há diferença — ambas as opções desligam completamente o computador."},
+      {"letra": "B", "texto": "Desligar encerra todos os programas e desliga o computador; Hibernar salva o estado atual da memória em disco e desliga o computador, permitindo retomar onde parou."},
+      {"letra": "C", "texto": "Hibernar é mais rápido que desligar porque não salva nenhum dado."},
+      {"letra": "D", "texto": "Ao hibernar, o computador continua consumindo energia para manter o estado da memória RAM."},
+      {"letra": "E", "texto": "'Suspender' e 'Hibernar' são a mesma função no Windows 10."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Desligar: encerra todos os processos e desliga completamente. Hibernar: salva o conteúdo atual da RAM em arquivo (hiberfil.sys) no disco rígido, desliga completamente o computador (sem consumo de energia) e, ao ligar novamente, restaura o estado anterior.",
+    "explicacoes": {
+      "A": "São modos diferentes — hibernar preserva o estado da sessão.",
+      "C": "Hibernar salva dados; por isso pode ser mais lento para iniciar que 'Suspender'.",
+      "D": "Hibernar não consome energia — o computador fica completamente desligado.",
+      "E": "Suspender mantém dados na RAM com baixo consumo de energia; Hibernar salva em disco e desliga completamente."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "Sobre redes sem fio (Wi-Fi), qual das afirmativas a seguir está CORRETA?",
+    "alternativas": [
+      {"letra": "A", "texto": "WEP é o protocolo de segurança Wi-Fi mais moderno e recomendado atualmente."},
+      {"letra": "B", "texto": "O padrão Wi-Fi 802.11n é mais lento que o 802.11b."},
+      {"letra": "C", "texto": "WPA3 é o protocolo de segurança Wi-Fi mais atual, mais seguro que WEP e WPA2."},
+      {"letra": "D", "texto": "Um roteador Wi-Fi é o mesmo que um modem — não há diferença entre os termos."},
+      {"letra": "E", "texto": "O sinal Wi-Fi não é afetado por paredes, portas de metal ou outros dispositivos eletrônicos."}
+    ],
+    "gabarito": "C",
+    "justificativa": "WPA3 (Wi-Fi Protected Access 3) é o protocolo de segurança Wi-Fi mais recente e robusto, lançado em 2018. Substituiu o WPA2, que substituiu o WPA, que substituiu o WEP (o mais antigo e inseguro de todos).",
+    "explicacoes": {
+      "A": "WEP é o protocolo mais antigo e considerado inseguro — deve ser evitado.",
+      "B": "802.11n é mais rápido que 802.11b — velocidades de até 600 Mbps vs 11 Mbps.",
+      "D": "Modem: converte sinal da operadora. Roteador: distribui a conexão em rede local. São dispositivos distintos (embora muitas vezes integrados).",
+      "E": "Paredes, especialmente as de concreto ou com metal, reduzem significativamente o sinal Wi-Fi."
+    },
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "Ao receber um e-mail suspeito pedindo para clicar em um link e informar seus dados bancários, a atitude CORRETA do usuário é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Clicar no link para verificar se é verdadeiro antes de informar os dados."},
+      {"letra": "B", "texto": "Responder ao e-mail pedindo mais informações sobre a solicitação."},
+      {"letra": "C", "texto": "Não clicar no link, não fornecer dados, excluir o e-mail e, se necessário, reportar como spam/phishing ao provedor."},
+      {"letra": "D", "texto": "Encaminhar o e-mail para todos os contatos para alertá-los sobre a promoção."},
+      {"letra": "E", "texto": "Informar apenas o número do CPF, sem fornecer a senha completa."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Diante de e-mails suspeitos (phishing), nunca se deve clicar em links, baixar anexos ou fornecer dados pessoais/bancários. A conduta correta é não interagir, excluir o e-mail e reportar como phishing ao serviço de e-mail para proteger outros usuários.",
+    "explicacoes": {
+      "A": "Clicar no link pode instalar malware ou levar a uma página falsa.",
+      "B": "Responder confirma que o endereço está ativo, atraindo mais ataques.",
+      "D": "Encaminhar propaga a ameaça aos contatos.",
+      "E": "Qualquer dado pessoal fornecido a fraudadores é perigoso."
+    },
+    "fonte": "AOCP 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "No Microsoft Word, para criar um sumário automático, os títulos do documento devem estar formatados como:",
+    "alternativas": [
+      {"letra": "A", "texto": "Texto em negrito e tamanho de fonte maior que o normal."},
+      {"letra": "B", "texto": "Estilos de parágrafo predefinidos: Título 1, Título 2, Título 3, etc."},
+      {"letra": "C", "texto": "Texto em caixa alta (maiúsculas) e sublinhado."},
+      {"letra": "D", "texto": "Qualquer formatação — o Word detecta automaticamente os títulos pelo contexto."},
+      {"letra": "E", "texto": "Texto com marcadores (bullet points) numerados."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Para que o sumário automático do Word funcione, os títulos devem usar os estilos predefinidos 'Título 1', 'Título 2', etc. (encontrados na guia Página Inicial → Estilos). Apenas formatação visual (negrito, tamanho) não é reconhecida pelo gerador de sumário.",
+    "explicacoes": {
+      "A": "Negrito e tamanho maior são formatações visuais — o Word não reconhece como títulos para sumário.",
+      "C": "Maiúsculas e sublinhado também são apenas visuais.",
+      "D": "O Word não detecta títulos pelo contexto — precisa dos estilos predefinidos.",
+      "E": "Marcadores numerados criam listas, não títulos para sumário."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "O que significa a sigla SSD em hardware de computadores?",
+    "alternativas": [
+      {"letra": "A", "texto": "Software Secure Disk — protocolo de segurança para discos rígidos."},
+      {"letra": "B", "texto": "Solid State Drive — dispositivo de armazenamento que utiliza memória flash, sem partes móveis."},
+      {"letra": "C", "texto": "Simple Storage Device — dispositivo externo de armazenamento USB."},
+      {"letra": "D", "texto": "System Software Data — arquivo de configuração do sistema operacional."},
+      {"letra": "E", "texto": "Synchronized Sharing Drive — protocolo de compartilhamento de arquivos em rede."}
+    ],
+    "gabarito": "B",
+    "justificativa": "SSD (Solid State Drive) é um dispositivo de armazenamento de dados que utiliza memória flash (NAND), sem partes mecânicas móveis. É significativamente mais rápido e resistente a impactos físicos do que o HD (Hard Disk Drive) tradicional.",
+    "explicacoes": {
+      "A": "'Software Secure Disk' não é um termo real de informática.",
+      "C": "Dispositivo externo USB geralmente se chama pen drive ou HD externo.",
+      "D": "Arquivos de configuração do sistema têm extensões como .ini, .cfg, .reg.",
+      "E": "Protocolos de compartilhamento de rede: SMB, NFS, FTP — não SSD."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "Em relação ao sistema operacional Windows 10, qual afirmativa sobre a Lixeira está CORRETA?",
+    "alternativas": [
+      {"letra": "A", "texto": "Ao deletar um arquivo da Lixeira, ele é permanentemente apagado do disco rígido sem possibilidade de recuperação."},
+      {"letra": "B", "texto": "Arquivos excluídos de pen drives e cartões SD vão para a Lixeira, assim como arquivos do disco rígido."},
+      {"letra": "C", "texto": "Arquivos enviados para a Lixeira permanecem no disco rígido e podem ser restaurados para o local original."},
+      {"letra": "D", "texto": "A Lixeira pode ser acessada apenas pelo menu Iniciar do Windows."},
+      {"letra": "E", "texto": "O Windows esvazia a Lixeira automaticamente a cada reinicialização do computador."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Quando um arquivo do disco rígido é excluído no Windows, ele vai para a Lixeira e pode ser restaurado para o local original a qualquer momento, enquanto a Lixeira não for esvaziada. Os arquivos ocupam espaço no disco até serem deletados definitivamente.",
+    "explicacoes": {
+      "A": "Arquivos deletados da Lixeira ficam no disco mas marcados como disponíveis — ferramentas de recuperação podem resgatá-los (mas não é garantido).",
+      "B": "Arquivos excluídos de pen drives e cartões SD geralmente são excluídos diretamente, sem passar pela Lixeira.",
+      "D": "A Lixeira fica na Área de Trabalho — acesso direto por ícone.",
+      "E": "O Windows não esvazia a Lixeira automaticamente na reinicialização."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "informatica",
+    "enunciado": "No Microsoft Excel, ao pressionar F2 em uma célula com fórmula, o que acontece?",
+    "alternativas": [
+      {"letra": "A", "texto": "Copia a fórmula para a célula abaixo."},
+      {"letra": "B", "texto": "Entra no modo de edição da célula, permitindo alterar a fórmula diretamente."},
+      {"letra": "C", "texto": "Exibe a janela de ajuda do Excel."},
+      {"letra": "D", "texto": "Converte a fórmula em valor fixo (remove a fórmula)."},
+      {"letra": "E", "texto": "Renomeia a planilha atual."}
+    ],
+    "gabarito": "B",
+    "justificativa": "No Excel, pressionar F2 coloca a célula selecionada em modo de edição, mostrando a fórmula na célula e na barra de fórmulas, com os intervalos destacados em cores. Permite editar diretamente sem usar o mouse para clicar na barra de fórmulas.",
+    "explicacoes": {
+      "A": "Copiar para a célula abaixo: Ctrl + D.",
+      "C": "Ajuda do Excel: F1.",
+      "D": "Converter fórmula em valor: Copiar (Ctrl+C) → Colar Especial → Valores (Ctrl+Alt+V, V).",
+      "E": "Renomear planilha: duplo clique na aba da planilha."
+    },
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "dificuldade": "media"
+  }
+]

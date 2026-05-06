@@ -42,6 +42,9 @@ const TEMA_LABELS: Record<string, string> = {
   mental:      "Saúde Mental",
   idoso:       "Saúde do Idoso",
   gestao:      "Gestão & Auditoria",
+  portugues:   "Língua Portuguesa",
+  matematica:  "Matemática & Lógica",
+  informatica: "Informática",
   completa:    "Avaliação Completa",
 };
 
@@ -394,8 +397,22 @@ export default function AvaliacaoPage() {
     limparProvaSalva();
     setTemaSel("completa");
     setModo(true);
-    const { data } = await supabase.from("questoes").select("*");
-    const selecionadas = shuffle(data ?? []).slice(0, 110);
+
+    const TEMAS_ENF = ["sus","tecnicas","doencas","emergencias","mulher","pediatria","bio","farma","mental","idoso","gestao"];
+
+    const [enfRes, ptRes, matRes, infRes] = await Promise.all([
+      supabase.from("questoes").select("*").in("tema", TEMAS_ENF),
+      supabase.from("questoes").select("*").eq("tema", "portugues"),
+      supabase.from("questoes").select("*").eq("tema", "matematica"),
+      supabase.from("questoes").select("*").eq("tema", "informatica"),
+    ]);
+
+    const enf  = shuffle(enfRes.data  ?? []).slice(0, 70);
+    const pt   = shuffle(ptRes.data   ?? []).slice(0, 10);
+    const mat  = shuffle(matRes.data  ?? []).slice(0, 10);
+    const inf  = shuffle(infRes.data  ?? []).slice(0, 10);
+
+    const selecionadas = shuffle([...enf, ...pt, ...mat, ...inf]);
     setQuestoes(selecionadas.map(shuffleAlternativas));
     setIndice(0);
     setRespostas({});
@@ -523,7 +540,7 @@ export default function AvaliacaoPage() {
         >
           <p className="text-2xl mb-1">🎯</p>
           <p className="font-display text-xl font-semibold">Avaliação completa</p>
-          <p className="font-body text-xs opacity-70 mt-0.5">110 questões de todos os temas</p>
+          <p className="font-body text-xs opacity-70 mt-0.5">100 questões (70 enfermagem + 10 português + 10 matemática + 10 informática)</p>
         </div>
 
         <div

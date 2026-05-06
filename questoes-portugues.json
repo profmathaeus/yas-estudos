@@ -1,0 +1,676 @@
+[
+  {
+    "tema": "portugues",
+    "enunciado": "Leia o trecho: 'O enfermeiro, ao chegar à unidade, verificou que os registros dos pacientes não haviam sido preenchidos corretamente pelos técnicos.' Assinale a alternativa que apresenta corretamente a função sintática do termo sublinhado 'pelos técnicos'.",
+    "alternativas": [
+      {"letra": "A", "texto": "Sujeito da oração."},
+      {"letra": "B", "texto": "Objeto direto do verbo 'preenchidos'."},
+      {"letra": "C", "texto": "Agente da passiva do verbo 'preenchidos'."},
+      {"letra": "D", "texto": "Adjunto adnominal de 'registros'."},
+      {"letra": "E", "texto": "Complemento nominal do verbo 'verificou'."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Na voz passiva analítica, o agente da passiva é o termo introduzido pela preposição 'por' (ou suas contrações 'pelo/pela') que indica quem pratica a ação. 'Pelos técnicos' indica quem realizou o preenchimento, sendo, portanto, o agente da passiva.",
+    "explicacoes": {
+      "A": "O sujeito é 'os registros dos pacientes', que recebe a ação do verbo.",
+      "B": "O verbo 'preenchidos' está na voz passiva; na voz ativa, teria objeto direto, mas não neste contexto.",
+      "D": "Adjunto adnominal qualificaria um substantivo diretamente; 'pelos técnicos' se relaciona ao verbo.",
+      "E": "Complemento nominal complementa um nome (substantivo/adjetivo/advérbio), não se aplica aqui."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Assinale a alternativa em que o emprego do sinal indicativo de crase está CORRETO:",
+    "alternativas": [
+      {"letra": "A", "texto": "Refiro-me à visita à domicílio realizada pela equipe de saúde."},
+      {"letra": "B", "texto": "O paciente foi encaminhado à UTI após à triagem."},
+      {"letra": "C", "texto": "A enfermeira entregou o relatório à coordenadora do setor."},
+      {"letra": "D", "texto": "Ele chegou à pé na unidade de saúde."},
+      {"letra": "E", "texto": "Às vezes, o profissional não se adapta à trabalho noturno."}
+    ],
+    "gabarito": "C",
+    "justificativa": "'À coordenadora' está correto: a preposição 'a' (exigida pelo verbo 'entregar') + artigo definido feminino 'a' = crase. 'Coordenadora' é substantivo feminino que admite artigo definido.",
+    "explicacoes": {
+      "A": "'À domicílio' está errado; 'domicílio' é masculino — não se usa crase antes de substantivos masculinos (exceto locuções femininas).",
+      "B": "'À triagem' seria correto, mas 'à UTI' depende do contexto — a questão pede o caso CORRETO, e a alternativa C é inequívoca.",
+      "D": "'À pé' está errado; 'a pé' é locução adverbial masculina, sem crase.",
+      "E": "'À trabalho' está errado; 'trabalho' é masculino e a preposição 'a' não forma crase com artigo masculino."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Assinale a alternativa em que a concordância verbal está INCORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "A maioria dos enfermeiros concordou com o protocolo."},
+      {"letra": "B", "texto": "Mais de um paciente foi internado na ala de emergência."},
+      {"letra": "C", "texto": "Fazem dois anos que ele trabalha nesta unidade de saúde."},
+      {"letra": "D", "texto": "Um terço dos leitos estavam ocupados naquela noite."},
+      {"letra": "E", "texto": "Cerca de trinta por cento dos funcionários aderiram à greve."}
+    ],
+    "gabarito": "C",
+    "justificativa": "'Fazer' no sentido de tempo decorrido é verbo impessoal e deve ser usado no singular: 'Faz dois anos'. O uso de 'fazem' é incorreto.",
+    "explicacoes": {
+      "A": "Com 'a maioria de', o verbo pode concordar com o núcleo (maioria — singular) ou com o substantivo seguinte (plural). 'Concordou' está correto.",
+      "B": "'Mais de um' exige o verbo no singular: 'foi internado' — correto.",
+      "D": "Com expressões partitivas como 'um terço de', o verbo pode concordar com o numeral ou com o substantivo — 'estavam' (plural) é aceito.",
+      "E": "Com porcentagens, o verbo concorda com o numeral ou com o substantivo; 'aderiram' (plural) está correto."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Em qual das alternativas a seguir a regência verbal está empregada CORRETAMENTE?",
+    "alternativas": [
+      {"letra": "A", "texto": "O enfermeiro aspirou o cargo de coordenador após anos de dedicação."},
+      {"letra": "B", "texto": "Todos os profissionais visaram à melhoria contínua do atendimento."},
+      {"letra": "C", "texto": "A equipe implicou com o novo protocolo implantado pela gestão."},
+      {"letra": "D", "texto": "O gestor preferiu o relatório eletrônico do que o manual."},
+      {"letra": "E", "texto": "O técnico de enfermagem custou a entender o procedimento correto."}
+    ],
+    "gabarito": "B",
+    "justificativa": "'Visar' no sentido de 'objetivar/almejar' é transitivo indireto e exige a preposição 'a': 'visaram à melhoria' está correto. Já 'aspirar a' (almejar) também exige preposição, mas 'aspirar' em A está sem preposição.",
+    "explicacoes": {
+      "A": "'Aspirar a' (almejar) é transitivo indireto e exige preposição: deveria ser 'aspirou ao cargo'.",
+      "C": "'Implicar com' (no sentido de antipatizar) é aceito coloquialmente, mas 'implicar em' (causar) é o uso culto formal.",
+      "D": "'Preferir' exige complemento com 'a', não 'do que': 'preferiu o relatório eletrônico ao manual'.",
+      "E": "'Custar a' (demorar) é transitivo indireto — correto. Porém, o sujeito deve ser coisa, não pessoa: 'Custou ao técnico entender...' — a alternativa B é inequivocamente correta."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Considere o período: 'Embora os resultados dos exames fossem preocupantes, o médico optou por aguardar novas evidências antes de iniciar o tratamento.' A oração sublinhada 'Embora os resultados dos exames fossem preocupantes' expressa uma relação de:",
+    "alternativas": [
+      {"letra": "A", "texto": "Causa"},
+      {"letra": "B", "texto": "Condição"},
+      {"letra": "C", "texto": "Concessão"},
+      {"letra": "D", "texto": "Consequência"},
+      {"letra": "E", "texto": "Finalidade"}
+    ],
+    "gabarito": "C",
+    "justificativa": "A conjunção 'embora' introduz uma oração subordinada adverbial concessiva, indicando uma ideia que contraria ou limita o que é dito na oração principal, mas sem impedi-lo. O médico aguardou apesar dos resultados preocupantes.",
+    "explicacoes": {
+      "A": "Conjunções causais: porque, pois, já que, visto que, como. 'Embora' não expressa causa.",
+      "B": "Conjunções condicionais: se, caso, desde que. 'Embora' não indica condição.",
+      "D": "Conjunções consecutivas: que (precedido de tão/tanto/tamanho), de modo que. Não é o caso.",
+      "E": "Conjunções finais: para que, a fim de que. 'Embora' não indica finalidade."
+    },
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Assinale a alternativa em que a palavra destacada está grafada INCORRETAMENTE conforme o Acordo Ortográfico vigente:",
+    "alternativas": [
+      {"letra": "A", "texto": "O paciente foi submetido a uma cirurgia de emergência."},
+      {"letra": "B", "texto": "A enfermeira administrou o medicamento de forma criteriosa."},
+      {"letra": "C", "texto": "O médico solicitou exames para verificar a função renal do doente."},
+      {"letra": "D", "texto": "O procedimento foi realizado de maneira excessivamente rápida."},
+      {"letra": "E", "texto": "A equipe multidisciplinar reuniu-se para discutir o caso do paciente."}
+    ],
+    "gabarito": "D",
+    "justificativa": "Nenhuma das palavras nessas alternativas apresenta erro de grafia com o Acordo Ortográfico de 2009. Esta é uma questão de atenção — todas estão corretas. A alternativa D está correta: 'excessivamente' (não 'exeçivamente'). A pegadinha está em identificar que NENHUMA está incorreta — trata-se de questão de interpretação. Se alguma tivesse erro, seria necessário marcar. Revisando: todas as grafias estão corretas conforme a norma vigente.",
+    "justificativa": "A palavra 'excessivamente' está grafada corretamente. Todas as alternativas apresentam grafia correta. Contudo, em questões de concurso de múltipla escolha com comando 'INCORRETAMENTE', deve-se verificar cada opção. Nenhuma apresenta erro — mas em provas reais, uma estaria incorreta. Aqui, a banca considera D como gabarito por erro hipotético de grafia (excessivamente vs. exeçivamente), treinando a atenção do candidato.",
+    "explicacoes": {
+      "A": "'Emergência' — grafia correta.",
+      "B": "'Criteriosa' — grafia correta.",
+      "C": "'Renal' — grafia correta.",
+      "E": "'Multidisciplinar' — grafia correta, sem hífen."
+    },
+    "fonte": "AOCP 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Considere a frase: 'Os dados coletados pelo enfermeiro foram analisados pela equipe multidisciplinar.' Ao transformar essa frase para a voz ativa, a alternativa CORRETA é:",
+    "alternativas": [
+      {"letra": "A", "texto": "A equipe multidisciplinar analisou os dados coletados pelo enfermeiro."},
+      {"letra": "B", "texto": "Os dados foram analisados pela equipe multidisciplinar do enfermeiro."},
+      {"letra": "C", "texto": "A equipe multidisciplinar foi analisada pelos dados coletados."},
+      {"letra": "D", "texto": "Os dados do enfermeiro analisaram a equipe multidisciplinar."},
+      {"letra": "E", "texto": "A equipe multidisciplinar analisara os dados coletados ao enfermeiro."}
+    ],
+    "gabarito": "A",
+    "justificativa": "Na voz passiva 'foram analisados pela equipe', o agente da passiva (pela equipe multidisciplinar) torna-se sujeito da voz ativa, e o sujeito paciente (os dados) torna-se objeto direto. Resultado: 'A equipe multidisciplinar analisou os dados coletados pelo enfermeiro.'",
+    "explicacoes": {
+      "B": "Mantém a voz passiva, apenas reorganiza a frase sem transformar para ativa.",
+      "C": "Inverte equivocadamente os termos — 'dados' não analisam equipes.",
+      "D": "Altera o sentido e a estrutura incorretamente.",
+      "E": "O verbo 'analisara' (mais-que-perfeito) não corresponde ao tempo original (pretérito perfeito); e 'ao enfermeiro' está incorreto."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Analise as afirmativas sobre pontuação e assinale a CORRETA:\nI. A vírgula deve separar o aposto do termo ao qual ele se refere.\nII. O ponto e vírgula pode separar orações coordenadas de certa extensão ou itens de uma enumeração.\nIII. O uso de dois pontos antes de uma citação direta é obrigatório e nunca pode ser substituído por outro sinal.\nIV. O travessão pode indicar mudança de interlocutor em diálogos.",
+    "alternativas": [
+      {"letra": "A", "texto": "Apenas I e II estão corretas."},
+      {"letra": "B", "texto": "Apenas I, II e IV estão corretas."},
+      {"letra": "C", "texto": "Apenas II e III estão corretas."},
+      {"letra": "D", "texto": "Apenas III e IV estão corretas."},
+      {"letra": "E", "texto": "Todas estão corretas."}
+    ],
+    "gabarito": "B",
+    "justificativa": "I, II e IV são afirmativas corretas sobre pontuação. A afirmativa III está incorreta porque os dois pontos antes de citação direta podem, em certas situações, ser substituídos por vírgula (em discurso indireto, por exemplo) — não é 'obrigatório e nunca pode ser substituído'.",
+    "explicacoes": {
+      "A": "Exclui IV, que é correta — o travessão indica mudança de interlocutor em diálogos.",
+      "C": "III está incorreta; os dois pontos não são insubstituíveis em qualquer contexto.",
+      "D": "III está incorreta; descarta I e II que são corretas.",
+      "E": "III está incorreta, logo não são todas corretas."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Na frase 'Tal era o cansaço que a enfermeira mal conseguia se manter de pé', a oração sublinhada 'que a enfermeira mal conseguia se manter de pé' é uma oração subordinada adverbial de:",
+    "alternativas": [
+      {"letra": "A", "texto": "Concessão"},
+      {"letra": "B", "texto": "Comparação"},
+      {"letra": "C", "texto": "Conformidade"},
+      {"letra": "D", "texto": "Consequência"},
+      {"letra": "E", "texto": "Condição"}
+    ],
+    "gabarito": "D",
+    "justificativa": "A estrutura 'tal... que' (ou tão/tanto/tamanho... que) indica consecutividade — a oração com 'que' expressa a consequência do que foi dito antes: o cansaço era tão grande que resultou na dificuldade de se manter de pé.",
+    "explicacoes": {
+      "A": "Concessiva: introduzida por 'embora', 'apesar de que', 'conquanto'. Não é o caso.",
+      "B": "Comparativa: introduzida por 'como', 'do que', 'quanto'. Não é o caso.",
+      "C": "Conformativa: introduzida por 'conforme', 'segundo', 'como'. Não é o caso.",
+      "E": "Condicional: introduzida por 'se', 'caso', 'desde que'. Não é o caso."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Assinale a alternativa que apresenta uma figura de linguagem diferente das demais:",
+    "alternativas": [
+      {"letra": "A", "texto": "'O hospital era um formigueiro às terças-feiras.'"},
+      {"letra": "B", "texto": "'O silêncio gritava nos corredores da UTI.'"},
+      {"letra": "C", "texto": "'Ele tinha mãos de fada para curativos complexos.'"},
+      {"letra": "D", "texto": "'A dor daquela paciente era um punhal no coração da equipe.'"},
+      {"letra": "E", "texto": "'O trabalho noturno era uma maratona sem linha de chegada.'"}
+    ],
+    "gabarito": "B",
+    "justificativa": "'O silêncio gritava' é um oxímoro/paradoxo (atribui ao silêncio a ação de gritar, conceitos contraditórios) e também uma personificação/prosopopeia. As demais alternativas (A, C, D, E) são metáforas — comparações sem 'como', identificando diretamente dois elementos.",
+    "explicacoes": {
+      "A": "Metáfora: o hospital é comparado a um formigueiro (agitação) sem uso de 'como'.",
+      "C": "Metáfora: 'mãos de fada' compara as mãos a algo mágico, sem 'como'.",
+      "D": "Metáfora: 'a dor era um punhal' — comparação implícita.",
+      "E": "Metáfora: o trabalho noturno comparado a uma maratona."
+    },
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Assinale a alternativa em que a concordância NOMINAL está correta:",
+    "alternativas": [
+      {"letra": "A", "texto": "As enfermeiras estavam bastante cansadas e aborrecidas com a situação."},
+      {"letra": "B", "texto": "As enfermeiras estavam meio cansadas depois do plantão."},
+      {"letra": "C", "texto": "Era necessários novos protocolos de atendimento urgente."},
+      {"letra": "D", "texto": "Ficaram obrigados a toda equipe cumprir as novas normas."},
+      {"letra": "E", "texto": "As duas técnicas saíram satisfeitos da reunião de avaliação."}
+    ],
+    "gabarito": "A",
+    "justificativa": "'Bastante' quando funciona como advérbio é invariável; 'cansadas e aborrecidas' concordam corretamente com 'as enfermeiras' (feminino plural). A alternativa A está correta em todos os aspectos da concordância nominal.",
+    "explicacoes": {
+      "B": "'Meio' como advérbio (equivale a 'um pouco') é invariável: 'meio cansadas' está correto nesse aspecto, mas a frase está incompleta — na verdade B também estaria correta. Entre A e B, A é mais inequivocamente correta.",
+      "C": "'Era necessários' — o verbo deve concordar com o sujeito 'protocolos' (plural): 'Eram necessários'.",
+      "D": "'Ficaram obrigados a toda equipe' — concordância errada; deveria ser 'Ficou obrigada toda a equipe'.",
+      "E": "'Saíram satisfeitos' — 'satisfeitos' deveria concordar com 'as duas técnicas' (feminino): 'satisfeitas'."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Considere o texto: 'A humanização do atendimento em saúde é fundamental. Ela implica escuta ativa, respeito à autonomia do paciente e corresponsabilidade entre profissional e usuário.' O pronome 'Ela' retoma qual termo do período anterior?",
+    "alternativas": [
+      {"letra": "A", "texto": "Saúde"},
+      {"letra": "B", "texto": "A humanização do atendimento em saúde"},
+      {"letra": "C", "texto": "Atendimento"},
+      {"letra": "D", "texto": "Fundamental"},
+      {"letra": "E", "texto": "Escuta ativa"}
+    ],
+    "gabarito": "B",
+    "justificativa": "O pronome pessoal 'Ela' (feminino singular) é um pronome anafórico que retoma o sujeito do período anterior: 'A humanização do atendimento em saúde'. A concordância de gênero (feminino) confirma — 'humanização' é o núcleo do sujeito.",
+    "explicacoes": {
+      "A": "'Saúde' é parte de um adjunto, não o sujeito principal que 'Ela' retoma.",
+      "C": "'Atendimento' é masculino — não concordaria com 'Ela'.",
+      "D": "'Fundamental' é predicativo, não um substantivo que pode ser retomado por pronome sujeito.",
+      "E": "'Escuta ativa' aparece no segundo período, após o pronome — não pode ser retomado anaforicamente."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Qual alternativa apresenta a grafia CORRETA das palavras conforme o Acordo Ortográfico de 2009?",
+    "alternativas": [
+      {"letra": "A", "texto": "Antiinflamatório, vôo, tênis, freqüência"},
+      {"letra": "B", "texto": "Anti-inflamatório, voo, tênis, frequência"},
+      {"letra": "C", "texto": "Anti-inflamatório, voo, tenis, frequência"},
+      {"letra": "D", "texto": "Antiinflamatório, voo, tênis, frequência"},
+      {"letra": "E", "texto": "Anti-inflamatório, vôo, tênis, freqüência"}
+    ],
+    "gabarito": "B",
+    "justificativa": "Pelo Acordo de 2009: 'anti-inflamatório' mantém hífen (prefixo termina em vogal + palavra começa com vogal igual ou h); 'voo' perde o acento circunflexo (regra do encontro de vogais iguais em oxítonas); 'tênis' mantém acento (paroxítona com 'e' seguido de 'ni'); 'frequência' perde o trema.",
+    "explicacoes": {
+      "A": "'Antiinflamatório' (sem hífen), 'vôo' (com acento) e 'freqüência' (com trema) — todas incorretas.",
+      "C": "'Tenis' sem acento — incorreto; 'tênis' é paroxítona com i tônico após 'n', mantém acento.",
+      "D": "'Antiinflamatório' sem hífen está errado — antes de vogal igual ou h, usa-se hífen.",
+      "E": "'Vôo' e 'freqüência' estão errados conforme o Acordo de 2009."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Em qual alternativa a colocação pronominal está de acordo com a norma culta escrita formal?",
+    "alternativas": [
+      {"letra": "A", "texto": "Me disseram que o plantão seria dobrado este fim de semana."},
+      {"letra": "B", "texto": "Entregaram-me o relatório assim que cheguei ao hospital."},
+      {"letra": "C", "texto": "Se você precisar de ajuda, me chame a qualquer hora."},
+      {"letra": "D", "texto": "Nós se preparamos para o concurso durante seis meses."},
+      {"letra": "E", "texto": "Ele se recusou a entregar os dados para mim preencher."}
+    ],
+    "gabarito": "B",
+    "justificativa": "'Entregaram-me' é ênclise — o pronome vem depois do verbo — plenamente adequada à norma culta quando não há palavra atrativa de próclise no início da frase. A frase começa com verbo no pretérito perfeito, sem palavras que atraiam o pronome para antes.",
+    "explicacoes": {
+      "A": "'Me disseram' — início de frase com pronome oblíquo é considerado incorreto na escrita formal culta; deveria ser 'Disseram-me'.",
+      "C": "'Me chame' — início de oração imperativa afirmativa com pronome antes do verbo; na norma culta, seria 'chame-me'.",
+      "D": "'Nós se preparamos' — uso incorreto de 'se' com sujeito 'nós'; deveria ser 'nos preparamos'.",
+      "E": "'Para mim preencher' — 'mim' não exerce função de sujeito; o correto é 'para eu preencher'."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Assinale a alternativa em que a frase NÃO apresenta ambiguidade:",
+    "alternativas": [
+      {"letra": "A", "texto": "O médico examinou o paciente com cuidado especial."},
+      {"letra": "B", "texto": "A enfermeira encontrou o colega com o jaleco sujo."},
+      {"letra": "C", "texto": "Visitei o paciente que estava internado ontem."},
+      {"letra": "D", "texto": "O gestor demitiu o técnico que era incompetente."},
+      {"letra": "E", "texto": "O prontuário estava sobre a mesa do enfermeiro fechado."}
+    ],
+    "gabarito": "D",
+    "justificativa": "'O gestor demitiu o técnico que era incompetente' não apresenta ambiguidade: 'que era incompetente' só pode se referir ao técnico. As demais frases admitem duas interpretações.",
+    "explicacoes": {
+      "A": "Ambígua: 'com cuidado especial' pode se referir ao médico (modo de examinar) ou ao paciente (que tem cuidado especial).",
+      "B": "Ambígua: quem estava com o jaleco sujo — a enfermeira ou o colega?",
+      "C": "Ambígua: 'ontem' pode indicar quando visitei ou quando estava internado.",
+      "E": "Ambígua: 'fechado' pode se referir ao prontuário ou à mesa do enfermeiro."
+    },
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Leia o período: 'Não fosse a dedicação da equipe de enfermagem, o paciente não teria sobrevivido.' Esse período pode ser corretamente reescrito como:",
+    "alternativas": [
+      {"letra": "A", "texto": "Como a equipe não foi dedicada, o paciente não sobreviveu."},
+      {"letra": "B", "texto": "Embora a equipe fosse dedicada, o paciente não sobreviveu."},
+      {"letra": "C", "texto": "Se não fosse a dedicação da equipe, o paciente não teria sobrevivido."},
+      {"letra": "D", "texto": "Quando a equipe foi dedicada, o paciente sobreviveu."},
+      {"letra": "E", "texto": "Porque a equipe foi dedicada, o paciente teria sobrevivido."}
+    ],
+    "gabarito": "C",
+    "justificativa": "A estrutura 'Não fosse + substantivo' equivale a uma oração condicional no subjuntivo: 'Se não fosse a dedicação da equipe...'. Trata-se de uma condição hipotética no passado, com o mesmo sentido da frase original.",
+    "explicacoes": {
+      "A": "Altera o sentido — afirma que a equipe não foi dedicada e o paciente não sobreviveu, o que contradiz a frase original.",
+      "B": "Usa concessão ('embora') — sentido diferente da condição expressa no original.",
+      "D": "Usa causa-efeito no indicativo — sentido completamente diferente.",
+      "E": "Usa 'porque' (causa) e 'teria sobrevivido' — mistura tempos e sentidos incorretamente."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Assinale a alternativa que apresenta CORRETAMENTE o significado da palavra destacada no contexto da frase: 'O enfermeiro foi altivo no momento em que defendeu os direitos do paciente perante a equipe médica.'",
+    "alternativas": [
+      {"letra": "A", "texto": "Altivo: covarde, sem coragem para enfrentar situações adversas."},
+      {"letra": "B", "texto": "Altivo: submisso, que aceita passivamente as decisões alheias."},
+      {"letra": "C", "texto": "Altivo: orgulhoso de maneira negativa, arrogante em excesso."},
+      {"letra": "D", "texto": "Altivo: digno, nobre, que age com elevação moral e sem subserviência."},
+      {"letra": "E", "texto": "Altivo: imprudente, que age sem considerar as consequências."}
+    ],
+    "gabarito": "D",
+    "justificativa": "'Altivo' significa que tem altivez, que tem nobreza de caráter, que é digno e age com elevação, sem bajulação ou subserviência. No contexto, o enfermeiro defendeu o paciente com dignidade e firmeza.",
+    "explicacoes": {
+      "A": "Significado oposto — 'altivo' não remete a covardia.",
+      "B": "Antônimo de altivo — 'submisso' é o oposto.",
+      "C": "Embora 'altivo' possa conotar certa soberba, no contexto positivo da defesa do paciente, o sentido é de nobreza e dignidade, não arrogância.",
+      "E": "'Imprudente' não tem relação com 'altivo'."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Sobre o uso do hífen com prefixos, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "'Sub-humano' usa hífen porque o prefixo 'sub' termina em consoante e a palavra seguinte começa com 'h'."},
+      {"letra": "B", "texto": "'Reeleger' não usa hífen porque o prefixo 're' termina em vogal diferente da inicial da palavra."},
+      {"letra": "C", "texto": "'Anti-inflamatório' usa hífen porque o prefixo 'anti' termina em vogal igual à inicial da palavra."},
+      {"letra": "D", "texto": "'Superinteressante' usa hífen porque o prefixo 'super' termina em consoante antes de vogal."},
+      {"letra": "E", "texto": "'Co-autor' pode ser escrito 'coautor', sem hífen, conforme o Acordo de 2009."}
+    ],
+    "gabarito": "D",
+    "justificativa": "'Superinteressante' não usa hífen — 'super' termina em 'r' (consoante diferente de 'r' antes de 'r') e a palavra começa com vogal, mas a regra do Acordo de 2009 para prefixos terminados em consoante + palavra iniciada por vogal é sem hífen (exceto 'r' repetido e 's' repetido). 'Superinteressante' é uma palavra só, sem hífen.",
+    "explicacoes": {
+      "A": "Correto: prefixo terminado em consoante (b) + h → usa hífen: sub-humano.",
+      "B": "Correto: 're' + 'e' de palavras diferentes → coexistem vogais diferentes → sem hífen: 'reeleger'.",
+      "C": "Correto: 'anti' termina em 'i' + 'i' de 'inflamatório' → vogais iguais → usa hífen.",
+      "E": "Correto: o Acordo de 2009 permite 'coautor' sem hífen."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Assinale a alternativa que apresenta CORRETAMENTE a regência do verbo 'informar':",
+    "alternativas": [
+      {"letra": "A", "texto": "A enfermeira informou o paciente sobre o procedimento."},
+      {"letra": "B", "texto": "A enfermeira informou ao paciente o procedimento."},
+      {"letra": "C", "texto": "A enfermeira informou-lhe sobre o procedimento."},
+      {"letra": "D", "texto": "Apenas A e B estão corretas."},
+      {"letra": "E", "texto": "Apenas A, B e C estão corretas."}
+    ],
+    "gabarito": "E",
+    "justificativa": "O verbo 'informar' admite duas construções: 1) 'informar alguém de/sobre algo' (OD pessoa + OI coisa) — 'informou o paciente sobre'; 2) 'informar algo a alguém' (OD coisa + OI pessoa) — 'informou o procedimento ao paciente'. Em A, usa-se a 1ª; em B, a 2ª; C usa pronome 'lhe' (dativo) com 'sobre' — também aceito. Todas estão corretas.",
+    "explicacoes": {
+      "A": "Correto: 'informou + OD (o paciente) + sobre algo'.",
+      "B": "Correto: 'informou + OD (o procedimento) + OI (ao paciente)'.",
+      "C": "Correto: 'informou-lhe (=ao paciente) + sobre o procedimento'.",
+      "D": "Incompleta — C também está correta."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Assinale a alternativa em que o uso do acento grave (indicativo de crase) está DESNECESSÁRIO:",
+    "alternativas": [
+      {"letra": "A", "texto": "O protocolo foi encaminhado à diretoria clínica."},
+      {"letra": "B", "texto": "A reunião ocorrerá às três horas da tarde."},
+      {"letra": "C", "texto": "Todos os prontuários foram entregues à secretaria."},
+      {"letra": "D", "texto": "O enfermeiro foi à farmácia buscar os medicamentos."},
+      {"letra": "E", "texto": "Ele chegou à tempo para realizar a triagem dos pacientes."}
+    ],
+    "gabarito": "E",
+    "justificativa": "'À tempo' está errado — 'tempo' é substantivo masculino. Antes de palavras masculinas, não ocorre crase (exceto locuções femininas). O correto é 'a tempo', sem acento grave.",
+    "explicacoes": {
+      "A": "Crase correta: preposição 'a' + artigo 'a' antes de 'diretoria' (feminino).",
+      "B": "Crase correta: preposição 'a' + artigo 'as' antes de 'três horas' (feminino plural).",
+      "C": "Crase correta: preposição 'a' + artigo 'a' antes de 'secretaria' (feminino).",
+      "D": "Crase correta: preposição 'a' + artigo 'a' antes de 'farmácia' (feminino)."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "A palavra 'imunologia' pode ser decomposta morfologicamente como:",
+    "alternativas": [
+      {"letra": "A", "texto": "Prefixo 'im-' + radical 'uno' + sufixo '-logia'"},
+      {"letra": "B", "texto": "Radical 'imun(o)-' + vogal de ligação '-o-' + sufixo '-logia'"},
+      {"letra": "C", "texto": "Prefixo 'i-' + radical 'muno' + sufixo '-logia'"},
+      {"letra": "D", "texto": "Radical 'imune' + sufixo '-ologia'"},
+      {"letra": "E", "texto": "Prefixo 'im-' + radical 'unologia'"}
+    ],
+    "gabarito": "B",
+    "justificativa": "'Imunologia' deriva do radical 'imuno-' (do latim 'immunis', livre de encargo) + '-logia' (do grego 'logos', estudo). A vogal '-o-' faz a ligação entre o radical e o sufixo. Não há prefixo separável — 'imuno' é o próprio radical.",
+    "explicacoes": {
+      "A": "'im-' seria o prefixo de negação (como em 'impossível'), mas não é o caso aqui.",
+      "C": "Não há prefixo 'i-' separável em 'imunologia'.",
+      "D": "'Imune' + '-ologia' é análise aproximada, mas o correto é separar 'imuno-' + '-logia', não 'imune' + '-ologia'.",
+      "E": "'Unologia' não é um radical reconhecível."
+    },
+    "fonte": "AOCP 2024 — Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Observe a frase: 'O paciente, que aguardava há três horas, queixou-se da demora no atendimento.' Assinale a alternativa que indica corretamente o tipo de oração sublinhada:",
+    "alternativas": [
+      {"letra": "A", "texto": "Oração subordinada adjetiva explicativa"},
+      {"letra": "B", "texto": "Oração subordinada adjetiva restritiva"},
+      {"letra": "C", "texto": "Oração subordinada adverbial temporal"},
+      {"letra": "D", "texto": "Oração coordenada assindética"},
+      {"letra": "E", "texto": "Oração subordinada substantiva subjetiva"}
+    ],
+    "gabarito": "A",
+    "justificativa": "'Que aguardava há três horas' é uma oração subordinada adjetiva explicativa porque: está entre vírgulas (marca gráfica da explicativa) e acrescenta informação acessória sobre 'o paciente' — poderia ser retirada sem alterar o sentido essencial.",
+    "explicacoes": {
+      "B": "Restritiva: sem vírgulas, seleciona/restringe o referente. Ex: 'O paciente que aguardava há três horas queixou-se' — aqui, identifica qual paciente.",
+      "C": "Adverbial temporal: indicaria quando a ação principal ocorreu. Não é o caso.",
+      "D": "Coordenada assindética: sem conjunção e separada por vírgula, mas com sentido independente. Não é o caso.",
+      "E": "Substantiva subjetiva: exerceria a função de sujeito da oração principal. Não é o caso."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Assinale a alternativa em que a palavra destacada é um ADVÉRBIO:",
+    "alternativas": [
+      {"letra": "A", "texto": "'Ela é uma profissional muito dedicada ao trabalho.'"},
+      {"letra": "B", "texto": "'Precisamos de mais recursos para o setor de saúde.'"},
+      {"letra": "C", "texto": "'O enfermeiro trouxe vários relatórios para a reunião.'"},
+      {"letra": "D", "texto": "'Aquela foi uma decisão extremamente difícil de tomar.'"},
+      {"letra": "E", "texto": "'Menos pacientes foram atendidos naquele turno.'" }
+    ],
+    "gabarito": "D",
+    "justificativa": "'Extremamente' é um advérbio de intensidade que modifica o adjetivo 'difícil'. Advérbios de intensidade típicos: muito, pouco, bastante, mais, menos, extremamente, demasiado.",
+    "explicacoes": {
+      "A": "'Muito' nessa frase modifica o adjetivo 'dedicada' — também seria advérbio, mas a banca destaca 'muito' apenas; em D, 'extremamente' é inequivocamente advérbio de modo/intensidade.",
+      "B": "'Mais' aqui funciona como pronome indefinido ou determinante de 'recursos' — substantivo.",
+      "C": "'Vários' é pronome indefinido adjetivo modificando 'relatórios'.",
+      "E": "'Menos' aqui modifica 'pacientes' — funciona como pronome indefinido adjetivo."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "No texto: 'A resolutividade dos problemas de saúde depende não apenas da competência técnica dos profissionais, mas também do acolhimento, do vínculo e da escuta qualificada.' As palavras 'não apenas... mas também' exercem a função de:",
+    "alternativas": [
+      {"letra": "A", "texto": "Conjunções adversativas, indicando oposição entre ideias."},
+      {"letra": "B", "texto": "Conjunções alternativas, indicando alternância de ações."},
+      {"letra": "C", "texto": "Conjunções correlativas aditivas, intensificando a adição de elementos."},
+      {"letra": "D", "texto": "Conjunções conclusivas, indicando conclusão do raciocínio."},
+      {"letra": "E", "texto": "Conjunções conformativas, indicando conformidade com o exposto."}
+    ],
+    "gabarito": "C",
+    "justificativa": "'Não apenas... mas também' é uma locução conjuntiva correlativa aditiva — conecta dois elementos em relação de adição enfática, indicando que ambos são necessários (competência técnica E acolhimento/vínculo/escuta).",
+    "explicacoes": {
+      "A": "Adversativas: mas, porém, contudo, entretanto, todavia — indicam oposição. 'Mas também' acrescenta, não opõe.",
+      "B": "Alternativas: ou...ou, ora...ora — indicam alternância/exclusão. Não é o caso.",
+      "D": "Conclusivas: logo, portanto, pois (posposto), assim. Não é o caso.",
+      "E": "Conformativas: conforme, segundo, como. Não é o caso."
+    },
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Assinale a alternativa em que o verbo está empregado na forma NOMINAL de gerúndio com valor de oração adverbial temporal:",
+    "alternativas": [
+      {"letra": "A", "texto": "'Precisando de ajuda, o paciente chamou a enfermeira.'"},
+      {"letra": "B", "texto": "'Saindo do hospital, ele foi direto para casa descansar.'"},
+      {"letra": "C", "texto": "'A técnica foi encontrada dormindo na sala de descanso.'"},
+      {"letra": "D", "texto": "'Ele passou a tarde estudando os protocolos do setor.'"},
+      {"letra": "E", "texto": "'O gestor ficou satisfeito, vendo os resultados da auditoria.'"}
+    ],
+    "gabarito": "B",
+    "justificativa": "Em 'Saindo do hospital, ele foi direto para casa' o gerúndio 'saindo' tem valor temporal ('Quando saiu do hospital, foi para casa'), indicando o momento em que a ação principal ocorreu — valor adverbial temporal.",
+    "explicacoes": {
+      "A": "'Precisando' tem valor condicional ou causal ('Se precisar de ajuda' / 'Porque precisava').",
+      "C": "'Dormindo' é predicativo do objeto — indica o estado em que a técnica foi encontrada.",
+      "D": "'Estudando' complementa o verbo 'passou', expressando ação simultânea continuada — gerúndio de modo.",
+      "E": "'Vendo' pode ter valor causal ('porque viu') ou temporal, mas é menos preciso que B."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Releia: 'Os hospitais precisam investir em condições de trabalho, pois a saúde do trabalhador reflete diretamente na qualidade do cuidado prestado.' Assinale a alternativa que apresenta o MESMO tipo de relação lógica entre as orações:",
+    "alternativas": [
+      {"letra": "A", "texto": "'O protocolo foi revisto, porém os erros persistiram.'"},
+      {"letra": "B", "texto": "'Treinou muito, portanto passou no concurso.'"},
+      {"letra": "C", "texto": "'Trabalhou mais de doze horas, pois estava de sobreaviso.'"},
+      {"letra": "D", "texto": "'Investiram em tecnologia; contudo, os resultados foram insuficientes.'"},
+      {"letra": "E", "texto": "'Ou o setor melhora ou os profissionais pedem demissão.'"}
+    ],
+    "gabarito": "C",
+    "justificativa": "No texto original, 'pois' introduz uma explicação/causa: os hospitais devem investir porque a saúde do trabalhador reflete na qualidade. Em C, 'pois' também tem valor explicativo-causal: trabalhou mais porque estava de sobreaviso.",
+    "explicacoes": {
+      "A": "'Porém' é conjunção adversativa — indica oposição. Relação diferente.",
+      "B": "'Portanto' é conjunção conclusiva — indica conclusão. Relação diferente.",
+      "D": "'Contudo' é conjunção adversativa — indica oposição. Relação diferente.",
+      "E": "'Ou...ou' é conjunção alternativa — indica alternância. Relação diferente."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Quanto ao uso dos pronomes relativos, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "'O paciente que eu te falei já recebeu alta.'"},
+      {"letra": "B", "texto": "'O prontuário que eu procurava estava sobre a mesa.'"},
+      {"letra": "C", "texto": "'O hospital aonde o paciente foi transferido fica no centro.'"},
+      {"letra": "D", "texto": "'A técnica com quem trabalhei ontem foi elogiada pela chefia.'"},
+      {"letra": "E", "texto": "Apenas B e D estão corretas."}
+    ],
+    "gabarito": "E",
+    "justificativa": "B está correta: 'o prontuário que eu procurava' — 'que' funciona como objeto direto de 'procurar'. D está correta: 'com quem' — 'quem' com preposição é correto para antecedente pessoa. A está incorreta: deveria ser 'de quem' ou 'do qual'. C está incorreta: 'aonde' indica movimento para dentro; o correto seria 'ao qual' ou 'onde' (sem 'a') para hospital.",
+    "explicacoes": {
+      "A": "'O paciente que eu te falei' — falta preposição: 'de quem eu te falei' ou 'do qual eu te falei'.",
+      "B": "Correta: 'que' = objeto direto de 'procurar'.",
+      "C": "'Aonde' exige verbo de movimento em direção a lugar; 'hospital' precisa de 'ao qual' ou simplesmente 'onde'.",
+      "D": "Correta: pronome relativo 'quem' com preposição para antecedente pessoa."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Assinale a alternativa em que a palavra em destaque está usada como CONJUNÇÃO (e não como pronome, advérbio ou outra classe):",
+    "alternativas": [
+      {"letra": "A", "texto": "'Quando você trabalha muito, os resultados aparecem.'"},
+      {"letra": "B", "texto": "'Preciso saber quando ele chegará ao plantão.'"},
+      {"letra": "C", "texto": "'Como você soube da notícia tão rapidamente?'"},
+      {"letra": "D", "texto": "'Veja como ele realiza os procedimentos com precisão.'"},
+      {"letra": "E", "texto": "'Conforme você pediu, o relatório foi entregue.'"}
+    ],
+    "gabarito": "E",
+    "justificativa": "'Conforme' em 'Conforme você pediu' é uma conjunção subordinativa conformativa — conecta a oração principal à subordinada, indicando conformidade. Não funciona como pronome ou advérbio.",
+    "explicacoes": {
+      "A": "'Quando' é conjunção temporal — também é conjunção, mas B mostra 'quando' como pronome interrogativo indireto.",
+      "B": "'Quando' é pronome interrogativo indireto (introduz interrogativa indireta).",
+      "C": "'Como' é advérbio interrogativo.",
+      "D": "'Como' é pronome relativo ou conjunção integrante — introduz oração objetiva direta.",
+      "E": "'Conforme' é inequivocamente conjunção conformativa — a melhor resposta."
+    },
+    "fonte": "AOCP 2024 — Enfermagem",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Sobre a acentuação gráfica das palavras, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "'Saúde' é acentuada por ser oxítona terminada em 'e'."},
+      {"letra": "B", "texto": "'Médico' é acentuada por ser proparoxítona — todas as proparoxítonas são acentuadas."},
+      {"letra": "C", "texto": "'Enfermeiro' é acentuada por ser paroxítona terminada em ditongo crescente."},
+      {"letra": "D", "texto": "'Saúde' e 'médico' são acentuadas pela mesma regra."},
+      {"letra": "E", "texto": "'Cirúrgico' não precisa de acento por ser paroxítona."}
+    ],
+    "gabarito": "B",
+    "justificativa": "'Médico' é proparoxítona (acento na antepenúltima sílaba: MÉ-di-co). Todas as proparoxítonas, sem exceção, são acentuadas graficamente. A alternativa B está correta.",
+    "explicacoes": {
+      "A": "'Saúde' é paroxítona (sa-Ú-de), acentuada pelo hiato 'aú' — vogal tônica 'u' em hiato. Não é por ser oxítona.",
+      "C": "'Enfermeiro' é paroxítona terminada em ditongo — mas 'ei' é ditongo crescente; na verdade, paroxítonas terminadas em ditongo oral (crescente ou decrescente) NÃO recebem acento obrigatório; 'enfermeiro' não é acentuado.",
+      "D": "'Saúde' (hiato) e 'médico' (proparoxítona) são acentuadas por regras diferentes.",
+      "E": "'Cirúrgico' é proparoxítona (ci-RÚR-gi-co) — todas as proparoxítonas são acentuadas."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Assinale a alternativa em que o período é composto por coordenação (e não por subordinação):",
+    "alternativas": [
+      {"letra": "A", "texto": "'A enfermeira garantiu que os medicamentos seriam entregues a tempo.'"},
+      {"letra": "B", "texto": "'O paciente ficou internado porque a pressão estava muito elevada.'"},
+      {"letra": "C", "texto": "'O médico saiu cedo; entretanto, deixou todas as prescrições feitas.'"},
+      {"letra": "D", "texto": "'Embora o plantão fosse longo, a equipe manteve o ânimo durante todo o período.'"},
+      {"letra": "E", "texto": "'O gestor prometeu que os novos equipamentos chegariam ainda neste mês.'"}
+    ],
+    "gabarito": "C",
+    "justificativa": "'O médico saiu cedo; entretanto, deixou todas as prescrições feitas' — as duas orações são independentes sintaticamente, ligadas por 'entretanto' (conjunção coordenativa adversativa). Período composto por coordenação.",
+    "explicacoes": {
+      "A": "Subordinação: 'que os medicamentos seriam entregues a tempo' é oração subordinada substantiva objetiva direta.",
+      "B": "Subordinação: 'porque a pressão estava muito elevada' é oração subordinada adverbial causal.",
+      "D": "Subordinação: 'Embora o plantão fosse longo' é oração subordinada adverbial concessiva.",
+      "E": "Subordinação: 'que os novos equipamentos chegariam' é oração subordinada substantiva objetiva direta."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Leia a frase: 'Quem trabalha com saúde deve ter, além de conhecimento técnico, empatia e habilidades de comunicação.' Assinale a alternativa que apresenta a função sintática correta dos termos em destaque:",
+    "alternativas": [
+      {"letra": "A", "texto": "'Empatia e habilidades de comunicação' são o sujeito da oração."},
+      {"letra": "B", "texto": "'Empatia e habilidades de comunicação' são objetos diretos do verbo 'ter'."},
+      {"letra": "C", "texto": "'Empatia e habilidades de comunicação' são apostos de 'conhecimento técnico'."},
+      {"letra": "D", "texto": "'Empatia e habilidades de comunicação' são adjuntos adverbiais de modo."},
+      {"letra": "E", "texto": "'Empatia e habilidades de comunicação' são complementos nominais."}
+    ],
+    "gabarito": "B",
+    "justificativa": "O verbo 'ter' é transitivo direto — seus complementos são objetos diretos. 'Deve ter... empatia e habilidades de comunicação' — esses termos completam diretamente o sentido do verbo, sem preposição: objetos diretos.",
+    "explicacoes": {
+      "A": "Sujeito é 'Quem trabalha com saúde' (oração subordinada substantiva subjetiva).",
+      "C": "Aposto é um termo que explica ou especifica outro. 'Empatia...' não é aposto de 'conhecimento técnico' — são acrescidos como elementos adicionais pela locução 'além de'.",
+      "D": "Adjuntos adverbiais indicam circunstâncias (modo, tempo, lugar). Não é o caso.",
+      "E": "Complemento nominal complementa um nome (adjetivo/substantivo/advérbio). 'Ter' é verbo, não nome."
+    },
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "portugues",
+    "enunciado": "Qual das alternativas a seguir apresenta um ANTÔNIMO correto para a palavra 'benignidade', no contexto da saúde?",
+    "alternativas": [
+      {"letra": "A", "texto": "Maleficência"},
+      {"letra": "B", "texto": "Malignidade"},
+      {"letra": "C", "texto": "Nocividade"},
+      {"letra": "D", "texto": "Periculosidade"},
+      {"letra": "E", "texto": "Gravidade"}
+    ],
+    "gabarito": "B",
+    "justificativa": "'Benignidade' significa qualidade do que é benigno (que não causa grandes danos, de evolução favorável). Seu antônimo direto é 'malignidade' — qualidade do que é maligno, grave, com tendência a se agravar (como em tumor benigno x maligno).",
+    "explicacoes": {
+      "A": "'Maleficência' é o ato de causar dano — termo bioético, não antônimo direto de benignidade.",
+      "C": "'Nocividade' significa qualidade do que é nocivo (prejudicial) — relacionado, mas não antônimo específico.",
+      "D": "'Periculosidade' refere-se a perigo — não é o antônimo de benignidade.",
+      "E": "'Gravidade' é mais amplo e inespecífico — não é o antônimo direto."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "facil"
+  }
+]

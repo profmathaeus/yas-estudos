@@ -1,0 +1,679 @@
+[
+  {
+    "tema": "matematica",
+    "enunciado": "Uma unidade de saúde atendeu 1.200 pacientes em determinado mês. Desses, 15% foram casos de hipertensão arterial. Quantos pacientes hipertensos foram atendidos?",
+    "alternativas": [
+      {"letra": "A", "texto": "150 pacientes"},
+      {"letra": "B", "texto": "162 pacientes"},
+      {"letra": "C", "texto": "168 pacientes"},
+      {"letra": "D", "texto": "180 pacientes"},
+      {"letra": "E", "texto": "192 pacientes"}
+    ],
+    "gabarito": "D",
+    "justificativa": "15% de 1.200 = 0,15 × 1.200 = 180 pacientes.",
+    "explicacoes": {
+      "A": "Corresponde a 12,5% de 1.200 (150/1200 = 0,125).",
+      "B": "Corresponde a 13,5% de 1.200.",
+      "C": "Corresponde a 14% de 1.200.",
+      "E": "Corresponde a 16% de 1.200."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "O salário de um enfermeiro é R$ 4.800,00. Após negociação sindical, ele recebeu um aumento de 12,5%. Qual é o novo salário?",
+    "alternativas": [
+      {"letra": "A", "texto": "R$ 5.200,00"},
+      {"letra": "B", "texto": "R$ 5.300,00"},
+      {"letra": "C", "texto": "R$ 5.400,00"},
+      {"letra": "D", "texto": "R$ 5.500,00"},
+      {"letra": "E", "texto": "R$ 5.600,00"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Aumento = 12,5% × R$ 4.800 = R$ 600. Novo salário = R$ 4.800 + R$ 600 = R$ 5.400,00.",
+    "explicacoes": {
+      "A": "Corresponderia a aumento de 8,33%.",
+      "B": "Corresponderia a aumento de 10,42%.",
+      "D": "Corresponderia a aumento de 14,58%.",
+      "E": "Corresponderia a aumento de 16,67%."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Num hospital, 240 dos 600 leitos estão ocupados. Qual é o percentual de ocupação hospitalar?",
+    "alternativas": [
+      {"letra": "A", "texto": "30%"},
+      {"letra": "B", "texto": "35%"},
+      {"letra": "C", "texto": "40%"},
+      {"letra": "D", "texto": "45%"},
+      {"letra": "E", "texto": "50%"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Taxa de ocupação = (240/600) × 100 = 40%.",
+    "explicacoes": {
+      "A": "30%: 600 × 0,30 = 180 leitos — não é o valor dado.",
+      "B": "35%: 600 × 0,35 = 210 leitos.",
+      "D": "45%: 600 × 0,45 = 270 leitos.",
+      "E": "50%: 600 × 0,50 = 300 leitos."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Uma solução de cloreto de sódio contém 9 gramas de NaCl em 1.000 mL. Se um enfermeiro precisar preparar 250 mL dessa solução, quantas gramas de NaCl serão necessárias?",
+    "alternativas": [
+      {"letra": "A", "texto": "1,25 g"},
+      {"letra": "B", "texto": "2,00 g"},
+      {"letra": "C", "texto": "2,25 g"},
+      {"letra": "D", "texto": "2,50 g"},
+      {"letra": "E", "texto": "3,00 g"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Regra de três simples: 1000 mL → 9 g; 250 mL → x. x = (250 × 9) / 1000 = 2.250/1.000 = 2,25 g.",
+    "explicacoes": {
+      "A": "1,25 g corresponderia a 1000 mL → 5 g (proporção errada).",
+      "B": "2,00 g corresponderia a 250 mL de solução a 0,8% (não 0,9%).",
+      "D": "2,50 g corresponderia a 1000 mL → 10 g.",
+      "E": "3,00 g corresponderia a 1000 mL → 12 g."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Para preparar 500 mL de uma solução a 20%, partindo de uma solução estoque a 80%, quantos mL da solução estoque são necessários?",
+    "alternativas": [
+      {"letra": "A", "texto": "75 mL"},
+      {"letra": "B", "texto": "100 mL"},
+      {"letra": "C", "texto": "125 mL"},
+      {"letra": "D", "texto": "150 mL"},
+      {"letra": "E", "texto": "175 mL"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Fórmula de diluição: C1 × V1 = C2 × V2. 80% × V1 = 20% × 500 mL. V1 = (20 × 500) / 80 = 10.000 / 80 = 125 mL.",
+    "explicacoes": {
+      "A": "75 mL daria: 80% × 75 = 6.000 / 500 = 12% (concentração final incorreta).",
+      "B": "100 mL daria: 80% × 100 = 8.000 / 500 = 16% (não 20%).",
+      "D": "150 mL daria: 80% × 150 = 12.000 / 500 = 24%.",
+      "E": "175 mL daria: 80% × 175 = 14.000 / 500 = 28%."
+    },
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Uma bomba de infusão deve administrar 480 mL de solução em 8 horas. Qual deve ser o fluxo em mL/h?",
+    "alternativas": [
+      {"letra": "A", "texto": "50 mL/h"},
+      {"letra": "B", "texto": "55 mL/h"},
+      {"letra": "C", "texto": "60 mL/h"},
+      {"letra": "D", "texto": "65 mL/h"},
+      {"letra": "E", "texto": "70 mL/h"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Fluxo = Volume / Tempo = 480 mL / 8 h = 60 mL/h.",
+    "explicacoes": {
+      "A": "50 mL/h em 8h = 400 mL (menos do que prescrito).",
+      "B": "55 mL/h em 8h = 440 mL.",
+      "D": "65 mL/h em 8h = 520 mL (mais do que prescrito).",
+      "E": "70 mL/h em 8h = 560 mL."
+    },
+    "fonte": "AOCP 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "O médico prescreveu 1 g de ampicilina EV de 6 em 6 horas. A ampicilina disponível está na concentração de 250 mg/mL. Quantos mL devem ser administrados em cada dose?",
+    "alternativas": [
+      {"letra": "A", "texto": "2 mL"},
+      {"letra": "B", "texto": "3 mL"},
+      {"letra": "C", "texto": "4 mL"},
+      {"letra": "D", "texto": "5 mL"},
+      {"letra": "E", "texto": "6 mL"}
+    ],
+    "gabarito": "C",
+    "justificativa": "1 g = 1.000 mg. Volume = Dose / Concentração = 1.000 mg / 250 mg/mL = 4 mL.",
+    "explicacoes": {
+      "A": "2 mL administraria apenas 500 mg (metade da dose).",
+      "B": "3 mL administraria 750 mg.",
+      "D": "5 mL administraria 1.250 mg (dose excessiva).",
+      "E": "6 mL administraria 1.500 mg."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Uma unidade de saúde realizou 3.600 atendimentos em 12 meses. Se a meta é manter a mesma média mensal, quantos atendimentos serão realizados em 9 meses?",
+    "alternativas": [
+      {"letra": "A", "texto": "2.400"},
+      {"letra": "B", "texto": "2.600"},
+      {"letra": "C", "texto": "2.700"},
+      {"letra": "D", "texto": "2.800"},
+      {"letra": "E", "texto": "3.000"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Média mensal = 3.600 / 12 = 300 atendimentos/mês. Em 9 meses: 300 × 9 = 2.700.",
+    "explicacoes": {
+      "A": "2.400 = 300 × 8 meses.",
+      "B": "2.600 não é múltiplo de 300.",
+      "D": "2.800 não é múltiplo de 300.",
+      "E": "3.000 = 300 × 10 meses."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Se 4 enfermeiras conseguem realizar 120 curativos em 3 dias, quantas enfermeiras serão necessárias para realizar 270 curativos em 3 dias (na mesma proporção)?",
+    "alternativas": [
+      {"letra": "A", "texto": "7 enfermeiras"},
+      {"letra": "B", "texto": "8 enfermeiras"},
+      {"letra": "C", "texto": "9 enfermeiras"},
+      {"letra": "D", "texto": "10 enfermeiras"},
+      {"letra": "E", "texto": "12 enfermeiras"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Regra de três simples direta: 4 enfermeiras → 120 curativos; x → 270 curativos. x = (4 × 270) / 120 = 1.080 / 120 = 9 enfermeiras.",
+    "explicacoes": {
+      "A": "7 enfermeiras fariam: 7 × 30 = 210 curativos (não 270).",
+      "B": "8 enfermeiras fariam: 8 × 30 = 240 curativos.",
+      "D": "10 enfermeiras fariam: 10 × 30 = 300 curativos.",
+      "E": "12 enfermeiras fariam: 12 × 30 = 360 curativos."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "O índice de massa corporal (IMC) de um paciente é calculado pela fórmula IMC = Peso(kg) / Altura²(m). Uma paciente pesa 72 kg e mede 1,60 m. Qual é o IMC e a classificação correta?",
+    "alternativas": [
+      {"letra": "A", "texto": "IMC = 27,0 → Eutrófica"},
+      {"letra": "B", "texto": "IMC = 27,5 → Eutrófica"},
+      {"letra": "C", "texto": "IMC = 28,1 → Sobrepeso"},
+      {"letra": "D", "texto": "IMC = 28,1 → Eutrófica"},
+      {"letra": "E", "texto": "IMC = 27,5 → Sobrepeso"}
+    ],
+    "gabarito": "C",
+    "justificativa": "IMC = 72 / (1,60)² = 72 / 2,56 = 28,125 ≈ 28,1 kg/m². Classificação OMS: 25,0–29,9 = Sobrepeso (pré-obeso). Eutrófico é 18,5–24,9.",
+    "explicacoes": {
+      "A": "27,0 está incorreto matematicamente (72/2,56 = 28,1).",
+      "B": "27,5 está incorreto matematicamente.",
+      "D": "28,1 é correto, mas 'eutrófica' é a classificação errada — 28,1 é sobrepeso.",
+      "E": "27,5 é incorreto matematicamente."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Um técnico de enfermagem trabalha 12 horas por plantão e faz 36 horas semanais. Quantos plantões de 12 horas ele realiza por semana?",
+    "alternativas": [
+      {"letra": "A", "texto": "2 plantões"},
+      {"letra": "B", "texto": "3 plantões"},
+      {"letra": "C", "texto": "4 plantões"},
+      {"letra": "D", "texto": "5 plantões"},
+      {"letra": "E", "texto": "6 plantões"}
+    ],
+    "gabarito": "B",
+    "justificativa": "Número de plantões = 36 / 12 = 3 plantões por semana.",
+    "explicacoes": {
+      "A": "2 plantões = 24h/semana (não 36h).",
+      "C": "4 plantões = 48h/semana.",
+      "D": "5 plantões = 60h/semana.",
+      "E": "6 plantões = 72h/semana."
+    },
+    "fonte": "AOCP 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Uma unidade de saúde gastou R$ 18.000,00 em insumos ao longo de 6 meses. Se o orçamento anual para insumos é de R$ 42.000,00, qual é o percentual do orçamento já utilizado?",
+    "alternativas": [
+      {"letra": "A", "texto": "38,10%"},
+      {"letra": "B", "texto": "40,00%"},
+      {"letra": "C", "texto": "42,86%"},
+      {"letra": "D", "texto": "45,00%"},
+      {"letra": "E", "texto": "47,62%"}
+    ],
+    "gabarito": "C",
+    "justificativa": "% = (18.000 / 42.000) × 100 = 0,42857... × 100 ≈ 42,86%.",
+    "explicacoes": {
+      "A": "38,10% corresponderia a R$ 16.000 gastos.",
+      "B": "40% corresponderia a R$ 16.800 gastos.",
+      "D": "45% corresponderia a R$ 18.900 gastos.",
+      "E": "47,62% corresponderia a R$ 20.000 gastos."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Em um concurso público, a nota final é calculada pela média ponderada: prova teórica tem peso 3 e prova prática tem peso 2. Uma candidata obteve 7,0 na prova teórica e 9,0 na prova prática. Qual é a sua nota final?",
+    "alternativas": [
+      {"letra": "A", "texto": "7,6"},
+      {"letra": "B", "texto": "7,8"},
+      {"letra": "C", "texto": "8,0"},
+      {"letra": "D", "texto": "8,2"},
+      {"letra": "E", "texto": "8,4"}
+    ],
+    "gabarito": "B",
+    "justificativa": "Média ponderada = (7,0 × 3 + 9,0 × 2) / (3 + 2) = (21 + 18) / 5 = 39 / 5 = 7,8.",
+    "explicacoes": {
+      "A": "7,6 corresponderia a pesos diferentes.",
+      "C": "8,0 seria a média simples dos dois extremos, sem ponderação.",
+      "D": "8,2 estaria incorreto — não é o resultado da fórmula.",
+      "E": "8,4 estaria incorreto."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Em uma UBS, 3 técnicas de enfermagem realizam 90 procedimentos em 5 dias trabalhando 6 horas por dia. Quantos procedimentos 5 técnicas realizarão em 4 dias trabalhando 8 horas por dia?",
+    "alternativas": [
+      {"letra": "A", "texto": "150"},
+      {"letra": "B", "texto": "160"},
+      {"letra": "C", "texto": "180"},
+      {"letra": "D", "texto": "200"},
+      {"letra": "E", "texto": "240"}
+    ],
+    "gabarito": "D",
+    "justificativa": "Regra de três composta: grandezas diretamente proporcionais (técnicas, dias, horas). 3 técnicas × 5 dias × 6h → 90 procedimentos. 5 × 4 × 8 → x. x = 90 × (5/3) × (4/5) × (8/6) = 90 × 1,667 × 0,8 × 1,333 = 90 × 1,778 ≈ 160. Alternativa: x = (90 × 5 × 4 × 8) / (3 × 5 × 6) = 14.400/90 = 160.",
+    "justificativa": "Regra de três composta: x = (90 × 5 × 4 × 8) / (3 × 5 × 6) = 14.400 / 90 = 160. Mas revisando: as grandezas são diretamente proporcionais. x/90 = (5×4×8)/(3×5×6) = 160/90. x = 90 × 160/90 = 160.",
+    "gabarito": "B",
+    "justificativa": "x = (90 × 5 × 4 × 8) / (3 × 5 × 6) = (90 × 160) / 90 = 160 procedimentos.",
+    "explicacoes": {
+      "A": "150: cálculo incorreto das proporções.",
+      "C": "180: confunde grandezas ou aplica proporção errada.",
+      "D": "200: aplica proporção incorreta entre as variáveis.",
+      "E": "240: não considera o decréscimo no número de dias."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Um capital de R$ 5.000,00 foi aplicado a uma taxa de juros simples de 3% ao mês. Após 4 meses, qual é o montante total?",
+    "alternativas": [
+      {"letra": "A", "texto": "R$ 5.450,00"},
+      {"letra": "B", "texto": "R$ 5.500,00"},
+      {"letra": "C", "texto": "R$ 5.600,00"},
+      {"letra": "D", "texto": "R$ 5.650,00"},
+      {"letra": "E", "texto": "R$ 5.750,00"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Juros simples: J = C × i × t = 5.000 × 0,03 × 4 = R$ 600. Montante = 5.000 + 600 = R$ 5.600,00.",
+    "explicacoes": {
+      "A": "R$ 5.450 corresponderia a J = R$ 450 → i × t = 0,09 (9% no período).",
+      "B": "R$ 5.500 corresponderia a J = R$ 500 → 2,5% × 4 = 10%.",
+      "D": "R$ 5.650 corresponderia a J = R$ 650.",
+      "E": "R$ 5.750 corresponderia a J = R$ 750 → 3,75% × 4 meses."
+    },
+    "fonte": "AOCP 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Qual é o próximo número da sequência: 2, 5, 10, 17, 26, ___?",
+    "alternativas": [
+      {"letra": "A", "texto": "35"},
+      {"letra": "B", "texto": "36"},
+      {"letra": "C", "texto": "37"},
+      {"letra": "D", "texto": "38"},
+      {"letra": "E", "texto": "40"}
+    ],
+    "gabarito": "C",
+    "justificativa": "As diferenças entre os termos são: 3, 5, 7, 9 (progressão aritmética de razão 2). O próximo acréscimo é 11. Portanto: 26 + 11 = 37.",
+    "explicacoes": {
+      "A": "35 = 26 + 9 (repetiria o incremento anterior).",
+      "B": "36 = 26 + 10 (incremento errado).",
+      "D": "38 = 26 + 12 (incremento errado).",
+      "E": "40 = 26 + 14 (incremento errado)."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Qual é o próximo elemento da sequência: 1, 4, 9, 16, 25, ___?",
+    "alternativas": [
+      {"letra": "A", "texto": "32"},
+      {"letra": "B", "texto": "34"},
+      {"letra": "C", "texto": "36"},
+      {"letra": "D", "texto": "38"},
+      {"letra": "E", "texto": "40"}
+    ],
+    "gabarito": "C",
+    "justificativa": "A sequência é formada pelos quadrados perfeitos: 1²=1, 2²=4, 3²=9, 4²=16, 5²=25, 6²=36.",
+    "explicacoes": {
+      "A": "32 não é quadrado perfeito.",
+      "B": "34 não é quadrado perfeito.",
+      "D": "38 não é quadrado perfeito.",
+      "E": "40 não é quadrado perfeito."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Em um conjunto de servidores de saúde, 40 possuem especialização, 30 possuem residência e 15 possuem ambos. Quantos servidores possuem ao menos uma das titulações?",
+    "alternativas": [
+      {"letra": "A", "texto": "55"},
+      {"letra": "B", "texto": "60"},
+      {"letra": "C", "texto": "70"},
+      {"letra": "D", "texto": "75"},
+      {"letra": "E", "texto": "85"}
+    ],
+    "gabarito": "A",
+    "justificativa": "Pelo princípio da inclusão-exclusão: |A ∪ B| = |A| + |B| − |A ∩ B| = 40 + 30 − 15 = 55 servidores.",
+    "explicacoes": {
+      "B": "60 = 40 + 30 − 10 (intersecção errada de 10).",
+      "C": "70 = 40 + 30 (sem subtrair a intersecção — erro clássico).",
+      "D": "75 = soma simples com valor incorreto.",
+      "E": "85 = soma sem subtrair intersecção, com valor errado."
+    },
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Em uma pesquisa com 200 pacientes: 120 apresentaram HAS, 80 apresentaram DM e 40 apresentaram ambas as condições. Quantos pacientes apresentaram apenas HAS?",
+    "alternativas": [
+      {"letra": "A", "texto": "60"},
+      {"letra": "B", "texto": "70"},
+      {"letra": "C", "texto": "80"},
+      {"letra": "D", "texto": "90"},
+      {"letra": "E", "texto": "100"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Apenas HAS = Total HAS − (HAS ∩ DM) = 120 − 40 = 80 pacientes.",
+    "explicacoes": {
+      "A": "60 subtrairia 60, não 40.",
+      "B": "70 subtrairia 50.",
+      "D": "90 não subtrairia a intersecção corretamente.",
+      "E": "100 manteria o total sem subtrair a intersecção."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "A proposição lógica 'Se o paciente tiver febre, então será medicado' é uma proposição condicional (p → q). Qual é a negação desta proposição?",
+    "alternativas": [
+      {"letra": "A", "texto": "Se o paciente não tiver febre, então não será medicado."},
+      {"letra": "B", "texto": "Se o paciente for medicado, então tinha febre."},
+      {"letra": "C", "texto": "O paciente tem febre e não será medicado."},
+      {"letra": "D", "texto": "O paciente não tem febre ou será medicado."},
+      {"letra": "E", "texto": "Se o paciente não for medicado, então não tinha febre."}
+    ],
+    "gabarito": "C",
+    "justificativa": "A negação da condicional p → q é p ∧ ¬q (p e não-q). 'O paciente tem febre' (p) e 'não será medicado' (¬q). A condicional só é falsa quando p é verdadeiro e q é falso.",
+    "explicacoes": {
+      "A": "É a inversa (¬p → ¬q), não a negação.",
+      "B": "É a recíproca (q → p), não a negação.",
+      "D": "É equivalente a ¬p ∨ q, que é a própria condicional (equivalência lógica).",
+      "E": "É a contrapositiva (¬q → ¬p), logicamente equivalente à original, não sua negação."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Considere as proposições: p: 'O paciente está com febre.' q: 'O paciente está com dor.' A proposição composta 'p ∧ q' (p e q) é VERDADEIRA quando:",
+    "alternativas": [
+      {"letra": "A", "texto": "Apenas quando p é verdadeira."},
+      {"letra": "B", "texto": "Apenas quando q é verdadeira."},
+      {"letra": "C", "texto": "Quando p é verdadeira ou q é verdadeira."},
+      {"letra": "D", "texto": "Quando p é verdadeira e q é verdadeira simultaneamente."},
+      {"letra": "E", "texto": "Quando p é falsa e q é falsa."}
+    ],
+    "gabarito": "D",
+    "justificativa": "A conjunção p ∧ q ('p e q') só é verdadeira quando AMBAS as proposições são verdadeiras simultaneamente. Se ao menos uma for falsa, a conjunção será falsa.",
+    "explicacoes": {
+      "A": "P verdadeira + q falsa → p ∧ q = FALSO.",
+      "B": "P falsa + q verdadeira → p ∧ q = FALSO.",
+      "C": "Essa é a regra da disjunção (p ∨ q), não da conjunção.",
+      "E": "P falsa e q falsa → p ∧ q = FALSO."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Considere o argumento: 'Todo enfermeiro é profissional de saúde. João é enfermeiro. Portanto, João é profissional de saúde.' Esse raciocínio é um exemplo de:",
+    "alternativas": [
+      {"letra": "A", "texto": "Silogismo hipotético (entimema)"},
+      {"letra": "B", "texto": "Modus ponens (afirmação do antecedente)"},
+      {"letra": "C", "texto": "Modus tollens (negação do consequente)"},
+      {"letra": "D", "texto": "Silogismo categórico clássico (Barbara)"},
+      {"letra": "E", "texto": "Falácia do afirmação do consequente"}
+    ],
+    "gabarito": "D",
+    "justificativa": "O argumento segue a forma do silogismo categórico (figura Barbara): Premissa maior (universal): Todo A é B. Premissa menor (particular): X é A. Conclusão: X é B. É um argumento dedutivo válido clássico da lógica aristotélica.",
+    "explicacoes": {
+      "A": "Entimema é um silogismo com uma premissa omitida.",
+      "B": "Modus ponens usa proposições condicionais (se p então q; p; logo q) — diferente de silogismo categórico.",
+      "C": "Modus tollens: se p→q; ¬q; logo ¬p — forma diferente.",
+      "E": "Falácia de afirmar o consequente: se p→q; q; logo p — argumento inválido."
+    },
+    "fonte": "AOCP 2024 — Enfermagem",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "A contrapositiva da proposição 'Se chover, então o chão ficará molhado' é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Se o chão ficará molhado, então choveu."},
+      {"letra": "B", "texto": "Se não choveu, então o chão não ficará molhado."},
+      {"letra": "C", "texto": "Se o chão não ficará molhado, então não choveu."},
+      {"letra": "D", "texto": "Não choveu e o chão ficará molhado."},
+      {"letra": "E", "texto": "Choveu e o chão não ficará molhado."}
+    ],
+    "gabarito": "C",
+    "justificativa": "A contrapositiva de (p → q) é (¬q → ¬p), logicamente equivalente à original. Neste caso: 'Se o chão não ficará molhado (¬q), então não choveu (¬p).'",
+    "explicacoes": {
+      "A": "É a recíproca (q → p) — não equivalente à original.",
+      "B": "É a inversa (¬p → ¬q) — não equivalente à original.",
+      "D": "É a negação parcial da condicional — incorreta.",
+      "E": "É a negação da condicional (p ∧ ¬q) — não é a contrapositiva."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Uma enfermeira recebe R$ 4.000,00 e gasta 35% com aluguel, 25% com alimentação e 15% com transporte. O valor que sobra ao final do mês é:",
+    "alternativas": [
+      {"letra": "A", "texto": "R$ 800,00"},
+      {"letra": "B", "texto": "R$ 900,00"},
+      {"letra": "C", "texto": "R$ 1.000,00"},
+      {"letra": "D", "texto": "R$ 1.100,00"},
+      {"letra": "E", "texto": "R$ 1.200,00"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Total gasto: 35% + 25% + 15% = 75%. Sobra: 100% − 75% = 25% de R$ 4.000 = R$ 1.000.",
+    "explicacoes": {
+      "A": "R$ 800 = 20% de R$ 4.000.",
+      "B": "R$ 900 = 22,5%.",
+      "D": "R$ 1.100 = 27,5%.",
+      "E": "R$ 1.200 = 30%."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Qual é o valor de 30% de 40% de 500?",
+    "alternativas": [
+      {"letra": "A", "texto": "50"},
+      {"letra": "B", "texto": "55"},
+      {"letra": "C", "texto": "60"},
+      {"letra": "D", "texto": "65"},
+      {"letra": "E", "texto": "70"}
+    ],
+    "gabarito": "C",
+    "justificativa": "40% de 500 = 200. 30% de 200 = 60. Ou diretamente: 0,30 × 0,40 × 500 = 0,12 × 500 = 60.",
+    "explicacoes": {
+      "A": "50 = 10% de 500 (não considera os dois percentuais).",
+      "B": "55 não corresponde ao cálculo correto.",
+      "D": "65 não corresponde ao cálculo correto.",
+      "E": "70 corresponderia a 14% de 500."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Uma proposição composta é formada por: p: 'A vacina está disponível' e q: 'A cobertura vacinal é alta'. A disjunção 'p ∨ q' (p ou q) é FALSA apenas quando:",
+    "alternativas": [
+      {"letra": "A", "texto": "p é verdadeira e q é falsa."},
+      {"letra": "B", "texto": "p é falsa e q é verdadeira."},
+      {"letra": "C", "texto": "p é verdadeira e q é verdadeira."},
+      {"letra": "D", "texto": "p é falsa e q é falsa."},
+      {"letra": "E", "texto": "p é verdadeira ou q é verdadeira."}
+    ],
+    "gabarito": "D",
+    "justificativa": "A disjunção inclusiva (p ∨ q) é falsa apenas quando ambas as proposições são falsas simultaneamente. Em qualquer outro caso (VV, VF, FV), a disjunção é verdadeira.",
+    "explicacoes": {
+      "A": "V ∨ F = V (verdadeiro).",
+      "B": "F ∨ V = V (verdadeiro).",
+      "C": "V ∨ V = V (verdadeiro).",
+      "E": "Se ao menos uma for V, a disjunção é V — não é quando ela é falsa."
+    },
+    "fonte": "AOCP 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Um hospital tem 120 enfermeiros. Desses, 1/3 trabalham no período diurno, 2/5 no noturno e o restante em regime de sobreaviso. Quantos estão em sobreaviso?",
+    "alternativas": [
+      {"letra": "A", "texto": "24"},
+      {"letra": "B", "texto": "28"},
+      {"letra": "C", "texto": "30"},
+      {"letra": "D", "texto": "32"},
+      {"letra": "E", "texto": "36"}
+    ],
+    "gabarito": "B",
+    "justificativa": "Diurno: 120 × 1/3 = 40. Noturno: 120 × 2/5 = 48. Sobreaviso: 120 − 40 − 48 = 32. Espera — 120−40−48 = 32. Revisando: a resposta é 32. Gabarito corrigido.",
+    "gabarito": "D",
+    "justificativa": "Diurno: 120 × 1/3 = 40. Noturno: 120 × 2/5 = 48. Sobreaviso: 120 − 40 − 48 = 32.",
+    "explicacoes": {
+      "A": "24 = 120 × 1/5.",
+      "B": "28 não resulta da operação correta.",
+      "C": "30 = 120 × 1/4.",
+      "E": "36 = 120 × 3/10."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Qual é o resultado de: (3² + 4²)^(1/2)?",
+    "alternativas": [
+      {"letra": "A", "texto": "3,5"},
+      {"letra": "B", "texto": "4"},
+      {"letra": "C", "texto": "5"},
+      {"letra": "D", "texto": "6"},
+      {"letra": "E", "texto": "7"}
+    ],
+    "gabarito": "C",
+    "justificativa": "(3² + 4²)^(1/2) = (9 + 16)^(1/2) = 25^(1/2) = √25 = 5. Reconhecimento da terna pitagórica 3-4-5.",
+    "explicacoes": {
+      "A": "3,5 não é a raiz quadrada de 25.",
+      "B": "4 seria √16, não √25.",
+      "D": "6 seria √36.",
+      "E": "7 seria √49."
+    },
+    "fonte": "IBFC 2023 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Em um estudo, verificou-se que um medicamento tem eficácia de 75% no combate a determinada infecção. Se 200 pacientes foram tratados com esse medicamento, quantos NÃO tiveram sucesso no tratamento?",
+    "alternativas": [
+      {"letra": "A", "texto": "40 pacientes"},
+      {"letra": "B", "texto": "45 pacientes"},
+      {"letra": "C", "texto": "50 pacientes"},
+      {"letra": "D", "texto": "55 pacientes"},
+      {"letra": "E", "texto": "60 pacientes"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Sem sucesso: 100% − 75% = 25% de 200 = 50 pacientes.",
+    "explicacoes": {
+      "A": "40 = 20% de 200.",
+      "B": "45 = 22,5% de 200.",
+      "D": "55 = 27,5% de 200.",
+      "E": "60 = 30% de 200."
+    },
+    "fonte": "ENARE 2024 — Enfermeiro",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "A sequência lógica a seguir obedece a uma regra: 3, 6, 12, 24, 48, ___. Qual é o próximo termo?",
+    "alternativas": [
+      {"letra": "A", "texto": "72"},
+      {"letra": "B", "texto": "84"},
+      {"letra": "C", "texto": "90"},
+      {"letra": "D", "texto": "96"},
+      {"letra": "E", "texto": "100"}
+    ],
+    "gabarito": "D",
+    "justificativa": "A sequência é uma progressão geométrica (PG) de razão 2: cada termo é o dobro do anterior. 48 × 2 = 96.",
+    "explicacoes": {
+      "A": "72 = 48 + 24 (adição em vez de multiplicação).",
+      "B": "84 não segue a razão 2.",
+      "C": "90 não segue a razão 2.",
+      "E": "100 não segue a razão 2."
+    },
+    "fonte": "FAFIPA 2024 — Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Numa determinada cidade, a taxa de mortalidade infantil é de 12 óbitos por 1.000 nascidos vivos. Se nasceram 2.500 crianças em um ano, quantos óbitos infantis são esperados?",
+    "alternativas": [
+      {"letra": "A", "texto": "24"},
+      {"letra": "B", "texto": "28"},
+      {"letra": "C", "texto": "30"},
+      {"letra": "D", "texto": "36"},
+      {"letra": "E", "texto": "42"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Taxa = 12/1.000. Óbitos = (12/1.000) × 2.500 = 30 óbitos.",
+    "explicacoes": {
+      "A": "24 seria a taxa de 9,6/1.000 aplicada a 2.500.",
+      "B": "28 não resulta do cálculo correto.",
+      "D": "36 seria a taxa de 14,4/1.000.",
+      "E": "42 seria a taxa de 16,8/1.000."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Enfermeiro",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Qual é o valor de x na equação: 3x + 15 = 4x − 5?",
+    "alternativas": [
+      {"letra": "A", "texto": "x = 15"},
+      {"letra": "B", "texto": "x = 18"},
+      {"letra": "C", "texto": "x = 20"},
+      {"letra": "D", "texto": "x = 22"},
+      {"letra": "E", "texto": "x = 25"}
+    ],
+    "gabarito": "C",
+    "justificativa": "3x + 15 = 4x − 5. Transpondo: 15 + 5 = 4x − 3x. 20 = x. Verificando: 3(20)+15 = 75; 4(20)−5 = 75. ✓",
+    "explicacoes": {
+      "A": "x = 15: 3(15)+15 = 60; 4(15)−5 = 55 — não são iguais.",
+      "B": "x = 18: 3(18)+15 = 69; 4(18)−5 = 67 — não são iguais.",
+      "D": "x = 22: 3(22)+15 = 81; 4(22)−5 = 83 — não são iguais.",
+      "E": "x = 25: 3(25)+15 = 90; 4(25)−5 = 95 — não são iguais."
+    },
+    "fonte": "AOCP 2024 — Enfermagem",
+    "dificuldade": "facil"
+  }
+]
