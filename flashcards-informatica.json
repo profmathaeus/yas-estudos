@@ -1,0 +1,314 @@
+[
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "informatica",
+    "frente": "Atalhos essenciais do Windows — quais são os mais cobrados?",
+    "verso": "Ctrl+C = copiar | Ctrl+X = recortar | Ctrl+V = colar | Ctrl+Z = desfazer | Ctrl+Y = refazer | Ctrl+A = selecionar tudo | Ctrl+S = salvar | Ctrl+P = imprimir | Ctrl+F = localizar | Alt+F4 = fechar janela | Windows+D = mostrar área de trabalho | Windows+E = abrir Explorer | Alt+Tab = alternar entre janelas | Windows+L = bloquear tela | Ctrl+Shift+Esc = Gerenciador de Tarefas."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "informatica",
+    "frente": "Qual a diferença entre HD, SSD e pendrive em termos de armazenamento?",
+    "verso": "HD (Hard Disk): armazenamento magnético, mecânico, mais lento, mais barato por GB, maior capacidade. SSD (Solid State Drive): armazenamento em flash (eletrônico), sem partes móveis, muito mais rápido, mais caro, mais resistente a impactos. Pendrive: memória flash portátil, pequena capacidade comparada a HD/SSD, usada para transporte de dados. SSD x HD: o SSD inicializa o Windows em segundos; o HD leva dezenas de segundos."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "informatica",
+    "frente": "O que é RAM e o que é ROM? Qual a diferença?",
+    "verso": "RAM (Random Access Memory): memória volátil (perde dados ao desligar), usada para armazenar dados em uso durante a execução de programas. Quanto mais RAM, mais programas abertos simultaneamente sem lentidão. ROM (Read Only Memory): memória não-volátil, somente leitura, contém o firmware/BIOS da placa-mãe — não perde dados ao desligar. Resumo: RAM = memória de trabalho (temporária); ROM = memória permanente (BIOS)."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "informatica",
+    "frente": "O que é BIOS e qual sua função?",
+    "verso": "BIOS (Basic Input/Output System): firmware gravado na ROM da placa-mãe. Responsável por: inicializar e testar os componentes de hardware (POST — Power-On Self Test) ao ligar o computador, carregar o sistema operacional a partir do disco de boot, configurar a ordem de boot (HD, SSD, USB, CD). O BIOS moderno foi substituído pelo UEFI (Unified Extensible Firmware Interface), mais rápido e com suporte a discos > 2TB."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "informatica",
+    "frente": "Atalhos do Microsoft Word mais cobrados em concursos.",
+    "verso": "Ctrl+N = novo documento | Ctrl+O = abrir | Ctrl+W = fechar | Ctrl+B = negrito | Ctrl+I = itálico | Ctrl+U = sublinhado | Ctrl+E = centralizar | Ctrl+L = alinhar à esquerda | Ctrl+R = alinhar à direita | Ctrl+J = justificar | Ctrl+K = inserir hiperlink | Ctrl+H = substituir | Ctrl+Home = ir para o início | Ctrl+End = ir para o fim | F7 = verificar ortografia | Ctrl+Enter = quebra de página."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "informatica",
+    "frente": "No Word, qual a diferença entre 'Salvar' e 'Salvar Como'?",
+    "verso": "'Salvar' (Ctrl+S): salva o arquivo no mesmo local e com o mesmo nome, substituindo a versão anterior. Se for um arquivo novo (ainda não salvo), abre a caixa 'Salvar Como'. 'Salvar Como' (F12 ou Alt+Ctrl+S): permite escolher nome, local e formato do arquivo (DOCX, PDF, ODT, TXT etc.). Use 'Salvar Como' para criar uma cópia com nome diferente ou salvar em outro formato sem alterar o original."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "informatica",
+    "frente": "Fórmulas básicas do Microsoft Excel: SOMA, MÉDIA, MÁXIMO, MÍNIMO.",
+    "verso": "=SOMA(A1:A10) — soma os valores do intervalo A1 até A10. =MÉDIA(A1:A10) — calcula a média aritmética. =MÁXIMO(A1:A10) — retorna o maior valor. =MÍNIMO(A1:A10) — retorna o menor valor. =CONT.NÚM(A1:A10) — conta células com números. =CONT.VALORES(A1:A10) — conta células não vazias (texto ou número). =CONTAR.VAZIO(A1:A10) — conta células vazias. A fórmula sempre começa com '='."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "informatica",
+    "frente": "Como funciona a função SE (IF) no Excel?",
+    "verso": "=SE(teste_lógico; valor_se_verdadeiro; valor_se_falso). Ex.: =SE(A1>=7;\"Aprovado\";\"Reprovado\") — se A1 for ≥ 7, exibe 'Aprovado', senão 'Reprovado'. SE aninhado: =SE(A1>=9;\"Ótimo\";SE(A1>=7;\"Bom\";\"Insuficiente\")). O ponto-e-vírgula separa os argumentos (no Brasil). Equivalente ao IF em inglês. Limite de aninhamento no Excel 2007+: 64 níveis."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "informatica",
+    "frente": "O que é referência absoluta no Excel? Quando usar?",
+    "verso": "Referência absoluta: trava a linha e/ou coluna ao copiar a fórmula. Usa-se o símbolo '$'. $A$1 = linha E coluna travadas (absolutas). A$1 = apenas linha travada. $A1 = apenas coluna travada. A1 = relativa (muda ao copiar). Ex.: se a fórmula =A1*$B$1 for copiada para baixo, A1 muda para A2, A3... mas $B$1 permanece sempre B1. Use $ quando um valor de referência não deve mudar (ex: taxa de conversão, alíquota fixa)."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "informatica",
+    "frente": "O que faz a tecla F2 no Excel?",
+    "verso": "F2 no Excel: coloca a célula selecionada em modo de edição, posicionando o cursor no final do conteúdo da célula. Permite editar o conteúdo diretamente na célula sem precisar clicar duas vezes. Também ativa a visualização colorida das células referenciadas na fórmula (cada referência fica em uma cor, e a célula correspondente na planilha é destacada com a mesma cor). Atalho essencial para edição rápida."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "informatica",
+    "frente": "O que é PROCV (VLOOKUP) no Excel?",
+    "verso": "=PROCV(valor_procurado; matriz_tabela; núm_índice_coluna; [procurar_intervalo]). Busca um valor na primeira coluna de um intervalo e retorna um valor na mesma linha de outra coluna. Ex.: =PROCV(A2;$D$1:$F$100;2;FALSO) — busca o valor de A2 na 1ª coluna do intervalo D1:F100 e retorna o valor da 2ª coluna. FALSO = correspondência exata. VERDADEIRO = aproximada (dados devem estar ordenados). Muito usado para cruzar tabelas."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "informatica",
+    "frente": "Qual a diferença entre HTTP e HTTPS?",
+    "verso": "HTTP (HyperText Transfer Protocol): protocolo de comunicação entre navegador e servidor, sem criptografia — dados trafegam em texto simples (vulnerável a interceptação). HTTPS (HTTP Secure): versão segura com criptografia SSL/TLS — dados são criptografados em trânsito. HTTPS usa porta 443; HTTP usa porta 80. O cadeado (🔒) na barra de endereços indica HTTPS. Em sites com login, pagamento ou dados pessoais, HTTPS é obrigatório. HTTP ≠ seguro para informações sensíveis."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "informatica",
+    "frente": "O que é phishing e como se proteger?",
+    "verso": "Phishing: ataque de engenharia social onde o atacante se faz passar por entidade legítima (banco, governo, empresa) via e-mail, SMS ou site falso para obter dados pessoais, senhas ou financeiros. Sinais de alerta: URL diferente do domínio original, urgência excessiva, erros ortográficos, solicitação de senha. Proteção: verificar o remetente real, não clicar em links suspeitos, checar o HTTPS e o domínio, usar autenticação de dois fatores."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "informatica",
+    "frente": "O que é firewall e qual sua função?",
+    "verso": "Firewall: barreira de segurança (hardware e/ou software) que monitora e controla o tráfego de rede com base em regras predefinidas. Pode ser: (1) de filtro de pacotes (analisa endereços IP e portas), (2) de inspeção de estado (rastreia conexões ativas), (3) proxy (atua como intermediário). O firewall do Windows (Firewall do Windows Defender) é um firewall de software. Não protege contra vírus já instalados — para isso, use antivírus."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "informatica",
+    "frente": "Tipos de malware: vírus, worm, trojan, ransomware — diferenças.",
+    "verso": "Vírus: precisa de um arquivo hospedeiro para se replicar; infecta ao executar o arquivo. Worm: se replica automaticamente pela rede sem precisar de arquivo hospedeiro; consome banda. Trojan (Cavalo de Troia): parece legítimo mas executa funções maliciosas em segundo plano; não se replica sozinho. Ransomware: criptografa os arquivos da vítima e exige resgate (ransom) para descriptografar — notório o WannaCry (2017). Spyware: espiona e coleta informações sem consentimento."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "informatica",
+    "frente": "O que é backup e quais os tipos?",
+    "verso": "Backup: cópia de segurança de dados para recuperação em caso de perda. Tipos: (1) Completo (full): copia TODOS os dados — mais demorado, ocupa mais espaço, restauração mais simples. (2) Incremental: copia apenas os dados alterados desde o ÚLTIMO backup (completo ou incremental) — mais rápido, menor espaço, restauração mais complexa. (3) Diferencial: copia os dados alterados desde o ÚLTIMO backup COMPLETO — intermediário. Regra 3-2-1: 3 cópias, 2 mídias diferentes, 1 offsite."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "informatica",
+    "frente": "O que é a Lixeira do Windows e o que acontece ao esvaziá-la?",
+    "verso": "Lixeira: repositório temporário de arquivos e pastas excluídos pelo usuário no Windows. Ao deletar com a tecla Delete, o arquivo vai para a Lixeira (pode ser restaurado). Para excluir permanentemente sem ir à Lixeira: Shift+Delete. Ao esvaziar a Lixeira, os arquivos são removidos do sistema de arquivos e o espaço é liberado — não é possível recuperar pelos meios normais (apenas com software forense). A Lixeira não armazena arquivos de pendrives ou unidades de rede."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "informatica",
+    "frente": "O que é sistema operacional e exemplos.",
+    "verso": "Sistema operacional (SO): software básico que gerencia os recursos do hardware (processador, memória, disco, periféricos) e oferece interface entre usuário/aplicativos e o hardware. Exemplos: Windows (Microsoft) — domina mercado desktop; macOS (Apple) — exclusivo de Macs; Linux (kernel aberto) — distribuições: Ubuntu, Debian, Fedora; Android (Google, base Linux) — smartphones; iOS (Apple) — iPhones. O SO é carregado na RAM ao inicializar o computador."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "informatica",
+    "frente": "O que é endereço IP e qual a diferença entre IPv4 e IPv6?",
+    "verso": "IP (Internet Protocol): endereço numérico que identifica uniquamente um dispositivo na rede. IPv4: 32 bits, 4 octetos separados por pontos (ex: 192.168.1.1), ~4,3 bilhões de endereços — praticamente esgotados. IPv6: 128 bits, 8 grupos de 4 dígitos hexadecimais separados por dois-pontos (ex: 2001:0db8::1), ~340 undecilhões de endereços — criado para resolver a escassez do IPv4. IP privado (192.168.x.x, 10.x.x.x) vs. IP público (visível na internet)."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "informatica",
+    "frente": "O que é DNS e para que serve?",
+    "verso": "DNS (Domain Name System): sistema que traduz nomes de domínio legíveis (www.google.com) para endereços IP numéricos (142.250.1.100) — e vice-versa. Funciona como uma 'agenda telefônica' da internet. Sem DNS, teríamos que memorizar IPs. Quando você digita um URL, o DNS do provedor resolve o nome para o IP do servidor. DNS público do Google: 8.8.8.8 e 8.8.4.4. DNS da Cloudflare: 1.1.1.1. Alterar o DNS pode melhorar velocidade e privacidade."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "informatica",
+    "frente": "Protocolos de e-mail: SMTP, POP3 e IMAP — diferenças.",
+    "verso": "SMTP (Simple Mail Transfer Protocol): usado para ENVIAR e-mails (porta 25/465/587). POP3 (Post Office Protocol v3): baixa e-mails do servidor para o cliente — geralmente APAGA do servidor (porta 110/995). Acesso offline, mas e-mails ficam em apenas um dispositivo. IMAP (Internet Message Access Protocol): sincroniza e-mails no servidor — mantém cópia no servidor, acesso em múltiplos dispositivos (porta 143/993). IMAP é o padrão moderno; POP3 é legado. CC = cópia; CCO/BCC = cópia oculta."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "informatica",
+    "frente": "O que é Wi-Fi e quais os padrões de segurança?",
+    "verso": "Wi-Fi: tecnologia de rede sem fio baseada no padrão IEEE 802.11. Frequências: 2,4 GHz (maior alcance, mais interferências) e 5 GHz (maior velocidade, menor alcance). Padrões de segurança: WEP (muito fraco, obsoleto), WPA (melhor, mas vulnerável), WPA2 (atual padrão — usa criptografia AES), WPA3 (mais recente, mais seguro, proteção contra ataques de dicionário). Sempre prefira WPA2 ou WPA3. Redes abertas (sem senha) são inseguras — evite dados sensíveis."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "informatica",
+    "frente": "O que é cloud computing (computação em nuvem)?",
+    "verso": "Computação em nuvem: uso de recursos computacionais (servidores, armazenamento, software) via internet, sob demanda, com pagamento pelo uso. Modelos de serviço: IaaS (Infrastructure as a Service) — infraestrutura virtual: AWS EC2, Google Cloud; PaaS (Platform as a Service) — plataforma de desenvolvimento: Google App Engine, Heroku; SaaS (Software as a Service) — software pronto: Google Drive, Microsoft 365, Dropbox. Vantagens: escalabilidade, acessibilidade de qualquer lugar, redução de custos de hardware."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "informatica",
+    "frente": "O que é largura de banda (bandwidth) e latência?",
+    "verso": "Largura de banda: capacidade máxima de transmissão de dados de uma conexão, medida em bps (bits por segundo) ou Mbps/Gbps. Quanto maior, mais dados por segundo. Latência (ping): tempo de ida e volta de um pacote de dados (ms). Menor latência = resposta mais rápida. São independentes: uma conexão pode ter alta largura de banda mas alta latência (ex: satélite). Upload = envio; Download = recebimento. Para streaming de vídeo, largura de banda importa; para jogos online, latência importa mais."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "informatica",
+    "frente": "No Windows, o que faz a tecla Windows (⊞) em combinações?",
+    "verso": "⊞ = abre o menu Iniciar | ⊞+D = mostrar/ocultar área de trabalho | ⊞+E = abrir o Explorador de Arquivos | ⊞+L = bloquear o computador | ⊞+R = abrir caixa 'Executar' | ⊞+I = abrir Configurações | ⊞+S = abrir pesquisa | ⊞+Print Screen = capturar e salvar screenshot automaticamente | ⊞+Seta ↑ = maximizar janela | ⊞+Seta ↓ = minimizar | ⊞+Seta ← ou → = dividir tela (snap). Print Screen sozinho = copiar tela para área de transferência."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "informatica",
+    "frente": "O que é memória cache e qual sua função?",
+    "verso": "Cache: memória de acesso muito rápido localizada dentro ou próxima ao processador (CPU). Armazena cópias de dados frequentemente acessados para reduzir o tempo de acesso à RAM (mais lenta). Hierarquia: L1 (mais rápida, menor, dentro do núcleo da CPU) > L2 (maior, mais lenta que L1) > L3 (compartilhada entre núcleos). Cache do navegador: armazena páginas e imagens visitadas para carregamento mais rápido — limpar o cache resolve muitos problemas de exibição."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "informatica",
+    "frente": "O que é processador (CPU) e quais as características relevantes?",
+    "verso": "CPU (Central Processing Unit): 'cérebro' do computador — executa instruções dos programas. Características: núcleos (cores): mais núcleos = melhor multitarefa (dual-core, quad-core, octa-core); clock (frequência em GHz): mais GHz = mais instruções por segundo; cache (memória interna); arquitetura (32 ou 64 bits — define quantidade máxima de RAM endereçável: 32 bits = até 4GB; 64 bits = muito mais). Principais fabricantes: Intel e AMD."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "informatica",
+    "frente": "O que é extensão de arquivo e para que serve?",
+    "verso": "Extensão: sufixo após o ponto no nome do arquivo, indicando o formato e o programa associado. Exemplos: .docx (Word) | .xlsx (Excel) | .pptx (PowerPoint) | .pdf (Adobe Reader, qualquer navegador) | .jpg/.jpeg/.png/.gif/.bmp (imagens) | .mp3/.wav (áudio) | .mp4/.avi (vídeo) | .exe (executável Windows) | .zip/.rar (compactados) | .txt (texto simples) | .html (página web) | .csv (dados tabulares). Ocultar extensões é padrão no Windows — cuidado com vírus que usam extensões duplas (.pdf.exe)."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "informatica",
+    "frente": "O que é VPN e para que serve?",
+    "verso": "VPN (Virtual Private Network): cria um túnel criptografado entre o dispositivo do usuário e um servidor VPN — o tráfego de internet passa por esse túnel, ocultando o IP real e criptografando os dados. Usos: (1) privacidade online; (2) acesso remoto seguro a redes corporativas; (3) contornar restrições geográficas; (4) segurança em redes Wi-Fi públicas. Não é 100% anônima — o provedor VPN pode ver o tráfego. Usada por hospitais para acesso remoto seguro a sistemas internos."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "informatica",
+    "frente": "O que é antivírus e como funciona?",
+    "verso": "Antivírus: software de segurança que detecta, previne e remove malware. Métodos de detecção: (1) Assinatura: compara arquivos com banco de dados de malwares conhecidos (eficaz, requer atualização constante). (2) Heurística: analisa comportamento suspeito — detecta variantes desconhecidas. (3) Sandbox: executa o arquivo em ambiente isolado para observar comportamento. Deve ser mantido atualizado. Exemplos: Windows Defender, Kaspersky, Avast, Norton, McAfee. Antivírus ≠ firewall (diferentes funções, complementares)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "informatica",
+    "frente": "O que é o Gerenciador de Tarefas do Windows e como acessá-lo?",
+    "verso": "Gerenciador de Tarefas: ferramenta do Windows para monitorar e gerenciar processos, desempenho, usuários e serviços em execução. Uso: encerrar programas travados (Finalizar Tarefa), ver uso de CPU/RAM/disco/rede, gerenciar programas de inicialização. Como acessar: Ctrl+Shift+Esc (direto) | Ctrl+Alt+Del → Gerenciador de Tarefas | Botão direito na barra de tarefas → Gerenciador de Tarefas. Na aba 'Inicializar', pode-se desabilitar programas que abrem automaticamente com o Windows."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "informatica",
+    "frente": "O que é Painel de Controle vs. Configurações no Windows?",
+    "verso": "Painel de Controle: interface tradicional (legada) do Windows para configurações avançadas do sistema — dispositivos, rede, programas, contas. Ainda presente no Windows 10/11 mas em processo de migração. Configurações (⊞+I): interface moderna do Windows 10/11, mais amigável, cobre a maioria das configurações do dia a dia — Wi-Fi, Bluetooth, display, som, contas, atualizações, privacidade. Muitas bancas cobram opções do Painel de Controle clássico (ex.: Adicionar ou Remover Programas, Gerenciamento de Dispositivos)."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "informatica",
+    "frente": "O que é planilha eletrônica? Como referenciar células no Excel?",
+    "verso": "Planilha eletrônica: grade de linhas e colunas para organizar, calcular e analisar dados. No Excel, as colunas são identificadas por letras (A, B, C...) e as linhas por números (1, 2, 3...). A célula é referenciada pela combinação: coluna+linha. Ex.: A1 (coluna A, linha 1); B3 (coluna B, linha 3). Intervalo: A1:B5 (da célula A1 até B5). Células de planilhas diferentes: =Plan2!A1. Pastas de trabalho (.xlsx) contêm várias planilhas (abas/guias)."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "informatica",
+    "frente": "O que é o protocolo TCP/IP e como funciona?",
+    "verso": "TCP/IP: conjunto de protocolos de comunicação que governa a internet. TCP (Transmission Control Protocol): garante entrega confiável dos dados — divide em pacotes, garante ordem e confirmação de recebimento. IP (Internet Protocol): define endereçamento e roteamento dos pacotes. Modelo em camadas: Aplicação (HTTP, FTP, SMTP), Transporte (TCP, UDP), Internet (IP), Rede/Enlace (Ethernet, Wi-Fi). UDP: alternativa ao TCP — mais rápido, sem garantia de entrega (usado em streaming e jogos)."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "informatica",
+    "frente": "O que é DHCP e para que serve?",
+    "verso": "DHCP (Dynamic Host Configuration Protocol): protocolo que atribui automaticamente endereços IP e outras configurações de rede (gateway, DNS) para dispositivos ao se conectarem. Sem DHCP, seria necessário configurar manualmente o IP de cada dispositivo. O roteador doméstico normalmente funciona como servidor DHCP. IP dinâmico: muda a cada conexão. IP estático: fixo, configurado manualmente — útil para servidores. Servidor DHCP define o 'lease time' (tempo de validade do IP concedido)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "informatica",
+    "frente": "O que é engenharia social na segurança da informação?",
+    "verso": "Engenharia social: manipulação psicológica de pessoas para obter informações confidenciais ou acesso a sistemas, explorando a confiança, urgência ou medo — sem precisar invadir tecnicamente. Exemplos: phishing (e-mail falso), vishing (ligação falsa), pretexting (criar cenário falso), baiting (pendrive infectado deixado propositalmente), tailgating (seguir alguém para acessar área restrita). Defesa: treinamento dos funcionários, políticas de verificação de identidade, desconfiança saudável de solicitações urgentes."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "informatica",
+    "frente": "O que é CC e CCO em e-mails?",
+    "verso": "CC (Com Cópia / Carbon Copy): envia uma cópia do e-mail para outros destinatários — TODOS os destinatários (Para, CC) conseguem ver quem está no CC. CCO (Com Cópia Oculta / BCC — Blind Carbon Copy): envia cópia sem que os outros destinatários saibam — os endereços no CCO são invisíveis para os demais. Use CCO para privacidade em listas de e-mail. 'Responder a todos' não inclui os destinatários do CCO. Importante para conformidade com LGPD ao enviar e-mails em massa."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "informatica",
+    "frente": "O que é compactação de arquivos e como funciona?",
+    "verso": "Compactação: técnica que reduz o tamanho de arquivos agrupando-os em um único arquivo menor. Formatos comuns: ZIP (nativo no Windows, sem necessidade de software extra), RAR (popular, melhor compressão, requer WinRAR/7-Zip), 7Z (alta compressão, gratuito). Com senha: o conteúdo é criptografado. Compactação sem perda (lossless): nenhum dado é perdido (ZIP, RAR, 7Z para qualquer arquivo). Compactação com perda (lossy): dados descartados — usada em imagens (JPEG) e áudio (MP3) para maior redução."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "informatica",
+    "frente": "O que é LGPD e sua relação com a tecnologia da informação?",
+    "verso": "LGPD (Lei Geral de Proteção de Dados — Lei 13.709/2018): regula o tratamento de dados pessoais por empresas e organizações no Brasil. Princípios: finalidade, adequação, necessidade, livre acesso, qualidade, transparência, segurança, prevenção, não discriminação, responsabilização. Na TI: exige medidas técnicas de segurança (criptografia, controle de acesso, logs), aviso sobre cookies, consentimento para coleta de dados. Violações podem gerar multas de até 2% do faturamento (máx R$50M por infração)."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "informatica",
+    "frente": "O que é navegador web (browser) e quais os principais?",
+    "verso": "Navegador web: software que interpreta e exibe páginas HTML/CSS/JavaScript da internet. Principais: Google Chrome (mais usado mundialmente, motor V8/Blink), Mozilla Firefox (código aberto, Gecko), Microsoft Edge (baseado em Chromium, substitui o IE no Windows 10/11), Safari (Apple, macOS/iOS, WebKit), Opera. Internet Explorer foi descontinuado em 2022. Funções: abas, favoritos, histórico, modo anônimo/privado (não salva histórico local, mas o provedor ainda vê o tráfego), extensões."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "informatica",
+    "frente": "O que é modo de navegação privada/anônima?",
+    "verso": "Modo anônimo (Ctrl+Shift+N no Chrome; Ctrl+Shift+P no Firefox/Edge): não salva histórico de navegação, cookies, dados de formulários ou senhas NO DISPOSITIVO LOCAL após fechar a janela. NÃO torna o usuário anônimo na internet — o provedor de internet (ISP), o empregador (rede corporativa) e os sites visitados ainda podem ver o acesso. Útil para: login temporário em computadores compartilhados, compras sem histórico de busca influenciando preços, testar sites sem cache."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "informatica",
+    "frente": "O que é resolução de tela e o que é taxa de atualização?",
+    "verso": "Resolução: número de pixels na tela (largura × altura). Padrões: HD (1280×720), Full HD/FHD (1920×1080), QHD/2K (2560×1440), 4K/UHD (3840×2160). Maior resolução = mais detalhe e nítido, mas exige mais processamento gráfico. Taxa de atualização (Hz): quantas vezes a imagem é atualizada por segundo. 60Hz padrão, 144Hz+ para jogos. Maior Hz = animação mais suave. DPI (dots per inch): densidade de pixels — quanto maior, mais nítida a imagem em telas menores."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "informatica",
+    "frente": "O que são cookies e como afetam a privacidade?",
+    "verso": "Cookies: pequenos arquivos de texto salvos pelo navegador no computador do usuário, armazenando informações sobre a sessão e preferências no site (login, carrinho de compras, idioma). Tipos: de sessão (apagados ao fechar o navegador) e persistentes (permanecem por tempo definido). Cookies de rastreamento (third-party): criados por domínios terceiros para rastrear o comportamento do usuário em múltiplos sites — base do marketing digital. LGPD exige consentimento para cookies não essenciais (bandeiras de cookies nos sites)."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "informatica",
+    "frente": "O que é placa de vídeo (GPU) e quando ela importa?",
+    "verso": "GPU (Graphics Processing Unit): processador especializado em renderizar gráficos e imagens — alivia a CPU nessa tarefa. Tipos: integrada (dentro da CPU, compartilha RAM — suficiente para uso cotidiano) e dedicada/discreta (chip separado com VRAM própria — para jogos, edição de vídeo, modelagem 3D, inteligência artificial). Fabricantes: NVIDIA (GeForce) e AMD (Radeon). Para uso em hospital/escritório: GPU integrada é suficiente. Para design gráfico/radiologia digital de alta resolução: GPU dedicada ajuda."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "informatica",
+    "frente": "O que é software livre e software proprietário?",
+    "verso": "Software livre (open source): código-fonte disponível publicamente — pode ser estudado, modificado e redistribuído (ex: Linux, Firefox, LibreOffice, VLC). Nem sempre gratuito (free = liberdade, não necessariamente grátis). Software proprietário: código fechado, licença restritiva — uso permitido conforme termos (ex: Windows, Microsoft Office, Adobe Photoshop). Freeware: proprietário mas gratuito para uso (ex: Adobe Reader). Shareware: teste gratuito por período limitado. Licença GPL: garante que derivados também sejam livres."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "informatica",
+    "frente": "O que é interface gráfica (GUI) e linha de comando (CLI)?",
+    "verso": "GUI (Graphical User Interface): interface visual com janelas, ícones, menus e mouse — intuitiva, fácil de usar. Ex.: Windows Explorer, macOS Finder. CLI (Command Line Interface): interface de texto onde comandos são digitados. Ex.: Prompt de Comando (cmd.exe) e PowerShell no Windows; Terminal/Bash no Linux/macOS. CLI é mais poderosa para automatização, scripts e acesso remoto. Comandos básicos CMD: ipconfig (configurações de rede), ping (teste de conexão), dir (listar arquivos), cd (mudar diretório), cls (limpar tela)."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "informatica",
+    "frente": "O que é PowerPoint e quais formatos de arquivo usa?",
+    "verso": "Microsoft PowerPoint: software de apresentações de slides do pacote Office. Formato padrão: .pptx (PowerPoint 2007+). Formato legado: .ppt (até Office 2003). Formato de apresentação (apenas leitura): .ppsx (abre direto no modo apresentação). Pode exportar para: .pdf, .jpg, .png (slides como imagens), .mp4 (vídeo). Equivalentes livres: LibreOffice Impress (.odp), Google Slides (online). Atalho durante apresentação: F5 = iniciar do começo; Shift+F5 = iniciar do slide atual; Esc = encerrar."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "informatica",
+    "frente": "O que é rede LAN, MAN e WAN?",
+    "verso": "LAN (Local Area Network): rede local — abrange um prédio, escritório ou casa; alta velocidade; Ethernet e Wi-Fi. MAN (Metropolitan Area Network): rede metropolitana — abrange uma cidade ou campus universitário; velocidade intermediária. WAN (Wide Area Network): rede de longa distância — abrange países ou continentes; a internet é a maior WAN. PAN (Personal Area Network): rede pessoal — Bluetooth, poucos metros. VPN pode conectar LANs separadas geograficamente, criando uma WAN privada virtual."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "informatica",
+    "frente": "O que é criptografia e quais os tipos?",
+    "verso": "Criptografia: técnica de codificar dados para que apenas partes autorizadas possam lê-los. Simétrica: mesma chave para criptografar e descriptografar — rápida, mas exige troca segura da chave (ex: AES). Assimétrica: par de chaves (pública e privada) — a pública criptografa, a privada descriptografa — mais segura (ex: RSA, usado no HTTPS). Hash: função unidirecional (não é criptografia no sentido estrito) — transforma dados em resumo fixo (ex: SHA-256, MD5). HTTPS usa criptografia assimétrica para trocar a chave simétrica de sessão."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "informatica",
+    "frente": "O que é memória virtual (swap)?",
+    "verso": "Memória virtual (swap/arquivo de paginação): técnica em que o SO usa parte do disco (HD/SSD) como extensão da RAM quando esta está cheia. Vantagem: permite executar mais programas do que a RAM física suportaria. Desvantagem: muito mais lenta que a RAM (HD é ~100x mais lento; SSD melhora mas ainda é inferior à RAM). No Windows: chama-se arquivo de paginação (pagefile.sys). No Linux: partição ou arquivo swap. Sinal de uso excessivo de swap: sistema travando, disco em 100% de uso."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "informatica",
+    "frente": "Boas práticas de segurança de senhas.",
+    "verso": "Senha forte: mínimo 12 caracteres, combinando letras maiúsculas, minúsculas, números e símbolos (!@#$%). Nunca use: nome próprio, data de nascimento, sequências óbvias (123456, qwerty). Não reutilize senhas entre contas. Use gerenciador de senhas (Bitwarden, LastPass, 1Password). Autenticação de dois fatores (2FA/MFA): mesmo com a senha comprometida, o atacante precisa de um segundo fator (código SMS, app autenticador, chave física). Troque senhas periodicamente em sistemas críticos."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "informatica",
+    "frente": "O que é a SOMASE e CONT.SE no Excel?",
+    "verso": "=CONT.SE(intervalo; critério): conta células que atendem a um critério. Ex.: =CONT.SE(A1:A10;\"Sim\") — conta quantas células têm 'Sim'. =SOMASE(intervalo; critério; [intervalo_soma]): soma valores de um intervalo com base em critério de outro. Ex.: =SOMASE(B1:B10;\">100\";C1:C10) — soma os valores em C onde B > 100. Variantes: CONT.SES e SOMASES (múltiplos critérios). Operadores em critérios: \">\", \"<\", \">=\", \"<=\", \"<>\" (diferente), \"=\" (igual)."
+  }
+]

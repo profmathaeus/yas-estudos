@@ -1,0 +1,320 @@
+[
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "portugues",
+    "frente": "O que é próclise e quando é obrigatória?",
+    "verso": "Próclise = pronome oblíquo ANTES do verbo. É obrigatória na presença de: palavras negativas (não, nunca, jamais), conjunções subordinativas, advérbios sem vírgula separando, pronomes relativos, pronomes indefinidos e exclamativas/interrogativas. Ex.: 'Não me diga isso.'"
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "portugues",
+    "frente": "Qual a diferença entre ênclise e mesóclise?",
+    "verso": "Ênclise = pronome APÓS o verbo (uso padrão no início de oração): 'Diga-me a verdade.' Mesóclise = pronome NO MEIO do verbo (exclusiva do futuro do presente e futuro do pretérito): 'Dir-me-ia a verdade.' A mesóclise é evitada quando há palavra atrativa (usa-se próclise)."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "portugues",
+    "frente": "Crase: quando é OBRIGATÓRIA antes de 'a'?",
+    "verso": "Obrigatória quando há fusão de preposição 'a' + artigo feminino 'a(s)': 'Vou à farmácia.' Teste: substitua por palavra masculina — se usar 'ao', usa crase. Ex.: 'Vou ao hospital' → 'Vou à farmácia' ✓. Também obrigatória antes de horas: 'às 8h', e em locuções adverbiais/prepositivas femininas: 'à tarde', 'às vezes'."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "portugues",
+    "frente": "Crase: quando é PROIBIDA?",
+    "verso": "Proibida: (1) antes de palavras masculinas: 'a pé', 'a lápis'; (2) antes de verbos: 'Começou a chover'; (3) antes de pronomes pessoais, de tratamento (exceto 'senhora/senhorita/dona') e demonstrativos: 'a ela', 'a Vossa Excelência'; (4) antes de artigo indefinido: 'a uma paciente'; (5) antes de 'que' e 'quem'."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "portugues",
+    "frente": "O que é concordância verbal? Dê a regra básica.",
+    "verso": "O verbo concorda em número e pessoa com o sujeito. Regra básica: sujeito simples → verbo na mesma pessoa/número. Ex.: 'Os médicos chegaram.' Casos especiais: sujeito composto antes do verbo → plural; sujeito composto após o verbo → pode concordar com o mais próximo (concordância atrativa) ou ir ao plural."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "portugues",
+    "frente": "Concordância verbal: como fica com sujeito coletivo?",
+    "verso": "Sujeito coletivo (singularidade semântica) → verbo no singular: 'A equipe trabalhou bem.' Se o coletivo vier seguido de adjunto adnominal no plural, o verbo pode ir ao plural: 'A equipe de enfermeiros trabalharam.' (concordância com o adjunto — facultativo). Coletivos partitivos (metade, parte, a maioria) pedem verbo no singular ou plural."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "portugues",
+    "frente": "O que é concordância nominal? Regra básica.",
+    "verso": "Artigos, pronomes, numerais e adjetivos concordam em gênero e número com o substantivo. Ex.: 'As pacientes idosas foram atendidas.' Caso especial: adjetivo posposto a vários substantivos de gêneros diferentes → vai ao masculino plural: 'O médico e a enfermeira estavam cansados.'"
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "portugues",
+    "frente": "O que é regência verbal? Exemplifique com 'assistir'.",
+    "verso": "Regência verbal = relação entre verbo e seu complemento (com ou sem preposição). 'Assistir' tem dois sentidos: (1) ver/presenciar → VTI com 'a': 'Assisti ao procedimento.' (2) ajudar/caber → VTI com 'a': 'A lei assiste ao paciente.' Com pronome relativo: 'o filme a que assisti'. NÃO se usa 'assistir o filme' na norma culta."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "portugues",
+    "frente": "Quais verbos exigem a preposição 'a' (regência verbal)?",
+    "verso": "Principais verbos que pedem 'a': assistir (ver), aspirar (desejar), obedecer, desobedecer, agradar (satisfazer), responder (correspondência), visar (almejar), proceder, referir-se, aludir, anuir. Ex.: 'Obedeça às normas.' 'Aspirava ao cargo.' 'Visa a um concurso.'"
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "portugues",
+    "frente": "Qual a diferença entre 'onde' e 'aonde'?",
+    "verso": "'Onde' = indica lugar estático (estado): 'Onde você trabalha?' 'Aonde' = indica lugar com movimento (para onde), usado com verbos de movimento: 'Aonde você vai?' Dica: 'aonde' = 'a' + 'onde'; use apenas com verbos que pedem preposição 'a'. Com verbos de lugar estático: sempre 'onde'."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "portugues",
+    "frente": "O que é oração subordinada substantiva? Quais os tipos?",
+    "verso": "Oração que exerce a função de substantivo (sujeito, objeto direto, objeto indireto, complemento nominal, predicativo, aposto). Tipos: subjetiva ('É necessário que você estude'), objetiva direta ('Espero que melhore'), objetiva indireta ('Lembro-me de que era cedo'), completiva nominal, predicativa, apositiva. Introduzidas por 'que' integrante ou 'se' (interrogativas indiretas)."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "portugues",
+    "frente": "Quais são os tipos de oração subordinada adverbial?",
+    "verso": "Causal (porque, pois, já que, visto que), Consecutiva (de modo que, tanto que), Concessiva (embora, ainda que, mesmo que), Condicional (se, caso, desde que, a menos que), Temporal (quando, assim que, logo que, antes que, depois que), Final (para que, a fim de que), Proporcional (à medida que, à proporção que), Comparativa (como, assim como, tal qual), Conformativa (conforme, segundo, consoante)."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "portugues",
+    "frente": "Oração subordinada adjetiva: qual a diferença entre restritiva e explicativa?",
+    "verso": "Restritiva: delimita/especifica o antecedente, sem vírgulas — essencial ao sentido: 'Os pacientes que foram vacinados tiveram menos complicações.' (nem todos os pacientes). Explicativa: apenas acrescenta informação, com vírgulas — o antecedente já está determinado: 'Os pacientes, que foram vacinados, tiveram menos complicações.' (todos os pacientes, e todos foram vacinados)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "portugues",
+    "frente": "Quais são as figuras de linguagem do grupo da semântica (sentido)?",
+    "verso": "Metáfora (comparação implícita): 'Ela é uma flor.' | Metonímia (troca por relação lógica: parte/todo, autor/obra, continente/conteúdo): 'Ler Machado.' | Catacrese (metáfora desgastada): 'pé da mesa' | Sinestesia (mistura de sentidos): 'voz áspera' | Eufemismo (suavização): 'passou desta para melhor' | Hipérbole (exagero): 'chorei um rio de lágrimas' | Ironia (dizer o contrário)."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "portugues",
+    "frente": "O que é antítese e o que é paradoxo (oxímoro)?",
+    "verso": "Antítese: aproximação de ideias contrárias sem contradição lógica: 'O amor é fogo que arde sem se ver.' Paradoxo (oxímoro): contradição aparente dentro de uma mesma ideia: 'silêncio ensurdecedor', 'obscura claridade'. A diferença: na antítese há apenas contraste; no paradoxo, os opostos coexistem no mesmo elemento."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "portugues",
+    "frente": "O que é prosopopeia (ou personificação)?",
+    "verso": "Figura de linguagem que atribui características humanas (sentimentos, ações, pensamentos) a seres inanimados, animais ou abstrações. Ex.: 'A morte veio silenciosa.' 'O vento sussurrou segredos.' Muito usada em textos literários e publicitários para criar efeito de dramaticidade ou aproximação emocional."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "portugues",
+    "frente": "Quais são as conjunções coordenativas e suas classificações?",
+    "verso": "Aditivas: e, nem, não só…mas também | Adversativas: mas, porém, contudo, todavia, entretanto, no entanto | Alternativas: ou, ora…ora, seja…seja, quer…quer | Conclusivas: portanto, logo, pois (posposto), assim, então | Explicativas: pois (anteposto), porque, que, porquanto. Dica: conclusivas ligam ideia de conclusão; explicativas, de explicação/causa."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "portugues",
+    "frente": "Qual a diferença entre 'porque', 'por que', 'por quê' e 'porquê'?",
+    "verso": "'porque' = conjunção causal/explicativa: 'Fui porque precisava.' | 'por que' = preposição + pronome interrogativo/relativo: 'Por que você foi?' / 'O motivo por que foi.' | 'por quê' = no final de frase ou antes de ponto: 'Não sei por quê.' | 'porquê' = substantivo (o motivo): 'Não entendo o porquê.' Dica: 'porquê' aceita artigo."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "portugues",
+    "frente": "Regras de acentuação: oxítonas, paroxítonas e proparoxítonas.",
+    "verso": "Oxítonas (acento na última sílaba): acentuam-se as terminadas em a(s), e(s), o(s), em, ens: café, também, avós. Paroxítonas (acento na penúltima): acentuam-se as que NÃO terminam em a, e, o, em, ens: fácil, tórax, júnior. Proparoxítonas (antepenúltima): TODAS são acentuadas: médico, pânico, lâmpada."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "portugues",
+    "frente": "Quando se usa o acento diferencial?",
+    "verso": "Após o Acordo Ortográfico de 2009, o acento diferencial foi amplamente eliminado. Permanece apenas em: 'pôde' (pretérito perfeito) vs 'pode' (presente) e 'pôr' (verbo) vs 'por' (preposição). Foram eliminados: 'pára/para', 'péla/pela', 'fôrma/forma' etc. Também permanece: 'vêm' (3ª pessoa plural de 'vir') vs 'vem' (3ª pessoa singular)."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "portugues",
+    "frente": "O que é sujeito indeterminado e como se forma?",
+    "verso": "Sujeito indeterminado: não é identificado na oração. Forma-se de três maneiras: (1) Verbo na 3ª pessoa do plural sem sujeito expresso: 'Disseram que vai chover.' (2) Verbo na 3ª pessoa do singular + 'se' (índice de indeterminação): 'Precisa-se de enfermeiros.' (3) Verbos no infinitivo sem sujeito: 'É difícil trabalhar assim.' NÃO confundir com sujeito oculto (desinencial)."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "portugues",
+    "frente": "O que é voz passiva analítica e como transformar para ativa?",
+    "verso": "Voz passiva analítica = verbo 'ser' + particípio do verbo principal. Ex.: 'O paciente foi atendido pela enfermeira.' Para transformar em ativa: sujeito paciente vira objeto direto; agente da passiva vira sujeito: 'A enfermeira atendeu o paciente.' Dica: na passiva, o agente vem com 'por/pelo/pela'. O particípio concorda com o sujeito paciente."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "portugues",
+    "frente": "O que é voz passiva sintética (ou pronominal)?",
+    "verso": "Voz passiva sintética = verbo transitivo direto + pronome 'se' (partícula apassivadora). O sujeito é o ser que sofre a ação. Ex.: 'Vendem-se casas.' = 'Casas são vendidas.' 'Contratou-se um enfermeiro.' = 'Um enfermeiro foi contratado.' O verbo concorda com o sujeito: 'Alugam-se apartamentos.' / 'Aluga-se apartamento.' NÃO confundir com índice de indeterminação."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "portugues",
+    "frente": "Quando se usa vírgula para separar o vocativo?",
+    "verso": "O vocativo (chamamento, interpelação) é sempre separado por vírgula(s). Se no início: 'Yasmine, pode entrar.' Se no meio: 'Pode, Yasmine, entrar.' Se no final: 'Pode entrar, Yasmine.' O vocativo NÃO é sujeito nem objeto — é um termo independente. Não confundir com aposto (que explica o substantivo antecedente)."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "portugues",
+    "frente": "Quais são os casos em que a vírgula é PROIBIDA?",
+    "verso": "Proibida: (1) entre sujeito e verbo: ~~'Os médicos, chegaram.'~~ (2) entre verbo e complemento: ~~'Preciso, de ajuda.'~~ (3) entre nome e adjunto adnominal restritivo: ~~'Os pacientes, graves, saíram.'~~ Exceção: adjunto adnominal deslocado (entre sujeito e verbo) pode ser separado por vírgulas quando é explicativo ou longo."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "portugues",
+    "frente": "O que é aposto e quais são seus tipos?",
+    "verso": "Aposto: termo que explica, resume ou desenvolve um substantivo (ou pronome) anterior. Tipos: explicativo ('Rio de Janeiro, cidade maravilhosa, recebe turistas'), enumerativo ('Dois sentimentos a dominavam: alegria e medo'), resumitivo ('Médicos, enfermeiros, técnicos — todos trabalhavam'), oracional (oração como aposto). Separado por vírgula, dois-pontos ou travessão."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "portugues",
+    "frente": "Modos verbais: indicativo, subjuntivo e imperativo — uso básico.",
+    "verso": "Indicativo: certeza/realidade: 'Ela trabalha no hospital.' Subjuntivo: dúvida, hipótese, desejo, sentimento: 'Espero que ela trabalhe bem.' 'Se eu trabalhasse...' Imperativo: ordem, pedido, conselho: 'Trabalhe mais!' (afirmativo) / 'Não trabalhe assim!' (negativo — sempre subjuntivo). O imperativo afirmativo usa o indicativo (2ª pessoa) ou subjuntivo (demais)."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "portugues",
+    "frente": "O que são tempos verbais compostos? Exemplifique.",
+    "verso": "Tempos compostos = auxiliar 'ter/haver' + particípio do verbo principal. Indicativo: pretérito perfeito composto: 'tenho estudado' (ação que se repete até o presente); mais-que-perfeito composto: 'tinha estudado' (anterior a outro fato passado). Subjuntivo: pretérito perfeito: 'tenha estudado'; mais-que-perfeito: 'tivesse estudado'; futuro: 'tiver estudado'."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "portugues",
+    "frente": "Qual a diferença entre predicado verbal, nominal e verbo-nominal?",
+    "verso": "Verbal: o núcleo é um verbo significativo, não há predicativo: 'A paciente dormiu.' Nominal: o núcleo é um nome (adjetivo/substantivo) ligado ao sujeito por verbo de ligação: 'A paciente estava calma.' Verbo-nominal: tem ao mesmo tempo verbo significativo E predicativo (do sujeito ou do objeto): 'A enfermeira saiu satisfeita.' (predicativo do sujeito)."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "portugues",
+    "frente": "O que são verbos de ligação? Liste os principais.",
+    "verso": "Verbos de ligação (ou copulativos): ligam o sujeito ao predicativo, sem expressar ação. Principais: ser, estar, ficar, parecer, permanecer, continuar, tornar-se, andar (= estar), virar. Ex.: 'O paciente ficou debilitado.' 'Ela parecia cansada.' Dica: podem ser substituídos por 'estar' sem perder o sentido — se sim, são de ligação. Acompanham predicado nominal."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "portugues",
+    "frente": "O que é denotação e o que é conotação?",
+    "verso": "Denotação: sentido literal, dicionarizado, objetivo da palavra: 'A rosa é uma flor vermelha.' Conotação: sentido figurado, subjetivo, contextual: 'Ela é uma rosa' (= linda). Textos científicos e técnicos usam predominantemente denotação; textos literários e publicitários exploram a conotação. Bancas cobram a identificação do uso conotativo/denotativo em trechos."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "portugues",
+    "frente": "O que é polissemia e o que é homonímia?",
+    "verso": "Polissemia: uma mesma palavra com vários sentidos relacionados entre si por extensão semântica: 'manga' (fruta / parte da camisa / do avião). Homonímia: palavras com a mesma grafia e/ou pronúncia, mas origens e significados completamente distintos: 'são' (saudável) / 'são' (verbo ser) / 'são' (santo). Homógrafos (mesma grafia), homófonos (mesmo som), homônimos perfeitos (ambos)."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "portugues",
+    "frente": "O que é paráfrase e o que é paródia?",
+    "verso": "Paráfrase: reprodução do conteúdo de um texto com outras palavras, mantendo o mesmo sentido — reforça a mensagem original. Paródia: recriação de um texto conhecido com intenção crítica, humorística ou subversiva — inverte ou satiriza o sentido original. Em provas, identificar se o texto mantém (paráfrase) ou subverte (paródia) a mensagem do original."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "portugues",
+    "frente": "O que é coesão textual? Quais os mecanismos?",
+    "verso": "Coesão: articulação gramatical entre as partes do texto. Mecanismos: (1) Referência — anafórica (retoma o que veio antes: 'o médico... ele') e catafórica (antecipa o que vem depois: 'Esta é a regra: seja pontual'); (2) Substituição — por sinônimos, hiperônimos; (3) Elipse — omissão de elemento recuperável; (4) Conjunção — conectivos que estabelecem relações lógicas; (5) Coesão lexical — repetição, sinonímia, antonímia."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "portugues",
+    "frente": "O que é coerência textual?",
+    "verso": "Coerência: unidade de sentido do texto — as ideias se encadeiam de forma lógica, sem contradições. Enquanto a coesão é gramatical/formal, a coerência é semântica/lógica. Um texto pode ser coeso mas incoerente ('A pedra dormia de olhos abertos e comia estrelas' — gramaticalmente correto, sem sentido lógico). Fatores: continuidade temática, progressão, não contradição, articulação com o contexto."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "portugues",
+    "frente": "O que são conectivos de adição, oposição e conclusão? Exemplifique.",
+    "verso": "Adição (soma, acréscimo): e, também, além disso, ademais, ainda, outrossim, não só…mas também. | Oposição (contraste): mas, porém, contudo, entretanto, todavia, no entanto, apesar disso, em contrapartida. | Conclusão (síntese): portanto, logo, assim, então, por isso, por conseguinte, dessa forma, em suma, concluindo. Muito cobrados em questões de interpretação e reescrita."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "portugues",
+    "frente": "Como identificar o sujeito de uma oração?",
+    "verso": "Passos: (1) Encontre o verbo. (2) Pergunte 'quem?' ou 'o quê?' pratica a ação (ou está em estado). (3) O sujeito concorda com o verbo. Tipos: simples (um núcleo), composto (dois ou mais núcleos), oculto/desinencial (identificado pela desinência verbal), indeterminado (não identificável), inexistente/oração sem sujeito (verbos impessoais: haver, fazer, chover, etc.)."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "portugues",
+    "frente": "Quais verbos são impessoais (sem sujeito)?",
+    "verso": "Verbos impessoais → oração sem sujeito: (1) Fenômenos da natureza: chover, nevar, trovejar, gear, ventar: 'Choveu muito.' (2) 'Haver' no sentido de existir ou indicar tempo: 'Há muitos pacientes.' 'Há dois anos.' (3) 'Fazer' indicando tempo ou fenômeno: 'Faz dois dias.' 'Faz frio.' (4) 'Ser' indicando horas/datas: 'É meio-dia.' Atenção: no sentido de 'existir', 'haver' não varia: 'Havia muitas dúvidas.'"
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "portugues",
+    "frente": "Qual a diferença entre adjunto adnominal e complemento nominal?",
+    "verso": "Adjunto adnominal: liga-se a um substantivo, caracterizando-o, sem preposição obrigatória. Ex.: 'O exame rápido chegou.' 'Exame de sangue' (adj. adnominal). Complemento nominal: completa o sentido de um nome (substantivo abstrato, adjetivo ou advérbio) que exige complemento — sempre com preposição: 'necessidade de atenção', 'digno de confiança', 'contrariamente às normas.'"
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "portugues",
+    "frente": "O que é objeto direto e o que é objeto indireto?",
+    "verso": "Objeto direto: complemento verbal SEM preposição obrigatória: 'Ela leu o laudo.' Objeto indireto: complemento verbal COM preposição obrigatória: 'Ela gosta de trabalhar.' 'Ele obedeceu às normas.' Objeto direto preposicionado: tem preposição mas não obrigatória (valor afetivo/estilístico): 'Amo a minha profissão.' Dica: verbos transitivos diretos (VTD) pedem OD; transitivos indiretos (VTI) pedem OI."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "portugues",
+    "frente": "O que é adjunto adverbial? Quais as principais classificações?",
+    "verso": "Adjunto adverbial: modifica o verbo, adjetivo ou advérbio, indicando circunstância. Principais: lugar ('no hospital'), tempo ('às 8h'), modo ('cuidadosamente'), causa ('por descuido'), finalidade ('para curar'), instrumento ('com o estetoscópio'), companhia ('com a equipe'), negação ('não'), afirmação ('sim'), dúvida ('talvez'), intensidade ('muito'). Não integra o sentido do verbo — pode ser retirado sem comprometer a estrutura."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "portugues",
+    "frente": "Como diferenciar 'mas', 'mais' e 'más'?",
+    "verso": "'Mas' = conjunção adversativa (oposição): 'Estudei muito, mas não passei.' | 'Mais' = advérbio de intensidade ou pronome indefinido (quantidade, comparação): 'Quero mais café.' 'Ela é mais dedicada.' | 'Más' = adjetivo feminino plural de 'mau' (qualidade negativa): 'Más condições de trabalho.' Dica: substitua 'mas' por 'porém' — se funcionar, é conjunção."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "portugues",
+    "frente": "Como distinguir 'há' de 'a' (tempo)?",
+    "verso": "'Há' (verbo haver) = tempo decorrido (passado): 'Trabalho aqui há cinco anos.' Substituível por 'faz': 'Faz cinco anos que trabalho aqui.' | 'A' (preposição) = tempo futuro ou distância: 'A reunião é daqui a dois dias.' 'O hospital fica a 3 km.' Dica rápida: se pode trocar por 'faz', use 'há'. Se indica futuro ou distância, use 'a'."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "portugues",
+    "frente": "O que é o sujeito partitivo e como o verbo concorda com ele?",
+    "verso": "Sujeito partitivo: formado por expressões como 'a maioria de', 'a maior parte de', 'uma porção de', 'grande número de' seguidas de substantivo plural. O verbo pode concordar com o núcleo da expressão (singular) OU com o substantivo seguinte (plural): 'A maioria dos enfermeiros concordou.' OU 'A maioria dos enfermeiros concordaram.' Ambas as formas são aceitas."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "portugues",
+    "frente": "Como funciona a concordância com 'se' apassivador?",
+    "verso": "Com 'se' apassivador (partícula apassivadora), o verbo concorda com o sujeito paciente: 'Contratam-se enfermeiros.' (sujeito = enfermeiros, plural) / 'Contrata-se um enfermeiro.' (sujeito = um enfermeiro, singular). Erro comum: usar o verbo no singular independente do sujeito. Compare com índice de indeterminação: 'Precisa-se de enfermeiros' (VTI → verbo sempre no singular)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "portugues",
+    "frente": "O que são perífrases verbais e para que servem?",
+    "verso": "Perífrase verbal: locução formada por verbo auxiliar + verbo principal (gerúndio, infinitivo ou particípio), com sentido específico. Exemplos: 'estar + gerúndio' (ação em curso): 'Estou estudando.' 'ir + infinitivo' (futuro imediato): 'Vou estudar.' 'ter + particípio' (aspecto perfectivo): 'Tenho estudado.' 'poder + infinitivo' (possibilidade/permissão): 'Posso ajudar.' O verbo auxiliar perde sua carga semântica plena."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "portugues",
+    "frente": "O que é ambiguidade e como evitá-la?",
+    "verso": "Ambiguidade: duplo sentido involuntário que prejudica a clareza. Causas principais: (1) pronome sem referente claro: 'O médico falou com o paciente antes de ele dormir.' (quem dormiu?) (2) adjunto mal posicionado: 'Vi o cachorro correndo na janela.' (3) adjetivo com dois referentes. Para evitar: reposicionar termos, explicitar o referente do pronome, reformular a frase. Bancas cobram identificação e correção."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "portugues",
+    "frente": "O que é zeugma?",
+    "verso": "Zeugma: figura de construção (elipse) em que um termo já expresso é omitido por ter sido mencionado anteriormente: 'Ela prefere café; eu, chá.' (omissão do verbo 'prefiro'). É uma elipse específica por repetição. Diferente da simples elipse (qualquer omissão recuperável pelo contexto). Zeugma é considerado elegante na escrita formal quando bem empregado."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "portugues",
+    "frente": "O que é pleonasmo? Quando é vício e quando é figura?",
+    "verso": "Pleonasmo: repetição de ideia já expressa. Vício de linguagem (pleonasmo vicioso): redundância desnecessária: 'subir para cima', 'entrar para dentro', 'hemorragia de sangue'. Figura de linguagem (pleonasmo literário): ênfase intencional com valor expressivo: 'Viver a vida', 'Morrer de morte morrida'. O contexto e a intencionalidade distinguem os dois casos."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "portugues",
+    "frente": "Qual a diferença entre 'mau' e 'mal'?",
+    "verso": "'Mau' = adjetivo (oposto de 'bom'), concorda com o substantivo: 'mau funcionário', 'má conduta', 'maus hábitos'. | 'Mal' = advérbio (oposto de 'bem') ou substantivo: 'Trabalhou mal.', 'O mal que ela fez.' Dica: se puder substituir por 'bom', use 'mau'; se puder substituir por 'bem', use 'mal'. Também: 'mal' pode ser conjunção temporal (= assim que): 'Mal chegou, saiu.'"
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "portugues",
+    "frente": "O que são pronomes relativos? Quais são e como usá-los?",
+    "verso": "Pronomes relativos retomam um termo anterior (antecedente) e introduzem oração adjetiva. Principais: 'que' (mais amplo, para pessoas e coisas), 'quem' (para pessoas, com preposição), 'o qual/a qual/os quais/as quais' (quando há preposição composta ou para evitar ambiguidade), 'cujo/cuja' (posse — não se usa 'o cujo'!), 'onde' (lugar), 'quando' (tempo), 'quanto' (após 'tudo, tanto'). 'Cujo' = de quem / do qual."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "portugues",
+    "frente": "O que é anacoluto?",
+    "verso": "Anacoluto: figura de sintaxe em que um termo é enunciado no início da frase mas não tem função sintática definida (fica 'solto'): 'Esse hospital, eu nunca mais volto lá.' O termo 'esse hospital' não tem função na oração principal. É comum na linguagem oral e informal. Em textos formais é considerado vício (ruptura da construção), mas em literários pode ter valor expressivo."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "portugues",
+    "frente": "Quais são os pronomes de tratamento e como concordam?",
+    "verso": "Pronomes de tratamento (forma cerimonial/protocolar): Vossa Excelência (VEx.ª) — presidente, ministro, governador, senador, juiz; Vossa Senhoria (V.Sa.) — autoridades em geral; Vossa Magnificência — reitores; Vossa Reverendíssima — sacerdotes; Você — informal. Concordância: verbo e pronomes possessivos na 3ª pessoa ('Vossa Excelência chegou.'), mas o adjetivo predicativo concorda com o gênero real da pessoa."
+  }
+]

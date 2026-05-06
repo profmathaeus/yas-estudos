@@ -1,0 +1,284 @@
+[
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Fórmula de porcentagem: como calcular X% de um valor?",
+    "verso": "X% de N = (X ÷ 100) × N. Exemplo: 15% de 200 = 0,15 × 200 = 30. Para calcular o percentual de A em relação a B: (A ÷ B) × 100. Aumento de X%: multiplica por (1 + X/100). Desconto de X%: multiplica por (1 − X/100). Ex.: desconto de 20% em R$500 = 500 × 0,80 = R$400."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Aumento e desconto sucessivos: como calcular?",
+    "verso": "Não se somam percentuais diretamente. Aplica-se um sobre o resultado do outro. Ex.: aumento de 10% seguido de desconto de 10%: 100 × 1,10 × 0,90 = 99 → redução real de 1%. Fórmula: multiplique os fatores: (1 + a)(1 + b)... Se o resultado for < 1, houve desconto; > 1, aumento. O percentual real = (resultado − 1) × 100%."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "Regra de três simples: quando usar e como resolver?",
+    "verso": "Use quando há duas grandezas e uma delas é desconhecida, sendo diretamente ou inversamente proporcionais. Diretamente: mais de A → mais de B. Inversamente: mais de A → menos de B. Montagem: A₁/A₂ = B₁/B₂ (direta) ou A₁/A₂ = B₂/B₁ (inversa). Ex.: 3 enfermeiras atendem 12 pacientes em 2h. Quantas atendem 20 pacientes? (direta): 3/x = 12/20 → x = 5."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "Regra de três composta: o que é e como resolver?",
+    "verso": "Envolve três ou mais grandezas. Passos: (1) monte a tabela com as grandezas. (2) Para cada par, identifique se é direta ou inversa com a grandeza do x. (3) Direta: coloque como fração normal. Inversa: inverta a fração. (4) Multiplique os numeradores e denominadores. Ex.: 4 médicos atendem 80 pacientes em 5 dias. Quantos dias 6 médicos levarão para 90 pacientes? Inversa (médicos) × Direta (pacientes)."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "Cálculo de dose simples: fórmula e exemplo.",
+    "verso": "Dose prescrita ÷ Dose disponível × Volume disponível = Volume a administrar. Fórmula: V = (Dp ÷ Da) × Va. Ex.: Médico prescreveu 500mg de paracetamol. Disponível: 250mg/5mL. Volume = (500 ÷ 250) × 5 = 2 × 5 = 10 mL. Atenção às unidades: converter mg para g ou vice-versa se necessário antes de calcular."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "Cálculo de gotejamento (macro e microgotas): fórmulas.",
+    "verso": "Macrogotas (equipo padrão: 20 gotas/mL): Gotas/min = Volume (mL) ÷ Tempo (min) × 20. Microgotas (equipo microgotas: 60 microgotas/mL): Microgotas/min = Volume (mL) ÷ Tempo (min) × 60. Relação: 1 gota = 3 microgotas. Ex.: 500mL em 4h (240min) em macrogotas: 500÷240×20 ≈ 42 gotas/min. Arredonde para o inteiro mais próximo."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "Cálculo de diluição: fórmula C₁V₁ = C₂V₂.",
+    "verso": "C₁V₁ = C₂V₂ (concentração e volume antes e depois da diluição). Ex.: Diluir 10mL de solução a 20% para obter solução a 4%. C₁=20%, V₁=10mL, C₂=4%, V₂=? → V₂ = (20×10)÷4 = 50mL. Portanto, adicione 40mL de diluente. Aplicação clínica: cálculo de soro glicosado, medicamentos em bomba de infusão, antissépticos diluídos."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "Bomba de infusão: como calcular mL/h?",
+    "verso": "mL/h = Volume total (mL) ÷ Tempo (h). Ex.: 1000mL em 8 horas = 125 mL/h. Para converter gotas/min em mL/h: mL/h = (gotas/min × 60) ÷ 20 (macrogotas) = gotas/min × 3. Ex.: 30 gotas/min = 30 × 3 = 90 mL/h. Para calcular em μg/kg/min (drogas vasoativas): dose = (V mL/h × Concentração mg/mL × 1000) ÷ (Peso × 60)."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "IMC: fórmula, classificação da OMS e aplicação.",
+    "verso": "IMC = Peso (kg) ÷ Altura² (m²). Classificação OMS: < 18,5 = Baixo peso | 18,5–24,9 = Eutrofia (normal) | 25–29,9 = Sobrepeso | 30–34,9 = Obesidade Grau I | 35–39,9 = Obesidade Grau II | ≥ 40 = Obesidade Grau III (mórbida). Ex.: Peso 70kg, Altura 1,70m → IMC = 70 ÷ 2,89 ≈ 24,2 (eutrofia). Para idosos, considera-se sobrepeso a partir de IMC 22."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Média aritmética simples e ponderada: diferença e fórmulas.",
+    "verso": "Simples: soma dos valores ÷ quantidade de valores. Ex.: notas 7, 8, 9 → média = 24÷3 = 8. Ponderada: cada valor tem peso diferente. Fórmula: M = (v₁×p₁ + v₂×p₂ + ... + vₙ×pₙ) ÷ (p₁ + p₂ + ... + pₙ). Ex.: prova (peso 3) = 8; trabalho (peso 1) = 6. M = (8×3 + 6×1)÷(3+1) = (24+6)÷4 = 30÷4 = 7,5."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "Juros simples: fórmula e componentes.",
+    "verso": "J = C × i × t. Onde: J = juros; C = capital (principal); i = taxa de juros (no período); t = tempo (no mesmo período da taxa). Montante: M = C + J = C(1 + it). Ex.: R$2.000 a 3% ao mês por 4 meses: J = 2000 × 0,03 × 4 = R$240. M = 2000 + 240 = R$2.240. Atenção: taxa e tempo devem estar na mesma unidade (ambos em mês, ou ambos em ano)."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "MMC e MDC: o que são e como calcular?",
+    "verso": "MMC (Mínimo Múltiplo Comum): menor número divisível por todos os dados. MDC (Máximo Divisor Comum): maior número que divide todos os dados. Cálculo pelo método da fatoração: decomponha em fatores primos. MMC = produto de todos os fatores primos com maior expoente. MDC = produto dos fatores comuns com menor expoente. Ex.: MMC(4,6) = 12; MDC(4,6) = 2."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "Equação do 1º grau: como resolver e verificar?",
+    "verso": "Forma geral: ax + b = 0 (a ≠ 0). Solução: x = −b/a. Passos: isole o x passando os números para um lado e o x para o outro (sinal troca ao passar o '='). Ex.: 3x + 6 = 15 → 3x = 15 − 6 → 3x = 9 → x = 3. Verificação: substitua o valor encontrado: 3(3) + 6 = 9 + 6 = 15 ✓. Em problemas: monte a equação a partir do enunciado."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "Equação do 2º grau: fórmula de Bhaskara e discriminante.",
+    "verso": "Forma geral: ax² + bx + c = 0. Discriminante: Δ = b² − 4ac. Se Δ > 0: duas raízes reais distintas. Se Δ = 0: uma raiz real (dupla). Se Δ < 0: sem raízes reais. Fórmula de Bhaskara: x = (−b ± √Δ) ÷ 2a. Ex.: x² − 5x + 6 = 0 → Δ = 25 − 24 = 1 → x = (5 ± 1)÷2 → x₁ = 3, x₂ = 2."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Progressão Aritmética (PA): definição, termo geral e soma.",
+    "verso": "PA: sequência em que cada termo é obtido somando uma razão (r) constante ao anterior. Termo geral: aₙ = a₁ + (n−1)r. Soma dos n termos: Sₙ = n(a₁ + aₙ)÷2 = n(2a₁ + (n−1)r)÷2. Ex.: PA(2, 5, 8, 11...) → r = 3; a₅ = 2 + 4×3 = 14; S₅ = 5(2+14)÷2 = 40. Em PA crescente r > 0; decrescente r < 0; constante r = 0."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "Progressão Geométrica (PG): definição, termo geral e produto.",
+    "verso": "PG: cada termo é obtido multiplicando o anterior por uma razão (q) constante (q ≠ 0). Termo geral: aₙ = a₁ × q^(n−1). Produto dos n termos: Pₙ = (a₁ × aₙ)^(n/2). Ex.: PG(2, 6, 18, 54) → q = 3; a₅ = 2 × 3⁴ = 162. q > 1: crescente; 0 < q < 1: decrescente; q = 1: constante; q < 0: alternante de sinal."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "Conjuntos: operações de união, interseção e diferença.",
+    "verso": "União (A ∪ B): todos os elementos de A ou de B (ou de ambos). | Interseção (A ∩ B): apenas os elementos comuns a A e B. | Diferença (A − B): elementos de A que não estão em B. | Complementar (Aᶜ): elementos do universo que não estão em A. Fórmula importante: |A ∪ B| = |A| + |B| − |A ∩ B|. Usada em problemas do tipo 'quantos gostam de pelo menos um dos dois?'"
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "Lógica: negação de proposições simples e compostas.",
+    "verso": "Negação de p: ~p (inverte o valor verdade). Negação de conjunção (p ∧ q): ~p ∨ ~q (Lei de De Morgan). Negação de disjunção (p ∨ q): ~p ∧ ~q. Negação de condicional (p → q): p ∧ ~q (a única situação que torna o condicional falso). Negação de bicondicional (p ↔ q): (p ∧ ~q) ∨ (~p ∧ q). Lembrete: negar um 'e' vira 'ou'; negar um 'ou' vira 'e'."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "Proposição condicional (p → q): quando é FALSA?",
+    "verso": "A condicional 'Se p, então q' (p → q) é FALSA apenas quando p é VERDADEIRO e q é FALSO. Em todos os outros casos é verdadeira: V→V = V; V→F = F; F→V = V; F→F = V. Leitura: 'uma afirmação falsa pode prometer qualquer coisa — só mente quando a hipótese é verdadeira mas a conclusão não se cumpre.' Muito cobrado em silogismos e encadeamentos."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "O que é a contrapositiva de uma condicional?",
+    "verso": "A contrapositiva de 'Se p → q' é '~q → ~p' — e tem o MESMO valor lógico que a original (são logicamente equivalentes). Diferente da recíproca (q → p) e da inversa (~p → ~q), que não são equivalentes ao original. Ex.: 'Se é enfermeiro, tem registro no COREN' ≡ 'Se não tem registro no COREN, não é enfermeiro.' Útil para demonstrações indiretas (contraprova)."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "Silogismo categórico: estrutura e validade.",
+    "verso": "Silogismo: raciocínio dedutivo com duas premissas e uma conclusão. Estrutura clássica: P1 (premissa maior) + P2 (premissa menor) = Conclusão. Ex.: 'Todo enfermeiro é profissional de saúde. Maria é enfermeira. Logo, Maria é profissional de saúde.' Para ser válido: a conclusão deve ser necessariamente verdadeira SE as premissas forem verdadeiras. Atenção a quantificadores: 'todo', 'nenhum', 'algum'."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "Proposição disjuntiva (p ∨ q): inclusiva vs. exclusiva.",
+    "verso": "Disjunção inclusiva (ou...ou, podendo ser os dois): p ∨ q é FALSA apenas quando p e q são ambos falsos. Tabela: V∨V=V; V∨F=V; F∨V=V; F∨F=F. Disjunção exclusiva (ou um ou outro, não os dois): p ⊕ q é verdadeira apenas quando os valores são diferentes (V⊕F=V; F⊕V=V; V⊕V=F; F⊕F=F). Em concursos, 'ou' geralmente é inclusivo salvo indicação contrária."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "O que é tautologia e o que é contradição (antilogia)?",
+    "verso": "Tautologia: proposição composta que é SEMPRE VERDADEIRA, independente dos valores de verdade das proposições simples. Ex.: p ∨ ~p (princípio do terceiro excluído). Contradição (antilogia): proposição composta que é SEMPRE FALSA. Ex.: p ∧ ~p. Contingência: nem sempre verdadeira nem sempre falsa — depende dos valores. Verificar pela tabela verdade: se última coluna toda V = tautologia; toda F = contradição."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "Análise combinatória: quando usar permutação, arranjo ou combinação?",
+    "verso": "Permutação: ordem importa, usa todos os elementos. P(n) = n! Ex.: 5 pessoas em 5 cadeiras = 5! = 120. Arranjo: ordem importa, usa parte dos elementos. A(n,p) = n!÷(n−p)!. Ex.: 5 pessoas em 3 cadeiras = 5!÷2! = 60. Combinação: ordem NÃO importa, escolha de parte. C(n,p) = n!÷(p!×(n−p)!). Ex.: 5 pessoas, escolher 3 = 10. Mnemônico: P=posição importa toda; A=Arrangé (ordem, parcial); C=Conjunto (sem ordem)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Probabilidade: definição e fórmula clássica.",
+    "verso": "P(A) = número de casos favoráveis ÷ número de casos possíveis (igualmente prováveis). 0 ≤ P(A) ≤ 1. P(evento certo) = 1; P(evento impossível) = 0. P(A ou B) = P(A) + P(B) − P(A e B). P(A e B independentes) = P(A) × P(B). Complementar: P(~A) = 1 − P(A). Ex.: dados a probabilidade de sair número par = 3/6 = 1/2."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "Razão e proporção: o que são?",
+    "verso": "Razão: quociente entre dois números (a/b, b≠0). Ex.: razão de 3 para 4 = 3/4 = 0,75. Proporção: igualdade entre duas razões: a/b = c/d → a×d = b×c (produto dos extremos = produto dos meios). Propriedade fundamental da proporção: a×d = b×c. Ex.: 2/4 = 3/6 → 2×6 = 4×3 → 12 = 12 ✓. Usada na regra de três e em problemas de escala."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "Como calcular a mediana e a moda de um conjunto de dados?",
+    "verso": "Mediana: valor central após ordenar os dados. Com n ímpar: elemento do meio. Com n par: média dos dois elementos centrais. Ex.: {3,5,7,9,11} → mediana = 7; {2,4,6,8} → mediana = (4+6)÷2 = 5. Moda: valor(es) que aparece(m) com maior frequência. Pode ser amodal (sem moda), unimodal, bimodal ou multimodal. Ex.: {2,3,3,4,5,5,5} → moda = 5."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "Potenciação e radiciação: propriedades básicas.",
+    "verso": "aᵐ × aⁿ = aᵐ⁺ⁿ | aᵐ ÷ aⁿ = aᵐ⁻ⁿ | (aᵐ)ⁿ = aᵐⁿ | (a×b)ⁿ = aⁿ×bⁿ | a⁰ = 1 (a≠0) | a⁻ⁿ = 1/aⁿ | a^(1/n) = ⁿ√a | a^(m/n) = ⁿ√(aᵐ). Radiciação: ⁿ√a × ⁿ√b = ⁿ√(ab) | ⁿ√a ÷ ⁿ√b = ⁿ√(a÷b). Atenção: √(a+b) ≠ √a + √b (erro clássico)."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "Geometria plana: áreas das figuras mais cobradas.",
+    "verso": "Quadrado: A = l² | Retângulo: A = b×h | Triângulo: A = (b×h)÷2 | Paralelogramo: A = b×h | Trapézio: A = ((B+b)×h)÷2 | Círculo: A = π×r² | Losango: A = (d×D)÷2 (diagonais). Perímetro do círculo (circunferência): C = 2πr. Número de diagonais de polígono de n lados: D = n(n−3)÷2."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Teorema de Pitágoras: enunciado e aplicação.",
+    "verso": "Em todo triângulo retângulo: a² = b² + c², onde 'a' é a hipotenusa (lado oposto ao ângulo reto) e 'b', 'c' são os catetos. Ex.: catetos 3 e 4 → hipotenusa = √(9+16) = √25 = 5. Ternas pitagóricas clássicas: (3,4,5), (5,12,13), (6,8,10), (8,15,17). Uso em problemas de distância, escada apoiada na parede, rampa de acesso."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "Como converter unidades de tempo, comprimento e massa?",
+    "verso": "Tempo: 1h = 60min = 3600s | 1 dia = 24h | 1 semana = 7 dias | 1 ano = 365 dias. Comprimento: 1km = 1000m | 1m = 100cm = 1000mm | 1cm = 10mm. Massa: 1kg = 1000g = 1.000.000mg | 1g = 1000mg | 1 tonelada = 1000kg. Volume: 1L = 1000mL = 1dm³ | 1m³ = 1000L. Enfermagem: converter mL↔L, mg↔g↔mcg (1mg = 1000mcg)."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "Fração: operações básicas e simplificação.",
+    "verso": "Adição/subtração: denominador comum (MMC). Ex.: 1/3 + 1/4 = 4/12 + 3/12 = 7/12. Multiplicação: numerador × numerador; denominador × denominador: (2/3)×(3/5) = 6/15 = 2/5. Divisão: multiplica pelo inverso: (2/3)÷(4/5) = (2/3)×(5/4) = 10/12 = 5/6. Simplificação: divida numerador e denominador pelo MDC. Fração imprópria (num > den) → número misto."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "Sistema de equações 2×2: método da substituição e adição.",
+    "verso": "Substituição: isole uma variável em uma equação e substitua na outra. Adição (eliminação): some as equações para eliminar uma variável (multiplique se necessário). Ex.: x+y=5 e x−y=1. Por adição: 2x=6 → x=3 → y=2. Verificação: 3+2=5 ✓ e 3−2=1 ✓. Sistemas com 0 soluções = impossível; infinitas soluções = indeterminado; 1 solução = determinado."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "O que é fatorial e para que é usado?",
+    "verso": "n! = n × (n−1) × (n−2) × ... × 2 × 1. Por definição: 0! = 1. Ex.: 5! = 5×4×3×2×1 = 120; 3! = 6. Usado em combinatória: permutações, arranjos e combinações. Propriedade útil: n! = n × (n−1)!. Ex.: simplificação: 8!÷6! = 8×7 = 56 (cancela os termos comuns). Em problemas de concurso, aparece em cálculo de anagramas e posicionamentos."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Lógica: quantificadores universais e existenciais.",
+    "verso": "Quantificador universal (∀): 'Para todo', 'Qualquer que seja', 'Todo'. Ex.: 'Todo paciente merece cuidado.' Quantificador existencial (∃): 'Existe pelo menos um', 'Algum', 'Há'. Ex.: 'Algum enfermeiro é plantonista.' Negação: ~(∀x, p(x)) = ∃x, ~p(x): 'Nem todo' ↔ 'Existe algum que não'. ~(∃x, p(x)) = ∀x, ~p(x): 'Nenhum' ↔ 'Todo x não'. Muito cobrado em provas!"
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "Como resolver problemas de velocidade média?",
+    "verso": "Velocidade média: Vm = distância total ÷ tempo total. Vm = Δd ÷ Δt. Ex.: percorre 180km em 2h → Vm = 90 km/h. Se percorreu 100km a 50km/h e 100km a 100km/h: t₁ = 2h; t₂ = 1h; Vm = 200km÷3h ≈ 66,7 km/h (NÃO é a média das velocidades!). Conversão: km/h → m/s: divide por 3,6. m/s → km/h: multiplica por 3,6."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "Raciocínio lógico: tabela verdade — como montar?",
+    "verso": "Para n proposições: 2ⁿ linhas. Com 2 proposições (p, q): 4 linhas (VV, VF, FV, FF). Conectivos: ∧ (E) — V só quando ambas V; ∨ (OU) — F só quando ambas F; → (SE...ENTÃO) — F só quando V→F; ↔ (SE E SOMENTE SE) — V quando iguais; ~(NÃO) — inverte. Ordem de precedência: ~ > ∧ > ∨ > → > ↔. Use parênteses para alterar a ordem."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "O que é proporção direta e inversa? Como identificar?",
+    "verso": "Diretamente proporcional: quando uma grandeza aumenta, a outra também aumenta na mesma razão (k = y/x = constante). Ex.: quantidade de medicamento e custo. Inversamente proporcional: quando uma aumenta, a outra diminui (k = x×y = constante). Ex.: número de funcionários e tempo para concluir uma tarefa. Dica: 'mais funcionários = menos tempo' → inversamente; 'mais medicamento = mais custo' → diretamente."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "Como calcular desconto simples e preço final com desconto?",
+    "verso": "Desconto = Preço original × (taxa ÷ 100). Preço final = Preço original − Desconto = Preço original × (1 − taxa/100). Ex.: produto de R$250 com 30% de desconto: Desconto = 250 × 0,30 = R$75. Preço final = 250 − 75 = R$175. Ou: 250 × 0,70 = R$175. Atenção: descontos sucessivos não se somam — aplica-se um sobre o resultado do outro."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Sequência numérica: como identificar o padrão?",
+    "verso": "Passos: (1) Calcule a diferença entre termos consecutivos — se constante, é PA (razão = diferença). (2) Calcule o quociente entre termos consecutivos — se constante, é PG (razão = quociente). (3) Se não for nenhuma, busque padrões: quadrados, cubos, Fibonacci (cada termo = soma dos dois anteriores: 1,1,2,3,5,8,13...), alternância de operações. Dica: olhe para diferenças de diferenças (2ª diferença constante = sequência quadrática)."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "O que é grandeza escalar e grandeza vetorial?",
+    "verso": "Grandeza escalar: completamente definida por um número e unidade. Ex.: massa (70 kg), temperatura (36,5°C), volume (500 mL), tempo (2h), área. Grandeza vetorial: exige módulo, direção e sentido. Ex.: força, velocidade, aceleração, deslocamento. Em enfermagem: pressão arterial é escalar (valor numérico + mmHg); aplicação de força em compressão é vetorial. Cobrado em interpretação de dados clínicos."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "Porcentagem aplicada à enfermagem: soluções e concentrações.",
+    "verso": "Concentração percentual: g de soluto por 100 mL de solução. SF 0,9% = 0,9g NaCl por 100mL = 9g/L. SG 5% = 5g glicose por 100mL. Para preparar 500mL de solução a 10%: quantidade de soluto = 500 × 0,10 = 50g. Relação: C% = (massa do soluto ÷ volume da solução) × 100. Atenção: massa em g e volume em mL para C% massa/volume (m/v)."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "Lógica: equivalências notáveis — quais saber de cor?",
+    "verso": "1. Contraposição: (p→q) ≡ (~q→~p). 2. De Morgan: ~(p∧q) ≡ ~p∨~q e ~(p∨q) ≡ ~p∧~q. 3. Importação: (p∧q)→r ≡ p→(q→r). 4. Exportação: p→(q→r) ≡ (p∧q)→r. 5. Bicondicional: (p↔q) ≡ (p→q)∧(q→p). 6. Condicional como disjunção: p→q ≡ ~p∨q. Estas são as mais cobradas em concursos públicos. Memorize as Leis de De Morgan!"
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "Como montar e resolver problemas de conjuntos com diagrama de Venn?",
+    "verso": "Passos: (1) Desenhe os círculos (um por conjunto). (2) Comece pela interseção (A∩B). (3) Preencha cada conjunto: |A apenas| = |A| − |A∩B|. (4) Calcule o universo: |U| = |A apenas| + |B apenas| + |A∩B| + |fora de A e B|. Fórmula: |A∪B| = |A| + |B| − |A∩B|. Ex.: 30 gostam de frutas, 20 de verduras, 10 gostam de ambos → |frutas∪verduras| = 30+20−10 = 40."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Geometria espacial: volume das figuras mais cobradas.",
+    "verso": "Cubo: V = a³ | Paralelepípedo: V = c×l×h | Cilindro: V = π×r²×h | Cone: V = (π×r²×h)÷3 | Esfera: V = (4π×r³)÷3 | Pirâmide: V = (Abase×h)÷3. Área lateral do cilindro: AL = 2πrh. Área total do cilindro: AT = 2πr(r+h). Aplicação: volume de reservatório, capacidade de medicamento em seringa (cilindro)."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "O que é moda bimodal e como interpretar estatísticas descritivas?",
+    "verso": "Moda bimodal: dois valores com a mesma frequência máxima. Ex.: {2,3,3,4,5,5,6} → moda = 3 e 5. Estatísticas descritivas resumem dados: Média (centro de gravidade, sensível a outliers), Mediana (centro posicional, robusta a outliers), Moda (valor mais frequente). Desvio padrão: dispersão em torno da média (maior = mais espalhado). Em epidemiologia e saúde coletiva: indicadores de saúde usam essas medidas."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "Como resolver problemas de trabalho conjunto (torneiras/trabalhadores)?",
+    "verso": "Se A faz uma tarefa em 'a' horas, sua taxa = 1/a por hora. Trabalhando juntos: taxa total = 1/a + 1/b. Tempo total = 1 ÷ (1/a + 1/b) = ab/(a+b). Ex.: torneira A enche em 4h, B em 6h juntas: 1/4 + 1/6 = 3/12 + 2/12 = 5/12 por hora → tempo = 12/5 = 2,4h = 2h24min. Com esvaziamento: subtrai a taxa do que esvazia."
+  }
+]
