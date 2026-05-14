@@ -1,0 +1,632 @@
+[
+  {
+    "tema": "estatuto",
+    "enunciado": "De acordo com as formas de provimento de cargo público, assinale a alternativa que apresenta EXCLUSIVAMENTE formas de provimento DERIVADO:",
+    "alternativas": [
+      {"letra": "A", "texto": "Nomeação, promoção e reintegração."},
+      {"letra": "B", "texto": "Promoção, readaptação e reversão."},
+      {"letra": "C", "texto": "Nomeação, aproveitamento e recondução."},
+      {"letra": "D", "texto": "Reversão, nomeação e promoção."},
+      {"letra": "E", "texto": "Reintegração, nomeação e readaptação."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Promoção, readaptação e reversão são formas de provimento derivado — pressupõem que o servidor já possui ou possuiu vínculo anterior com o serviço público. A nomeação é a ÚNICA forma de provimento originário. As demais alternativas incluem a nomeação, que é originária.",
+    "explicacoes": {
+      "A": "Incorreta: inclui a nomeação, que é provimento originário, não derivado.",
+      "C": "Incorreta: inclui a nomeação (originária) junto com aproveitamento e recondução (derivados).",
+      "D": "Incorreta: inclui a nomeação (originária) junto com reversão e promoção (derivados).",
+      "E": "Incorreta: inclui a nomeação (originária) junto com reintegração e readaptação (derivados)."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Conhecimentos Comuns",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Servidor público municipal, após ser submetido a inspeção médica, recebeu laudo atestando limitação física permanente que o impede de exercer as atribuições originais do seu cargo. A Administração verificou a existência de cargo compatível com sua limitação no mesmo quadro funcional. Nessa situação, o servidor deve ser:",
+    "alternativas": [
+      {"letra": "A", "texto": "Aposentado por incapacidade permanente, com proventos proporcionais ao tempo de contribuição."},
+      {"letra": "B", "texto": "Exonerado de ofício por não reunir condições físicas para o exercício do cargo."},
+      {"letra": "C", "texto": "Readaptado em cargo de atribuições compatíveis com sua limitação, sem redução de vencimento."},
+      {"letra": "D", "texto": "Suspenso preventivamente até nova avaliação médica em 90 dias."},
+      {"letra": "E", "texto": "Transferido para cargo em comissão compatível com sua limitação, ad nutum."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Readaptação é o provimento em cargo de atribuições compatíveis com limitação física ou mental verificada em inspeção médica. É uma proteção ao servidor — não há redução de vencimento e o servidor não perde o cargo. A aposentadoria por incapacidade só ocorre se não houver cargo compatível.",
+    "explicacoes": {
+      "A": "Incorreta: a aposentadoria por incapacidade permanente é aplicada apenas quando NÃO houver cargo compatível para readaptação.",
+      "B": "Incorreta: a exoneração de ofício por limitação física não é prevista — o instituto correto é a readaptação.",
+      "D": "Incorreta: suspensão preventiva é medida do regime disciplinar, não se aplica a casos de limitação física.",
+      "E": "Incorreta: cargo em comissão é de livre nomeação/exoneração e não é o instrumento correto — o instituto é a readaptação em cargo efetivo."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Conhecimentos Comuns",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Assinale a alternativa que apresenta corretamente os prazos de PRESCRIÇÃO das infrações disciplinares, em ordem crescente:",
+    "alternativas": [
+      {"letra": "A", "texto": "Advertência: 2 anos; Suspensão: 3 anos; Demissão: 5 anos."},
+      {"letra": "B", "texto": "Advertência: 1 ano; Suspensão: 2 anos; Demissão/Cassação/Destituição: 5 anos."},
+      {"letra": "C", "texto": "Advertência: 1 ano; Suspensão: 3 anos; Demissão/Cassação/Destituição: 10 anos."},
+      {"letra": "D", "texto": "Advertência: 2 anos; Suspensão: 4 anos; Demissão/Cassação/Destituição: 8 anos."},
+      {"letra": "E", "texto": "Advertência: 6 meses; Suspensão: 1 ano; Demissão/Cassação/Destituição: 5 anos."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Os prazos prescricionais, conforme previsto nos estatutos (base na Lei 8.112/90): Advertência = 1 ano; Suspensão = 2 anos; Demissão, cassação de aposentadoria/disponibilidade e destituição de cargo em comissão = 5 anos. Contados da data em que o fato se tornou conhecido.",
+    "explicacoes": {
+      "A": "Incorreta: o prazo para advertência é 1 ano, não 2; e para suspensão é 2 anos, não 3.",
+      "C": "Incorreta: o prazo para suspensão é 2 anos, não 3; e para demissão é 5 anos, não 10.",
+      "D": "Incorreta: advertência é 1 ano, não 2; suspensão é 2 anos, não 4; e demissão é 5 anos, não 8.",
+      "E": "Incorreta: advertência é 1 ano, não 6 meses; e suspensão é 2 anos, não 1 ano."
+    },
+    "fonte": "IBFC 2023 — Estatuto do Servidor",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Servidor público estável teve seu cargo declarado desnecessário pela Administração Municipal. Considerando as disposições do Estatuto do Servidor, é correto afirmar que esse servidor:",
+    "alternativas": [
+      {"letra": "A", "texto": "Será imediatamente exonerado, com pagamento de indenização proporcional ao tempo de serviço."},
+      {"letra": "B", "texto": "Perderá a estabilidade, podendo ser demitido após processo administrativo."},
+      {"letra": "C", "texto": "Ficará em disponibilidade remunerada proporcionalmente ao tempo de serviço, aguardando aproveitamento em cargo equivalente."},
+      {"letra": "D", "texto": "Será transferido compulsoriamente para outro município, independente de sua concordância."},
+      {"letra": "E", "texto": "Terá seu cargo extinto e será contratado temporariamente para as mesmas funções."}
+    ],
+    "gabarito": "C",
+    "justificativa": "O servidor ESTÁVEL cujo cargo é extinto ou declarado desnecessário não pode ser demitido — ficará em disponibilidade remunerada (proporcional ao tempo de serviço) até que seja aproveitado em cargo equivalente. É a proteção constitucional ao servidor estável (CF art. 41, §3º).",
+    "explicacoes": {
+      "A": "Incorreta: servidor estável não pode ser exonerado arbitrariamente — o instituto correto é a disponibilidade, não a exoneração com indenização.",
+      "B": "Incorreta: a extinção do cargo não faz o servidor perder a estabilidade — ele vai para disponibilidade.",
+      "D": "Incorreta: a transferência compulsória para outro município não é prevista nesses termos — o servidor vai para disponibilidade.",
+      "E": "Incorreta: não é possível extinguir o cargo e contratar temporariamente o mesmo servidor para as mesmas funções (violaria o concurso público)."
+    },
+    "fonte": "FAFIPA 2024 — Estatuto do Servidor",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "A Administração Pública Municipal anulou judicialmente a demissão de um servidor. Quando ele retornou ao cargo, constatou-se que o mesmo estava ocupado por outro servidor, recentemente aprovado em concurso. Sobre esse servidor que ocupa o cargo, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "Será demitido, pois o cargo pertence ao servidor reintegrado por direito."},
+      {"letra": "B", "texto": "Permanecerá no cargo, que será desdobrado para comportar os dois servidores."},
+      {"letra": "C", "texto": "Será reconduzido ao cargo anterior ou posto em disponibilidade, se não houver cargo anterior."},
+      {"letra": "D", "texto": "Ficará em exercício provisório no mesmo cargo junto com o servidor reintegrado."},
+      {"letra": "E", "texto": "Será removido para outra unidade da mesma repartição, mantendo o mesmo cargo."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Na reintegração, o servidor retorna ao cargo anteriormente ocupado. Se o cargo estiver ocupado por outro servidor, este será reconduzido ao cargo de origem, sem direito a indenização, ou posto em disponibilidade caso não haja cargo de origem disponível. Não há demissão do servidor que ocupava o cargo.",
+    "explicacoes": {
+      "A": "Incorreta: o servidor que ocupava o cargo NÃO é demitido — é reconduzido ao cargo anterior ou posto em disponibilidade.",
+      "B": "Incorreta: o cargo não pode ser 'desdobrado' — a solução é a recondução ou disponibilidade.",
+      "D": "Incorreta: não existe 'exercício provisório conjunto' no mesmo cargo — o cargo é único.",
+      "E": "Incorreta: a remoção para outra unidade não resolve o problema — o cargo seria duplicado, o que não é permitido."
+    },
+    "fonte": "ENARE 2024 — Estatuto do Servidor",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "No que se refere à acumulação de cargos públicos, é CORRETO afirmar que:",
+    "alternativas": [
+      {"letra": "A", "texto": "É vedada em qualquer hipótese, pois a Constituição Federal proíbe absolutamente a acumulação remunerada."},
+      {"letra": "B", "texto": "É permitida a acumulação de dois cargos de médico com dois cargos de enfermeiro, totalizando quatro cargos."},
+      {"letra": "C", "texto": "É permitida a acumulação de dois cargos de enfermeiro, desde que haja compatibilidade de horários e respeito ao teto constitucional."},
+      {"letra": "D", "texto": "É permitida a acumulação de qualquer cargo com cargo em comissão, independente de compatibilidade de horários."},
+      {"letra": "E", "texto": "É permitida apenas para profissionais de saúde com dois cargos de professor."}
+    ],
+    "gabarito": "C",
+    "justificativa": "A CF/88 art. 37, XVI, c, permite a acumulação de dois cargos ou empregos privativos de profissionais de saúde com profissões regulamentadas, desde que haja compatibilidade de horários e o somatório de remuneração não ultrapasse o teto constitucional. Enfermeiro é profissional de saúde com profissão regulamentada (COREN), portanto pode acumular dois cargos de enfermeiro.",
+    "explicacoes": {
+      "A": "Incorreta: a CF prevê exceções à vedação de acumulação — dois cargos de professor, professor + técnico/científico, e dois cargos de profissionais de saúde regulamentados.",
+      "B": "Incorreta: a CF permite acumulação de DOIS cargos no máximo (além do cargo em comissão), não quatro.",
+      "D": "Incorreta: mesmo para cargo em comissão, há necessidade de compatibilidade de horários quando acumulado com cargo efetivo.",
+      "E": "Incorreta: a acumulação de dois cargos de profissionais de saúde é independente e não exige que um seja de professor."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Estatuto do Servidor",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Servidor público municipal foi demitido por abandono de cargo. Posteriormente, o Município constatou que a demissão foi irregular, pois o servidor tinha autorização de afastamento que não foi registrada. Nessa situação, o servidor tem direito à:",
+    "alternativas": [
+      {"letra": "A", "texto": "Readmissão, com novo estágio probatório e sem ressarcimento do período afastado."},
+      {"letra": "B", "texto": "Reintegração ao cargo, com ressarcimento de todas as vantagens do período de afastamento."},
+      {"letra": "C", "texto": "Recondução ao cargo, sem direito a ressarcimento do período afastado."},
+      {"letra": "D", "texto": "Reversão ao cargo, com aproveitamento proporcional do tempo de afastamento."},
+      {"letra": "E", "texto": "Aproveitamento em cargo equivalente, em disponibilidade remunerada."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Reintegração é o retorno do servidor ao cargo após anulação judicial ou administrativa de sua demissão ilegal, com ressarcimento de todas as vantagens do período de afastamento (vencimentos, promoções, etc.). É a consequência da anulação da demissão irregular.",
+    "explicacoes": {
+      "A": "Incorreta: readmissão não é forma de provimento prevista nos estatutos modernos; além disso, a reintegração não exige novo estágio probatório.",
+      "C": "Incorreta: recondução ocorre por outras causas (inabilitação em estágio probatório ou para acomodar servidor reintegrado), não por anulação de demissão.",
+      "D": "Incorreta: reversão é o retorno do servidor aposentado, não do demitido.",
+      "E": "Incorreta: aproveitamento é o retorno do servidor que estava em disponibilidade, não o do servidor demitido ilegalmente."
+    },
+    "fonte": "IBFC 2023 — Estatuto do Servidor",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Sobre as penalidades disciplinares, assinale a alternativa que apresenta a relação CORRETA entre a infração e a penalidade aplicável:",
+    "alternativas": [
+      {"letra": "A", "texto": "Inassiduidade habitual: suspensão de até 90 dias."},
+      {"letra": "B", "texto": "Abandono de cargo por 15 dias consecutivos: demissão."},
+      {"letra": "C", "texto": "Improbidade administrativa: demissão."},
+      {"letra": "D", "texto": "Prática de infração leve: suspensão de até 30 dias."},
+      {"letra": "E", "texto": "Reincidência em infração punível com advertência: nova advertência."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Improbidade administrativa é infração grave e resulta em demissão (penalidade máxima para servidor em atividade). Inassiduidade habitual também resulta em demissão (não suspensão). Abandono de cargo exige mais de 30 dias consecutivos (não 15). Infração leve resulta em advertência, não suspensão. Reincidência em infração punível com advertência resulta em suspensão.",
+    "explicacoes": {
+      "A": "Incorreta: inassiduidade habitual resulta em DEMISSÃO, não suspensão.",
+      "B": "Incorreta: abandono de cargo exige mais de 30 dias consecutivos, não 15 dias.",
+      "D": "Incorreta: infração leve resulta em ADVERTÊNCIA, não suspensão.",
+      "E": "Incorreta: a reincidência em falta punível com advertência resulta em SUSPENSÃO, não nova advertência."
+    },
+    "fonte": "FAFIPA 2024 — Estatuto do Servidor",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Com relação ao estágio probatório e à estabilidade do servidor público, é INCORRETO afirmar que:",
+    "alternativas": [
+      {"letra": "A", "texto": "O estágio probatório tem duração de 3 anos, conforme entendimento do STF após a EC 19/98."},
+      {"letra": "B", "texto": "O servidor pode ser exonerado durante o estágio probatório, assegurado o contraditório e a ampla defesa."},
+      {"letra": "C", "texto": "A aquisição da estabilidade independe de avaliação especial de desempenho."},
+      {"letra": "D", "texto": "O servidor estável só perde o cargo por sentença judicial transitada em julgado, processo administrativo ou avaliação periódica de insuficiência."},
+      {"letra": "E", "texto": "O prazo do estágio probatório se inicia a partir do efetivo exercício no cargo, não da data da posse."}
+    ],
+    "gabarito": "C",
+    "justificativa": "INCORRETO: a aquisição da estabilidade NÃO independe de avaliação especial de desempenho — a CF art. 41, §4º exige, como condição para a aquisição da estabilidade, a avaliação especial de desempenho por comissão instituída para essa finalidade. Sem a avaliação, o servidor não adquire a estabilidade mesmo após 3 anos.",
+    "explicacoes": {
+      "A": "Correta: o STF firmou entendimento de que o estágio probatório tem duração de 3 anos (coincidente com o prazo de estabilidade após EC 19/98).",
+      "B": "Correta: a exoneração durante o estágio probatório é possível, mas deve ser assegurado o contraditório e a ampla defesa (SV 5).",
+      "D": "Correta: CF art. 41 — servidor estável perde o cargo por: sentença judicial transitada em julgado, PAD, ou avaliação periódica de insuficiência de desempenho.",
+      "E": "Correta: o prazo do estágio probatório se conta a partir do efetivo exercício, não da posse (que é anterior ao exercício)."
+    },
+    "fonte": "ENARE 2024 — Estatuto do Servidor",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Sobre as licenças do servidor público municipal, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "A licença para tratar de interesses particulares é remunerada e pode ser concedida independentemente de a Administração concordar."},
+      {"letra": "B", "texto": "A licença-maternidade tem duração mínima de 180 dias em todos os entes federativos."},
+      {"letra": "C", "texto": "A licença por acidente em serviço é concedida sem remuneração, por ser responsabilidade do servidor."},
+      {"letra": "D", "texto": "A licença para tratar de interesses particulares é concedida a critério da Administração, sem remuneração, sendo vedada ao servidor em estágio probatório."},
+      {"letra": "E", "texto": "A licença-maternidade é concedida apenas em caso de parto, não se aplicando em caso de adoção."}
+    ],
+    "gabarito": "D",
+    "justificativa": "A licença para tratar de interesses particulares: (1) é discricionária — concedida a critério da Administração, não é direito subjetivo; (2) é sem remuneração; (3) exige que o servidor seja ESTÁVEL — portanto vedada ao servidor em estágio probatório. Demais alternativas contêm erros.",
+    "explicacoes": {
+      "A": "Incorreta: a licença para interesses particulares é SEM remuneração e é discricionária (a Administração pode negar).",
+      "B": "Incorreta: a licença-maternidade de 180 dias depende de adesão ao Programa Empresa Cidadã — não é obrigatória em todos os entes.",
+      "C": "Incorreta: a licença por acidente em serviço é concedida COM remuneração integral — o acidente em serviço é responsabilidade da Administração.",
+      "E": "Incorreta: a licença-maternidade também se aplica em caso de adoção — o prazo varia conforme a idade da criança adotada."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Estatuto do Servidor",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "A Secretaria de Saúde do Município de Foz do Iguaçu nomeou o filho do Secretário para cargo em comissão na mesma secretaria. Tal ato:",
+    "alternativas": [
+      {"letra": "A", "texto": "É válido, pois o filho pode ser nomeado para cargo em comissão por ser de livre nomeação e exoneração."},
+      {"letra": "B", "texto": "É inválido por configurar nepotismo, vedado pela Súmula Vinculante 13 do STF."},
+      {"letra": "C", "texto": "É válido desde que o filho comprove aptidão técnica para o exercício do cargo."},
+      {"letra": "D", "texto": "É inválido apenas se o filho for parente em linha reta do Secretário, mas válido se for colateral."},
+      {"letra": "E", "texto": "É inválido apenas quando o cargo em comissão exigir graduação superior."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A Súmula Vinculante 13 do STF veda o nepotismo: nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade até 3º grau para cargo em comissão ou função de confiança. O filho é parente em linha reta de 1º grau. O ato é nulo independente da aptidão técnica.",
+    "explicacoes": {
+      "A": "Incorreta: o fato de o cargo ser de livre nomeação não afasta a vedação ao nepotismo — a SV 13 se aplica exatamente aos cargos em comissão.",
+      "C": "Incorreta: a aptidão técnica não convalida o ato nepotista — a vedação é objetiva, não depende de análise de mérito.",
+      "D": "Incorreta: a SV 13 veda tanto o parentesco em linha reta quanto o colateral até 3º grau.",
+      "E": "Incorreta: a vedação ao nepotismo não depende do nível de escolaridade exigido pelo cargo."
+    },
+    "fonte": "IBFC 2023 — Estatuto do Servidor",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Servidor público municipal foi processado criminalmente pela prática de peculato. Ao final do processo, foi absolvido por insuficiência de provas. Com relação à esfera administrativa, é correto afirmar que:",
+    "alternativas": [
+      {"letra": "A", "texto": "A absolvição criminal impede qualquer punição administrativa, em razão da independência das instâncias."},
+      {"letra": "B", "texto": "O servidor pode ser punido administrativamente, pois a absolvição por insuficiência de provas não vincula a esfera administrativa."},
+      {"letra": "C", "texto": "A absolvição criminal sempre produz efeitos na esfera administrativa, impedindo a punição."},
+      {"letra": "D", "texto": "O servidor só pode ser punido administrativamente se for condenado criminalmente pelo mesmo fato."},
+      {"letra": "E", "texto": "A absolvição por insuficiência de provas equivale ao reconhecimento da inexistência do fato, afastando a responsabilidade administrativa."}
+    ],
+    "gabarito": "B",
+    "justificativa": "As esferas criminal e administrativa são independentes. A absolvição criminal por insuficiência de provas NÃO vincula a esfera administrativa — o servidor pode ser punido administrativamente. Apenas duas hipóteses vinculam: reconhecimento da inexistência do fato OU negativa de autoria. Insuficiência de provas não está entre elas.",
+    "explicacoes": {
+      "A": "Incorreta: a absolvição criminal por insuficiência de provas não impede a punição administrativa — as instâncias são independentes, salvo nas exceções legais.",
+      "C": "Incorreta: a absolvição criminal NEM SEMPRE produz efeitos na esfera administrativa — apenas nas hipóteses de inexistência do fato ou negativa de autoria.",
+      "D": "Incorreta: o contrário é possível: servidor pode ser punido administrativamente sem condenação criminal.",
+      "E": "Incorreta: insuficiência de provas ≠ inexistência do fato. São situações distintas com efeitos diferentes."
+    },
+    "fonte": "FAFIPA 2024 — Estatuto do Servidor",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Assinale a alternativa que apresenta corretamente os princípios EXPLÍCITOS da Administração Pública previstos no art. 37 da Constituição Federal:",
+    "alternativas": [
+      {"letra": "A", "texto": "Legalidade, impessoalidade, moralidade, publicidade e razoabilidade."},
+      {"letra": "B", "texto": "Legalidade, impessoalidade, moralidade, publicidade e eficiência."},
+      {"letra": "C", "texto": "Legalidade, proporcionalidade, moralidade, publicidade e eficiência."},
+      {"letra": "D", "texto": "Legalidade, impessoalidade, moralidade, transparência e eficiência."},
+      {"letra": "E", "texto": "Legalidade, impessoalidade, igualdade, publicidade e eficiência."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Os princípios explícitos do art. 37 da CF/88 são: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência — o famoso mnemônico LIMPE. Razoabilidade, proporcionalidade, transparência e segurança jurídica são princípios implícitos ou previstos em outras leis (como a Lei 9.784/99).",
+    "explicacoes": {
+      "A": "Incorreta: razoabilidade é princípio implícito (não está no caput do art. 37), e o 5º princípio explícito é eficiência.",
+      "C": "Incorreta: proporcionalidade é princípio implícito, e o correto é impessoalidade no lugar de proporcionalidade.",
+      "D": "Incorreta: transparência não está no caput do art. 37 como princípio explícito — publicidade é o correto.",
+      "E": "Incorreta: igualdade não está no caput do art. 37 como princípio explícito da Administração — impessoalidade é o correto."
+    },
+    "fonte": "ENARE 2024 — Estatuto do Servidor",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Sobre o Processo Administrativo Disciplinar (PAD), é INCORRETO afirmar que:",
+    "alternativas": [
+      {"letra": "A", "texto": "A comissão processante deve ser composta por três servidores estáveis."},
+      {"letra": "B", "texto": "O servidor acusado tem direito ao contraditório e à ampla defesa em todas as fases do processo."},
+      {"letra": "C", "texto": "A falta de defesa técnica por advogado no PAD não gera nulidade do processo, conforme Súmula Vinculante 5 do STF."},
+      {"letra": "D", "texto": "O PAD é obrigatório para aplicação de qualquer penalidade, incluindo a advertência."},
+      {"letra": "E", "texto": "O julgamento compete à autoridade que instaurou o processo ou àquela hierarquicamente superior."}
+    ],
+    "gabarito": "D",
+    "justificativa": "INCORRETO: o PAD NÃO é obrigatório para advertência e suspensão de até 30 dias — essas penalidades podem ser aplicadas por sindicância. O PAD é obrigatório quando a infração puder resultar em demissão, suspensão superior a 30 dias, cassação de aposentadoria/disponibilidade ou destituição de cargo em comissão.",
+    "explicacoes": {
+      "A": "Correto: a comissão processante deve ser composta por três servidores estáveis designados pela autoridade instauradora.",
+      "B": "Correto: o contraditório e a ampla defesa são garantias constitucionais aplicáveis em todas as fases do PAD.",
+      "C": "Correto: a SV 5 do STF estabelece que a ausência de defesa técnica por advogado não ofende a Constituição.",
+      "E": "Correto: o julgamento é competência da autoridade que instaurou o processo ou de autoridade hierarquicamente superior, conforme o estatuto."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Estatuto do Servidor",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Servidor público foi contratado temporariamente pelo Município para atender necessidade urgente de interesse público. Sobre esse servidor temporário, é correto afirmar que:",
+    "alternativas": [
+      {"letra": "A", "texto": "Adquire estabilidade após 2 anos de exercício, por analogia com a Lei 8.112/90."},
+      {"letra": "B", "texto": "Não adquire estabilidade, pois a contratação temporária não gera vínculo efetivo."},
+      {"letra": "C", "texto": "Tem direito à readaptação se adquirir limitação física durante o exercício da função."},
+      {"letra": "D", "texto": "Pode ser efetivado no cargo ao final do contrato, sem necessidade de concurso, se demonstrar bom desempenho."},
+      {"letra": "E", "texto": "É regido pela CLT e tem todos os direitos trabalhistas dos empregados celetistas."}
+    ],
+    "gabarito": "B",
+    "justificativa": "O servidor temporário (CF art. 37, IX) é contratado por tempo determinado para necessidade temporária de excepcional interesse público. Não possui cargo efetivo e, portanto, não adquire estabilidade. Não pode ser efetivado sem concurso — isso violaria o art. 37, II da CF. Não é regido pela CLT, mas por lei específica do ente.",
+    "explicacoes": {
+      "A": "Incorreta: o servidor temporário não adquire estabilidade em hipótese alguma — o vínculo é transitório por natureza.",
+      "C": "Incorreta: readaptação é instituto do regime estatutário, aplicável ao servidor efetivo — não ao temporário.",
+      "D": "Incorreta: a efetivação sem concurso violaria o princípio do concurso público (CF art. 37, II) — é inconstitucional.",
+      "E": "Incorreta: servidores temporários da Administração Pública não são regidos pela CLT — seguem lei específica do ente federado."
+    },
+    "fonte": "IBFC 2023 — Estatuto do Servidor",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Servidor público municipal teve seu vencimento reduzido por ato administrativo unilateral do Prefeito, que alegou necessidade de corte de gastos. Tal ato é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Válido, pois o Poder Executivo tem competência para reduzir gastos em caso de necessidade fiscal."},
+      {"letra": "B", "texto": "Inválido, pois viola o princípio da irredutibilidade de vencimentos previsto na Constituição Federal."},
+      {"letra": "C", "texto": "Válido, desde que a redução não ultrapasse 20% do vencimento e seja temporária."},
+      {"letra": "D", "texto": "Válido apenas se aprovado pela Câmara Municipal por maioria absoluta."},
+      {"letra": "E", "texto": "Inválido apenas se o servidor já tiver adquirido estabilidade — servidores em estágio probatório podem ter vencimento reduzido."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A Constituição Federal art. 37, XV garante a irredutibilidade do vencimento do servidor público. Nenhum ato administrativo unilateral pode reduzir o vencimento — apenas lei pode alterar vencimentos, e apenas para majorá-los ou criar nova estrutura (com garantia de direito adquirido). A justificativa fiscal não afasta a norma constitucional.",
+    "explicacoes": {
+      "A": "Incorreta: a necessidade fiscal não permite desrespeitar a norma constitucional de irredutibilidade de vencimentos.",
+      "C": "Incorreta: não há percentual mínimo de redução permitido — qualquer redução é vedada pela CF.",
+      "D": "Incorreta: nem mesmo lei aprovada pela Câmara pode reduzir vencimentos dos servidores que já os percebem (direito adquirido).",
+      "E": "Incorreta: a irredutibilidade se aplica a todos os servidores, independente de estarem em estágio probatório ou já estabilizados."
+    },
+    "fonte": "FAFIPA 2024 — Estatuto do Servidor",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Um candidato aprovado dentro do número de vagas em concurso público teve sua nomeação preterida pelo Município, que nomeou candidato de cadastro de reserva antes de nomear todos os classificados dentro das vagas. Sobre essa situação, é correto afirmar que:",
+    "alternativas": [
+      {"letra": "A", "texto": "O candidato preterido tem mera expectativa de direito, não cabendo recurso."},
+      {"letra": "B", "texto": "O candidato preterido tem direito subjetivo à nomeação, podendo impugnar o ato administrativo."},
+      {"letra": "C", "texto": "A Administração tem discricionariedade para nomear qualquer candidato aprovado, independente da classificação."},
+      {"letra": "D", "texto": "O candidato tem direito à indenização pela preterição, mas não à nomeação."},
+      {"letra": "E", "texto": "O candidato aprovado dentro das vagas só tem direito à nomeação se o concurso ainda estiver dentro do prazo de validade."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Conforme a Súmula 15 do STF e jurisprudência consolidada, o candidato aprovado dentro do número de vagas tem DIREITO SUBJETIVO à nomeação — não mera expectativa. A preterição imotivada é ilegal e sujeita o ato à anulação pelo Judiciário. A Administração só pode não nomear por razões excepcionais (necessidade pública superveniente, restrição orçamentária fundamentada).",
+    "explicacoes": {
+      "A": "Incorreta: candidato dentro das vagas tem direito subjetivo, não mera expectativa — que é a situação do candidato do cadastro de reserva.",
+      "C": "Incorreta: a Administração deve respeitar a ordem de classificação — não há discricionariedade para preterir candidatos classificados dentro das vagas.",
+      "D": "Incorreta: o candidato tem direito à nomeação em si (tutela específica), não apenas à indenização.",
+      "E": "Incorreta: o prazo de validade é condição para nomear, mas a questão central é o direito subjetivo do aprovado dentro das vagas — que persiste durante toda a validade."
+    },
+    "fonte": "ENARE 2024 — Estatuto do Servidor",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Em relação ao regime disciplinar do servidor público, a penalidade de SUSPENSÃO pode ser convertida em:",
+    "alternativas": [
+      {"letra": "A", "texto": "Advertência escrita, a critério da autoridade julgadora."},
+      {"letra": "B", "texto": "Multa equivalente à metade da remuneração do período de suspensão, quando conveniente ao serviço."},
+      {"letra": "C", "texto": "Serviço comunitário, pelo mesmo período da suspensão."},
+      {"letra": "D", "texto": "Redução de 10% do vencimento por período equivalente ao dobro da suspensão."},
+      {"letra": "E", "texto": "Transferência compulsória para outra unidade administrativa pelo prazo da suspensão."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A penalidade de suspensão pode ser convertida em multa, no valor equivalente à metade da remuneração do período de suspensão, quando o afastamento do servidor for inconveniente ao serviço público. Essa conversão é prevista na Lei 8.112/90 (art. 130, §2º) e na maioria dos estatutos municipais que a espelham.",
+    "explicacoes": {
+      "A": "Incorreta: a suspensão não pode ser convertida em advertência — advertência é penalidade de menor gravidade que antecede a suspensão.",
+      "C": "Incorreta: serviço comunitário não é previsto como conversão de penalidade disciplinar nos estatutos do servidor público.",
+      "D": "Incorreta: redução de vencimento violaria o princípio da irredutibilidade — a conversão é em multa, não em redução salarial.",
+      "E": "Incorreta: transferência compulsória não é forma de conversão de penalidade — são institutos distintos."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Estatuto do Servidor",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Servidor público municipal, após 5 anos de exercício, requereu licença sem remuneração para tratar de interesses particulares. A Administração negou o pedido, alegando necessidade do serviço. Sobre essa negativa, é correto afirmar que:",
+    "alternativas": [
+      {"letra": "A", "texto": "É ilegal, pois o servidor tem direito subjetivo à licença após 5 anos de exercício."},
+      {"letra": "B", "texto": "É legal, pois a licença para interesses particulares é ato discricionário da Administração."},
+      {"letra": "C", "texto": "É ilegal, pois nenhuma alegação de necessidade do serviço pode impedir a licença."},
+      {"letra": "D", "texto": "É legal apenas se o servidor estiver em estágio probatório."},
+      {"letra": "E", "texto": "É ilegal se o servidor comprovar que a necessidade pessoal é urgente e inadiável."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A licença para tratar de interesses particulares é ato discricionário — concedida a critério da Administração. Não é um direito subjetivo do servidor. A Administração pode negar por necessidade do serviço, conveniência e oportunidade. O servidor pode renovar o pedido posteriormente, mas não tem direito a exigir a concessão.",
+    "explicacoes": {
+      "A": "Incorreta: não existe direito subjetivo à licença para interesses particulares — ela é concedida discricionariamente.",
+      "C": "Incorreta: a necessidade do serviço é justificativa legítima para negar a licença, que é discricionária.",
+      "D": "Incorreta: a vedação ao servidor em estágio probatório existe, mas a questão trata de servidor com 5 anos (portanto estável) — a negativa ainda assim pode ocorrer por discricionariedade.",
+      "E": "Incorreta: a urgência pessoal não transforma a licença discricionária em direito subjetivo — outros tipos de licença (saúde, doença na família) são para situações urgentes pessoais."
+    },
+    "fonte": "IBFC 2023 — Estatuto do Servidor",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Assinale a alternativa que apresenta hipótese em que é PERMITIDA a acumulação de cargos públicos:",
+    "alternativas": [
+      {"letra": "A", "texto": "Um cargo de enfermeiro municipal com um cargo de engenheiro estadual."},
+      {"letra": "B", "texto": "Dois cargos de médico em municípios diferentes, com compatibilidade de horários."},
+      {"letra": "C", "texto": "Um cargo de professor universitário com um cargo de vereador, sem restrição de horário."},
+      {"letra": "D", "texto": "Dois cargos em comissão de diretor em órgãos diferentes do mesmo município."},
+      {"letra": "E", "texto": "Um cargo de servidor do executivo com um cargo do legislativo municipal, ambos efetivos."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A CF art. 37, XVI, c, permite a acumulação de dois cargos ou empregos privativos de profissionais de saúde com profissão regulamentada, com compatibilidade de horários. Médico é profissional de saúde regulamentado — dois cargos de médico em municípios diferentes é permitido, desde que haja compatibilidade de horários. As demais alternativas não se enquadram nas exceções constitucionais.",
+    "explicacoes": {
+      "A": "Incorreta: um cargo de enfermeiro com um de engenheiro não se enquadra nas exceções constitucionais (dois cargos de profissionais de saúde regulamentados ou professor + técnico).",
+      "C": "Incorreta: vereador não é cargo do Executivo — e a CF veda a acumulação de mandato eletivo com cargo efetivo, salvo de professor.",
+      "D": "Incorreta: dois cargos em comissão são acumuláveis apenas se um for de professor e o outro técnico/científico, ou dois de profissionais de saúde.",
+      "E": "Incorreta: dois cargos efetivos em poderes diferentes (executivo e legislativo) não se enquadram nas exceções constitucionais."
+    },
+    "fonte": "FAFIPA 2024 — Estatuto do Servidor",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "De acordo com as normas sobre responsabilidade civil do Estado, quando o servidor causa dano a terceiro no exercício de suas funções:",
+    "alternativas": [
+      {"letra": "A", "texto": "O servidor responde diretamente perante o prejudicado, cabendo ao Estado entrar como litisconsorte."},
+      {"letra": "B", "texto": "O Estado responde objetivamente perante o prejudicado; o servidor responde regressivamente ao Estado, se agiu com dolo ou culpa."},
+      {"letra": "C", "texto": "O Estado responde apenas se o servidor agiu com dolo — em caso de culpa, o prejudicado deve acionar o servidor diretamente."},
+      {"letra": "D", "texto": "O Estado responde objetivamente, mas não tem direito de regresso contra o servidor em nenhuma hipótese."},
+      {"letra": "E", "texto": "O servidor responde objetivamente, mesmo sem dolo ou culpa, por ser agente do Estado."}
+    ],
+    "gabarito": "B",
+    "justificativa": "CF art. 37, §6º: as pessoas jurídicas de direito público respondem pelos danos que seus agentes causarem a terceiros (responsabilidade objetiva do Estado — teoria do risco administrativo). Assegurado o direito de regresso contra o servidor nos casos de dolo ou culpa (responsabilidade subjetiva do servidor). O prejudicado aciona o Estado; o Estado aciona o servidor regressivamente.",
+    "explicacoes": {
+      "A": "Incorreta: o prejudicado deve acionar o ESTADO (responsabilidade objetiva), não o servidor diretamente.",
+      "C": "Incorreta: a responsabilidade do Estado é objetiva — independe de dolo ou culpa do servidor; o que importa é a relação causal entre a conduta do agente e o dano.",
+      "D": "Incorreta: o Estado TEM direito de regresso contra o servidor quando este agiu com dolo ou culpa.",
+      "E": "Incorreta: o servidor não responde objetivamente — responde subjetivamente (com dolo ou culpa) na ação regressiva proposta pelo Estado."
+    },
+    "fonte": "ENARE 2024 — Estatuto do Servidor",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Qual das situações abaixo NÃO configura vacância do cargo público?",
+    "alternativas": [
+      {"letra": "A", "texto": "Exoneração a pedido do servidor efetivo."},
+      {"letra": "B", "texto": "Posse do servidor em outro cargo público inacumulável."},
+      {"letra": "C", "texto": "Afastamento do servidor para tratamento de saúde por 30 dias."},
+      {"letra": "D", "texto": "Demissão do servidor por infração disciplinar."},
+      {"letra": "E", "texto": "Falecimento do servidor."}
+    ],
+    "gabarito": "C",
+    "justificativa": "O afastamento para tratamento de saúde NÃO configura vacância — é uma licença temporária, durante a qual o servidor mantém o vínculo com o cargo. O cargo fica apenas temporariamente sem titular, mas o servidor retorna após o período de licença. Vacância implica o cargo ficar definitivamente sem titular para novo provimento.",
+    "explicacoes": {
+      "A": "Configura vacância: a exoneração a pedido é forma prevista de vacância — o cargo fica disponível para novo provimento.",
+      "B": "Configura vacância: a posse em outro cargo inacumulável implica vacância do cargo anterior — o servidor não pode manter ambos.",
+      "D": "Configura vacância: a demissão (penalidade disciplinar) é forma de vacância — o cargo fica disponível.",
+      "E": "Configura vacância: o falecimento do servidor é causa de vacância — o cargo fica disponível para novo provimento."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Estatuto do Servidor",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Sobre a gratificação natalina (13º salário) do servidor público municipal, é CORRETO afirmar que:",
+    "alternativas": [
+      {"letra": "A", "texto": "É paga integralmente em dezembro, independentemente do tempo de exercício no ano."},
+      {"letra": "B", "texto": "É calculada proporcionalmente: 1/12 da remuneração por mês trabalhado ou fração igual ou superior a 15 dias."},
+      {"letra": "C", "texto": "Não sofre incidência de Imposto de Renda, por ser verba de natureza indenizatória."},
+      {"letra": "D", "texto": "É opcional — o servidor pode substituí-la por dias de folga compensatória."},
+      {"letra": "E", "texto": "Deve ser paga em parcela única até o dia 30 de novembro de cada ano."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A gratificação natalina é calculada na proporção de 1/12 da remuneração de dezembro por mês de exercício no ano, considerando fração igual ou superior a 15 dias como mês completo. É um direito constitucional garantido ao servidor (CF art. 7º, VIII c/c art. 39, §3º), pago em duas parcelas.",
+    "explicacoes": {
+      "A": "Incorreta: a gratificação é proporcional ao tempo de exercício — quem trabalhou apenas 6 meses recebe 6/12.",
+      "C": "Incorreta: a gratificação natalina tem natureza remuneratória, incidindo IRPF e contribuição previdenciária sobre a segunda parcela.",
+      "D": "Incorreta: a gratificação natalina é direito constitucional obrigatório — não pode ser substituída por folgas.",
+      "E": "Incorreta: é paga em DUAS parcelas: primeira (adiantamento) até 30/11 e segunda (complemento) até 20/12."
+    },
+    "fonte": "IBFC 2023 — Estatuto do Servidor",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Quanto ao direito de greve do servidor público, assinale a alternativa CORRETA segundo o entendimento do STF:",
+    "alternativas": [
+      {"letra": "A", "texto": "É absolutamente vedado ao servidor público, por ser incompatível com a continuidade do serviço público."},
+      {"letra": "B", "texto": "É garantido pela CF mas, enquanto não houver lei específica, aplica-se por analogia a Lei 7.783/89 (lei de greve dos celetistas)."},
+      {"letra": "C", "texto": "É garantido e autoaplicável, não dependendo de lei regulamentadora."},
+      {"letra": "D", "texto": "Aplica-se a Lei 7.783/89 apenas para servidores municipais, mas não para servidores federais e estaduais."},
+      {"letra": "E", "texto": "É garantido, e os dias de greve não podem ser descontados do vencimento em nenhuma hipótese."}
+    ],
+    "gabarito": "B",
+    "justificativa": "O STF, nos Mandados de Injunção 670, 708 e 712, reconheceu a mora legislativa na regulamentação do direito de greve dos servidores e determinou a aplicação da Lei 7.783/89 por analogia, até que lei específica seja editada. O direito existe (CF art. 37, VII), mas não é autoaplicável e os dias parados podem ser descontados.",
+    "explicacoes": {
+      "A": "Incorreta: o direito de greve é constitucionalmente garantido ao servidor — não é vedado absolutamente.",
+      "C": "Incorreta: o STF entendeu que o direito NÃO é autoaplicável — depende de lei regulamentadora, aplicando-se a 7.783/89 por analogia até lá.",
+      "D": "Incorreta: o STF aplicou a Lei 7.783/89 por analogia para todos os servidores, independente do ente federativo.",
+      "E": "Incorreta: o STF entendeu que os dias de greve PODEM ser descontados, salvo se a greve decorrer de conduta ilícita do empregador público."
+    },
+    "fonte": "FAFIPA 2024 — Estatuto do Servidor",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Servidor público estável foi aprovado em concurso público para outro cargo, em órgão diverso do mesmo Município, que é inacumulável com o anterior. Ao tomar posse no novo cargo, o que ocorre com o cargo anterior?",
+    "alternativas": [
+      {"letra": "A", "texto": "O cargo anterior entra em vacância, pois a posse em cargo inacumulável é causa de vacância."},
+      {"letra": "B", "texto": "O servidor fica em disponibilidade remunerada no cargo anterior até concluir o estágio probatório no novo."},
+      {"letra": "C", "texto": "O cargo anterior é mantido em reserva por 2 anos, podendo o servidor retornar caso não seja aprovado no novo estágio probatório."},
+      {"letra": "D", "texto": "O servidor pode manter ambos os cargos durante o período de estágio probatório no novo cargo."},
+      {"letra": "E", "texto": "O servidor deve solicitar exoneração do cargo anterior antes de tomar posse no novo."}
+    ],
+    "gabarito": "A",
+    "justificativa": "A posse em outro cargo público inacumulável é causa de vacância do cargo anterior (Lei 8.112/90, art. 33, VIII). O cargo anterior entra em vacância automaticamente com a posse no novo cargo. Não há reserva do cargo — o servidor abre mão do cargo anterior ao tomar posse no novo. Por isso, a recondução ao cargo anterior só é possível nos casos expressamente previstos (inabilitação no estágio probatório do novo cargo).",
+    "explicacoes": {
+      "B": "Incorreta: não há disponibilidade nesse caso — o cargo anterior entra em vacância com a posse no novo cargo.",
+      "C": "Incorreta: não existe reserva do cargo anterior por 2 anos — a vacância é imediata com a posse no novo cargo.",
+      "D": "Incorreta: como os cargos são inacumuláveis, o servidor não pode manter ambos — a posse no novo gera vacância do anterior.",
+      "E": "Incorreta: não é necessário solicitar exoneração — a própria posse no cargo inacumulável já gera a vacância do anterior automaticamente."
+    },
+    "fonte": "ENARE 2024 — Estatuto do Servidor",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Qual das situações abaixo representa hipótese de EXONERAÇÃO de ofício (sem pedido do servidor)?",
+    "alternativas": [
+      {"letra": "A", "texto": "Servidor que cometeu improbidade administrativa e foi condenado judicialmente."},
+      {"letra": "B", "texto": "Servidor que tomou posse mas não entrou em exercício no prazo legal."},
+      {"letra": "C", "texto": "Servidor que abandonou o cargo por mais de 30 dias consecutivos."},
+      {"letra": "D", "texto": "Servidor que foi condenado criminalmente a pena restritiva de liberdade por crime doloso."},
+      {"letra": "E", "texto": "Servidor que praticou inassiduidade habitual por mais de 60 dias no ano."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A exoneração de ofício ocorre (sem caráter punitivo) quando o servidor toma posse mas não entra em exercício no prazo legal — o ato de nomeação e posse é tornado sem efeito. Já o abandono de cargo, a inassiduidade habitual, a improbidade e a condenação criminal resultam em DEMISSÃO (penalidade disciplinar), não exoneração.",
+    "explicacoes": {
+      "A": "Incorreta: improbidade administrativa com condenação resulta em DEMISSÃO (penalidade), não exoneração.",
+      "C": "Incorreta: abandono de cargo (mais de 30 dias consecutivos) resulta em DEMISSÃO, não exoneração.",
+      "D": "Incorreta: condenação criminal a pena restritiva de liberdade pode resultar em demissão, não exoneração — e depende do trânsito em julgado.",
+      "E": "Incorreta: inassiduidade habitual resulta em DEMISSÃO, não exoneração."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Estatuto do Servidor",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Sobre as formas de aposentadoria do servidor público após a EC 103/2019, é CORRETO afirmar que:",
+    "alternativas": [
+      {"letra": "A", "texto": "A aposentadoria compulsória ocorre aos 70 anos para todos os servidores."},
+      {"letra": "B", "texto": "A aposentadoria voluntária exige, entre outros requisitos, 65 anos para homens e 62 anos para mulheres."},
+      {"letra": "C", "texto": "A aposentadoria por invalidez garante sempre 100% dos proventos, independente da causa."},
+      {"letra": "D", "texto": "A aposentadoria especial para atividades de risco exige os mesmos requisitos da aposentadoria voluntária comum."},
+      {"letra": "E", "texto": "Servidores que ingressaram antes de 2004 estão sujeitos exatamente às mesmas regras da EC 103/2019."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A EC 103/2019 estabeleceu para a aposentadoria voluntária: 65 anos (homens) e 62 anos (mulheres), com 25 anos de contribuição, 10 anos no serviço público e 5 anos no cargo. A aposentadoria compulsória é aos 75 anos (EC 88/2015). A aposentadoria por incapacidade permanente pode ter proventos proporcionais. Servidores anteriores a 2004 têm regras de transição.",
+    "explicacoes": {
+      "A": "Incorreta: a aposentadoria compulsória é aos 75 anos (desde a EC 88/2015), não 70.",
+      "C": "Incorreta: a aposentadoria por incapacidade permanente pode ter proventos proporcionais ao tempo de contribuição — apenas em casos específicos (doença grave, acidente em serviço) os proventos são integrais.",
+      "D": "Incorreta: a aposentadoria especial tem requisitos diferenciados (reduzidos) justamente por envolver atividades de risco.",
+      "E": "Incorreta: servidores anteriores a determinadas datas têm regras de transição — não se aplicam integralmente as novas regras."
+    },
+    "fonte": "IBFC 2023 — Estatuto do Servidor",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Em relação à responsabilidade do servidor público, assinale a alternativa que apresenta a classificação CORRETA das esferas de responsabilidade:",
+    "alternativas": [
+      {"letra": "A", "texto": "Civil, penal e administrativa — independentes entre si, podendo ser cumuladas."},
+      {"letra": "B", "texto": "Civil e penal — a responsabilidade administrativa é absorvida pela penal."},
+      {"letra": "C", "texto": "Civil, penal e administrativa — a esfera administrativa sempre é extinta pela condenação penal."},
+      {"letra": "D", "texto": "Apenas civil e administrativa — servidores públicos não cometem crimes, apenas infrações administrativas."},
+      {"letra": "E", "texto": "Civil, penal e administrativa — a absolvição por qualquer motivo criminal afasta a responsabilidade administrativa."}
+    ],
+    "gabarito": "A",
+    "justificativa": "O servidor público responde nas três esferas (civil, penal e administrativa) de forma independente e cumulativa. A condenação ou absolvição em uma esfera não implica necessariamente o mesmo resultado nas demais — exceto quando a sentença penal reconhece a inexistência do fato ou a negativa de autoria.",
+    "explicacoes": {
+      "B": "Incorreta: a responsabilidade administrativa NÃO é absorvida pela penal — são esferas autônomas e independentes.",
+      "C": "Incorreta: a condenação penal não extingue a responsabilidade administrativa — o servidor pode responder em ambas simultaneamente.",
+      "D": "Incorreta: servidores públicos podem cometer crimes (peculato, corrupção, prevaricação, etc.) — respondem penalmente além das outras esferas.",
+      "E": "Incorreta: apenas a absolvição pelo reconhecimento de INEXISTÊNCIA DO FATO ou NEGATIVA DE AUTORIA afasta a responsabilidade administrativa — não qualquer absolvição."
+    },
+    "fonte": "FAFIPA 2024 — Estatuto do Servidor",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "Segundo as normas sobre deveres dos servidores públicos, assinale a opção que contém APENAS deveres (e não proibições):",
+    "alternativas": [
+      {"letra": "A", "texto": "Ser leal às instituições; guardar sigilo; recusar vantagem indevida."},
+      {"letra": "B", "texto": "Ser assíduo e pontual; atender o público com presteza; exercer com zelo as atribuições do cargo."},
+      {"letra": "C", "texto": "Não ausentar-se do serviço sem autorização; não usar o cargo para obter vantagem; ser honesto."},
+      {"letra": "D", "texto": "Zelar pelo patrimônio público; não praticar usura; não exercer comércio."},
+      {"letra": "E", "texto": "Manter conduta compatível com a moralidade; não fazer pressão sobre subordinados; não cometer a estranha serviços do cargo."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Deveres são condutas positivas exigidas do servidor. As alternativas B apresenta apenas deveres: ser assíduo e pontual (dever de assiduidade), atender com presteza (dever de urbanidade e eficiência), exercer com zelo as atribuições (dever de dedicação). As demais alternativas misturam deveres com proibições (condutas negativas — o que o servidor não pode fazer).",
+    "explicacoes": {
+      "A": "Incorreta: 'recusar vantagem indevida' é proibição (não fazer), enquanto 'ser leal' e 'guardar sigilo' são deveres — a alternativa mistura os dois.",
+      "C": "Incorreta: 'não ausentar-se sem autorização' e 'não usar o cargo para vantagem' são proibições — a alternativa mistura deveres e proibições.",
+      "D": "Incorreta: 'zelar pelo patrimônio' é dever, mas 'não praticar usura' e 'não exercer comércio' são proibições.",
+      "E": "Incorreta: 'manter conduta compatível com a moralidade' é dever, mas 'não fazer pressão sobre subordinados' e 'não cometer serviços a estranho' são proibições."
+    },
+    "fonte": "ENARE 2024 — Estatuto do Servidor",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "estatuto",
+    "enunciado": "A Prefeitura de Foz do Iguaçu pretende nomear um servidor para exercer função de chefia de seção. Essa função deve ser exercida exclusivamente por:",
+    "alternativas": [
+      {"letra": "A", "texto": "Qualquer pessoa de notória competência técnica, mesmo sem vínculo com a Administração Pública."},
+      {"letra": "B", "texto": "Servidor de carreira efetiva (cargo de provimento efetivo), pois função de confiança é exclusiva de servidor efetivo."},
+      {"letra": "C", "texto": "Servidor comissionado, pois cargos de chefia são sempre em comissão."},
+      {"letra": "D", "texto": "Servidor temporário com experiência mínima de 2 anos no serviço público."},
+      {"letra": "E", "texto": "Qualquer servidor do quadro, efetivo ou comissionado, independente do vínculo."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Função de confiança (art. 37, V, CF): exercida exclusivamente por servidores ocupantes de cargo efetivo — diferente do cargo em comissão, que pode ser preenchido por qualquer pessoa. A função de confiança é destinada a atribuições de chefia, direção ou assessoramento, e APENAS servidores efetivos de carreira podem exercê-la.",
+    "explicacoes": {
+      "A": "Incorreta: pessoa sem vínculo com a Administração pode ocupar CARGO em comissão, mas não FUNÇÃO de confiança.",
+      "C": "Incorreta: função de confiança e cargo em comissão são institutos distintos — função de confiança é exclusiva de servidor efetivo.",
+      "D": "Incorreta: servidor temporário não pode exercer função de confiança — esta é reservada a servidores efetivos (cargo efetivo).",
+      "E": "Incorreta: função de confiança é exclusiva de servidor efetivo — servidor comissionado sem cargo efetivo não pode exercê-la."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Estatuto do Servidor",
+    "dificuldade": "media"
+  }
+]

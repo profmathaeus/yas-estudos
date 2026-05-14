@@ -45,6 +45,7 @@ const TEMA_LABELS: Record<string, string> = {
   portugues:   "Língua Portuguesa",
   matematica:  "Matemática & Lógica",
   informatica: "Informática",
+  estatuto:    "Estatuto do Servidor",
   completa:    "Avaliação Completa",
 };
 
