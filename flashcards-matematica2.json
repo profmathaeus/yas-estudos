@@ -1,0 +1,302 @@
+[
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "O que é função afim? Qual sua forma geral e como identificar crescente/decrescente?",
+    "verso": "Função afim (ou linear do 1º grau): f(x) = ax + b, onde a ≠ 0. 'a' = coeficiente angular (inclinação); 'b' = coeficiente linear (ponto onde corta o eixo y, x=0). Crescente: a > 0 (gráfico sobe da esquerda para direita). Decrescente: a < 0 (gráfico desce). Raiz (zero da função): x = -b/a. Gráfico: sempre uma reta. Ex.: f(x) = 2x + 3 → cresce, corta y em 3, raiz em x = -3/2."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Como calcular o zero (raiz) e o coeficiente angular de uma função afim?",
+    "verso": "Zero/raiz: valor de x onde f(x) = 0. Calcule: ax + b = 0 → x = -b/a. Ex.: f(x) = 3x - 6 → 3x = 6 → x = 2. Coeficiente angular (a): taxa de variação — a = (y₂ - y₁)/(x₂ - x₁) entre dois pontos quaisquer da reta. Ex.: passa por (1,5) e (3,11) → a = (11-5)/(3-1) = 6/2 = 3. O coeficiente angular também é a tangente do ângulo que a reta faz com o eixo x."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "O que é função quadrática? Qual a forma geral e como identificar a concavidade?",
+    "verso": "Função quadrática (2º grau): f(x) = ax² + bx + c, onde a ≠ 0. Gráfico: parábola. Concavidade: a > 0 → parábola abre para CIMA (∪) — ponto mínimo. a < 0 → parábola abre para BAIXO (∩) — ponto máximo. Vértice: x_v = -b/(2a) e y_v = -Δ/(4a). Eixo de simetria: reta x = -b/(2a). Raízes: pela fórmula de Bhaskara (quando Δ ≥ 0)."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "Como encontrar o vértice da parábola e o valor máximo/mínimo de uma função quadrática?",
+    "verso": "Vértice V = (x_v, y_v): x_v = -b/(2a) e y_v = -Δ/(4a), onde Δ = b² - 4ac. O vértice representa: valor mínimo de f(x) se a > 0; valor máximo se a < 0. Ex.: f(x) = -x² + 4x - 3 → a=-1, b=4, c=-3. x_v = -4/(2×-1) = 2. y_v = -(16-12)/(-4) = -4/(-4) = 1. Vértice = (2,1) → valor máximo de f = 1 (pois a < 0, concavidade para baixo)."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "Quais são os possíveis conjuntos de raízes de uma função quadrática?",
+    "verso": "Depende do discriminante Δ = b² - 4ac: Δ > 0 → duas raízes reais distintas (parábola corta o eixo x em 2 pontos). Δ = 0 → uma raiz real (raiz dupla — parábola tangencia o eixo x). Δ < 0 → nenhuma raiz real (parábola não corta o eixo x). Relações de Girard: soma das raízes x₁+x₂ = -b/a; produto x₁·x₂ = c/a. Útil para montar equação dada as raízes: x² - (soma)x + (produto) = 0."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "O que é plano cartesiano e como localizar um ponto?",
+    "verso": "Plano cartesiano: sistema de coordenadas formado por dois eixos perpendiculares — eixo x (abscissa, horizontal) e eixo y (ordenada, vertical) — que se intersectam na origem O(0,0). Ponto P(x, y): x = distância horizontal da origem (positivo à direita, negativo à esquerda); y = distância vertical (positivo acima, negativo abaixo). Quadrantes: I (x>0, y>0), II (x<0, y>0), III (x<0, y<0), IV (x>0, y<0). Ex.: P(-3, 2) está no 2º quadrante."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "Como calcular a distância entre dois pontos no plano cartesiano?",
+    "verso": "Distância entre A(x₁,y₁) e B(x₂,y₂): d = √[(x₂-x₁)² + (y₂-y₁)²]. É o Teorema de Pitágoras aplicado ao plano. Ex.: A(1,2) e B(4,6) → d = √[(4-1)²+(6-2)²] = √[9+16] = √25 = 5. Ponto médio M entre A e B: M = ((x₁+x₂)/2, (y₁+y₂)/2). Ex.: M = ((1+4)/2, (2+6)/2) = (2,5; 4)."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "O que é simetria no plano cartesiano? Como encontrar o ponto simétrico?",
+    "verso": "Ponto simétrico em relação ao eixo x: inverte o sinal de y → P(a,b) → P'(a,-b). Em relação ao eixo y: inverte o sinal de x → P(a,b) → P'(-a,b). Em relação à origem: inverte ambos → P(a,b) → P'(-a,-b). Em relação à reta y=x: troca x e y → P(a,b) → P'(b,a). Ex.: P(3,-2) simétrico ao eixo x = P'(3,2); ao eixo y = P'(-3,-2); à origem = P'(-3,2)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "O que é o Teorema de Tales? Como aplicar?",
+    "verso": "Teorema de Tales: se um feixe de retas paralelas é cortado por duas transversais, os segmentos determinados nas transversais são proporcionais. Proporção: AB/BC = DE/EF (segmentos nas transversais são proporcionais entre si). Aplicações: semelhança de triângulos, escalas em mapas, divisão de segmentos em partes proporcionais. Ex.: dividir um segmento de 15cm em partes proporcionais a 2:3:5 → 3cm, 4,5cm, 7,5cm. Muito cobrado em geometria plana."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "O que é semelhança de triângulos? Quais os critérios?",
+    "verso": "Dois triângulos são semelhantes (∼) quando têm ângulos iguais e lados proporcionais. Critérios: (1) AA (Ângulo-Ângulo): dois ângulos iguais → o terceiro também é. (2) LAL (Lado-Ângulo-Lado): dois lados proporcionais e ângulo entre eles igual. (3) LLL (Lado-Lado-Lado): três lados proporcionais. Na semelhança: razão de semelhança k → áreas na razão k² e volumes na razão k³. Consequência do Teorema de Tales: a reta paralela a um lado do triângulo cria um triângulo semelhante ao original."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "Ângulos formados por retas paralelas e uma transversal: quais são correspondentes, alternos e colaterais?",
+    "verso": "Quando uma transversal corta duas retas paralelas: Correspondentes (F): mesma posição relativa em cada paralela — são IGUAIS. Alternos internos (Z): entre as paralelas, em lados opostos da transversal — são IGUAIS. Alternos externos: fora das paralelas, em lados opostos — são IGUAIS. Colaterais internos (C): entre as paralelas, mesmo lado da transversal — são SUPLEMENTARES (somam 180°). Colaterais externos: fora das paralelas, mesmo lado — são SUPLEMENTARES."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "O que são ângulos opostos pelo vértice (OPV)?",
+    "verso": "Ângulos opostos pelo vértice: formados pelo cruzamento de duas retas. Os ângulos que ficam em posições opostas (um 'de frente para o outro') são iguais. Ex.: se duas retas se cruzam formando ângulos α, β, α, β (em sentido horário), então os dois α são iguais (OPV) e os dois β são iguais (OPV). E α + β = 180° (ângulos suplementares adjacentes). Propriedade fundamental: ângulos OPV são sempre congruentes."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "O que são ângulos complementares e suplementares?",
+    "verso": "Complementares: dois ângulos cuja soma é 90°. Ex.: 30° e 60° são complementares. Suplementares: dois ângulos cuja soma é 180°. Ex.: 110° e 70° são suplementares. Ângulos adjacentes e suplementares = ângulos em linha reta. Dica: Complementar = Completa 90° (C vem antes de S); Suplementar = completa 180°. Replementares (soma = 360°) — menos comum. Em triângulos: a soma dos ângulos internos = 180° (ângulos suplementares dois a dois com os externos)."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "O que é bissetriz de um ângulo?",
+    "verso": "Bissetriz: semirreta que parte do vértice do ângulo e o divide em dois ângulos iguais. Ex.: bissetriz de um ângulo de 80° cria dois ângulos de 40° cada. Propriedade: qualquer ponto da bissetriz de um ângulo é equidistante dos dois lados do ângulo. Em triângulos: as três bissetrizes internas se encontram no incentro (centro do círculo inscrito). A bissetriz de um ângulo externo divide o lado oposto externamente na mesma razão."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Perpendicularidade e paralelismo: definições e propriedades.",
+    "verso": "Retas paralelas (∥): mesma direção e sentidos iguais/opostos — nunca se intersectam (no plano euclidiano). Retas perpendiculares (⊥): se intersectam formando ângulos de 90°. Propriedades: se a ∥ b e b ∥ c → a ∥ c (transitividade do paralelismo). Se a ⊥ b e b ∥ c → a ⊥ c. Se a ⊥ b e a ⊥ c → b ∥ c. Coeficiente angular: retas paralelas têm o mesmo coeficiente angular (a₁ = a₂). Retas perpendiculares: a₁ × a₂ = -1."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "Juros compostos: fórmula, diferença do simples e aplicação.",
+    "verso": "Montante: M = C × (1 + i)ⁿ. Onde C = capital; i = taxa por período; n = número de períodos. Juros compostos: juros incidem sobre juros (capitalização). Diferente dos simples (M = C(1+it)). Ex.: R$1.000 a 10% a.m. por 3 meses: M = 1000 × (1,10)³ = 1000 × 1,331 = R$1.331. Comparação: simples → 1000×(1+0,10×3) = R$1.300. Para encontrar taxa: i = (M/C)^(1/n) - 1. Para encontrar n: n = log(M/C) / log(1+i)."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "Como calcular o valor de uma prestação em juros compostos (Tabela Price)?",
+    "verso": "Prestação (P) de um financiamento com taxa i em n parcelas: P = C × [i(1+i)ⁿ] / [(1+i)ⁿ - 1]. Onde C = capital financiado. Essa é a fórmula da Tabela Price (sistema de amortização com prestações fixas). Em concursos, geralmente pedem apenas a comparação simples x composto ou o montante final — a fórmula de prestação raramente aparece sem tabela. Saiba que em juros compostos as primeiras parcelas têm mais juros e menos amortização."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "O que é o Princípio da Casa dos Pombos (Pigeonhole Principle)?",
+    "verso": "Princípio da Casa dos Pombos (Dirichlet): se n+1 ou mais objetos são distribuídos em n categorias (casas/gavetas), então pelo menos uma categoria conterá 2 ou mais objetos. Exemplo clássico: em um grupo de 13 pessoas, pelo menos 2 nasceram no mesmo mês (12 meses = 12 casas; 13 pessoas = n+1 objetos). Versão generalizada: se k×n + 1 objetos em n categorias → pelo menos uma terá k+1 objetos. Aplicação: provas de existência sem necessidade de construção."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "Aplicação do Princípio da Casa dos Pombos: exemplos típicos de concurso.",
+    "verso": "Ex. 1: 'Quantas meias devo tirar de uma gaveta com meias pretas e brancas (misturadas no escuro) para ter certeza de um par?' Resposta: 3 (2 casas = 2 cores; 3 objetos garante par). Ex. 2: 'Em uma turma de 367 pessoas, pelo menos 2 fazem aniversário no mesmo dia.' (366 dias no ano bissexto = 366 casas; 367 pessoas). Ex. 3: 'Em um baralho de 52 cartas, quantas retirar para garantir 2 do mesmo naipe?' Resposta: 5 (4 naipes + 1). Sempre: n categorias → n+1 objetos garantem repetição."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "O que são intervalos reais e como representá-los?",
+    "verso": "Intervalo real: conjunto de números reais entre dois valores. Notações: [a,b] = fechado (inclui a e b; a ≤ x ≤ b). (a,b) = aberto (exclui a e b; a < x < b). [a,b) = semifechado à esquerda (a ≤ x < b). (a,b] = semifechado à direita (a < x ≤ b). (-∞, a] = todos os reais até a (incluso). [a, +∞) = todos os reais a partir de a (incluso). Colchete [ ] = inclui o extremo (ponto fechado •). Parêntese ( ) = exclui o extremo (ponto aberto ○)."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "Operações com intervalos: união e interseção.",
+    "verso": "União (∪): todos os x pertencentes a pelo menos um dos intervalos. Ex.: [1,4] ∪ [3,7] = [1,7]. Interseção (∩): apenas os x comuns a ambos. Ex.: [1,4] ∩ [3,7] = [3,4]. Se não há sobreposição: [1,2] ∩ [5,8] = ∅. Complementar de [a,b] em ℝ: (-∞,a) ∪ (b,+∞). Aplicação em inequações: solução de x²-5x+6 < 0 → (2,3) — conjunto aberto onde a parábola fica abaixo do eixo x. Muito cobrado em inequações do 2º grau."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "O que são falácias lógicas? Quais os tipos mais cobrados?",
+    "verso": "Falácia: argumento logicamente inválido — as premissas não garantem a conclusão. Tipos: (1) Afirmação do consequente: 'Se p→q; q; logo p' — INVÁLIDO. (2) Negação do antecedente: 'Se p→q; ~p; logo ~q' — INVÁLIDO. (3) Ad hominem: ataca a pessoa, não o argumento. (4) Apelo à autoridade: usa autoridade como única prova. (5) Generalização apressada: conclui de poucos casos. (6) Falácia do espantalho: distorce o argumento do oponente. Argumento VÁLIDO: modus ponens (p→q; p; logo q) e modus tollens (p→q; ~q; logo ~p)."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "O que é analogia em raciocínio lógico? Como resolver questões de analogia?",
+    "verso": "Analogia: relação de proporção entre conceitos — 'A está para B assim como C está para D'. Passos: (1) Identifique a relação entre A e B (parte/todo, causa/efeito, sinônimo, antonômio, função, espécie/gênero, produto/produtor). (2) Aplique a mesma relação ao par C:D. Ex.: 'Enfermeiro está para COREN assim como Médico está para ___' → CRM. Ex.: 'Luva está para mão assim como máscara está para ___' → rosto/boca. A relação deve ser exatamente a mesma nos dois pares."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "Sistemas lineares 2×2: classificação (possível determinado, indeterminado e impossível).",
+    "verso": "Sistema com 2 equações e 2 incógnitas. Classificação pelo número de soluções: SPD (Sistema Possível e Determinado): uma solução (retas se intersectam em um ponto). SPI (Sistema Possível e Indeterminado): infinitas soluções (retas coincidem — equações proporcionais). SI (Sistema Impossível): sem solução (retas paralelas — coeficientes proporcionais mas termos independentes não). Teste rápido: a₁/a₂ ≠ b₁/b₂ → SPD. a₁/a₂ = b₁/b₂ = c₁/c₂ → SPI. a₁/a₂ = b₁/b₂ ≠ c₁/c₂ → SI."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Funções: o que é domínio, contradomínio e imagem?",
+    "verso": "Função f: A → B associa cada elemento de A a exatamente um elemento de B. Domínio (D): conjunto A — todos os valores que x pode assumir. Contradomínio (CD): conjunto B — todos os valores possíveis para y. Imagem (Im): subconjunto do CD com os valores de y efetivamente atingidos. Condições para ser função: todo x tem imagem (definido em todo o domínio) e cada x tem UMA ÚNICA imagem (lei de unicidade). Ex.: f(x) = √x → domínio = [0,+∞); f(x) = 1/x → domínio = ℝ - {0}."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "O que é função sobrejetora, injetora e bijetora?",
+    "verso": "Injetora (injetiva): elementos distintos do domínio têm imagens distintas — f(a) = f(b) ⟹ a = b. 'Todo y do contradomínio é atingido no máximo uma vez.' Sobrejetora (sobrejetiva): a imagem coincide com o contradomínio — todo y do CD tem pelo menos um x. Bijetora: é ao mesmo tempo injetora e sobrejetora — correspondência biunívoca (1-1). Só funções bijetoras têm inversa. Teste gráfico: função injetora passa no teste da reta horizontal (corta no máximo 1 vez)."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "Números reais: o que são racionais e irracionais?",
+    "verso": "Racionais (ℚ): expressos como p/q com p,q inteiros e q≠0. Incluem: inteiros, decimais finitos (0,5 = 1/2), decimais periódicos (0,333... = 1/3). Irracionais: não podem ser expressos como fração — decimais infinitos não periódicos. Ex.: √2 ≈ 1,41421...; π ≈ 3,14159...; e ≈ 2,71828...; √3, √5. Reais (ℝ) = ℚ ∪ (Irracionais). Hierarquia: ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ. Operações entre racionais = racional. Racional ± irracional = irracional."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "O que são múltiplos e divisores? Como encontrar todos os divisores de um número?",
+    "verso": "Divisores de n: números inteiros que dividem n com resto zero. Para encontrar todos: decomponha n em fatores primos (n = p₁^a × p₂^b × ...) → número de divisores = (a+1)(b+1)... Ex.: divisores de 12: 12 = 2²×3 → (2+1)(1+1) = 6 divisores: {1,2,3,4,6,12}. Múltiplos de n: n×1, n×2, n×3... (infinitos). Divisibilidade por 2: último dígito par. Por 3: soma dos dígitos divisível por 3. Por 9: soma divisível por 9. Por 5: termina em 0 ou 5. Por 4: últimos 2 dígitos divisíveis por 4."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "Geometria espacial: o que são prismas e como calcular seu volume?",
+    "verso": "Prisma: sólido com duas bases paralelas e congruentes (polígonos) e faces laterais paralelogramos. Volume = Área da base × altura (V = Ab × h). Prisma reto: arestas laterais perpendiculares à base. Cubo: prisma reto quadrado (V = a³). Paralelepípedo retângulo: V = c × l × h. Área lateral = Perímetro da base × altura. Ex.: prisma de base triangular (3,4,5cm) e h=10cm → Ab = (3×4)/2 = 6cm² → V = 6×10 = 60 cm³."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Cilindro: fórmulas de volume e área total.",
+    "verso": "Cilindro reto: sólido com duas bases circulares paralelas e superfície lateral curva. Volume: V = π × r² × h (área da base × altura). Área lateral: AL = 2πrh (retângulo com largura = circunferência da base). Área total: AT = 2πr² + 2πrh = 2πr(r + h). Ex.: cilindro r=3cm, h=10cm → V = π×9×10 = 90π ≈ 282,7 cm³. AT = 2π×3×(3+10) = 6π×13 = 78π ≈ 245,0 cm². Aplicação: capacidade de reservatórios, seringas, tanques."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "O que é o comprimento da circunferência e a área do círculo?",
+    "verso": "Circunferência (linha): C = 2πr = πd (d = diâmetro = 2r). Círculo (região plana): A = πr². π ≈ 3,14159... Use π ≈ 3,14 em cálculos simples. Setor circular (fatia): comprimento do arco = (θ/360°) × 2πr; área = (θ/360°) × πr² — onde θ é o ângulo central em graus. Ex.: r=5cm → C = 10π ≈ 31,4cm; A = 25π ≈ 78,5cm². Anel circular: A = π(R² - r²) — diferença das áreas dos dois círculos."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "Como converter entre unidades de área e volume?",
+    "verso": "Área: 1m² = 100dm² = 10.000cm² = 1.000.000mm². Atenção: ao converter comprimento ao quadrado, o fator é ao quadrado também. Ex.: 1m = 100cm → 1m² = 100² cm² = 10.000cm². Volume: 1m³ = 1.000dm³ = 1.000L = 1.000.000cm³ = 1.000.000mL. 1 litro = 1 dm³ = 1.000 cm³ = 1.000 mL. Ex.: reservatório de 500L = 500dm³ = 0,5m³. Para saúde: 1mL = 1cm³ (volume de medicamento em seringa)."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "O que são números primos e como verificar se um número é primo?",
+    "verso": "Número primo: tem exatamente dois divisores — 1 e ele mesmo. Ex.: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37... O 1 NÃO é primo. O 2 é o único primo par. Para verificar se n é primo: teste divisibilidade por todos os primos até √n. Ex.: 97 é primo? √97 ≈ 9,8 → teste por 2, 3, 5, 7 → nenhum divide → primo. Crivo de Eratóstenes: método para listar primos até n. Decomposição em fatores primos: todo inteiro > 1 é primo ou produto único de primos."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "O que são relações no plano cartesiano? Como distinguir relação de função?",
+    "verso": "Relação: qualquer conjunto de pares ordenados (x,y). Função: relação onde cada x tem exatamente uma imagem y — sem repetição de x com y diferentes. Teste do gráfico (reta vertical): se uma reta vertical cruzar o gráfico em mais de um ponto → NÃO é função. Ex.: x² + y² = r² (circunferência) → não é função (para x no interior, há dois valores de y). y = x² (parábola voltada para cima) → é função. f(x) = ±√x → não é função (cada x positivo tem dois valores)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Dados e gráficos: como interpretar gráfico de barras, setores e linhas?",
+    "verso": "Gráfico de barras: compara categorias — a altura/comprimento da barra representa o valor. Gráfico de setores (pizza): mostra proporção/percentual do todo — ângulo do setor = (valor/total) × 360°. Gráfico de linhas: mostra evolução temporal — tendência de aumento, queda ou estabilidade. Pontos importantes: leia os eixos e unidades antes de interpretar. Valor total = soma de todas as partes. Para encontrar percentual: (parte/total) × 100. Cálculo do ângulo de setor: se representa 30% → 0,30 × 360° = 108°."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "O que são os princípios de identidade, não contradição e terceiro excluído?",
+    "verso": "Princípio da identidade: toda proposição é igual a si mesma (p = p). Princípio da não contradição: uma proposição não pode ser verdadeira e falsa ao mesmo tempo (p ∧ ~p = F, sempre). Contradição = antilogia. Princípio do terceiro excluído: toda proposição é verdadeira ou falsa — não há terceira opção (p ∨ ~p = V, sempre). Tautologia. Esses três princípios são os fundamentos da lógica clássica (aristotélica). Toda demonstração por absurdo usa o princípio da não contradição."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "O que são condições necessária e suficiente?",
+    "verso": "Na condicional p → q: p é condição SUFICIENTE para q (se p ocorre, q está garantido). q é condição NECESSÁRIA para p (sem q, não pode haver p). Ex.: 'Se chove, a rua molha' (p→q): 'chover' é suficiente para 'rua molhar'; 'rua molhar' é necessário para 'ter chovido'. Condição necessária E suficiente = bicondicional (p ↔ q): p ocorre se e somente se q ocorre. Ex.: número par ↔ divisível por 2 (é necessário e suficiente que seja divisível por 2 para ser par)."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "Como resolver inequações do 1º grau?",
+    "verso": "Inequação 1º grau: ax + b > 0 (ou <, ≥, ≤). Resolução: isole x como em equação, MAS atenção: ao multiplicar ou dividir ambos os lados por número NEGATIVO, o sentido da desigualdade inverte. Ex.: -2x > 6 → x < -3 (inverteu o >). Ex. 2: 3x - 4 ≥ 5 → 3x ≥ 9 → x ≥ 3. Solução em intervalo: [3,+∞). Representação na reta numérica: ponto fechado (•) para ≥ ou ≤; aberto (○) para > ou <."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "Como resolver inequação do 2º grau? (parábola e sinal)",
+    "verso": "ax² + bx + c > 0 (ou < 0). Passos: (1) Encontre as raízes x₁ e x₂ (x₁ < x₂). (2) Se Δ < 0: sem raízes reais → se a > 0: inequação > 0 é verdadeira para todo x; se a < 0: falsa para todo x. (3) Se Δ ≥ 0: Parábola a > 0 (∪): f(x) > 0 para x < x₁ ou x > x₂; f(x) < 0 para x₁ < x < x₂. Parábola a < 0 (∩): invertido. Mnemônico: parábola ∪ com a > 0 → entre as raízes é negativo; fora é positivo."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "O que é matemática financeira: taxa nominal, efetiva e equivalente?",
+    "verso": "Taxa nominal: taxa anunciada para um período diferente do de capitalização. Ex.: 12% a.a. capitalizado mensalmente → taxa nominal ≠ taxa efetiva. Taxa efetiva: taxa que realmente incide no período de capitalização. Ex.: 12% a.a. nominal capitalizado mensalmente → taxa mensal efetiva = 12/12 = 1% a.m. Taxa equivalente: taxas que aplicadas ao mesmo capital pelo mesmo tempo produzem o mesmo montante. Simples: proporcionalidade (i_m = i_a/12). Composta: (1+i_m)¹² = (1+i_a) → i_m = (1+i_a)^(1/12) - 1."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "O que é geometria analítica: equação da reta?",
+    "verso": "Equação geral da reta: ax + by + c = 0. Equação reduzida: y = mx + n, onde m = coeficiente angular (inclinação) e n = coeficiente linear (intercepto no eixo y). Dado dois pontos P₁(x₁,y₁) e P₂(x₂,y₂): m = (y₂-y₁)/(x₂-x₁). Dado m e um ponto P₁: y - y₁ = m(x - x₁) (forma ponto-inclinação). Retas paralelas: mesma inclinação m. Retas perpendiculares: m₁ × m₂ = -1. Reta vertical (x = k): não tem m definido."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "Como calcular área de triângulo por coordenadas cartesianas?",
+    "verso": "Dados três vértices A(x₁,y₁), B(x₂,y₂), C(x₃,y₃): Área = ½ |x₁(y₂-y₃) + x₂(y₃-y₁) + x₃(y₁-y₂)|. Também pode usar a fórmula da matriz (regra de Sarrus). Ex.: A(0,0), B(4,0), C(2,3): Área = ½|0(0-3) + 4(3-0) + 2(0-0)| = ½|0+12+0| = 6. Verificação pelo método básico: base=4, altura=3 → Área = (4×3)/2 = 6 ✓. Se área = 0 → pontos são colineares (estão na mesma reta)."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "O que é sequência de Fibonacci e como identificar sequências mistas?",
+    "verso": "Fibonacci: cada termo é a soma dos dois anteriores: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55... Sequências mistas de concurso: alternam operações. Ex.: ×2, +3, ×2, +3... → 2, 4, 7, 14, 17, 34... Estratégia: olhe as diferenças de 1ª e 2ª ordem; tente razões; olhe termos alternados (pares e ímpares separadamente). Sequência de quadrados: 1,4,9,16,25,36... Sequência de cubos: 1,8,27,64,125... Sequência de primos: 2,3,5,7,11,13,17..."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "Conversões monetárias e sistema monetário brasileiro.",
+    "verso": "Moeda atual: Real (R$). 1 Real = 100 centavos. Operações com dinheiro: somar/subtrair alinhando a vírgula. Porcentagem: R$150 com 20% de desconto → R$150 × 0,80 = R$120. Arredondamento: 0,5 centavos → arredondar para R$0,01. Câmbio: valor em moeda estrangeira × taxa de câmbio = valor em reais. Ex.: USD 50 a R$5,00/USD = R$250. Troco: troco = valor pago - valor da compra. Questões de concurso costumam envolver proporção, regra de três e porcentagem com dinheiro."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Como resolver problemas com ângulos internos de polígonos?",
+    "verso": "Soma dos ângulos internos de um polígono de n lados: Si = (n-2) × 180°. Triângulo (n=3): 180°. Quadrilátero (n=4): 360°. Pentágono (n=5): 540°. Hexágono (n=6): 720°. Polígono regular: todos os lados e ângulos iguais → ângulo interno = (n-2)×180°/n. Ex.: hexágono regular → ângulo interno = 4×180°/6 = 120°. Ângulo externo = 180° - ângulo interno. Soma dos ângulos externos de qualquer polígono convexo = 360°."
+  },
+  {
+    "fonte": "IBFC 2023",
+    "bloco": "matematica",
+    "frente": "O que é o Teorema de Pitágoras e relações métricas no triângulo retângulo?",
+    "verso": "Triângulo retângulo: a² = b² + c² (a = hipotenusa; b,c = catetos). Relações métricas: h² = m×n (h = altura relativa à hipotenusa; m,n = projeções dos catetos sobre a hipotenusa). b² = a×m e c² = a×n. h×a = b×c (área: h = b×c/a). Ex.: catetos 5 e 12 → hipotenusa = √(25+144) = √169 = 13. Projeção do cateto 5 sobre hipotenusa: m = 5²/13 = 25/13. Altura: h = 5×12/13 = 60/13."
+  },
+  {
+    "fonte": "FAFIPA 2024",
+    "bloco": "matematica",
+    "frente": "Como resolver problemas de mistura (alligation)?",
+    "verso": "Problemas de mistura: duas soluções de concentrações diferentes são misturadas. Método: C_final × V_total = C₁×V₁ + C₂×V₂. Ex.: misturar 3L a 40% com 2L a 10%: C_final = (40×3 + 10×2)/(3+2) = (120+20)/5 = 140/5 = 28%. Proporção inversa (regra do X ou alligation): diferença ao meio |C_final - C₁| : |C_final - C₂| = V₁:V₂. Ex. clínico: soro a 5% e água para obter 500mL a 3%: 500×0,03 = V×0,05 → V = 15/0,05 = 300mL de soro; 200mL de água."
+  },
+  {
+    "fonte": "ENARE 2024",
+    "bloco": "matematica",
+    "frente": "Estatística: o que é desvio padrão e variância?",
+    "verso": "Variância (σ²): média dos quadrados dos desvios em relação à média. σ² = Σ(xᵢ - x̄)² / n. Desvio padrão (σ): raiz quadrada da variância — na mesma unidade dos dados. Mede a dispersão: σ pequeno = dados próximos à média; σ grande = dados espalhados. Ex.: {2,4,4,4,5,5,7,9} → x̄ = 5; σ² = [(2-5)²+(4-5)²+...+(9-5)²]/8 = 4; σ = 2. Importante: variância e desvio padrão são sempre ≥ 0; valem 0 apenas quando todos os dados são iguais."
+  },
+  {
+    "fonte": "AOCP 2024",
+    "bloco": "matematica",
+    "frente": "Como interpretar tabelas de frequência e calcular média ponderada por frequência?",
+    "verso": "Tabela de frequência: lista valores e suas frequências (fi). Frequência relativa: fi/n (proporção). Frequência acumulada: soma das frequências até aquele valor. Média por frequência: x̄ = Σ(xᵢ × fᵢ) / Σfᵢ. Ex.: valor 2 (freq 3), valor 4 (freq 5), valor 6 (freq 2) → x̄ = (2×3 + 4×5 + 6×2)/(3+5+2) = (6+20+12)/10 = 38/10 = 3,8. Mediana na tabela: encontre o valor onde a frequência acumulada atinge n/2 (ou (n+1)/2 para n ímpar)."
+  },
+  {
+    "fonte": "COGEPS/UNIOESTE 2025",
+    "bloco": "matematica",
+    "frente": "Funções: crescimento exponencial e decaimento. Diferença da função afim.",
+    "verso": "Função exponencial: f(x) = a × bˣ (a > 0; b > 0; b ≠ 1). Crescimento: b > 1 (ex.: dobrando a cada período: f(x) = 2ˣ). Decaimento: 0 < b < 1 (ex.: meia-vida: f(x) = (1/2)ˣ). Diferença da função afim (1º grau): crescimento linear = aumento constante; exponencial = aumento proporcional ao valor atual. Aplicações: crescimento populacional, juros compostos, desintegração radioativa, propagação de doenças (modelo epidemiológico). Os juros compostos são um exemplo de crescimento exponencial: M = C×(1+i)ⁿ."
+  }
+]

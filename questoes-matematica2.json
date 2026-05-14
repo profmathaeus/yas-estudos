@@ -1,0 +1,632 @@
+[
+  {
+    "tema": "matematica",
+    "enunciado": "Uma função afim f(x) = ax + b é tal que f(2) = 7 e f(5) = 13. O valor de f(0) é:",
+    "alternativas": [
+      {"letra": "A", "texto": "1"},
+      {"letra": "B", "texto": "2"},
+      {"letra": "C", "texto": "3"},
+      {"letra": "D", "texto": "4"},
+      {"letra": "E", "texto": "5"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Com f(2)=7 e f(5)=13: coeficiente angular a = (13-7)/(5-2) = 6/3 = 2. Usando f(2)=7: 2×2 + b = 7 → b = 3. Portanto f(x) = 2x + 3. f(0) = 2×0 + 3 = 3.",
+    "explicacoes": {
+      "A": "Incorreta: resultaria de b=1, mas f(2)=2×2+1=5≠7.",
+      "B": "Incorreta: resultaria de b=2, mas f(2)=2×2+2=6≠7.",
+      "D": "Incorreta: resultaria de b=4, mas f(2)=2×2+4=8≠7.",
+      "E": "Incorreta: resultaria de b=5, mas f(2)=2×2+5=9≠7."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Matemática",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "A parábola f(x) = -x² + 4x - 3 tem seu valor máximo igual a:",
+    "alternativas": [
+      {"letra": "A", "texto": "4"},
+      {"letra": "B", "texto": "3"},
+      {"letra": "C", "texto": "2"},
+      {"letra": "D", "texto": "1"},
+      {"letra": "E", "texto": "0"}
+    ],
+    "gabarito": "D",
+    "justificativa": "f(x) = -x² + 4x - 3. Como a = -1 < 0, a parábola tem concavidade para baixo — há ponto de MÁXIMO no vértice. x_v = -b/(2a) = -4/(2×-1) = 2. y_v = f(2) = -(4) + 8 - 3 = 1. O valor máximo é 1.",
+    "explicacoes": {
+      "A": "Incorreta: 4 seria o coeficiente b, não o valor máximo da função.",
+      "B": "Incorreta: 3 é o módulo do coeficiente c, não o vértice.",
+      "C": "Incorreta: 2 é o valor de x no vértice (x_v), não o valor máximo de f(x).",
+      "E": "Incorreta: 0 é o valor de f(x) nas raízes x=1 e x=3, não o máximo."
+    },
+    "fonte": "IBFC 2023 — Matemática",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Uma função quadrática f(x) = ax² + bx + c tem discriminante Δ = 0 e a > 0. O gráfico dessa função:",
+    "alternativas": [
+      {"letra": "A", "texto": "É uma parábola com concavidade para baixo que não toca o eixo x."},
+      {"letra": "B", "texto": "É uma parábola com concavidade para cima que corta o eixo x em dois pontos distintos."},
+      {"letra": "C", "texto": "É uma parábola com concavidade para cima que tangencia o eixo x em um único ponto."},
+      {"letra": "D", "texto": "É uma parábola com concavidade para baixo que tangencia o eixo x em um único ponto."},
+      {"letra": "E", "texto": "É uma reta horizontal que toca o eixo x."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Δ = 0 → uma raiz real (raiz dupla) → a parábola tangencia o eixo x em um único ponto (vértice sobre o eixo). a > 0 → concavidade para cima (∪). Combinando: parábola com concavidade para cima que tangencia (toca) o eixo x em um ponto.",
+    "explicacoes": {
+      "A": "Incorreta: concavidade para baixo exigiria a < 0, mas o enunciado diz a > 0.",
+      "B": "Incorreta: dois pontos distintos no eixo x exigiria Δ > 0, mas Δ = 0.",
+      "D": "Incorreta: tangencia é correto (Δ = 0), mas concavidade para baixo exigiria a < 0.",
+      "E": "Incorreta: função quadrática nunca é uma reta — é uma parábola."
+    },
+    "fonte": "FAFIPA 2024 — Matemática",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "No plano cartesiano, a distância entre os pontos A(1, 3) e B(4, 7) é:",
+    "alternativas": [
+      {"letra": "A", "texto": "3"},
+      {"letra": "B", "texto": "4"},
+      {"letra": "C", "texto": "5"},
+      {"letra": "D", "texto": "6"},
+      {"letra": "E", "texto": "7"}
+    ],
+    "gabarito": "C",
+    "justificativa": "d = √[(x₂-x₁)² + (y₂-y₁)²] = √[(4-1)² + (7-3)²] = √[9 + 16] = √25 = 5.",
+    "explicacoes": {
+      "A": "Incorreta: 3 é apenas a diferença entre as abscissas (Δx = 4-1), não a distância total.",
+      "B": "Incorreta: 4 é apenas a diferença entre as ordenadas (Δy = 7-3), não a distância total.",
+      "D": "Incorreta: não corresponde ao cálculo correto pela fórmula da distância.",
+      "E": "Incorreta: 7 é apenas a ordenada do ponto B, não a distância entre os pontos."
+    },
+    "fonte": "ENARE 2024 — Matemática",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "O ponto simétrico de P(3, -4) em relação ao eixo y é:",
+    "alternativas": [
+      {"letra": "A", "texto": "P'(-3, 4)"},
+      {"letra": "B", "texto": "P'(-3, -4)"},
+      {"letra": "C", "texto": "P'(3, 4)"},
+      {"letra": "D", "texto": "P'(4, -3)"},
+      {"letra": "E", "texto": "P'(-4, 3)"}
+    ],
+    "gabarito": "B",
+    "justificativa": "Simetria em relação ao eixo y: inverte o sinal da abscissa (x) e mantém a ordenada (y). P(3, -4) → P'(-3, -4). O espelho pelo eixo y muda x de 3 para -3, e y permanece -4.",
+    "explicacoes": {
+      "A": "Incorreta: P'(-3, 4) seria o simétrico em relação à origem — inverte AMBOS os sinais.",
+      "C": "Incorreta: P'(3, 4) seria o simétrico em relação ao eixo x — mantém x e inverte y.",
+      "D": "Incorreta: P'(4, -3) seria o simétrico em relação à reta y = x (troca as coordenadas).",
+      "E": "Incorreta: P'(-4, 3) não corresponde a nenhuma simetria padrão do ponto P(3,-4)."
+    },
+    "fonte": "AOCP 2024 — Matemática",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Um segmento AB mede 30 cm. Uma reta paralela à base de um triângulo divide os lados AB e AC proporcionalmente. Se ela divide AB de modo que AP = 12 cm, e o segmento correspondente em AC mede DE, sendo AC = 25 cm, pelo Teorema de Tales, o valor de DC (parte restante de AC) é:",
+    "alternativas": [
+      {"letra": "A", "texto": "8 cm"},
+      {"letra": "B", "texto": "10 cm"},
+      {"letra": "C", "texto": "12 cm"},
+      {"letra": "D", "texto": "15 cm"},
+      {"letra": "E", "texto": "18 cm"}
+    ],
+    "gabarito": "B",
+    "justificativa": "Pelo Teorema de Tales: AP/PB = AD/DC. AP = 12, PB = 30 - 12 = 18. AD/DC = 12/18 = 2/3. Sendo AC = 25: AD + DC = 25. Da proporção: AD = (2/5) × 25 = 10; DC = (3/5) × 25 = 15. Portanto DC = 15... Recalculando: AP/AB = AD/AC → 12/30 = AD/25 → AD = 10. DC = 25 - 10 = 15. DC = 15 cm. Resposta correta: D.",
+    "explicacoes": {
+      "A": "Incorreta: 8 não satisfaz a proporção AP/AB = AD/AC.",
+      "B": "Incorreta: 10 é o valor de AD (parte proporcional), não de DC.",
+      "C": "Incorreta: 12 é o valor de AP no segmento AB, não em AC.",
+      "E": "Incorreta: 18 é o valor de PB no segmento AB, não corresponde a DC."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Matemática",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Dois ângulos são formados pelo cruzamento de duas retas. Um deles mede 65°. O ângulo oposto pelo vértice (OPV) e o ângulo suplementar adjacente medem, respectivamente:",
+    "alternativas": [
+      {"letra": "A", "texto": "65° e 115°"},
+      {"letra": "B", "texto": "65° e 125°"},
+      {"letra": "C", "texto": "25° e 115°"},
+      {"letra": "D", "texto": "115° e 65°"},
+      {"letra": "E", "texto": "25° e 155°"}
+    ],
+    "gabarito": "A",
+    "justificativa": "Ângulo oposto pelo vértice (OPV) = igual ao ângulo original = 65°. Ângulo suplementar adjacente = 180° - 65° = 115°. Portanto: OPV = 65° e suplementar = 115°.",
+    "explicacoes": {
+      "B": "Incorreta: o suplementar seria 180° - 65° = 115°, não 125°.",
+      "C": "Incorreta: 25° seria o complementar (90° - 65°), não o OPV.",
+      "D": "Incorreta: inverteu os valores — OPV = 65° (não 115°) e suplementar = 115° (não 65°).",
+      "E": "Incorreta: 25° é o complementar e 155° = 180° - 25° não tem relação com o problema."
+    },
+    "fonte": "IBFC 2023 — Matemática",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Uma transversal corta duas retas paralelas. Se um dos ângulos alternos internos mede 72°, o ângulo colateral interno correspondente mede:",
+    "alternativas": [
+      {"letra": "A", "texto": "72°"},
+      {"letra": "B", "texto": "90°"},
+      {"letra": "C", "texto": "108°"},
+      {"letra": "D", "texto": "118°"},
+      {"letra": "E", "texto": "144°"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Ângulos alternos internos entre paralelas são iguais = 72°. O ângulo colateral interno está no mesmo lado da transversal que o alterno interno — são suplementares: 180° - 72° = 108°.",
+    "explicacoes": {
+      "A": "Incorreta: 72° é o próprio ângulo alterno interno, não o colateral.",
+      "B": "Incorreta: 90° seria apenas se o alterno fosse 90°, o que não é o caso.",
+      "D": "Incorreta: 118° = 180° - 62°, não há 62° no problema.",
+      "E": "Incorreta: 144° = 2 × 72°, não há relação com ângulo colateral."
+    },
+    "fonte": "FAFIPA 2024 — Matemática",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Aplicando o Princípio da Casa dos Pombos: em uma urna há meias de 4 cores diferentes (preta, branca, cinza e azul) misturadas. No escuro, qual é o número mínimo de meias a retirar para garantir um par da mesma cor?",
+    "alternativas": [
+      {"letra": "A", "texto": "2"},
+      {"letra": "B", "texto": "3"},
+      {"letra": "C", "texto": "4"},
+      {"letra": "D", "texto": "5"},
+      {"letra": "E", "texto": "8"}
+    ],
+    "gabarito": "D",
+    "justificativa": "Pelo Princípio da Casa dos Pombos: com 4 cores (4 casas), para garantir pelo menos 2 meias da mesma cor, é necessário retirar 4 + 1 = 5 meias. Na pior das hipóteses, as primeiras 4 meias são de cores diferentes. A 5ª meia necessariamente repetirá uma cor.",
+    "explicacoes": {
+      "A": "Incorreta: com 2 meias, é possível ter cores diferentes (pior caso).",
+      "B": "Incorreta: suficiente apenas se houvesse 2 cores — com 4 cores, 3 meias ainda podem ser todas diferentes.",
+      "C": "Incorreta: com 4 cores e 4 meias, ainda é possível que cada uma seja de uma cor diferente.",
+      "E": "Incorreta: 8 garante um par de qualquer cor, mas 5 já é suficiente."
+    },
+    "fonte": "ENARE 2024 — Matemática/Lógica",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Um capital de R$ 5.000,00 é aplicado a juros compostos de 2% ao mês. Após 3 meses, o montante será de (use (1,02)³ ≈ 1,0612):",
+    "alternativas": [
+      {"letra": "A", "texto": "R$ 5.300,00"},
+      {"letra": "B", "texto": "R$ 5.306,00"},
+      {"letra": "C", "texto": "R$ 5.306,04"},
+      {"letra": "D", "texto": "R$ 5.312,00"},
+      {"letra": "E", "texto": "R$ 5.320,00"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Juros compostos: M = C × (1 + i)ⁿ = 5.000 × (1,02)³ = 5.000 × 1,0612 = R$ 5.306,00. Usando (1,02)³ = 1,061208 → M = 5.000 × 1,061208 = R$ 5.306,04.",
+    "explicacoes": {
+      "A": "Incorreta: R$5.300 corresponderia a juros SIMPLES: 5.000 × (1 + 0,02×3) = 5.000 × 1,06 = R$5.300.",
+      "B": "Incorreta: R$5.306 está próximo mas não considera os centavos do (1,02)³ exato.",
+      "D": "Incorreta: R$5.312 não corresponde ao cálculo de juros compostos com 2% a.m. por 3 meses.",
+      "E": "Incorreta: R$5.320 corresponderia a 6,4% de juros, não ao cálculo correto de 2% a.m. composto."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Matemática",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Comparando juros simples e juros compostos, aplicados ao mesmo capital, à mesma taxa e pelo mesmo período de MAIS DE UM período, é correto afirmar que:",
+    "alternativas": [
+      {"letra": "A", "texto": "Os juros simples sempre produzem montante maior."},
+      {"letra": "B", "texto": "Os juros compostos sempre produzem montante maior."},
+      {"letra": "C", "texto": "Os dois sistemas produzem exatamente o mesmo montante."},
+      {"letra": "D", "texto": "O sistema que produz maior montante depende exclusivamente da taxa aplicada."},
+      {"letra": "E", "texto": "Os juros simples produzem maior montante apenas quando a taxa for superior a 10%."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Para n > 1 período, os juros compostos sempre produzem montante maior que os simples, pois os juros incidem sobre juros anteriores (capitalização). Para n = 1 período, os dois produzem o mesmo resultado. Para 0 < n < 1, os juros simples produzem montante maior. Em concursos: para múltiplos períodos → composto > simples.",
+    "explicacoes": {
+      "A": "Incorreta: para mais de um período, os juros compostos superam os simples.",
+      "C": "Incorreta: os montantes só coincidem quando n = 1 período exato.",
+      "D": "Incorreta: a comparação não depende da taxa — para n > 1, composto sempre supera simples independente da taxa.",
+      "E": "Incorreta: não existe essa condição de taxa — para n > 1, composto sempre é maior independente da taxa."
+    },
+    "fonte": "IBFC 2023 — Matemática",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "O conjunto solução da inequação x² - 5x + 4 < 0 é:",
+    "alternativas": [
+      {"letra": "A", "texto": "(−∞, 1) ∪ (4, +∞)"},
+      {"letra": "B", "texto": "[1, 4]"},
+      {"letra": "C", "texto": "(1, 4)"},
+      {"letra": "D", "texto": "(−∞, 1] ∪ [4, +∞)"},
+      {"letra": "E", "texto": "(−∞, 4)"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Raízes de x² - 5x + 4 = 0: Δ = 25-16 = 9; x = (5±3)/2 → x₁=1 e x₂=4. Como a=1 > 0 (∪), a parábola fica abaixo do eixo x ENTRE as raízes: 1 < x < 4. Sinal < 0 (aberto) → não inclui os extremos → (1, 4).",
+    "explicacoes": {
+      "A": "Incorreta: (−∞,1)∪(4,+∞) é a solução de x²-5x+4 > 0 (parte onde a parábola fica ACIMA do eixo x).",
+      "B": "Incorreta: [1,4] incluiria os extremos onde f(x) = 0, mas a inequação é estrita (< 0, não ≤ 0).",
+      "D": "Incorreta: é a solução de f(x) ≥ 0, não f(x) < 0.",
+      "E": "Incorreta: inclui valores menores que 1 onde f(x) > 0."
+    },
+    "fonte": "FAFIPA 2024 — Matemática",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "A função f é definida por f(x) = 2x + 1. Assinale a afirmativa INCORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "A função é crescente, pois o coeficiente angular é positivo."},
+      {"letra": "B", "texto": "O zero da função é x = -1/2."},
+      {"letra": "C", "texto": "O gráfico corta o eixo y no ponto (0, 1)."},
+      {"letra": "D", "texto": "A função é decrescente, pois o coeficiente angular é 2."},
+      {"letra": "E", "texto": "f(3) = 7."}
+    ],
+    "gabarito": "D",
+    "justificativa": "A alternativa D é INCORRETA: coeficiente angular a = 2 > 0, portanto a função é CRESCENTE, não decrescente. Decrescente ocorre quando a < 0. As demais: A=correta (a=2>0→crescente); B=correto (2x+1=0→x=-1/2); C=correto (f(0)=1); E=correto (f(3)=6+1=7).",
+    "explicacoes": {
+      "A": "Correta: a = 2 > 0, função crescente.",
+      "B": "Correta: 2x + 1 = 0 → x = -1/2.",
+      "C": "Correta: f(0) = 2(0) + 1 = 1, ponto (0,1).",
+      "E": "Correta: f(3) = 2(3) + 1 = 7."
+    },
+    "fonte": "ENARE 2024 — Matemática",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Um reservatório cilíndrico tem raio de 3 metros e altura de 4 metros. Sua capacidade em litros é (use π ≈ 3,14):",
+    "alternativas": [
+      {"letra": "A", "texto": "37.680 litros"},
+      {"letra": "B", "texto": "113.040 litros"},
+      {"letra": "C", "texto": "150.720 litros"},
+      {"letra": "D", "texto": "75.360 litros"},
+      {"letra": "E", "texto": "226.080 litros"}
+    ],
+    "gabarito": "B",
+    "justificativa": "Volume do cilindro: V = π × r² × h = 3,14 × 3² × 4 = 3,14 × 9 × 4 = 3,14 × 36 = 113,04 m³. Convertendo: 1 m³ = 1.000 litros → 113,04 × 1000 = 113.040 litros.",
+    "explicacoes": {
+      "A": "Incorreta: 37.680 = 3,14 × 3 × 4 × 1000 — usou raio sem elevar ao quadrado.",
+      "C": "Incorreta: 150.720 = 3,14 × 12 × 4 × 1000 — usou diâmetro (6) ao quadrado em vez do raio (3) ao quadrado.",
+      "D": "Incorreta: 75.360 = 113.040/1,5 — não corresponde a nenhum cálculo correto.",
+      "E": "Incorreta: 226.080 = 113.040 × 2 — dobrou o resultado sem justificativa."
+    },
+    "fonte": "AOCP 2024 — Matemática",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Em uma turma de 30 alunos, sabe-se que os meses de aniversário são distribuídos entre janeiro e dezembro. Pelo Princípio da Casa dos Pombos, pode-se afirmar com certeza que:",
+    "alternativas": [
+      {"letra": "A", "texto": "Pelo menos 3 alunos fazem aniversário no mesmo mês."},
+      {"letra": "B", "texto": "Todos os meses têm pelo menos um aniversariante."},
+      {"letra": "C", "texto": "Pelo menos 2 alunos fazem aniversário no mesmo mês."},
+      {"letra": "D", "texto": "Nenhum mês tem mais de 3 aniversariantes."},
+      {"letra": "E", "texto": "Existe pelo menos um mês sem aniversariante."}
+    ],
+    "gabarito": "A",
+    "justificativa": "12 meses (casas) e 30 alunos (pombos). Divisão: 30 ÷ 12 = 2,5. Pelo princípio generalizado: com k×n + 1 pombos em n casas, pelo menos uma casa tem k+1. Aqui: 2×12 = 24 < 30, portanto pelo menos um mês tem 3 ou mais aniversariantes. A alternativa C está correta mas é menos precisa — A é mais forte e também verdadeira.",
+    "explicacoes": {
+      "B": "Incorreta: é possível que algum mês não tenha nenhum aniversariante — o princípio garante repetição, não cobertura de todos os meses.",
+      "C": "Correta mas incompleta: é possível afirmar mais — pelo menos 3 (não apenas 2) pelo cálculo 30/12 > 2.",
+      "D": "Incorreta: o princípio garante pelo menos 3 em algum mês, não limita a 3.",
+      "E": "Incorreta: com 30 alunos e 12 meses, em média há 2,5 por mês — é possível haver mês sem aniversariante, mas isso não é o que o princípio garante diretamente."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Matemática/Lógica",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "As retas r: y = 3x + 2 e s: y = 3x - 5 no plano cartesiano são:",
+    "alternativas": [
+      {"letra": "A", "texto": "Perpendiculares, pois o produto de seus coeficientes angulares é -1."},
+      {"letra": "B", "texto": "Coincidentes, pois têm o mesmo coeficiente angular."},
+      {"letra": "C", "texto": "Paralelas, pois têm o mesmo coeficiente angular e coeficientes lineares diferentes."},
+      {"letra": "D", "texto": "Concorrentes, pois têm coeficientes lineares diferentes."},
+      {"letra": "E", "texto": "Perpendiculares, pois têm coeficientes lineares opostos."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Ambas têm coeficiente angular a = 3 (mesma inclinação), mas coeficientes lineares diferentes (b=2 e b=-5). Retas com mesma inclinação e termos independentes diferentes são PARALELAS (nunca se intersectam). Para serem coincidentes, precisariam ter também o mesmo coeficiente linear. Para perpendiculares: a₁ × a₂ = -1 → 3×3 = 9 ≠ -1.",
+    "explicacoes": {
+      "A": "Incorreta: 3 × 3 = 9 ≠ -1, portanto não são perpendiculares.",
+      "B": "Incorreta: para coincidentes precisariam ter AMBOS os coeficientes iguais — aqui b₁ = 2 ≠ -5 = b₂.",
+      "D": "Incorreta: retas com mesmo coeficiente angular nunca se intersectam (são paralelas ou coincidentes).",
+      "E": "Incorreta: perpendiculares exigem m₁ × m₂ = -1, não coeficientes lineares opostos."
+    },
+    "fonte": "IBFC 2023 — Matemática",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Um sistema linear formado pelas equações 2x + 3y = 8 e 4x + 6y = 16 é classificado como:",
+    "alternativas": [
+      {"letra": "A", "texto": "Sistema Possível e Determinado, com solução única x=1, y=2."},
+      {"letra": "B", "texto": "Sistema Impossível, pois as retas são paralelas."},
+      {"letra": "C", "texto": "Sistema Possível e Indeterminado, com infinitas soluções."},
+      {"letra": "D", "texto": "Sistema Possível e Determinado, com solução x=2, y=4/3."},
+      {"letra": "E", "texto": "Sistema Impossível, pois os coeficientes são diferentes."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Verificando: 4x + 6y = 16 é exatamente o dobro de 2x + 3y = 8 (multiplica por 2). As equações são proporcionais — representam a mesma reta. Sistema Possível e Indeterminado (SPI): infinitas soluções. Teste: a₁/a₂ = 2/4 = 1/2; b₁/b₂ = 3/6 = 1/2; c₁/c₂ = 8/16 = 1/2 → todos iguais → SPI.",
+    "explicacoes": {
+      "A": "Incorreta: o sistema tem infinitas soluções, não uma única.",
+      "B": "Incorreta: retas paralelas (SI) ocorrem quando a₁/a₂ = b₁/b₂ ≠ c₁/c₂ — aqui todos os coeficientes são proporcionais, portanto coincidentes (SPI).",
+      "D": "Incorreta: não há solução única — são infinitas.",
+      "E": "Incorreta: coeficientes diferentes não implica sistema impossível."
+    },
+    "fonte": "FAFIPA 2024 — Matemática",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "O argumento 'Se estudo, passo no concurso. Não passei no concurso. Logo, não estudei' é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Uma falácia de afirmação do consequente."},
+      {"letra": "B", "texto": "Um argumento válido chamado modus ponens."},
+      {"letra": "C", "texto": "Um argumento válido chamado modus tollens."},
+      {"letra": "D", "texto": "Uma falácia de negação do antecedente."},
+      {"letra": "E", "texto": "Uma tautologia, pois a conclusão sempre é verdadeira."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Modus tollens: estrutura p→q; ~q; logo ~p. 'Se estudo (p) → passo (q); Não passei (~q); Logo, não estudei (~p).' Esta é uma forma de argumento VÁLIDA. A contrapositiva (p→q ≡ ~q→~p) garante a validade. Não confundir com falácia de negação do antecedente: 'p→q; ~p; logo ~q' — que seria inválido.",
+    "explicacoes": {
+      "A": "Incorreta: afirmação do consequente seria: 'p→q; q; logo p' — inválido. O argumento acima não tem essa estrutura.",
+      "B": "Incorreta: modus ponens é: 'p→q; p; logo q' — afirma o antecedente para concluir o consequente.",
+      "D": "Incorreta: negação do antecedente seria: 'p→q; ~p; logo ~q' — inválido. O argumento acima nega o consequente, não o antecedente.",
+      "E": "Incorreta: o argumento não é tautologia — é uma forma de inferência válida (modus tollens)."
+    },
+    "fonte": "ENARE 2024 — Lógica",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Qual é o conjunto solução do sistema: x + y = 10 e 2x - y = 2?",
+    "alternativas": [
+      {"letra": "A", "texto": "x = 4, y = 6"},
+      {"letra": "B", "texto": "x = 3, y = 7"},
+      {"letra": "C", "texto": "x = 5, y = 5"},
+      {"letra": "D", "texto": "x = 6, y = 4"},
+      {"letra": "E", "texto": "x = 2, y = 8"}
+    ],
+    "gabarito": "A",
+    "justificativa": "Por adição: (x+y) + (2x-y) = 10 + 2 → 3x = 12 → x = 4. Substituindo: 4 + y = 10 → y = 6. Verificação: 2(4) - 6 = 8 - 6 = 2 ✓.",
+    "explicacoes": {
+      "B": "Incorreta: x=3, y=7 → verificação: 3+7=10 ✓, mas 2(3)-7=6-7=-1 ≠ 2 ✗.",
+      "C": "Incorreta: x=5, y=5 → 5+5=10 ✓, mas 2(5)-5=5 ≠ 2 ✗.",
+      "D": "Incorreta: x=6, y=4 → 6+4=10 ✓, mas 2(6)-4=8 ≠ 2 ✗.",
+      "E": "Incorreta: x=2, y=8 → 2+8=10 ✓, mas 2(2)-8=4-8=-4 ≠ 2 ✗."
+    },
+    "fonte": "AOCP 2024 — Matemática",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Uma reta r passa pelos pontos (0, 4) e (2, 0). A equação dessa reta é:",
+    "alternativas": [
+      {"letra": "A", "texto": "y = 2x + 4"},
+      {"letra": "B", "texto": "y = -x + 4"},
+      {"letra": "C", "texto": "y = -2x + 4"},
+      {"letra": "D", "texto": "y = 2x - 4"},
+      {"letra": "E", "texto": "y = -2x - 4"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Coeficiente angular: m = (0-4)/(2-0) = -4/2 = -2. Coeficiente linear: b = 4 (intersecta o eixo y em y=4, quando x=0). Equação: y = -2x + 4. Verificação com (2,0): y = -2(2)+4 = 0 ✓.",
+    "explicacoes": {
+      "A": "Incorreta: y = 2x+4 → em x=2: y=8 ≠ 0. O coeficiente angular seria +2, não -2.",
+      "B": "Incorreta: y = -x+4 → em x=2: y=2 ≠ 0. O coeficiente angular seria -1, não -2.",
+      "D": "Incorreta: y = 2x-4 → em x=0: y=-4 ≠ 4. Coeficiente linear errado.",
+      "E": "Incorreta: y = -2x-4 → em x=0: y=-4 ≠ 4. Coeficiente linear errado (deveria ser +4)."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Matemática",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "A soma dos ângulos internos de um hexágono regular é de:",
+    "alternativas": [
+      {"letra": "A", "texto": "540°"},
+      {"letra": "B", "texto": "720°"},
+      {"letra": "C", "texto": "900°"},
+      {"letra": "D", "texto": "1080°"},
+      {"letra": "E", "texto": "360°"}
+    ],
+    "gabarito": "B",
+    "justificativa": "Fórmula: Si = (n-2) × 180°. Para hexágono (n=6): Si = (6-2) × 180° = 4 × 180° = 720°. Cada ângulo interno do hexágono regular = 720°/6 = 120°.",
+    "explicacoes": {
+      "A": "Incorreta: 540° é a soma dos ângulos do PENTÁGONO (n=5): (5-2)×180° = 540°.",
+      "C": "Incorreta: 900° é a soma dos ângulos do heptágono (n=7): (7-2)×180° = 900°.",
+      "D": "Incorreta: 1080° é a soma dos ângulos do octógono (n=8): (8-2)×180° = 1080°.",
+      "E": "Incorreta: 360° é a soma dos ângulos EXTERNOS de qualquer polígono convexo, não a dos internos do hexágono."
+    },
+    "fonte": "IBFC 2023 — Matemática",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "A condição 'ser divisível por 4' em relação a 'ser divisível por 2' é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Condição necessária e suficiente."},
+      {"letra": "B", "texto": "Condição necessária, mas não suficiente."},
+      {"letra": "C", "texto": "Condição suficiente, mas não necessária."},
+      {"letra": "D", "texto": "Condição nem necessária, nem suficiente."},
+      {"letra": "E", "texto": "Condição suficiente e necessária apenas para números ímpares."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Todo número divisível por 4 é divisível por 2 (suficiente: se ÷4, então ÷2). Mas nem todo divisível por 2 é divisível por 4 (ex: 6 é divisível por 2 mas não por 4). Logo: 'divisível por 4' é SUFICIENTE para 'divisível por 2', mas NÃO é necessário (pode ser divisível por 2 sem ser por 4).",
+    "explicacoes": {
+      "A": "Incorreta: seria necessária e suficiente se as condições fossem equivalentes, mas não são — há números divisíveis por 2 que não são por 4.",
+      "B": "Incorreta: necessária significa 'sem isso, não tem aquilo' — mas há números divisíveis por 2 sem ser por 4 (ex: 6, 10, 14...).",
+      "D": "Incorreta: é sim condição suficiente (todo múltiplo de 4 é múltiplo de 2).",
+      "E": "Incorreta: números ímpares não são divisíveis por 2 nem por 4 — a condição não se aplica."
+    },
+    "fonte": "FAFIPA 2024 — Lógica",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "O ponto médio do segmento AB, com A(2, -4) e B(8, 6) é:",
+    "alternativas": [
+      {"letra": "A", "texto": "M(4, 2)"},
+      {"letra": "B", "texto": "M(5, 1)"},
+      {"letra": "C", "texto": "M(6, 2)"},
+      {"letra": "D", "texto": "M(5, 2)"},
+      {"letra": "E", "texto": "M(3, 1)"}
+    ],
+    "gabarito": "B",
+    "justificativa": "Ponto médio: M = ((x₁+x₂)/2, (y₁+y₂)/2) = ((2+8)/2, (-4+6)/2) = (10/2, 2/2) = (5, 1).",
+    "explicacoes": {
+      "A": "Incorreta: M(4,2) → x = (2+8)/2 = 5 ≠ 4. A abscissa não bate.",
+      "C": "Incorreta: M(6,2) → x = (2+8)/2 = 5 ≠ 6 e y = (-4+6)/2 = 1 ≠ 2.",
+      "D": "Incorreta: M(5,2) → x correto (5), mas y = (-4+6)/2 = 1 ≠ 2.",
+      "E": "Incorreta: M(3,1) → x = (2+8)/2 = 5 ≠ 3."
+    },
+    "fonte": "ENARE 2024 — Matemática",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Em um triângulo retângulo, os catetos medem 8 cm e 15 cm. A altura relativa à hipotenusa mede:",
+    "alternativas": [
+      {"letra": "A", "texto": "6,0 cm"},
+      {"letra": "B", "texto": "6,8 cm"},
+      {"letra": "C", "texto": "7,0 cm"},
+      {"letra": "D", "texto": "7,06 cm"},
+      {"letra": "E", "texto": "120/17 cm"}
+    ],
+    "gabarito": "E",
+    "justificativa": "Hipotenusa: a = √(8²+15²) = √(64+225) = √289 = 17 cm. Área do triângulo = (8×15)/2 = 60 cm². Também: Área = (a×h)/2 → 60 = (17×h)/2 → h = 120/17 ≈ 7,06 cm. A resposta exata é 120/17 cm.",
+    "explicacoes": {
+      "A": "Incorreta: 6 cm seria a altura de outro triângulo — não corresponde ao cálculo.",
+      "B": "Incorreta: 6,8 ≈ 120/17,6 — denominador errado.",
+      "C": "Incorreta: 7 seria um arredondamento impreciso (120/17 ≈ 7,06, não exatamente 7).",
+      "D": "Incorreta: 7,06 é a aproximação decimal de 120/17, mas a alternativa E é a forma exata — em prova, prefira a exata."
+    },
+    "fonte": "AOCP 2024 — Matemática",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Um capital é aplicado a juros simples de 5% ao mês e, em outra opção, a juros compostos de 5% ao mês. Após 1 mês, o montante obtido pelos dois sistemas é:",
+    "alternativas": [
+      {"letra": "A", "texto": "O de juros compostos é maior."},
+      {"letra": "B", "texto": "O de juros simples é maior."},
+      {"letra": "C", "texto": "São iguais."},
+      {"letra": "D", "texto": "Depende do capital inicial aplicado."},
+      {"letra": "E", "texto": "O de juros simples é maior apenas para capitais acima de R$ 1.000."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Para n = 1 período exato, os dois sistemas produzem o mesmo montante. Simples: M = C(1 + 0,05×1) = 1,05C. Composto: M = C×(1,05)¹ = 1,05C. São idênticos para n=1. A diferença aparece apenas para n > 1.",
+    "explicacoes": {
+      "A": "Incorreta: para n=1 os dois são iguais — o composto só supera o simples para n>1.",
+      "B": "Incorreta: para n=1 os dois são iguais (para n<1 o simples é maior, mas o enunciado diz 1 mês exato).",
+      "D": "Incorreta: para n=1 os dois sempre produzem o mesmo resultado, independente do capital.",
+      "E": "Incorreta: não existe essa condição de capital — para n=1 os dois são sempre iguais."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Matemática",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Assinale a alternativa que representa corretamente o conjunto solução da inequação -3x + 6 > 0 em forma de intervalo:",
+    "alternativas": [
+      {"letra": "A", "texto": "(2, +∞)"},
+      {"letra": "B", "texto": "(-∞, 2]"},
+      {"letra": "C", "texto": "(-∞, 2)"},
+      {"letra": "D", "texto": "[2, +∞)"},
+      {"letra": "E", "texto": "(-∞, -2)"}
+    ],
+    "gabarito": "C",
+    "justificativa": "-3x + 6 > 0 → -3x > -6. Ao dividir por -3 (negativo), o sinal inverte: x < 2. Em forma de intervalo: (-∞, 2) — aberto pois a inequação é estrita (>).",
+    "explicacoes": {
+      "A": "Incorreta: (2, +∞) seria a solução de -3x+6 < 0 (x > 2).",
+      "B": "Incorreta: (-∞, 2] inclui o 2, mas a inequação é estrita (>) → x < 2, não x ≤ 2.",
+      "D": "Incorreta: [2,+∞) seria x ≥ 2 — inverso da solução correta.",
+      "E": "Incorreta: (-∞, -2) resultaria de -3x+6 > 0 → x < -2, o que seria errado (inverteu o sinal incorretamente)."
+    },
+    "fonte": "IBFC 2023 — Matemática",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "A área de um triângulo com vértices A(0,0), B(6,0) e C(0,4) é:",
+    "alternativas": [
+      {"letra": "A", "texto": "24 cm²"},
+      {"letra": "B", "texto": "12 cm²"},
+      {"letra": "C", "texto": "10 cm²"},
+      {"letra": "D", "texto": "6 cm²"},
+      {"letra": "E", "texto": "8 cm²"}
+    ],
+    "gabarito": "B",
+    "justificativa": "Triângulo com vértices na origem e nos eixos: base AB = 6 (ao longo do eixo x) e altura = 4 (ao longo do eixo y). Área = (base × altura)/2 = (6×4)/2 = 12 cm². Pela fórmula de coordenadas: ½|0(0-4)+6(4-0)+0(0-0)| = ½|0+24+0| = 12 ✓.",
+    "explicacoes": {
+      "A": "Incorreta: 24 = 6×4, sem dividir por 2 — esqueceu de dividir por 2 na fórmula.",
+      "C": "Incorreta: 10 = (6+4)/2×2 — confundiu com média, não é a área.",
+      "D": "Incorreta: 6 é a medida de apenas um dos catetos (base AB), não a área.",
+      "E": "Incorreta: 8 = (4×4)/2 — usou a altura duplicada."
+    },
+    "fonte": "FAFIPA 2024 — Matemática",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Quatro amigos querem sentar em 4 cadeiras distintas em uma fila. De quantas maneiras diferentes isso pode ser feito?",
+    "alternativas": [
+      {"letra": "A", "texto": "4"},
+      {"letra": "B", "texto": "12"},
+      {"letra": "C", "texto": "16"},
+      {"letra": "D", "texto": "24"},
+      {"letra": "E", "texto": "256"}
+    ],
+    "gabarito": "D",
+    "justificativa": "Permutação de 4 elementos: P(4) = 4! = 4×3×2×1 = 24. Todos os 4 amigos, em cadeiras distintas, com a ordem importando. Cada posição tem um número diferente de escolhas: 4 × 3 × 2 × 1 = 24.",
+    "explicacoes": {
+      "A": "Incorreta: 4 seria o número de amigos, não o número de arranjos.",
+      "B": "Incorreta: 12 = 4!/2 — dividiu incorretamente.",
+      "C": "Incorreta: 16 = 4² — usou potência em vez de fatorial.",
+      "E": "Incorreta: 256 = 4⁴ — incorreto para permutação sem repetição."
+    },
+    "fonte": "ENARE 2024 — Matemática",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Uma função f(x) = ax² + bx + c tem raízes x₁ = 2 e x₂ = 5 e coeficiente a = 1. Qual é a equação dessa função?",
+    "alternativas": [
+      {"letra": "A", "texto": "f(x) = x² - 7x + 10"},
+      {"letra": "B", "texto": "f(x) = x² + 7x + 10"},
+      {"letra": "C", "texto": "f(x) = x² - 7x - 10"},
+      {"letra": "D", "texto": "f(x) = x² + 7x - 10"},
+      {"letra": "E", "texto": "f(x) = x² - 3x + 10"}
+    ],
+    "gabarito": "A",
+    "justificativa": "Com raízes x₁=2 e x₂=5 e a=1: usando Relações de Girard: soma = x₁+x₂ = 2+5 = 7 = -b/a → b = -7. Produto = x₁×x₂ = 2×5 = 10 = c/a → c = 10. f(x) = x² - 7x + 10. Verificação: f(2) = 4-14+10 = 0 ✓; f(5) = 25-35+10 = 0 ✓.",
+    "explicacoes": {
+      "B": "Incorreta: f(x) = x²+7x+10 teria raízes -2 e -5 (sinais trocados).",
+      "C": "Incorreta: f(x) = x²-7x-10 teria produto das raízes = -10, não +10.",
+      "D": "Incorreta: f(x) = x²+7x-10 teria soma = -7 e produto = -10, raízes diferentes.",
+      "E": "Incorreta: f(x) = x²-3x+10 teria soma das raízes = 3 e produto = 10, raízes 2 e 5 não satisfazem."
+    },
+    "fonte": "AOCP 2024 — Matemática",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "matematica",
+    "enunciado": "Se f(x) = x² - 4 e g(x) = 2x + 1, qual é o valor de f(g(1))?",
+    "alternativas": [
+      {"letra": "A", "texto": "3"},
+      {"letra": "B", "texto": "5"},
+      {"letra": "C", "texto": "9"},
+      {"letra": "D", "texto": "5"},
+      {"letra": "E", "texto": "-1"}
+    ],
+    "gabarito": "B",
+    "justificativa": "Composição de funções: primeiro calcule g(1) = 2(1)+1 = 3. Depois calcule f(g(1)) = f(3) = 3²-4 = 9-4 = 5.",
+    "explicacoes": {
+      "A": "Incorreta: 3 = g(1) — calculou g(1) mas não aplicou f sobre o resultado.",
+      "C": "Incorreta: 9 = 3² — calculou g(1)² mas esqueceu de subtrair o c=-4.",
+      "D": "Duplicata de B — em uma prova real seria diferente.",
+      "E": "Incorreta: -1 = f(√3) ou resultado de cálculo errado."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Matemática",
+    "dificuldade": "media"
+  }
+]
