@@ -1,0 +1,590 @@
+[
+  {
+    "tema": "etica",
+    "enunciado": "De acordo com a Lei 7498/86, são atividades PRIVATIVAS do Enfermeiro, EXCETO:",
+    "alternativas": [
+      {"letra": "A", "texto": "Direção do órgão de enfermagem integrante da estrutura básica da instituição de saúde."},
+      {"letra": "B", "texto": "Consulta de enfermagem."},
+      {"letra": "C", "texto": "Prescrição da assistência de enfermagem."},
+      {"letra": "D", "texto": "Execução e avaliação da assistência de enfermagem em pacientes criticamente enfermos."},
+      {"letra": "E", "texto": "Administração de medicamentos prescritos pelo médico em pacientes estáveis de enfermaria."}
+    ],
+    "gabarito": "E",
+    "justificativa": "A administração de medicamentos em pacientes estáveis NÃO é atividade privativa do Enfermeiro — pode ser delegada ao Técnico de Enfermagem sob supervisão. As atividades privativas são: direção, organização, planejamento dos serviços, consulta, prescrição da assistência, auditoria, cuidado a pacientes graves com risco de vida. As alternativas A, B, C e D são todas privativas do Enfermeiro.",
+    "explicacoes": {
+      "A": "Incorreta: direção do órgão de enfermagem é atividade privativa do Enfermeiro (art. 11, I).",
+      "B": "Incorreta: consulta de enfermagem é atividade privativa do Enfermeiro (art. 11, c).",
+      "C": "Incorreta: prescrição da assistência de enfermagem é privativa do Enfermeiro (art. 11, b).",
+      "D": "Incorreta: cuidado direto a pacientes graves com risco de vida é privativo do Enfermeiro (art. 11, d)."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Ética e Legislação",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "Um Técnico de Enfermagem realizou cateterismo vesical em uma paciente sem autorização ou presença do Enfermeiro, pois o serviço estava sobrecarregado. Eticamente, essa situação configura:",
+    "alternativas": [
+      {"letra": "A", "texto": "Conduta adequada, pois o Técnico está habilitado para o procedimento e há situação de necessidade."},
+      {"letra": "B", "texto": "Infração ética do Técnico, pois realizou procedimento sem supervisão do Enfermeiro."},
+      {"letra": "C", "texto": "Infração apenas administrativa, sem implicações éticas, pois o procedimento foi tecnicamente correto."},
+      {"letra": "D", "texto": "Infração ética exclusivamente do Enfermeiro, por não estar presente para supervisionar."},
+      {"letra": "E", "texto": "Conduta correta desde que o resultado seja favorável à paciente."}
+    ],
+    "gabarito": "D",
+    "justificativa": "O cateterismo vesical em si pode ser realizado pelo Técnico, mas SEMPRE sob supervisão do Enfermeiro. A responsabilidade ética recai principalmente sobre o Enfermeiro, que tem o dever de supervisão e de garantir condições adequadas de trabalho. Se o serviço estava sobrecarregado sem supervisão adequada, o Enfermeiro (e a gestão) incorrem em infração ética. O Técnico também pode ter responsabilidade por realizar procedimento sem garantir supervisão disponível.",
+    "explicacoes": {
+      "A": "Incorreta: a legislação exige supervisão do Enfermeiro — a sobrecarga não justifica a ausência de supervisão.",
+      "B": "Parcialmente correta, mas incompleta: o Técnico tem responsabilidade, mas a infração PRINCIPAL é do Enfermeiro que não garantiu supervisão.",
+      "C": "Incorreta: o resultado favorável não elimina a infração ética — o processo também importa.",
+      "E": "Incorreta: ética não é julgada apenas pelo resultado — o processo e as normas devem ser respeitados independentemente do desfecho."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Ética e Legislação",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "Segundo o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN 564/2017), o sigilo profissional PODE ser quebrado quando:",
+    "alternativas": [
+      {"letra": "A", "texto": "O familiar do paciente solicitar informações sobre o diagnóstico."},
+      {"letra": "B", "texto": "O superior hierárquico do profissional solicitar para fins administrativos."},
+      {"letra": "C", "texto": "Houver dever legal, como notificação compulsória de doenças de notificação obrigatória."},
+      {"letra": "D", "texto": "O profissional considerar que a informação é de interesse público."},
+      {"letra": "E", "texto": "O paciente estiver internado em instituição pública, pois os dados são públicos."}
+    ],
+    "gabarito": "C",
+    "justificativa": "O sigilo pode ser quebrado em três situações: (1) Autorização expressa do paciente; (2) Dever legal — como a notificação compulsória de doenças (SINAN), requisição judicial; (3) Justa causa — evitar dano grave à coletividade. A solicitação de familiar (sem autorização do paciente), do superior hierárquico ou a internação pública NÃO justificam a quebra do sigilo.",
+    "explicacoes": {
+      "A": "Incorreta: familiar não tem direito automático à informação — precisa de autorização do paciente (salvo se for representante legal de incapaz).",
+      "B": "Incorreta: solicitação administrativa de superior não justifica quebra do sigilo profissional.",
+      "D": "Incorreta: 'interesse público' subjetivo do profissional não é motivo legal para quebra do sigilo.",
+      "E": "Incorreta: a natureza pública da instituição não torna os dados do paciente públicos — o sigilo é pessoal, não institucional."
+    },
+    "fonte": "IBFC 2023 — Ética e Legislação",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "As 5 etapas do Processo de Enfermagem (SAE), na ordem CORRETA, são:",
+    "alternativas": [
+      {"letra": "A", "texto": "Diagnóstico → Coleta de dados → Planejamento → Implementação → Avaliação."},
+      {"letra": "B", "texto": "Coleta de dados → Diagnóstico → Planejamento → Implementação → Avaliação."},
+      {"letra": "C", "texto": "Coleta de dados → Planejamento → Diagnóstico → Implementação → Avaliação."},
+      {"letra": "D", "texto": "Planejamento → Coleta de dados → Diagnóstico → Avaliação → Implementação."},
+      {"letra": "E", "texto": "Coleta de dados → Diagnóstico → Implementação → Planejamento → Avaliação."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Conforme Resolução COFEN 358/2009, as etapas do PE são: (1) Coleta de dados/Histórico de Enfermagem; (2) Diagnóstico de Enfermagem; (3) Planejamento; (4) Implementação; (5) Avaliação. A ordem é lógica: primeiro coleta-se dados para, então, formular diagnósticos; depois planeja-se, implementa-se e avalia-se. O processo é cíclico — a avaliação pode reiniciar a coleta.",
+    "explicacoes": {
+      "A": "Incorreta: o diagnóstico NÃO precede a coleta de dados — é preciso coletar dados primeiro para formular diagnósticos.",
+      "C": "Incorreta: o planejamento não precede o diagnóstico — planeja-se A PARTIR dos diagnósticos estabelecidos.",
+      "D": "Incorreta: o planejamento não é a primeira etapa — requer coleta de dados e diagnóstico prévios.",
+      "E": "Incorreta: a implementação não pode preceder o planejamento — primeiro planeja-se o que será feito, depois executa-se."
+    },
+    "fonte": "ENARE 2024 — SAE",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "A Resolução COFEN 358/2009, que normatiza a SAE, determina que o Processo de Enfermagem deve ser realizado:",
+    "alternativas": [
+      {"letra": "A", "texto": "Apenas em instituições hospitalares de nível terciário, onde há maior complexidade assistencial."},
+      {"letra": "B", "texto": "Somente quando solicitado pela gestão da instituição ou pelo paciente."},
+      {"letra": "C", "texto": "Em todos os ambientes, públicos ou privados, em que ocorre cuidado profissional de enfermagem."},
+      {"letra": "D", "texto": "Nas UTIs e pronto-socorros, onde o paciente está em situação de maior risco."},
+      {"letra": "E", "texto": "Apenas nas consultas de enfermagem, sendo facultativo nos demais atendimentos."}
+    ],
+    "gabarito": "C",
+    "justificativa": "A Resolução COFEN 358/2009, art. 1º, determina que o Processo de Enfermagem deve ser realizado de modo deliberado e sistemático em TODOS os ambientes, públicos ou privados, em que ocorre cuidado profissional de enfermagem — sem exceção. Não há restrição por nível de complexidade ou tipo de instituição.",
+    "explicacoes": {
+      "A": "Incorreta: a SAE não se restringe ao nível terciário — aplica-se em toda instituição onde há cuidado de enfermagem.",
+      "B": "Incorreta: a SAE é obrigatória — não depende de solicitação da gestão ou do paciente.",
+      "D": "Incorreta: a SAE se aplica também em UBS, domicílio, escola, empresa — não apenas em UTI e PS.",
+      "E": "Incorreta: a SAE não é restrita a consultas de enfermagem — abrange todo o cuidado de enfermagem."
+    },
+    "fonte": "FAFIPA 2024 — SAE",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "Em relação ao diagnóstico de enfermagem, baseado na taxonomia NANDA-I, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "É sinônimo de diagnóstico médico — ambos identificam a doença do paciente."},
+      {"letra": "B", "texto": "É elaborado pela equipe multiprofissional em conjunto, sem responsabilidade exclusiva do Enfermeiro."},
+      {"letra": "C", "texto": "Identifica as respostas humanas do indivíduo, família ou comunidade a problemas de saúde reais ou potenciais."},
+      {"letra": "D", "texto": "Só pode ser formulado após o diagnóstico médico ser confirmado laboratorialmente."},
+      {"letra": "E", "texto": "Possui caráter definitivo e não deve ser revisado após sua formulação inicial."}
+    ],
+    "gabarito": "C",
+    "justificativa": "O diagnóstico de enfermagem, segundo a NANDA-I, identifica as respostas humanas do indivíduo, família ou comunidade a condições de saúde/processos de vida reais ou potenciais. Diferencia-se do diagnóstico médico (que identifica a doença) e é de responsabilidade exclusiva do Enfermeiro. Pode ser formulado sem confirmação laboratorial do diagnóstico médico e deve ser revisado continuamente.",
+    "explicacoes": {
+      "A": "Incorreta: o diagnóstico de enfermagem identifica RESPOSTAS HUMANAS à doença, não a doença em si.",
+      "B": "Incorreta: a formulação do diagnóstico de enfermagem é responsabilidade EXCLUSIVA do Enfermeiro.",
+      "D": "Incorreta: o diagnóstico de enfermagem pode identificar respostas potenciais antes mesmo da confirmação diagnóstica médica.",
+      "E": "Incorreta: o diagnóstico deve ser continuamente reavaliado — é dinâmico, não definitivo."
+    },
+    "fonte": "AOCP 2024 — SAE",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "Um enfermeiro identifica no histórico de enfermagem de um paciente cirúrgico: queixa de 'dor intensa no local da incisão' (EVA 8/10), postura antálgica, expressão facial de sofrimento, frequência cardíaca de 110 bpm. O diagnóstico de enfermagem MAIS adequado é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Ansiedade relacionada ao procedimento cirúrgico."},
+      {"letra": "B", "texto": "Risco de infecção relacionado ao procedimento invasivo."},
+      {"letra": "C", "texto": "Dor aguda relacionada ao agente lesivo físico (cirurgia), evidenciada por autorrelato e expressão facial."},
+      {"letra": "D", "texto": "Padrão respiratório ineficaz relacionado à dor pós-operatória."},
+      {"letra": "E", "texto": "Intolerância à atividade relacionada à fadiga pós-operatória."}
+    ],
+    "gabarito": "C",
+    "justificativa": "'Dor aguda' é o diagnóstico mais adequado pelos dados apresentados: autorrelato (EVA 8), postura antálgica, expressão facial de sofrimento e taquicardia são características definidoras clássicas da 'Dor aguda' na NANDA-I. O fator relacionado é o agente lesivo físico (incisão cirúrgica). Os outros diagnósticos podem coexistir, mas não são os prioritários com base nos dados descritos.",
+    "explicacoes": {
+      "A": "Incorreta: ansiedade pode estar presente, mas os dados indicam principalmente dor — não há relato de preocupação excessiva ou medo.",
+      "B": "Incorreta: risco de infecção é pertinente no pós-operatório, mas é um diagnóstico de RISCO — não há sinais de infecção descritos nos dados.",
+      "D": "Incorreta: padrão respiratório pode estar alterado, mas não há dados de dispneia ou alteração respiratória nos dados fornecidos.",
+      "E": "Incorreta: intolerância à atividade pode ocorrer, mas não é o diagnóstico prioritário baseado nos dados — a dor é a resposta principal identificada."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — SAE",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "Assinale a afirmativa INCORRETA sobre a Lei 7498/86 e o exercício profissional de enfermagem:",
+    "alternativas": [
+      {"letra": "A", "texto": "O exercício da enfermagem requer inscrição no COREN da região onde o profissional atua."},
+      {"letra": "B", "texto": "A parteira pode exercer atividades de enfermagem em caráter excepcional, em regiões onde não haja Enfermeiro."},
+      {"letra": "C", "texto": "O Auxiliar de Enfermagem pode realizar atividades de maior complexidade desde que o paciente consinta."},
+      {"letra": "D", "texto": "O Técnico de Enfermagem trabalha sempre sob supervisão do Enfermeiro."},
+      {"letra": "E", "texto": "Direção do órgão de enfermagem é atividade privativa do Enfermeiro."}
+    ],
+    "gabarito": "C",
+    "justificativa": "INCORRETO: o consentimento do paciente NÃO habilita o Auxiliar de Enfermagem a realizar atividades de maior complexidade que as previstas para sua categoria. As atribuições são definidas por lei — não podem ser ampliadas por vontade do paciente. O Auxiliar executa atividades de menor complexidade, independente da autorização do paciente.",
+    "explicacoes": {
+      "A": "Correta: o registro no COREN da região de atuação é obrigatório para o exercício legal.",
+      "B": "Correta: a Lei 7498/86 permite à parteira atuar em caráter excepcional onde não haja Enfermeiro disponível.",
+      "D": "Correta: o Técnico de Enfermagem trabalha sempre sob supervisão do Enfermeiro, conforme lei e decreto.",
+      "E": "Correta: direção do órgão de enfermagem é atividade privativa do Enfermeiro (art. 11, I)."
+    },
+    "fonte": "IBFC 2023 — Legislação de Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "O Código de Ética dos Profissionais de Enfermagem (Resolução COFEN 564/2017) define que o profissional de enfermagem TEM O DIREITO de:",
+    "alternativas": [
+      {"letra": "A", "texto": "Recusar-se a executar prescrições médicas que coloquem o paciente em risco evidente, comunicando a recusa formalmente."},
+      {"letra": "B", "texto": "Abandonar o paciente durante o plantão caso as condições de trabalho sejam inadequadas."},
+      {"letra": "C", "texto": "Divulgar informações sobre o estado de saúde do paciente para familiares sem autorização prévia."},
+      {"letra": "D", "texto": "Executar procedimentos fora de sua competência desde que o resultado esperado seja benéfico."},
+      {"letra": "E", "texto": "Omitir erros de medicação para preservar a imagem da equipe de enfermagem."}
+    ],
+    "gabarito": "A",
+    "justificativa": "O Código de Ética garante ao profissional o direito de recusar executar prescrições ilegais, antiéticas ou que coloquem o paciente em risco evidente — desde que a recusa seja comunicada formalmente ao superior. As outras alternativas representam infrações éticas graves: abandono do paciente, quebra de sigilo, execução de atividades fora da competência e omissão de erros.",
+    "explicacoes": {
+      "B": "Incorreta: abandonar o paciente é proibição expressa no Código de Ética — o profissional deve garantir a continuidade do cuidado antes de se retirar.",
+      "C": "Incorreta: divulgar informações sem autorização do paciente viola o sigilo profissional.",
+      "D": "Incorreta: o resultado esperado não justifica executar procedimentos fora da competência legal.",
+      "E": "Incorreta: omitir erros de medicação é infração ética grave — o profissional tem dever de notificar."
+    },
+    "fonte": "FAFIPA 2024 — Ética",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "Na taxonomia NANDA-I, o diagnóstico de enfermagem 'Risco de quedas' é classificado como:",
+    "alternativas": [
+      {"letra": "A", "texto": "Diagnóstico real — pois o paciente já caiu durante a internação."},
+      {"letra": "B", "texto": "Diagnóstico de risco — pois o paciente é vulnerável a uma queda que ainda não ocorreu."},
+      {"letra": "C", "texto": "Diagnóstico de promoção da saúde — pois visa melhorar a mobilidade do paciente."},
+      {"letra": "D", "texto": "Diagnóstico de bem-estar — pois indica capacidade de deambulação preservada."},
+      {"letra": "E", "texto": "Diagnóstico médico — pois depende de exame laboratorial para ser confirmado."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Na NANDA-I, diagnósticos de RISCO descrevem julgamentos clínicos sobre vulnerabilidade do indivíduo para desenvolver um problema — a situação ainda não ocorreu, mas há fatores de risco presentes. 'Risco de quedas' indica que o paciente tem fatores predisponentes (idade, medicamentos, déficit motor) mas ainda não caiu. Diagnóstico real: problema já presente com características definidoras. Promoção da saúde: desejo de melhorar saúde.",
+    "explicacoes": {
+      "A": "Incorreta: se o paciente já caiu, o diagnóstico seria 'Lesão física' ou outro diagnóstico real, não 'risco de quedas'.",
+      "C": "Incorreta: diagnóstico de promoção da saúde é motivado pelo desejo do paciente de melhorar seu nível de saúde — não se aplica aqui.",
+      "D": "Incorreta: diagnóstico de bem-estar indica transição para nível mais elevado de bem-estar — não é o caso.",
+      "E": "Incorreta: diagnóstico de enfermagem é de competência do Enfermeiro — não é diagnóstico médico e não depende de exame laboratorial para ser formulado."
+    },
+    "fonte": "ENARE 2024 — SAE/NANDA",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "O Enfermeiro, ao planejar os cuidados de enfermagem, deve priorizar os diagnósticos conforme as necessidades do paciente. Segundo a Hierarquia de Maslow, qual diagnóstico deve ser PRIORITÁRIO?",
+    "alternativas": [
+      {"letra": "A", "texto": "Ansiedade relacionada ao diagnóstico de câncer."},
+      {"letra": "B", "texto": "Baixa autoestima situacional relacionada à perda do emprego."},
+      {"letra": "C", "texto": "Padrão respiratório ineficaz relacionado à broncoespasmo, evidenciado por saturação de 88%."},
+      {"letra": "D", "texto": "Isolamento social relacionado à hospitalização prolongada."},
+      {"letra": "E", "texto": "Déficit no autocuidado para higiene relacionado à depressão."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Pela pirâmide de Maslow, necessidades fisiológicas (base da pirâmide) têm prioridade máxima. A oxigenação é a necessidade fisiológica mais crítica — saturação de 88% representa risco imediato de vida. Os outros diagnósticos envolvem necessidades de segurança psicológica, amor/pertencimento e autoestima — importantes, mas de prioridade menor frente a um comprometimento respiratório grave.",
+    "explicacoes": {
+      "A": "Incorreta: ansiedade envolve necessidade de segurança psicológica — importante, mas inferior à necessidade fisiológica de oxigenação.",
+      "B": "Incorreta: autoestima é necessidade de nível superior na pirâmide de Maslow — menor prioridade.",
+      "D": "Incorreta: isolamento social envolve necessidade de amor/pertencimento — menor prioridade que a oxigenação.",
+      "E": "Incorreta: autocuidado para higiene é importante, mas não representa risco imediato de vida como o comprometimento respiratório."
+    },
+    "fonte": "AOCP 2024 — SAE",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "Sobre as penalidades previstas no Código de Ética dos Profissionais de Enfermagem, assinale a alternativa que apresenta a ordem CRESCENTE de gravidade:",
+    "alternativas": [
+      {"letra": "A", "texto": "Advertência verbal → Multa → Censura → Suspensão → Cassação do registro."},
+      {"letra": "B", "texto": "Multa → Advertência verbal → Suspensão → Censura → Cassação do registro."},
+      {"letra": "C", "texto": "Censura → Multa → Advertência verbal → Suspensão → Cassação do registro."},
+      {"letra": "D", "texto": "Advertência verbal → Censura → Multa → Cassação do registro → Suspensão."},
+      {"letra": "E", "texto": "Suspensão → Multa → Advertência verbal → Censura → Cassação do registro."}
+    ],
+    "gabarito": "A",
+    "justificativa": "As penalidades do Código de Ética COFEN 564/2017, em ordem crescente de gravidade: (1) Advertência verbal; (2) Multa; (3) Censura; (4) Suspensão do exercício por prazo determinado; (5) Cassação do registro (penalidade máxima — cancelamento definitivo do registro). A cassação é a penalidade mais grave, pois impede o exercício da profissão permanentemente.",
+    "explicacoes": {
+      "B": "Incorreta: a multa não precede a advertência verbal na escala — advertência é a menor penalidade.",
+      "C": "Incorreta: censura é mais grave que advertência e multa — não é a primeira penalidade.",
+      "D": "Incorreta: a cassação é mais grave que a suspensão — não pode vir antes dela na escala.",
+      "E": "Incorreta: suspensão não é a menor penalidade — advertência verbal é a mais leve."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Ética",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "Um enfermeiro percebeu que um colega Técnico de Enfermagem administrou medicamento errado a um paciente. O paciente não apresentou reações adversas imediatas. Eticamente, o Enfermeiro deve:",
+    "alternativas": [
+      {"letra": "A", "texto": "Omitir o ocorrido para não prejudicar o colega, já que o paciente não sofreu dano aparente."},
+      {"letra": "B", "texto": "Registrar no prontuário, comunicar ao médico responsável e notificar o evento adverso conforme protocolo institucional."},
+      {"letra": "C", "texto": "Comunicar apenas à família do paciente, respeitando sua autonomia de decidir o que fazer."},
+      {"letra": "D", "texto": "Aguardar 24 horas para avaliar se surgirão efeitos adversos antes de decidir comunicar."},
+      {"letra": "E", "texto": "Comunicar apenas à chefia de enfermagem, sem registrar no prontuário para não gerar processo administrativo."}
+    ],
+    "gabarito": "B",
+    "justificativa": "O Código de Ética COFEN 564/2017 determina que o profissional DEVE notificar imediatamente qualquer erro de medicação. Ações obrigatórias: (1) Comunicar ao médico para avaliação do paciente; (2) Registrar no prontuário (evento adverso); (3) Preencher formulário de notificação de incidente/evento adverso; (4) Comunicar à chefia. A ausência de dano imediato não elimina o dever de notificação. A omissão é infração ética grave.",
+    "explicacoes": {
+      "A": "Incorreta: omitir o erro é infração ética grave — o Código de Ética veda expressamente encobrir erros.",
+      "C": "Incorreta: a família não tem autonomia para decidir sobre a notificação — o protocolo institucional deve ser seguido; além disso, o médico deve ser comunicado primeiro.",
+      "D": "Incorreta: aguardar 24h expõe o paciente a risco desnecessário — a comunicação deve ser imediata.",
+      "E": "Incorreta: o registro no prontuário é obrigatório — o evento adverso deve ser documentado legalmente."
+    },
+    "fonte": "IBFC 2023 — Ética",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "Sobre o processo ético-disciplinar instaurado pelo COREN contra um profissional de enfermagem, é CORRETO afirmar que:",
+    "alternativas": [
+      {"letra": "A", "texto": "A condenação criminal pelo mesmo fato implica automaticamente a cassação do registro pelo COREN."},
+      {"letra": "B", "texto": "A absolvição judicial por inexistência do fato elimina a responsabilidade ética perante o COREN."},
+      {"letra": "C", "texto": "O processo ético prescrevem em 10 anos, contados da data do fato."},
+      {"letra": "D", "texto": "O profissional não tem direito à defesa no processo ético-disciplinar por se tratar de processo administrativo."},
+      {"letra": "E", "texto": "A decisão do COREN é irrecorrível — não cabe recurso ao COFEN."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A absolvição judicial pelo reconhecimento da INEXISTÊNCIA DO FATO elimina também a responsabilidade ética — o COREN não pode punir por algo que o Judiciário reconheceu que não aconteceu. As demais afirmativas estão erradas: a condenação criminal não implica automaticamente a cassação; a prescrição ética é de 5 anos; o profissional tem ampla defesa garantida; e cabe recurso ao COFEN.",
+    "explicacoes": {
+      "A": "Incorreta: a condenação criminal não implica automaticamente a cassação do registro — são esferas independentes; o COREN analisa separadamente.",
+      "C": "Incorreta: a prescrição ética é de 5 anos, não 10.",
+      "D": "Incorreta: o profissional tem direito ao contraditório e à ampla defesa no processo ético-disciplinar.",
+      "E": "Incorreta: cabe recurso ao COFEN após decisão do COREN."
+    },
+    "fonte": "FAFIPA 2024 — Ética e Legislação",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "A NIC (Nursing Interventions Classification) e a NOC (Nursing Outcomes Classification) são instrumentos utilizados na SAE. Sobre eles, é correto afirmar que:",
+    "alternativas": [
+      {"letra": "A", "texto": "A NIC classifica os diagnósticos de enfermagem e a NOC classifica as intervenções."},
+      {"letra": "B", "texto": "A NIC classifica as intervenções de enfermagem e a NOC classifica os resultados esperados."},
+      {"letra": "C", "texto": "Ambas classificam diagnósticos de enfermagem, sendo sistemas equivalentes à NANDA-I."},
+      {"letra": "D", "texto": "A NOC é utilizada apenas na etapa de implementação do Processo de Enfermagem."},
+      {"letra": "E", "texto": "A NIC é desenvolvida no Brasil pelo COFEN e a NOC pela Associação Brasileira de Enfermagem."}
+    ],
+    "gabarito": "B",
+    "justificativa": "NIC (Nursing Interventions Classification): classifica as INTERVENÇÕES de enfermagem — o que o profissional FAZ para alcançar os resultados. NOC (Nursing Outcomes Classification): classifica os RESULTADOS de enfermagem — critérios mensuráveis para avaliar a evolução do paciente. Juntos com a NANDA-I formam a tríade NNN (NANDA-NIC-NOC). A NIC e NOC foram desenvolvidas pela Universidade de Iowa (EUA), não pelo COFEN.",
+    "explicacoes": {
+      "A": "Incorreta: a NIC classifica INTERVENÇÕES e a NOC classifica RESULTADOS — não o contrário.",
+      "C": "Incorreta: NIC e NOC NÃO classificam diagnósticos — esta é a função da NANDA-I.",
+      "D": "Incorreta: a NOC é utilizada na etapa de PLANEJAMENTO (para definir resultados esperados) e AVALIAÇÃO (para medir o alcance dos resultados) — não apenas na implementação.",
+      "E": "Incorreta: NIC e NOC foram desenvolvidas pela Universidade de Iowa (EUA) — não pelo COFEN ou ABEn."
+    },
+    "fonte": "ENARE 2024 — SAE",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "Um paciente adulto, consciente e orientado, recusa-se a receber uma transfusão de sangue por motivos religiosos, mesmo sendo informado que sem ela corre risco de morte. O enfermeiro deve:",
+    "alternativas": [
+      {"letra": "A", "texto": "Administrar a transfusão mesmo sem consentimento, pois o dever de preservar a vida supera a autonomia do paciente."},
+      {"letra": "B", "texto": "Respeitar a decisão do paciente, documentar a recusa no prontuário com a assinatura do paciente e acionar a equipe médica e jurídica."},
+      {"letra": "C", "texto": "Acionar a família para forçar o paciente a aceitar o procedimento."},
+      {"letra": "D", "texto": "Ignorar a recusa e administrar o procedimento, pois o paciente está sob influência de crenças irracionais."},
+      {"letra": "E", "texto": "Transferir o paciente imediatamente para outro serviço, sem qualquer comunicação."}
+    ],
+    "gabarito": "B",
+    "justificativa": "O princípio da autonomia garante ao paciente adulto, consciente e orientado, o direito de recusar tratamentos — mesmo que a recusa coloque sua vida em risco. O Enfermeiro deve: respeitar a autonomia, garantir que o paciente foi devidamente informado, documentar a recusa com assinatura (termo de recusa informada), comunicar ao médico e à equipe jurídica para as providências cabíveis. Impor a transfusão configura violação de direitos e pode ser ilegal.",
+    "explicacoes": {
+      "A": "Incorreta: administrar procedimento invasivo sem consentimento configura violação de direitos e pode ser crime de violação de integridade corporal.",
+      "C": "Incorreta: a família não tem poder de forçar um adulto capaz a aceitar tratamento — a autonomia é do próprio paciente.",
+      "D": "Incorreta: crenças religiosas não configuram incapacidade civil — o paciente é consciente e orientado.",
+      "E": "Incorreta: transferir sem comunicação e sem garantir continuidade do cuidado é abandono — infração ética grave."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Bioética",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "De acordo com a Lei 7498/86, qual profissional de enfermagem pode realizar AUDITORIA DE ENFERMAGEM e emissão de PARECER?",
+    "alternativas": [
+      {"letra": "A", "texto": "Técnico de Enfermagem com experiência mínima de 5 anos."},
+      {"letra": "B", "texto": "Auxiliar de Enfermagem com especialização em gestão hospitalar."},
+      {"letra": "C", "texto": "Enfermeiro — trata-se de atividade privativa."},
+      {"letra": "D", "texto": "Qualquer profissional de enfermagem, desde que habilitado pelo COREN."},
+      {"letra": "E", "texto": "Técnico de Enfermagem ou Enfermeiro, dependendo da complexidade da auditoria."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Auditoria de enfermagem e emissão de parecer são atividades PRIVATIVAS do Enfermeiro, conforme art. 11 da Lei 7498/86. Não podem ser realizadas por Técnicos ou Auxiliares de Enfermagem, independente do tempo de experiência ou especialização. Atividade privativa significa que nenhum outro profissional pode executá-la — reserva legal ao Enfermeiro.",
+    "explicacoes": {
+      "A": "Incorreta: experiência não habilita o Técnico a realizar atividade privativa do Enfermeiro.",
+      "B": "Incorreta: especialização em gestão não habilita o Auxiliar a realizar auditoria — é privativa do Enfermeiro.",
+      "D": "Incorreta: auditoria e emissão de parecer são privativas do Enfermeiro — não podem ser habilitadas pelo COREN para outros profissionais.",
+      "E": "Incorreta: não há graduação de complexidade — auditoria é sempre privativa do Enfermeiro."
+    },
+    "fonte": "IBFC 2023 — Legislação de Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "Segundo a Teoria das Necessidades Humanas Básicas de Wanda Horta, as necessidades são classificadas em psicobiológicas, psicossociais e psicoespirituais. A necessidade de OXIGENAÇÃO é classificada como:",
+    "alternativas": [
+      {"letra": "A", "texto": "Psicossocial — pois envolve a relação do indivíduo com o ambiente."},
+      {"letra": "B", "texto": "Psicoespiritual — pois está relacionada à dimensão transcendental da vida."},
+      {"letra": "C", "texto": "Psicobiológica — pois é uma necessidade fisiológica fundamental à sobrevivência."},
+      {"letra": "D", "texto": "De autoestima — pois a capacidade respiratória influencia a autoimagem."},
+      {"letra": "E", "texto": "De segurança — pois a falta de ar gera sensação de insegurança."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Segundo Wanda Horta (baseada em Maslow), as necessidades psicobiológicas são as necessidades fisiológicas fundamentais — incluindo oxigenação, hidratação, nutrição, eliminação, sono, atividade física, entre outras. A oxigenação é uma necessidade de sobrevivência imediata — sem ela, o indivíduo morre em minutos. Portanto, é classificada como psicobiológica.",
+    "explicacoes": {
+      "A": "Incorreta: psicossociais incluem necessidades como segurança, amor, aceitação, autoestima — não as fisiológicas básicas.",
+      "B": "Incorreta: psicoespirituais envolvem necessidades religiosas e de transcendência — não a oxigenação.",
+      "D": "Incorreta: autoestima é uma necessidade psicossocial de nível superior — não se aplica à oxigenação.",
+      "E": "Incorreta: segurança é uma necessidade psicossocial — oxigenação é psicobiológica (fisiológica)."
+    },
+    "fonte": "FAFIPA 2024 — SAE",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "A ortotanásia, segundo o Código de Ética dos Profissionais de Enfermagem, é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Proibida, pois representa omissão do cuidado ao paciente terminal."},
+      {"letra": "B", "texto": "Permitida, pois representa a morte natural no tempo certo, sem prolongamento artificial fútil."},
+      {"letra": "C", "texto": "Equivalente à eutanásia — ambas são proibidas no Brasil."},
+      {"letra": "D", "texto": "Permitida apenas em casos de câncer terminal com menos de 30 dias de vida."},
+      {"letra": "E", "texto": "Proibida, pois contraria o princípio da beneficência ao não prolongar a vida ao máximo."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Ortotanásia: morte natural no seu tempo, sem prolongar artificialmente o processo de morrer com medidas fúteis (distanásia). É eticamente permitida e compatível com os cuidados paliativos. Diferente da eutanásia (ato intencional de antecipar a morte — proibida). O Código de Ética de Enfermagem e o CFM (Res. 1931/2009) reconhecem a ortotanásia como conduta ética — respeita a dignidade do paciente e os cuidados paliativos.",
+    "explicacoes": {
+      "A": "Incorreta: ortotanásia não é omissão — há cuidados paliativos ativos; apenas se evita a distanásia (prolongamento fútil).",
+      "C": "Incorreta: ortotanásia ≠ eutanásia. Eutanásia abrevia a vida intencionalmente; ortotanásia apenas não prolonga artificialmente.",
+      "D": "Incorreta: não há prazo específico (30 dias) previsto — a ortotanásia se aplica ao processo natural de morrer, independente do tempo restante.",
+      "E": "Incorreta: o princípio da beneficência inclui o cuidado com a qualidade de vida e a dignidade — não implica prolongar a vida a qualquer custo."
+    },
+    "fonte": "ENARE 2024 — Bioética e Ética",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "Em relação à supervisão de enfermagem, é CORRETO afirmar que:",
+    "alternativas": [
+      {"letra": "A", "texto": "O Técnico de Enfermagem pode supervisionar o Auxiliar sem qualquer envolvimento do Enfermeiro."},
+      {"letra": "B", "texto": "A supervisão direta exige que o Enfermeiro realize pessoalmente cada procedimento junto com o Técnico."},
+      {"letra": "C", "texto": "O Enfermeiro responde eticamente pelos atos da equipe quando há omissão na supervisão, mesmo que não tenha executado o ato."},
+      {"letra": "D", "texto": "A supervisão não é necessária para Técnicos com mais de 10 anos de experiência."},
+      {"letra": "E", "texto": "A responsabilidade pela supervisão pode ser transferida ao médico chefe da unidade."}
+    ],
+    "gabarito": "C",
+    "justificativa": "O Enfermeiro responde eticamente pelos atos praticados por membros da equipe quando há omissão na supervisão — mesmo que não tenha realizado o ato diretamente. A responsabilidade de supervisão é inerente ao cargo do Enfermeiro e não pode ser transferida ao médico ou a outro profissional. A supervisão pode ser indireta (não exige presença física em cada ato), mas o Enfermeiro deve estar acessível.",
+    "explicacoes": {
+      "A": "Incorreta: o Técnico pode auxiliar na supervisão do Auxiliar em situações específicas, mas o Enfermeiro mantém a responsabilidade final — não há supervisão sem envolvimento do Enfermeiro.",
+      "B": "Incorreta: supervisão direta não exige que o Enfermeiro realize cada procedimento junto — pode ser presença na unidade e disponibilidade para orientação.",
+      "D": "Incorreta: o tempo de experiência não elimina o requisito legal de supervisão do Enfermeiro sobre Técnicos e Auxiliares.",
+      "E": "Incorreta: a supervisão de enfermagem é responsabilidade do Enfermeiro — não pode ser transferida ao médico."
+    },
+    "fonte": "AOCP 2024 — Legislação de Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "Assinale a alternativa que apresenta um exemplo de DIAGNÓSTICO REAL de enfermagem (e não de risco):",
+    "alternativas": [
+      {"letra": "A", "texto": "Risco de infecção relacionado a procedimento invasivo."},
+      {"letra": "B", "texto": "Risco de integridade da pele prejudicada relacionado à imobilidade."},
+      {"letra": "C", "texto": "Integridade da pele prejudicada evidenciada por úlcera por pressão em calcâneo."},
+      {"letra": "D", "texto": "Risco de aspiração relacionado ao rebaixamento do nível de consciência."},
+      {"letra": "E", "texto": "Risco de quedas relacionado ao uso de sedativos e idade avançada."}
+    ],
+    "gabarito": "C",
+    "justificativa": "'Integridade da pele prejudicada evidenciada por úlcera por pressão' é um diagnóstico REAL — o problema já está presente, com características definidoras objetivas (a úlcera existe). Diagnósticos de RISCO descrevem vulnerabilidade a problemas que ainda não ocorreram — sempre iniciam com 'Risco de'. Diagnósticos reais têm: problema identificado + fator relacionado + características definidoras (sinais/sintomas presentes).",
+    "explicacoes": {
+      "A": "Incorreta: 'Risco de infecção' é diagnóstico de risco — a infecção ainda não ocorreu.",
+      "B": "Incorreta: 'Risco de integridade da pele prejudicada' é diagnóstico de risco — a lesão ainda não ocorreu.",
+      "D": "Incorreta: 'Risco de aspiração' é diagnóstico de risco — a aspiração ainda não aconteceu.",
+      "E": "Incorreta: 'Risco de quedas' é diagnóstico de risco — a queda ainda não ocorreu."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — SAE/NANDA",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "A Evolução de Enfermagem, como instrumento da SAE, é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Registro de procedimentos realizados, podendo ser feito por Técnicos e Auxiliares."},
+      {"letra": "B", "texto": "Atividade privativa do Enfermeiro, consistindo na análise crítica do estado do paciente e revisão do plano de cuidados."},
+      {"letra": "C", "texto": "Documento elaborado apenas na alta hospitalar para resumir o cuidado prestado."},
+      {"letra": "D", "texto": "Equivalente ao relatório médico — pode ser substituída pela evolução do médico assistente."},
+      {"letra": "E", "texto": "Opcional quando o paciente está estável e não apresenta alterações no quadro clínico."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A Evolução de Enfermagem é atividade privativa do Enfermeiro — representa o julgamento clínico periódico sobre o estado do paciente, análise dos diagnósticos e revisão do plano de cuidados. Diferente da Nota de Enfermagem (registro de procedimentos, que pode ser feito por Técnicos e Auxiliares). A Evolução deve ser realizada regularmente — não apenas na alta e não é dispensável quando o paciente está estável.",
+    "explicacoes": {
+      "A": "Incorreta: o que os Técnicos/Auxiliares registram é a NOTA de enfermagem (procedimentos) — a Evolução é privativa do Enfermeiro.",
+      "C": "Incorreta: a Evolução é realizada periodicamente (a cada turno em UTI, diariamente em internação) — não apenas na alta.",
+      "D": "Incorreta: a Evolução de Enfermagem é autônoma e complementar à evolução médica — não pode ser substituída.",
+      "E": "Incorreta: a Evolução é obrigatória independente da estabilidade clínica — a ausência de alterações também deve ser documentada."
+    },
+    "fonte": "IBFC 2023 — SAE",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "O enfermeiro tem o dever ético de manter educação permanente. Sobre esse tema, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "Educação permanente e educação continuada são sinônimos — ambas tratam de treinamentos pontuais."},
+      {"letra": "B", "texto": "A educação permanente é obrigação exclusiva das instituições de saúde — o profissional não tem responsabilidade individual."},
+      {"letra": "C", "texto": "A educação permanente é dever ético individual do profissional, visando atualização contínua ao longo de toda a carreira."},
+      {"letra": "D", "texto": "O profissional só tem dever de atualização se houver mudança nas normas do COFEN."},
+      {"letra": "E", "texto": "A educação permanente é facultativa para Técnicos e Auxiliares — é obrigatória apenas para Enfermeiros."}
+    ],
+    "gabarito": "C",
+    "justificativa": "A educação permanente é dever ético individual previsto no Código de Ética COFEN 564/2017 — cada profissional é responsável por sua atualização contínua ao longo de toda a carreira. Diferente da educação continuada (treinamentos pontuais para tarefas específicas). A Política Nacional de Educação Permanente em Saúde (PNEPS) articula serviço, ensino e pesquisa — mas a responsabilidade individual do profissional é independente.",
+    "explicacoes": {
+      "A": "Incorreta: educação permanente ≠ educação continuada. Continuada = treinamentos pontuais e específicos. Permanente = processo contínuo ao longo de toda a carreira.",
+      "B": "Incorreta: a responsabilidade é compartilhada — a instituição deve proporcionar condições, mas o profissional tem responsabilidade individual.",
+      "D": "Incorreta: a atualização é contínua — não depende apenas de mudanças nas normas do COFEN.",
+      "E": "Incorreta: a educação permanente é dever ético de TODOS os profissionais de enfermagem — não apenas do Enfermeiro."
+    },
+    "fonte": "FAFIPA 2024 — Ética",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "Sobre os 4 princípios da Bioética (Beauchamp e Childress), assinale a alternativa que apresenta a relação CORRETA entre princípio e situação clínica:",
+    "alternativas": [
+      {"letra": "A", "texto": "Beneficência: respeitar a decisão do paciente de recusar quimioterapia, mesmo com risco de morte."},
+      {"letra": "B", "texto": "Não maleficência: administrar analgésico para aliviar a dor do paciente."},
+      {"letra": "C", "texto": "Autonomia: respeitar a decisão do paciente de recusar transfusão de sangue por convicção religiosa."},
+      {"letra": "D", "texto": "Justiça: oferecer tratamento de melhor qualidade ao paciente com plano de saúde premium."},
+      {"letra": "E", "texto": "Beneficência: negar tratamento experimental para proteger o paciente de riscos desconhecidos."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Autonomia: princípio que respeita a capacidade do paciente de tomar decisões sobre sua saúde. Respeitar a recusa de transfusão por convicção religiosa é aplicação direta da autonomia — o paciente é capaz e decidiu informadamente. Beneficência = fazer o bem; Não maleficência = não causar dano; Justiça = equidade. A alternativa B exemplifica beneficência (fazer o bem), não não maleficência.",
+    "explicacoes": {
+      "A": "Incorreta: respeitar a recusa do paciente é aplicação da AUTONOMIA, não da beneficência.",
+      "B": "Incorreta: administrar analgésico para aliviar dor é exemplo de BENEFICÊNCIA (fazer o bem), não de não maleficência.",
+      "D": "Incorreta: oferecer tratamento melhor para quem paga mais VIOLA o princípio da justiça — que exige equidade e tratamento sem discriminação.",
+      "E": "Incorreta: negar tratamento pode ser tanto não maleficência (evitar dano) quanto paternalismo — a situação descrita é mais complexa."
+    },
+    "fonte": "ENARE 2024 — Bioética",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "O COFEN e os CORENs têm natureza jurídica de:",
+    "alternativas": [
+      {"letra": "A", "texto": "Sociedade civil sem fins lucrativos, com personalidade jurídica de direito privado."},
+      {"letra": "B", "texto": "Órgão público de administração direta, vinculado ao Ministério da Saúde."},
+      {"letra": "C", "texto": "Autarquia federal (pessoa jurídica de direito público), com atribuições de fiscalização do exercício profissional."},
+      {"letra": "D", "texto": "Fundação pública, criada por lei para fins culturais e científicos."},
+      {"letra": "E", "texto": "Empresa pública federal, com finalidade lucrativa e autonomia administrativa."}
+    ],
+    "gabarito": "C",
+    "justificativa": "O COFEN e os CORENs são autarquias federais — pessoas jurídicas de direito público, criadas por lei, com autonomia administrativa e financeira, vinculadas (não subordinadas) ao Ministério da Saúde. Exercem poder de polícia (fiscalização do exercício profissional), por isso sua natureza deve ser pública. O STF reconheceu os conselhos de fiscalização profissional como autarquias. As contribuições anuais dos profissionais têm natureza de tributo (taxa).",
+    "explicacoes": {
+      "A": "Incorreta: os conselhos de fiscalização profissional são autarquias (direito público), não entidades privadas.",
+      "B": "Incorreta: COFEN/COREN não são órgãos de administração direta — são autarquias (administração indireta), com personalidade jurídica própria.",
+      "D": "Incorreta: fundação pública tem outra estrutura jurídica — conselhos profissionais são autarquias.",
+      "E": "Incorreta: não têm finalidade lucrativa — exercem atividade de fiscalização em caráter público."
+    },
+    "fonte": "AOCP 2024 — Legislação de Enfermagem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "Em qual situação o Técnico de Enfermagem está habilitado para atuar, conforme a Lei 7498/86?",
+    "alternativas": [
+      {"letra": "A", "texto": "Realizar consulta de enfermagem em unidade básica de saúde."},
+      {"letra": "B", "texto": "Prescrever cuidados de enfermagem para pacientes com hipertensão arterial."},
+      {"letra": "C", "texto": "Executar curativos simples e administrar medicamentos prescritos, sob supervisão do Enfermeiro."},
+      {"letra": "D", "texto": "Dirigir o serviço de enfermagem em um hospital de pequeno porte."},
+      {"letra": "E", "texto": "Emitir parecer técnico sobre condições de trabalho da equipe de enfermagem."}
+    ],
+    "gabarito": "C",
+    "justificativa": "O Técnico de Enfermagem está habilitado a executar procedimentos como curativos simples e administração de medicamentos prescritos — atividades de nível médio, sempre sob supervisão do Enfermeiro. As outras alternativas são atividades privativas do Enfermeiro: consulta, prescrição de cuidados, direção do serviço e emissão de parecer.",
+    "explicacoes": {
+      "A": "Incorreta: consulta de enfermagem é atividade PRIVATIVA do Enfermeiro (art. 11 da Lei 7498/86).",
+      "B": "Incorreta: prescrição de cuidados de enfermagem é atividade PRIVATIVA do Enfermeiro.",
+      "D": "Incorreta: direção do serviço de enfermagem é atividade PRIVATIVA do Enfermeiro.",
+      "E": "Incorreta: emissão de parecer técnico é atividade PRIVATIVA do Enfermeiro (auditoria e parecer — art. 11)."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Legislação de Enfermagem",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "A avaliação, como 5ª etapa do Processo de Enfermagem, consiste em:",
+    "alternativas": [
+      {"letra": "A", "texto": "Elaborar novos diagnósticos de enfermagem para substituir os anteriores."},
+      {"letra": "B", "texto": "Verificar o grau de alcance dos resultados esperados e, se necessário, reiniciar o ciclo."},
+      {"letra": "C", "texto": "Executar as intervenções de enfermagem planejadas para o paciente."},
+      {"letra": "D", "texto": "Registrar apenas os procedimentos realizados pelo Técnico de Enfermagem no turno."},
+      {"letra": "E", "texto": "Definir os resultados esperados (NOC) para o paciente."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A Avaliação (5ª etapa do PE) consiste em verificar se os resultados esperados foram alcançados — compara o estado atual do paciente com os resultados definidos no planejamento (NOC). Se alcançados: o diagnóstico pode ser encerrado ou mantido como preventivo. Se não alcançados: o ciclo é reiniciado — revisando coleta, diagnóstico, planejamento e implementação. A avaliação é contínua, não apenas pontual.",
+    "explicacoes": {
+      "A": "Incorreta: elaborar novos diagnósticos faz parte da 2ª etapa (Diagnóstico) — que pode ser reiniciada se a avaliação indicar necessidade.",
+      "C": "Incorreta: executar intervenções é a 4ª etapa (Implementação), não a Avaliação.",
+      "D": "Incorreta: registrar procedimentos do Técnico é parte da Nota de Enfermagem — não é a definição da etapa de Avaliação.",
+      "E": "Incorreta: definir resultados esperados (NOC) é parte da 3ª etapa (Planejamento), não da Avaliação."
+    },
+    "fonte": "IBFC 2023 — SAE",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "etica",
+    "enunciado": "O Código de Ética dos Profissionais de Enfermagem PROÍBE expressamente:",
+    "alternativas": [
+      {"letra": "A", "texto": "Recusar-se a executar prescrição médica que coloque o paciente em risco."},
+      {"letra": "B", "texto": "Participar de movimentos em defesa da dignidade profissional."},
+      {"letra": "C", "texto": "Registrar dados falsos no prontuário do paciente."},
+      {"letra": "D", "texto": "Comunicar ao COREN situações de exercício ilegal da enfermagem."},
+      {"letra": "E", "texto": "Solicitar condições adequadas para o exercício profissional."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Registrar dados falsos no prontuário é proibição expressa no Código de Ética COFEN 564/2017 — configura falsidade ideológica (crime) e grave infração ética. As demais alternativas representam DIREITOS ou DEVERES do profissional: recusar prescrição de risco (direito), participar de movimentos profissionais (direito), comunicar exercício ilegal ao COREN (dever) e solicitar condições adequadas (direito).",
+    "explicacoes": {
+      "A": "Incorreta: recusar execução de prescrição de risco é DIREITO garantido pelo Código de Ética.",
+      "B": "Incorreta: participar de movimentos em defesa da dignidade profissional é DIREITO previsto no Código de Ética.",
+      "D": "Incorreta: comunicar ao COREN situações de exercício ilegal é DEVER ético do profissional.",
+      "E": "Incorreta: solicitar condições adequadas é DIREITO do profissional, protegido pelo Código de Ética."
+    },
+    "fonte": "FAFIPA 2024 — Ética",
+    "dificuldade": "facil"
+  }
+]
