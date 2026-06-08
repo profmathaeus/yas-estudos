@@ -1,0 +1,590 @@
+[
+  {
+    "tema": "pediatria",
+    "enunciado": "Ao avaliar uma criança de 14 meses na UBS usando a estratégia AIDIPI, o enfermeiro identifica: frequência respiratória de 46 irpm, sem tiragem subcostal, sem sinal geral de perigo, sem estridor. A classificação correta e a conduta são:",
+    "alternativas": [
+      {"letra": "A", "texto": "Sem pneumonia — orientar a mãe e retornar em 5 dias."},
+      {"letra": "B", "texto": "Pneumonia grave — referenciar ao hospital com penicilina pré-transferência."},
+      {"letra": "C", "texto": "Pneumonia — prescrever amoxicilina VO 50mg/kg/dia por 5 dias e retornar em 2 dias."},
+      {"letra": "D", "texto": "Pneumonia grave — iniciar oxigênio e internar na UBS."},
+      {"letra": "E", "texto": "Tosse sem pneumonia — tratar sintomaticamente e retornar em 7 dias."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Na AIDPI, para crianças de 12 a 59 meses, taquipneia = FR ≥ 40 irpm. A criança tem 46 irpm = TAQUIPNEICA. Sem tiragem subcostal grave e sem sinal geral de perigo = PNEUMONIA (não grave). Conduta: Amoxicilina VO 50 mg/kg/dia por 5 dias + retorno em 2 dias para reavaliar.",
+    "explicacoes": {
+      "A": "Incorreta: 46 irpm em criança de 14 meses é taquipneia (corte: ≥ 40 irpm) — não é 'sem pneumonia'.",
+      "B": "Incorreta: pneumonia grave exige tiragem subcostal grave e/ou sinal geral de perigo — não presentes.",
+      "D": "Incorreta: não internar na UBS — UBS não tem estrutura hospitalar; pneumonia grave vai para hospital.",
+      "E": "Incorreta: FR ≥ 40 irpm em criança de 12-59 meses é critério de pneumonia — não 'sem pneumonia'."
+    },
+    "fonte": "FAFIPA 2024 — AIDIPI",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Uma criança de 18 meses é trazida com diarreia há 3 dias. O enfermeiro avalia: criança irritada, olhos fundos, bebe água avidamente quando oferecida, e a prega cutânea retorna em 2 segundos. Qual o grau de desidratação e o Plano de Reidratação indicado?",
+    "alternativas": [
+      {"letra": "A", "texto": "Sem desidratação — Plano A em casa com SRO após cada evacuação."},
+      {"letra": "B", "texto": "Algum grau de desidratação — Plano B com SRO supervisionado (75 mL/kg em 4h) na UBS."},
+      {"letra": "C", "texto": "Desidratação grave — Plano C com Ringer Lactato EV 100 mL/kg e hospitalização."},
+      {"letra": "D", "texto": "Algum grau de desidratação — iniciar SRO e encaminhar para hospital imediatamente."},
+      {"letra": "E", "texto": "Sem desidratação — orientar oferta de líquidos em casa e retorno em 5 dias."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Sinais presentes: irritada (1), olhos fundos (2), bebe avidamente (3), prega retorna em 2s (limite — sinal positivo). 2 ou mais sinais = ALGUM GRAU de desidratação → Plano B: 75 mL/kg de SRO em 4 horas, supervisionado na UBS. Desidratação grave exigiria letargia, olhos muito fundos, não consegue beber, prega muito lenta.",
+    "explicacoes": {
+      "A": "Incorreta: Plano A é para criança SEM desidratação — mas há pelo menos 3 sinais de desidratação.",
+      "C": "Incorreta: Plano C é para desidratação GRAVE — a criança ainda bebe e não está letárgica.",
+      "D": "Incorreta: algum grau de desidratação é tratado na própria UBS com Plano B — não necessita encaminhamento imediato.",
+      "E": "Incorreta: a criança TEM sinais de desidratação — ignorar seria uma conduta perigosa."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — AIDIPI",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Na avaliação da criança pela AIDIPI, os sinais gerais de perigo indicam doença grave e necessidade de referência urgente. São sinais gerais de perigo, EXCETO:",
+    "alternativas": [
+      {"letra": "A", "texto": "Não consegue beber ou mamar."},
+      {"letra": "B", "texto": "Vomita tudo."},
+      {"letra": "C", "texto": "Frequência respiratória ≥ 40 irpm em criança de 2 anos."},
+      {"letra": "D", "texto": "Letárgico ou inconsciente."},
+      {"letra": "E", "texto": "Convulsões durante a consulta."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Os 4 sinais gerais de perigo da AIDPI são: (1) não consegue beber/mamar, (2) vomita tudo, (3) convulsões, (4) letárgico ou inconsciente. FR ≥ 40 irpm em criança de 2 anos é critério de TAQUIPNEIA (pneumonia) — não é sinal geral de perigo. É sinal de doença respiratória específica, avaliado separadamente.",
+    "explicacoes": {
+      "A": "Incorreta: 'não consegue beber ou mamar' É sinal geral de perigo — indica gravidade extrema.",
+      "B": "Incorreta: 'vomita tudo' É sinal geral de perigo — impede medicação e hidratação oral.",
+      "D": "Incorreta: 'letárgico ou inconsciente' É sinal geral de perigo — indica comprometimento neurológico grave.",
+      "E": "Incorreta: convulsões É sinal geral de perigo — risco de lesão cerebral e morte."
+    },
+    "fonte": "IBFC 2023 — AIDIPI",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Uma mãe chega à UBS com seu filho de 3 anos com febre há 2 dias, manchas vermelhas pelo corpo, olhos avermelhados e coriza. O enfermeiro suspeita de sarampo. Qual a conduta CORRETA segundo a AIDIPI?",
+    "alternativas": [
+      {"letra": "A", "texto": "Prescrever amoxicilina e retornar em 2 dias."},
+      {"letra": "B", "texto": "Avaliar complicações de sarampo (opacidade da córnea, úlceras orais, pneumonia); administrar vitamina A e referenciar se complicações presentes."},
+      {"letra": "C", "texto": "Administrar paracetamol e orientar isolamento domiciliar por 7 dias."},
+      {"letra": "D", "texto": "Notificar ao SINAN e aguardar resultado de sorologia antes de qualquer conduta."},
+      {"letra": "E", "texto": "Iniciar imunoglobulina EV por suspeita de sarampo."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Na AIDPI, febre com exantema + olhos vermelhos + coriza = suspeita de sarampo. Conduta: (1) pesquisar complicações: opacidade de córnea, úlceras orais profundas, pneumonia, desnutrição grave; (2) administrar vitamina A (doses terapêuticas); (3) referenciar se complicações presentes; (4) notificar ao SINAN (doença de notificação compulsória imediata). A vitamina A é essencial no sarampo — reduz mortalidade.",
+    "explicacoes": {
+      "A": "Incorreta: amoxicilina não trata sarampo (viral) — só se houver pneumonia bacteriana associada.",
+      "C": "Incorreta: apenas sintomático é insuficiente — deve pesquisar complicações e vitamina A.",
+      "D": "Incorreta: não aguardar sorologia para agir — sarampo é emergência de notificação imediata; vitamina A deve ser dada logo.",
+      "E": "Incorreta: imunoglobulina é profilaxia pós-exposição para contatos imunocomprometidos — não tratamento do caso."
+    },
+    "fonte": "ENARE 2024 — AIDIPI",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Sobre a PNAISH (Política Nacional de Atenção Integral à Saúde do Homem), é CORRETO afirmar:",
+    "alternativas": [
+      {"letra": "A", "texto": "Foi instituída em 2015 e foca exclusivamente no câncer de próstata."},
+      {"letra": "B", "texto": "Abrange homens de 25 a 65 anos e prioriza doenças crônicas."},
+      {"letra": "C", "texto": "Instituída em 2008, reconhece que homens acessam menos os serviços de saúde por razões culturais e estruturais."},
+      {"letra": "D", "texto": "Garante rastreamento obrigatório do PSA para todos os homens acima de 40 anos."},
+      {"letra": "E", "texto": "É de execução exclusiva da atenção especializada, sem participação da APS."}
+    ],
+    "gabarito": "C",
+    "justificativa": "PNAISH — Portaria GM/MS nº 1.944/2008. Reconhece que homens (20-59 anos) acessam menos os serviços de saúde por: masculinidade hegemônica (cultura de invulnerabilidade), horários incompatíveis, falta de programas específicos. Objetivos: promover saúde integral masculina, reduzir morbimortalidade. NÃO preconiza PSA obrigatório para todos — rastreamento é individualizado e baseado em decisão compartilhada.",
+    "explicacoes": {
+      "A": "Incorreta: PNAISH é de 2008, não 2015; e não foca exclusivamente no câncer de próstata.",
+      "B": "Incorreta: a faixa etária é 20-59 anos, não 25-65; e não prioriza apenas doenças crônicas.",
+      "D": "Incorreta: rastreamento do PSA não é obrigatório — é individualizado, baseado em decisão compartilhada.",
+      "E": "Incorreta: a APS é a principal porta de entrada — a PNAISH deve ser implementada em todos os níveis de atenção."
+    },
+    "fonte": "AOCP 2024 — Saúde do Homem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Um adolescente de 15 anos procura a UBS sozinho e confidencia ao enfermeiro que está usando maconha diariamente há 3 meses. Qual a conduta ética e legal CORRETA?",
+    "alternativas": [
+      {"letra": "A", "texto": "Comunicar imediatamente os pais, pois o adolescente é menor de 18 anos e não tem capacidade civil plena."},
+      {"letra": "B", "texto": "Notificar a polícia, pois o uso de drogas é crime previsto no ECA."},
+      {"letra": "C", "texto": "Manter sigilo, realizar intervenção breve, avaliar risco e encaminhar ao CAPS-AD se necessário — comunicar responsáveis apenas se houver risco de vida."},
+      {"letra": "D", "texto": "Recusar o atendimento sem responsável presente, pois o adolescente não pode ser atendido sozinho."},
+      {"letra": "E", "texto": "Registrar no prontuário sem abordar o tema diretamente, aguardando que o próprio adolescente decida buscar ajuda."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Confidencialidade é pilar da atenção ao adolescente. O sigilo se mantém EXCETO em risco de vida, violência grave ou notificação compulsória. Uso de drogas sem risco imediato de vida não exige quebra do sigilo. Conduta: realizar intervenção breve (IB), avaliar dependência (CRAFFT), encaminhar ao CAPS-AD se necessário, manter vínculo. Comunicar pais apenas se houver risco de vida.",
+    "explicacoes": {
+      "A": "Incorreta: comunicar os pais indiscriminadamente quebra o vínculo e a confiança — o sigilo deve ser mantido salvo exceções específicas.",
+      "B": "Incorreta: uso de drogas pelo adolescente NÃO é crime previsto no ECA — é ato infracional/questão de saúde.",
+      "D": "Incorreta: o adolescente pode e deve ser atendido sozinho — a consulta privada é fundamental.",
+      "E": "Incorreta: o enfermeiro tem dever de cuidado ativo — ignorar o relato seria omissão."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Saúde do Adolescente",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Segundo o ECA (Lei 8.069/90), a definição de adolescente corresponde à pessoa com:",
+    "alternativas": [
+      {"letra": "A", "texto": "10 a 18 anos incompletos."},
+      {"letra": "B", "texto": "12 a 18 anos incompletos."},
+      {"letra": "C", "texto": "10 a 19 anos."},
+      {"letra": "D", "texto": "15 a 24 anos."},
+      {"letra": "E", "texto": "14 a 18 anos incompletos."}
+    ],
+    "gabarito": "B",
+    "justificativa": "ECA (Lei 8.069/90): Criança = pessoa até 12 anos incompletos. Adolescente = pessoa entre 12 e 18 anos incompletos. A OMS define adolescência como 10-19 anos (inclui puberdade precoce). A ONU define juventude como 15-24 anos. Para o ECA — referência legal no Brasil — a faixa é 12-18 anos.",
+    "explicacoes": {
+      "A": "Incorreta: 10 anos é a faixa da OMS (adolescência) — pelo ECA, 10-11 anos ainda é CRIANÇA.",
+      "C": "Incorreta: 10-19 anos é a definição da OMS — não do ECA.",
+      "D": "Incorreta: 15-24 anos é a definição da ONU para juventude — não adolescência pelo ECA.",
+      "E": "Incorreta: 14 anos está correto como parte da faixa, mas o ECA começa em 12 anos."
+    },
+    "fonte": "IBFC 2023 — Saúde do Adolescente",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Na avaliação de uma criança de 2 anos com diarreia há 16 dias sem sangue, sem desidratação, apetite mantido, a classificação pela AIDIPI é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Diarreia aguda sem desidratação — Plano A em casa."},
+      {"letra": "B", "texto": "Disenteria — tratamento com antibiótico oral."},
+      {"letra": "C", "texto": "Diarreia persistente grave — referenciar urgente ao hospital."},
+      {"letra": "D", "texto": "Diarreia persistente — tratar em casa com SRO, zinco e orientação alimentar, retorno em 5 dias."},
+      {"letra": "E", "texto": "Diarreia crônica — solicitar colonoscopia de urgência."}
+    ],
+    "gabarito": "D",
+    "justificativa": "Diarreia persistente = diarreia por ≥ 14 dias (sem sangue). Com 16 dias = diarreia persistente. SEM desidratação = não é diarreia persistente GRAVE. Conduta: tratamento domiciliar — SRO se perda hídrica, zinco (20 mg/dia por 10-14 dias), orientação alimentar (evitar lactose), retorno em 5 dias. Diarreia persistente GRAVE = ≥ 14 dias + ALGUM grau de desidratação → referenciar.",
+    "explicacoes": {
+      "A": "Incorreta: 16 dias já é persistente — classificar como diarreia persistente, não aguda.",
+      "B": "Incorreta: disenteria tem SANGUE nas fezes — não descrito no caso.",
+      "C": "Incorreta: diarreia persistente grave exige desidratação associada — a criança não está desidratada.",
+      "E": "Incorreta: colonoscopia não é conduta da AIDPI — e 'diarreia crônica' tem outro significado clínico."
+    },
+    "fonte": "FAFIPA 2024 — AIDIPI",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "O rastreamento do câncer de próstata com PSA, segundo as diretrizes atuais do INCA e MS, deve ser realizado:",
+    "alternativas": [
+      {"letra": "A", "texto": "Anualmente em todos os homens acima de 40 anos."},
+      {"letra": "B", "texto": "A partir dos 50 anos em todos os homens, sem necessidade de informação prévia."},
+      {"letra": "C", "texto": "De forma individualizada, com decisão compartilhada, considerando risco, expectativa de vida e preferências do paciente."},
+      {"letra": "D", "texto": "Apenas em homens com sintomas urinários como jato fraco e urgência miccional."},
+      {"letra": "E", "texto": "Somente após o diagnóstico de HPB (Hipertrofia Prostática Benigna)."}
+    ],
+    "gabarito": "C",
+    "justificativa": "INCA e MS NÃO recomendam rastreamento populacional rotineiro do câncer de próstata — o sobrediagnóstico e sobretratamento causam mais dano do que benefício na população geral. O rastreamento é INDIVIDUALIZADO: decisão compartilhada entre médico/enfermeiro e paciente, considerando expectativa de vida > 10 anos, riscos (biopsia, tratamento) e benefícios. Grupos que podem se beneficiar: ≥ 50 anos com expectativa de vida >10a; ≥ 45 anos com histórico familiar de 1º grau; negros ≥ 45 anos.",
+    "explicacoes": {
+      "A": "Incorreta: rastreamento universal e anual não é recomendado — evidência de mais dano que benefício.",
+      "B": "Incorreta: a decisão compartilhada é obrigatória — não se faz PSA sem informar o paciente sobre riscos e benefícios.",
+      "D": "Incorreta: sintomas urinários são típicos de HPB, não de câncer de próstata — câncer de próstata geralmente é assintomático no início.",
+      "E": "Incorreta: HPB não é critério para rastreamento de câncer — são condições distintas com tratamentos diferentes."
+    },
+    "fonte": "ENARE 2024 — Saúde do Homem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "A vacina HPV é oferecida pelo PNI para meninas e meninos. A partir de qual idade e quantas doses são recomendadas no calendário básico para meninas sem comorbidades?",
+    "alternativas": [
+      {"letra": "A", "texto": "A partir de 12 anos — 3 doses (0, 2 e 6 meses)."},
+      {"letra": "B", "texto": "A partir de 9 anos — 2 doses (0 e 6 meses)."},
+      {"letra": "C", "texto": "A partir de 14 anos — 2 doses (0 e 6 meses)."},
+      {"letra": "D", "texto": "A partir de 9 anos — 1 dose anual."},
+      {"letra": "E", "texto": "A partir de 11 anos — 3 doses (0, 1 e 6 meses)."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Calendário PNI atual: HPV para MENINAS: início aos 9 anos — 2 doses (0 e 6 meses). HPV para MENINOS: início aos 11 anos — 2 doses (0 e 6 meses). EXCEÇÃO — 3 doses: imunossuprimidos, HIV+ e vítimas de violência sexual (0, 2 e 6 meses). A vacina bivalente (2-HPV) protege contra tipos 16 e 18 (câncer de colo) e a quadrivalente também contra 6 e 11 (verrugas). O PNI utiliza a quadrivalente.",
+    "explicacoes": {
+      "A": "Incorreta: HPV para meninas começa aos 9 anos, não 12 — e são 2 doses no esquema básico.",
+      "C": "Incorreta: 14 anos não é a idade de início no calendário PNI.",
+      "D": "Incorreta: não é dose anual — são 2 doses com intervalo de 6 meses.",
+      "E": "Incorreta: 11 anos é a idade de início para MENINOS — para meninas é a partir dos 9 anos."
+    },
+    "fonte": "AOCP 2024 — Saúde do Adolescente",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Na avaliação pelo AIDIPI de uma criança de 8 meses, o enfermeiro conta 54 movimentos respiratórios por minuto. A criança está calma, sem tiragem subcostal, sem estridor, sem sinal geral de perigo. Qual a classificação correta?",
+    "alternativas": [
+      {"letra": "A", "texto": "Sem pneumonia — FR normal para a faixa etária."},
+      {"letra": "B", "texto": "Pneumonia grave — iniciar antibiótico e referenciar."},
+      {"letra": "C", "texto": "Pneumonia — tratar com amoxicilina VO e retornar em 2 dias."},
+      {"letra": "D", "texto": "Tosse sem pneumonia — tratar sintomas e retornar em 5 dias."},
+      {"letra": "E", "texto": "Doença respiratória grave — oxigenioterapia imediata."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Critério de taquipneia na AIDPI para 2-11 meses: FR ≥ 50 irpm. A criança de 8 meses tem 54 irpm = TAQUIPNEICA. Sem tiragem subcostal grave e sem sinal geral de perigo = PNEUMONIA (não grave). Conduta: amoxicilina VO 50 mg/kg/dia por 5 dias + retorno em 2 dias. Para 12-59 meses o corte é ≥ 40 irpm.",
+    "explicacoes": {
+      "A": "Incorreta: 54 irpm em lactente de 8 meses é taquipneia (corte: ≥ 50 irpm para 2-11 meses).",
+      "B": "Incorreta: pneumonia GRAVE requer tiragem subcostal grave ou sinal geral de perigo — ausentes.",
+      "D": "Incorreta: há taquipneia → o critério de pneumonia está presente — não classificar como 'tosse sem pneumonia'.",
+      "E": "Incorreta: doença respiratória grave com indicação de oxigenioterapia exigiria saturação < 95% e/ou sinais de perigo."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — AIDIPI",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "A Lei do Planejamento Familiar (Lei 9.263/96) estabelece que a vasectomia pode ser realizada em homens com capacidade civil plena:",
+    "alternativas": [
+      {"letra": "A", "texto": "A partir dos 18 anos, independentemente do número de filhos, apenas com consentimento próprio."},
+      {"letra": "B", "texto": "A partir dos 21 anos ou com pelo menos 1 filho vivo, mediante consentimento do cônjuge."},
+      {"letra": "C", "texto": "A partir dos 25 anos OU com dois filhos vivos, com consentimento do cônjuge se casado."},
+      {"letra": "D", "texto": "Apenas após os 30 anos, com autorização judicial."},
+      {"letra": "E", "texto": "A qualquer idade, desde que a decisão seja exclusiva do homem sem necessidade de autorização do cônjuge."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Lei 9.263/96 (Planejamento Familiar): esterilização cirúrgica (vasectomia/laqueadura) pode ser realizada em pessoa com: (1) capacidade civil plena E (2) pelo menos 25 anos OU dois filhos vivos. Consentimento do cônjuge: obrigatório para pessoas casadas (proteção mútua dos direitos reprodutivos). Menores de 25 anos sem filhos: necessitam de autorização judicial adicional. Objetivo: evitar esterilizações por impulso em jovens.",
+    "explicacoes": {
+      "A": "Incorreta: 18 anos não é suficiente sozinho — exige 25 anos OU 2 filhos vivos.",
+      "B": "Incorreta: 21 anos não é previsto na lei; o critério é 25 anos ou 2 filhos vivos.",
+      "D": "Incorreta: 30 anos não é o critério da lei — é 25 anos; autorização judicial não é regra geral.",
+      "E": "Incorreta: se casado, o consentimento do cônjuge é obrigatório pela Lei 9.263/96."
+    },
+    "fonte": "IBFC 2023 — Saúde do Homem",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Uma criança de 2 anos apresenta edema bilateral nos pés, cabelo fino e descolorido, lesões de pele descamativas, mas sem perda grave de peso visível. A classificação nutricional CORRETA pela AIDIPI é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Eutrófica — peso normal para a idade."},
+      {"letra": "B", "texto": "Marasmo — perda de massa muscular e gordura."},
+      {"letra": "C", "texto": "Magreza acentuada — referir ao hospital."},
+      {"letra": "D", "texto": "Kwashiorkor — referir ao hospital urgente."},
+      {"letra": "E", "texto": "Baixo peso para a idade — acompanhar na APS."}
+    ],
+    "gabarito": "D",
+    "justificativa": "Kwashiorkor: desnutrição proteica — caracterizada por EDEMA bilateral (especialmente nos pés/MMII), cabelo fraco/descolorido (sinal da bandeira), lesões de pele, hepatomegalia, sem perda acentuada de peso visível (edema mascara). Na AIDPI, EDEMA NOS DOIS PÉS = classificar como MAGREZA ACENTUADA + referência urgente para hospital (tratamento especializado com os 10 passos da OMS). Marasmo: sem edema, peso muito baixo, criança 'pele e osso'.",
+    "explicacoes": {
+      "A": "Incorreta: a criança tem edema bilateral e sinais de desnutrição grave — não é eutrófica.",
+      "B": "Incorreta: marasmo não tem edema — é caracterizado por perda de músculo e gordura sem edema.",
+      "C": "Incorreta: a classificação é correta (referir), mas o nome é Kwashiorkor — magreza acentuada é diagnóstico pelo P/A < -3DP.",
+      "E": "Incorreta: acompanhar na APS é insuficiente — kwashiorkor é desnutrição grave que exige hospitalização."
+    },
+    "fonte": "FAFIPA 2024 — AIDIPI",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Na avaliação HEADSS de um adolescente, a letra 'S' de Sexuality se refere a:",
+    "alternativas": [
+      {"letra": "A", "texto": "Investigar histórico de violência sexual sofrida na infância."},
+      {"letra": "B", "texto": "Avaliar orientação sexual, atividade sexual, número de parceiros, uso de preservativo e ISTs."},
+      {"letra": "C", "texto": "Aplicar escala de autoestima e imagem corporal."},
+      {"letra": "D", "texto": "Pesquisar sinais de abuso por parceiro íntimo."},
+      {"letra": "E", "texto": "Verificar desenvolvimento de caracteres sexuais secundários pelo Tanner."}
+    ],
+    "gabarito": "B",
+    "justificativa": "HEADSS — instrumento de entrevista estruturada para o adolescente: H — Home (lar, família, conflitos domésticos). E — Education/Employment (escola, trabalho). A — Activities (atividades, hobbies, amigos, telas). D — Drugs (uso de álcool, tabaco, drogas). S — Sexuality (orientação sexual, início da vida sexual, número de parceiros, uso de preservativo, gravidez, ISTs). S — Suicide/Safety/mental health (ideação suicida, segurança, saúde mental). Abordagem não julgamental, confidencial. Cada área abre diálogo sobre fatores de risco e proteção.",
+    "explicacoes": {
+      "A": "Incorreta: violência sexual na infância é importante, mas não é o foco específico do 'S' do HEADSS.",
+      "C": "Incorreta: autoestima e imagem corporal podem ser abordados mas não definem o 'S' de Sexuality.",
+      "D": "Incorreta: violência por parceiro íntimo é relevante mas não é a definição do 'S' de Sexuality no HEADSS.",
+      "E": "Incorreta: Tanner avalia desenvolvimento puberal físico — não é o foco do 'S' de Sexuality no HEADSS."
+    },
+    "fonte": "ENARE 2024 — Saúde do Adolescente",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Uma criança de 3 anos com otite apresenta secreção purulenta no ouvido direito há 18 dias sem dor. Qual a conduta correta segundo a AIDIPI?",
+    "alternativas": [
+      {"letra": "A", "texto": "Mastoidite — referenciar urgente ao hospital com antibiótico pré-transferência."},
+      {"letra": "B", "texto": "Otite aguda — amoxicilina por 5 dias e retornar em 2 dias."},
+      {"letra": "C", "texto": "Otite crônica — secar o ouvido 3 vezes ao dia com pavio de gaze, não instalar nada; retornar em 5 dias."},
+      {"letra": "D", "texto": "Sem problema de ouvido — tranquilizar a mãe e alta."},
+      {"letra": "E", "texto": "Indicar miringotomia com colocação de tubo de ventilação imediatamente."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Otite CRÔNICA na AIDPI = secreção no ouvido por ≥ 14 dias (sem dor aguda). Com 18 dias = otite crônica. Conduta: secar o ouvido com pavio de gaze 3x/dia, NÃO instalar nada no ouvido (gotas, algodão). Amoxicilina: apenas se secreção profusa. Retorno em 5 dias. Otite aguda = secreção/dor < 14 dias → amoxicilina. Mastoidite = dor/inchaço atrás do ouvido (mastoide) → referência urgente.",
+    "explicacoes": {
+      "A": "Incorreta: mastoidite exige dor ou inchaço atrás do ouvido — não descrito no caso.",
+      "B": "Incorreta: 18 dias de secreção = otite CRÔNICA — amoxicilina de rotina não é indicada (só se secreção profusa).",
+      "D": "Incorreta: há secreção no ouvido — não é 'sem problema de ouvido'.",
+      "E": "Incorreta: miringotomia é procedimento cirúrgico especializado — não é conduta da AIDPI na APS."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — AIDIPI",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "A Estratégia PROTEJA (Estratégia Nacional para Prevenção e Atenção à Obesidade Infantil) utiliza qual índice como principal parâmetro antropométrico para crianças e adolescentes de 5 a 19 anos?",
+    "alternativas": [
+      {"letra": "A", "texto": "Peso/Altura absoluto comparado à média nacional."},
+      {"letra": "B", "texto": "Circunferência abdominal isolada."},
+      {"letra": "C", "texto": "IMC por idade e sexo (curvas OMS 2007), com pontos de corte por percentis."},
+      {"letra": "D", "texto": "Relação peso/altura² sem correção por idade."},
+      {"letra": "E", "texto": "Dobra cutânea tricipital e subescapular."}
+    ],
+    "gabarito": "C",
+    "justificativa": "PROTEJA e vigilância nutricional de crianças/adolescentes no Brasil usam IMC/IDADE (curvas OMS 2007 para 5-19 anos), com pontos de corte por PERCENTIL: < P3 = magreza acentuada; P3-P15 = magreza; P15-P85 = eutrofia; P85-P97 = sobrepeso; > P97 = obesidade. Para crianças < 5 anos usam-se as curvas OMS 2006. O IMC absoluto sem correção por idade não é adequado para crianças (valores mudam com o desenvolvimento).",
+    "explicacoes": {
+      "A": "Incorreta: comparação com média nacional sem curvas de referência por sexo e idade não é o padrão.",
+      "B": "Incorreta: circunferência abdominal é usada para síndrome metabólica em adultos — não é o índice principal para crianças/adolescentes.",
+      "D": "Incorreta: IMC sem correção por idade não é adequado para crianças — valores de referência mudam com a faixa etária.",
+      "E": "Incorreta: dobras cutâneas são usadas em pesquisa e avaliação nutricional especializada — não na triagem do PROTEJA."
+    },
+    "fonte": "IBFC 2023 — Saúde do Adolescente",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Um menino de 10 anos apresenta crescimento dos testículos e pelos pubianos. Seus pais estão preocupados. O enfermeiro, baseado nos estágios de Tanner, informa que:",
+    "alternativas": [
+      {"letra": "A", "texto": "É desenvolvimento precoce patológico que exige avaliação endocrinológica urgente."},
+      {"letra": "B", "texto": "É desenvolvimento puberal normal em meninos — início esperado entre 9-14 anos."},
+      {"letra": "C", "texto": "É dentro do esperado apenas para meninas nessa faixa etária — meninos iniciam depois."},
+      {"letra": "D", "texto": "Configura puberdade precoce em meninos, que normalmente iniciam após os 12 anos."},
+      {"letra": "E", "texto": "Deve-se dosar FSH, LH e testosterona imediatamente para confirmar normalidade."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Desenvolvimento puberal normal em MENINOS: início entre 9-14 anos. Primeiro sinal: crescimento testicular (> 4 mL = Tanner II). Depois: pelos pubianos, pênis, espermarca, estirão. Um menino de 10 anos com crescimento testicular e pelos pubianos está dentro da variação normal. Puberdade precoce em meninos = início < 9 anos. Em meninas = início < 8 anos. Não há indicação de exames hormonais urgentes neste caso.",
+    "explicacoes": {
+      "A": "Incorreta: 10 anos está dentro da faixa normal de início puberal masculino (9-14 anos).",
+      "C": "Incorreta: meninos TAMBÉM iniciam a puberdade a partir dos 9 anos — não 'só depois dos 12'.",
+      "D": "Incorreta: puberdade precoce em meninos é < 9 anos — 10 anos é normal.",
+      "E": "Incorreta: dosagem hormonal não é indicada em caso de desenvolvimento dentro do esperado — seria sobrediagnóstico."
+    },
+    "fonte": "FAFIPA 2024 — Saúde do Adolescente",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Sobre o aconselhamento da mãe/cuidador ao final da consulta AIDIPI, assinale os sinais para os quais a mãe deve RETORNAR IMEDIATAMENTE com a criança:",
+    "alternativas": [
+      {"letra": "A", "texto": "Criança ficou com mais apetite, animada e brincando normalmente."},
+      {"letra": "B", "texto": "Criança não consegue beber, piora do estado geral, convulsão ou surgimento de febre."},
+      {"letra": "C", "texto": "Criança tomou a primeira dose do antibiótico sem vômito."},
+      {"letra": "D", "texto": "Mãe perdeu o cartão de vacinação da criança."},
+      {"letra": "E", "texto": "Criança dormiu mais que o habitual nas primeiras 24h após a consulta."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Orientação obrigatória ao final da consulta AIDPI: retornar IMEDIATAMENTE ao serviço de saúde se: (1) não consegue beber ou mamar; (2) piora do estado geral; (3) desenvolvimento de febre; (4) convulsão; (5) respiração rápida ou dificuldade respiratória (se estava sem). Esses sinais indicam deterioração clínica — sinal geral de perigo que exige reavaliação urgente. Os demais sinais listados são normais ou não urgentes.",
+    "explicacoes": {
+      "A": "Incorreta: apetite e brincadeira normal = melhora clínica — não precisa retornar urgente.",
+      "C": "Incorreta: tolerar o antibiótico = positivo — não é motivo de retorno urgente.",
+      "D": "Incorreta: perda do cartão de vacinação é importante mas não é emergência clínica — segunda via pode ser providenciada.",
+      "E": "Incorreta: dormir mais nas primeiras 24h após doença aguda pode ser normal — não é sinal de piora isolado."
+    },
+    "fonte": "ENARE 2024 — AIDIPI",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "A depressão em homens frequentemente se manifesta de forma diferente do padrão clássico feminino. Qual apresentação é MAIS típica da depressão masculina?",
+    "alternativas": [
+      {"letra": "A", "texto": "Choro frequente, tristeza verbalizada, busca ativa por suporte emocional."},
+      {"letra": "B", "texto": "Irritabilidade, uso de álcool, comportamento de risco e isolamento social sem tristeza aparente."},
+      {"letra": "C", "texto": "Ansiedade generalizada com taquicardia e sudorese."},
+      {"letra": "D", "texto": "Insônia isolada sem outros sintomas afetivos."},
+      {"letra": "E", "texto": "Somatização com queixas gastrointestinais frequentes."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Depressão em homens: apresentação 'mascarada' pela masculinidade hegemônica. Em vez de tristeza/choro (mais tipicamente feminino), homens manifestam: irritabilidade/raiva, aumento do uso de álcool e drogas, comportamento impulsivo/de risco, isolamento, queda no trabalho, agressividade. Resultado: subdiagnóstico — homens são menos diagnosticados com depressão mas têm MAIOR taxa de suicídio (métodos mais letais). Instrumento adaptado: MSDS (Male Scale of Depression) ou PHQ-9 ajustado para a apresentação masculina.",
+    "explicacoes": {
+      "A": "Incorreta: choro frequente e busca por suporte são apresentações mais comuns em mulheres — homens tendem a esconder a vulnerabilidade.",
+      "C": "Incorreta: ansiedade generalizada com sintomas autonômicos pode coexistir, mas não é a apresentação TÍPICA da depressão masculina.",
+      "D": "Incorreta: insônia isolada não configura depressão — e não é a apresentação característica.",
+      "E": "Incorreta: somatização com queixas GI é mais associada à ansiedade — não à apresentação típica da depressão masculina."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Saúde do Homem",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Um profissional de saúde suspeita de violência sexual contra uma adolescente de 14 anos que chegou à UBS. Qual a conduta OBRIGATÓRIA segundo o ECA e o protocolo do MS?",
+    "alternativas": [
+      {"letra": "A", "texto": "Manter sigilo absoluto a pedido da adolescente e aguardar que ela decida sobre a denúncia."},
+      {"letra": "B", "texto": "Notificar ao SINAN, acionar o Conselho Tutelar, oferecer contracepção de emergência (até 72h), profilaxia IST/HIV e apoio psicológico."},
+      {"letra": "C", "texto": "Encaminhar apenas ao serviço social sem notificação compulsória, preservando a privacidade."},
+      {"letra": "D", "texto": "Comunicar apenas à família e aguardar decisão dos responsáveis para qualquer intervenção."},
+      {"letra": "E", "texto": "Somente registrar no prontuário e encaminhar para consulta especializada em 15 dias."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Violência sexual contra adolescente — conduta obrigatória: (1) Notificação compulsória ao SINAN (obrigatória para todos os profissionais de saúde — Art. 13 ECA); (2) Acionamento do Conselho Tutelar; (3) Atenção à saúde: contracepção de emergência (até 72h); profilaxia de ISTs (AZT+3TC+LPV por 28 dias); hepatite B (vacina/imunoglobulina); apoio psicológico; (4) Exame médico-legal (IML quando possível). O sigilo NÃO se aplica em casos de violência — é exceção expressa ao sigilo profissional.",
+    "explicacoes": {
+      "A": "Incorreta: violência sexual é exceção ao sigilo — não se pode manter sigilo absoluto.",
+      "C": "Incorreta: a notificação compulsória é obrigatória — não é opcional.",
+      "D": "Incorreta: não se pode aguardar decisão familiar quando o agressor pode ser familiar — a notificação é independente.",
+      "E": "Incorreta: é urgência — profilaxia de HIV e contracepção de emergência precisam ser oferecidas imediatamente."
+    },
+    "fonte": "IBFC 2023 — Saúde do Adolescente",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Ao preparar o SRO (Soro de Reidratação Oral) no Plano B da AIDIPI, o volume a ser administrado em 4 horas para uma criança de 10 kg com algum grau de desidratação é:",
+    "alternativas": [
+      {"letra": "A", "texto": "100 mL"},
+      {"letra": "B", "texto": "500 mL"},
+      {"letra": "C", "texto": "750 mL"},
+      {"letra": "D", "texto": "1.000 mL"},
+      {"letra": "E", "texto": "400 mL"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Plano B da AIDPI: SRO supervisionado na UBS — Volume = 75 mL/kg em 4 horas. Criança de 10 kg: 75 × 10 = 750 mL em 4 horas. Após as 4 horas, reavaliar: se reidratada → Plano A em casa; se ainda desidratada → repetir Plano B; se piora (desidratação grave) → Plano C (EV). Taxa de infusão: 750 ÷ 240 minutos ≈ 3,1 mL/min = administrar de forma fracionada (colher, seringa ou copo).",
+    "explicacoes": {
+      "A": "Incorreta: 100 mL seria apenas 10 mL/kg — muito abaixo do necessário.",
+      "B": "Incorreta: 500 mL = 50 mL/kg — abaixo do protocolo (75 mL/kg).",
+      "D": "Incorreta: 1.000 mL = 100 mL/kg — é o volume do Plano C (EV), não do Plano B.",
+      "E": "Incorreta: 400 mL = 40 mL/kg — não corresponde ao cálculo do Plano B."
+    },
+    "fonte": "FAFIPA 2024 — AIDIPI",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Na avaliação do adolescente utilizando o instrumento CRAFFT, uma pontuação ≥ 2 indica:",
+    "alternativas": [
+      {"letra": "A", "texto": "Ausência de problemas com substâncias — resultado normal para adolescentes."},
+      {"letra": "B", "texto": "Uso esporádico que não requer intervenção."},
+      {"letra": "C", "texto": "Uso problemático de substâncias — necessidade de intervenção breve e acompanhamento."},
+      {"letra": "D", "texto": "Dependência grave — encaminhamento imediato para internação compulsória."},
+      {"letra": "E", "texto": "Resultado inconclusivo — repetir o instrumento em 30 dias."}
+    ],
+    "gabarito": "C",
+    "justificativa": "CRAFFT: instrumento de rastreamento de uso de substâncias em adolescentes (6 perguntas — C:Car, R:Relax, A:Alone, F:Forget, F:Friends, T:Trouble). Pontuação: 0-1 = baixo risco (educação preventiva). ≥ 2 = uso problemático → Intervenção Breve (feedback, orientação, elaboração de metas) + acompanhamento + encaminhamento ao CAPS-AD se dependência. NÃO indica internação compulsória automaticamente — internação involuntária requer critérios clínicos específicos (risco de vida). O vínculo e abordagem motivacional são prioritários.",
+    "explicacoes": {
+      "A": "Incorreta: ≥ 2 não é normal — é ponto de corte para uso problemático que necessita intervenção.",
+      "B": "Incorreta: ≥ 2 exige intervenção estruturada — não pode ser ignorado.",
+      "D": "Incorreta: CRAFFT positivo não indica internação — a intervenção é ambulatorial na maioria dos casos.",
+      "E": "Incorreta: o resultado é válido — não se repete o instrumento sem intervir antes."
+    },
+    "fonte": "AOCP 2024 — Saúde do Adolescente",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Qual das afirmativas sobre a estratégia AIDIPI é INCORRETA?",
+    "alternativas": [
+      {"letra": "A", "texto": "A AIDIPI foi desenvolvida pela OMS/UNICEF na década de 1990 para reduzir a mortalidade infantil."},
+      {"letra": "B", "texto": "A estratégia abrange crianças de 2 meses a 5 anos, com protocolo específico para menores de 2 meses."},
+      {"letra": "C", "texto": "A AIDIPI clínica, comunitária e o fortalecimento do sistema de saúde são os três componentes da estratégia."},
+      {"letra": "D", "texto": "A AIDIPI trata cada doença de forma isolada, com protocolos específicos para cada agravo sem integração."},
+      {"letra": "E", "texto": "Uma criança pode ter múltiplas classificações simultâneas — a mais grave orienta a conduta prioritária."}
+    ],
+    "gabarito": "D",
+    "justificativa": "INCORRETO: a AIDIPI é uma abordagem INTEGRADA — avalia a criança de forma holística, reconhecendo que ela pode ter MÚLTIPLAS condições simultaneamente (pneumonia + desidratação + anemia). A integração é a grande inovação da estratégia em relação aos programas verticais anteriores. O A de 'Integrada' é central. As demais afirmativas estão corretas: OMS/UNICEF anos 90 ✓; 2m-5a com protocolo RN ✓; 3 componentes ✓; múltiplas classificações ✓.",
+    "explicacoes": {
+      "A": "Correta: AIDPI foi criada pela OMS/UNICEF nos anos 1990 e implantada no Brasil em 1996.",
+      "B": "Correta: faixa etária 2 meses a 5 anos; existe protocolo específico para < 2 meses (RN e lactente jovem).",
+      "C": "Correta: os 3 componentes são AIDPI clínica + AIDPI comunitária + fortalecimento do sistema de saúde.",
+      "E": "Correta: uma criança pode ter pneumonia E diarreia — ambas são classificadas e tratadas simultaneamente."
+    },
+    "fonte": "ENARE 2024 — AIDIPI",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Uma adolescente de 16 anos comparece à UBS com amenorreia de 2 meses, teste de gravidez positivo na farmácia e desejo de continuar a gestação. O enfermeiro deve:",
+    "alternativas": [
+      {"letra": "A", "texto": "Exigir a presença dos pais para confirmar o diagnóstico e iniciar o pré-natal."},
+      {"letra": "B", "texto": "Acolher sem julgamento, confirmar a gravidez, iniciar pré-natal de baixo risco na APS, orientar sobre direitos e rede de apoio."},
+      {"letra": "C", "texto": "Encaminhar diretamente para o pré-natal de alto risco por ser adolescente."},
+      {"letra": "D", "texto": "Recusar o atendimento até que o pai da criança compareça para assinar os documentos."},
+      {"letra": "E", "texto": "Informar obrigatoriamente os pais da adolescente antes de qualquer conduta clínica."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Gravidez na adolescência — conduta: acolhimento sem julgamento, respeitar a decisão de continuar a gestação, garantir sigilo. Pré-natal de adolescente de 16 anos SEM fatores de risco = pré-natal de BAIXO RISCO na APS — não é automaticamente alto risco. Fatores que tornam alto risco: < 16 anos com bacia imatura, doenças preexistentes, primigestas muito jovens (< 14 anos). Notificar pais NÃO é obrigatório — a adolescente tem capacidade para decidir sobre sua saúde reprodutiva.",
+    "explicacoes": {
+      "A": "Incorreta: a presença dos pais não é obrigatória — respeitar a autonomia da adolescente.",
+      "C": "Incorreta: aos 16 anos, a gravidez não é automaticamente alto risco — depende de comorbidades e condição clínica.",
+      "D": "Incorreta: recusar atendimento é violação do direito à saúde — e o pai da criança não tem poder legal sobre o atendimento.",
+      "E": "Incorreta: informar os pais não é obrigatório — a adolescente tem direito ao sigilo sobre sua saúde sexual/reprodutiva."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Saúde do Adolescente",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Na avaliação de um recém-nascido de 15 dias, o enfermeiro identifica: temperatura axilar de 38,2°C, choro fraco, não mama bem há 12 horas, abdome levemente distendido. Pela AIDIPI para menor de 2 meses, a classificação é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Recém-nascido saudável — febre baixa pode ser normal nos primeiros dias."},
+      {"letra": "B", "texto": "Possível infecção local — tratar ambulatorialmente com antibiótico oral."},
+      {"letra": "C", "texto": "Doença bacteriana grave possível — referenciar urgente com antibiótico pré-transferência."},
+      {"letra": "D", "texto": "Cólica do lactente — orientar a mãe sobre massagem abdominal."},
+      {"letra": "E", "texto": "Icterícia neonatal tardia — encaminhar para fototerapia."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Na AIDPI para < 2 meses, qualquer sinal de doença bacteriana grave indica referência urgente. Sinais presentes: febre (≥ 37,5°C = anormal no RN), não mama bem há 12h (critério grave), abdome distendido, choro fraco. Qualquer um desses isoladamente já classifica como DOENÇA BACTERIANA GRAVE POSSÍVEL. Conduta: penicilina cristalina + gentamicina pré-transferência (dose única IM), prevenir hipoglicemia, encaminhar ao hospital. Febre em RN < 28 dias é SEMPRE sinal de alarme.",
+    "explicacoes": {
+      "A": "Incorreta: febre em RN < 28 dias NÃO é normal — é sinal de infecção grave até prova em contrário.",
+      "B": "Incorreta: doença bacteriana grave em RN exige tratamento hospitalar — não ambulatorial.",
+      "D": "Incorreta: cólica não causa febre nem recusa alimentar grave — e não é diagnóstico de segurança nessa situação.",
+      "E": "Incorreta: icterícia não foi mencionada; e os sinais presentes apontam para infecção bacteriana grave."
+    },
+    "fonte": "IBFC 2023 — AIDIPI",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Em relação ao suicídio em homens, qual afirmativa está CORRETA?",
+    "alternativas": [
+      {"letra": "A", "texto": "Homens tentam suicídio mais vezes que mulheres, mas com menor letalidade."},
+      {"letra": "B", "texto": "A taxa de mortalidade por suicídio é maior em mulheres em todos os países."},
+      {"letra": "C", "texto": "Homens têm menor taxa de tentativas, mas maior taxa de mortalidade por suicídio — usam métodos mais letais e verbalizam menos."},
+      {"letra": "D", "texto": "Perguntar sobre ideação suicida a um homem em sofrimento aumenta o risco de tentativa."},
+      {"letra": "E", "texto": "O CVV (Centro de Valorização da Vida) está disponível pelo número 190."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Suicídio masculino — dados epidemiológicos: mulheres tentam suicídio mais vezes (maior taxa de tentativas), mas homens têm MAIOR MORTALIDADE por suicídio (3-4x maior). Motivo: homens usam métodos mais letais (enforcamento, arma de fogo) e verbalizam menos o sofrimento. A masculinidade hegemônica impede busca por ajuda. PERGUNTAR sobre ideação suicida NÃO aumenta o risco — é conduta terapêutica recomendada. CVV: número 188 (não 190 — 190 é polícia).",
+    "explicacoes": {
+      "A": "Incorreta: é o contrário — mulheres tentam mais; homens têm maior mortalidade.",
+      "B": "Incorreta: em quase todos os países, a mortalidade por suicídio é MAIOR em homens.",
+      "D": "Incorreta: perguntar sobre suicídio NÃO aumenta o risco — é abordagem terapêutica essencial.",
+      "E": "Incorreta: CVV é o número 188 — 190 é a Polícia Militar."
+    },
+    "fonte": "FAFIPA 2024 — Saúde do Homem",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "Uma criança de 4 anos tem diarreia com sangue (disenteria) há 2 dias, sem desidratação. Pela AIDIPI, a conduta é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Apenas SRO e orientação alimentar — sangue nas fezes em crianças é frequentemente benigno."},
+      {"letra": "B", "texto": "Cotrimoxazol (ou ciprofloxacino) VO por 5 dias + Plano A de hidratação + retornar em 2 dias."},
+      {"letra": "C", "texto": "Hospitalização imediata por risco de complicações hemorrágicas."},
+      {"letra": "D", "texto": "Coleta de coprocultura antes de qualquer antibiótico."},
+      {"letra": "E", "texto": "Metronidazol VO por 7 dias (protocolo padrão para disenteria na AIDIPI)."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Disenteria na AIDPI = diarreia com sangue. Sem desidratação = tratar ambulatorialmente. Conduta: antibiótico por 5 dias (cotrimoxazol como 1ª escolha na AIDPI; ciprofloxacino se resistência) + Plano A de hidratação (SRO em casa) + zinco (20 mg/dia por 10-14 dias) + retornar em 2 dias para reavaliação. Não se aguarda coprocultura para iniciar tratamento — abordagem sindrômica. Metronidazol é para amebíase/giardíase — não é o antibiótico indicado para disenteria bacteriana.",
+    "explicacoes": {
+      "A": "Incorreta: sangue nas fezes com diarreia = disenteria — necessita antibiótico.",
+      "C": "Incorreta: sem desidratação e sem sinais gerais de perigo — não há indicação de hospitalização.",
+      "D": "Incorreta: tratamento sindrômico não aguarda cultura — iniciar antibiótico imediatamente.",
+      "E": "Incorreta: metronidazol trata amebíase e giardíase — não é a 1ª escolha para disenteria bacteriana (Shigella)."
+    },
+    "fonte": "AOCP 2024 — AIDIPI",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "pediatria",
+    "enunciado": "No contexto da Caderneta do Adolescente, o instrumento HEADSS é utilizado para:",
+    "alternativas": [
+      {"letra": "A", "texto": "Avaliar o desenvolvimento neuropsicomotor de crianças de 0-5 anos."},
+      {"letra": "B", "texto": "Calcular o IMC por idade e classificar o estado nutricional."},
+      {"letra": "C", "texto": "Estruturar a entrevista de saúde do adolescente, cobrindo lar, escola, atividades, drogas, sexualidade e saúde mental."},
+      {"letra": "D", "texto": "Rastrear Transtorno do Espectro Autista em adolescentes."},
+      {"letra": "E", "texto": "Determinar o estadiamento puberal pelos critérios de Tanner."}
+    ],
+    "gabarito": "C",
+    "justificativa": "HEADSS: instrumento de entrevista estruturada para a consulta de saúde do adolescente. Sigla: H-Home (lar/família), E-Education (escola/trabalho), A-Activities (atividades/amigos), D-Drugs (substâncias), S-Sexuality (sexualidade), S-Suicide/Safety (saúde mental/segurança). Abordagem: progressiva do menos ao mais sensível, confidencial, sem julgamento. Auxilia o profissional a identificar fatores de risco e proteção na vida do adolescente de forma sistemática. Está integrado à Caderneta do Adolescente como ferramenta de triagem.",
+    "explicacoes": {
+      "A": "Incorreta: desenvolvimento neuropsicomotor 0-5 anos usa Denver II ou os marcos do MS — não HEADSS.",
+      "B": "Incorreta: IMC por idade é calculado com as curvas OMS — não é função do HEADSS.",
+      "D": "Incorreta: rastreamento de TEA em adolescentes usa instrumentos específicos (ADOS, AQ) — não HEADSS.",
+      "E": "Incorreta: Tanner classifica desenvolvimento puberal físico — não é função do HEADSS (entrevista psicossocial)."
+    },
+    "fonte": "ENARE 2024 — Saúde do Adolescente",
+    "dificuldade": "facil"
+  }
+]
