@@ -1,0 +1,568 @@
+[
+  {
+    "tema": "gestao",
+    "enunciado": "O apoio matricial do NASF-AB difere do encaminhamento tradicional porque:",
+    "alternativas": [
+      {"letra": "A", "texto": "O NASF assume o cuidado do paciente, retirando a responsabilidade da equipe de Saúde da Família."},
+      {"letra": "B", "texto": "O profissional do NASF trabalha de forma articulada com a eSF, ampliando sua capacidade resolutiva sem assumir o caso."},
+      {"letra": "C", "texto": "O NASF funciona como serviço especializado de referência, com agenda própria de consultas independentes."},
+      {"letra": "D", "texto": "O encaminhamento ao NASF exige laudo médico e autorização prévia do gestor municipal."},
+      {"letra": "E", "texto": "O NASF substitui a atenção básica nos casos de maior complexidade clínica."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Apoio matricial: metodologia de trabalho colaborativo onde o profissional do NASF trabalha JUNTO à eSF, ampliando sua capacidade resolutiva — sem assumir o caso nem criar nova fila de espera. O objetivo é aumentar a competência da equipe de referência (eSF), não substituí-la. O NASF NÃO é porta de entrada e NÃO tem agenda de consultas própria independente.",
+    "explicacoes": {
+      "A": "Incorreta: o NASF NÃO assume o caso — a eSF mantém a responsabilidade pelo usuário.",
+      "C": "Incorreta: o NASF não funciona como serviço especializado independente — toda ação é articulada com a eSF.",
+      "D": "Incorreta: não há exigência de laudo médico para apoio matricial — é integrado ao fluxo da APS.",
+      "E": "Incorreta: o NASF não substitui a APS — complementa e amplia sua capacidade resolutiva."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — NASF",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "O Projeto Terapêutico Singular (PTS) é uma ferramenta do NASF indicada para:",
+    "alternativas": [
+      {"letra": "A", "texto": "Todos os usuários da UBS, como protocolo padrão de atendimento."},
+      {"letra": "B", "texto": "Apenas pacientes com diagnóstico psiquiátrico confirmado."},
+      {"letra": "C", "texto": "Casos complexos que demandam abordagem multiprofissional integrada, construída coletivamente com participação do usuário."},
+      {"letra": "D", "texto": "Pacientes que recusam o tratamento convencional e necessitam de abordagem alternativa."},
+      {"letra": "E", "texto": "Intervenções coletivas voltadas para grupos populacionais em situação de vulnerabilidade territorial."}
+    ],
+    "gabarito": "C",
+    "justificativa": "PTS — Projeto Terapêutico Singular: conjunto de condutas terapêuticas elaborado coletivamente pela equipe multiprofissional COM a participação do usuário. Indicado para casos complexos: doenças crônicas com baixa adesão, saúde mental, vulnerabilidade social, situações de violência, pós-AVC. Etapas: diagnóstico situacional → definição de metas → divisão de responsabilidades → reavaliação. O usuário é protagonista — não objeto passivo.",
+    "explicacoes": {
+      "A": "Incorreta: PTS é para casos complexos específicos — não é protocolo padrão para todos.",
+      "B": "Incorreta: PTS é usado em múltiplas situações complexas — não exclusivamente em psiquiatria.",
+      "D": "Incorreta: PTS não é para quem recusa tratamento — é para casos que demandam olhar multiprofissional.",
+      "E": "Incorreta: intervenções coletivas no território correspondem ao PST (Projeto de Saúde no Território) — não ao PTS."
+    },
+    "fonte": "IBFC 2023 — NASF",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Na visita domiciliar ao recém-nascido, realizada nas primeiras 72 horas após a alta hospitalar, o enfermeiro deve priorizar a avaliação de:",
+    "alternativas": [
+      {"letra": "A", "texto": "Vacinação completa da mãe e aplicação das vacinas atrasadas do RN."},
+      {"letra": "B", "texto": "Amamentação (pega, frequência, produção), peso, icterícia, umbigo, eliminações e saúde mental materna."},
+      {"letra": "C", "texto": "Condições de moradia e renda familiar para fins de cadastramento social."},
+      {"letra": "D", "texto": "Retirada de sangue para repetição das triagens neonatais em domicílio."},
+      {"letra": "E", "texto": "Prescrição de vitaminas e suplementos para a mãe e para o recém-nascido."}
+    ],
+    "gabarito": "B",
+    "justificativa": "VD ao RN nas primeiras 72h — avaliação prioritária: amamentação (pega correta, frequência 8-12x/dia), peso (perda fisiológica ≤ 10%), icterícia (progressão céfalo-caudal), umbigo (aspecto, infecção), eliminações (mecônio → fezes amareladas), reflexos. Na mãe: lóquios, sinais de infecção, saúde mental (baby blues vs. depressão pós-parto). Verificar triagens neonatais realizadas.",
+    "explicacoes": {
+      "A": "Incorreta: vacinação do RN é hospitalar — na VD verifica-se se foram aplicadas, mas não se aplica em domicílio rotineiramente.",
+      "C": "Incorreta: cadastramento social é importante mas não é a prioridade clínica da VD do RN.",
+      "D": "Incorreta: as triagens neonatais são hospitalares — a VD verifica se foram realizadas, não as repete em domicílio.",
+      "E": "Incorreta: prescrição não é atribuição da VD de enfermagem rotineira — e não é a prioridade das primeiras 72h."
+    },
+    "fonte": "FAFIPA 2024 — Visita Domiciliar",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "A médica prescreveu amoxicilina 500mg de 8 em 8 horas para um paciente que acorda às 7h e dorme às 23h. O aprazamento mais adequado é:",
+    "alternativas": [
+      {"letra": "A", "texto": "7h, 15h e 23h"},
+      {"letra": "B", "texto": "8h, 16h e 24h"},
+      {"letra": "C", "texto": "6h, 14h e 22h"},
+      {"letra": "D", "texto": "8h, 12h e 20h"},
+      {"letra": "E", "texto": "7h, 12h e 19h"}
+    ],
+    "gabarito": "C",
+    "justificativa": "8/8h = 3 doses em 24h, distribuídas de 8 em 8 horas. As opções A (7h, 15h, 23h) e C (6h, 14h, 22h) são matematicamente corretas (intervalos de 8h). A opção C é preferível pois evita o horário de 23h — quando o paciente está dormindo — escolhendo 22h. O horário 6h, 14h, 22h mantém o intervalo correto de 8h e respeita melhor o sono. Opção B: 8h + 16h + 24h = correto mas 24h é meia-noite. Opção A: 7h, 15h, 23h também é tecnicamente correto com intervalos de 8h.",
+    "explicacoes": {
+      "B": "Tecnicamente correto (8h de intervalo), mas 24h = meia-noite — menos prático que C.",
+      "D": "Incorreta: 8h → 12h = 4h de intervalo (não 8h) — espaçamento irregular.",
+      "E": "Incorreta: 7h → 12h = 5h; 12h → 19h = 7h — intervalos irregulares, não respeitam o 8/8h."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Aprazamento",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Um paciente em uso de varfarina pergunta ao enfermeiro se pode comer salada de couve e espinafre. A orientação CORRETA é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Proibir completamente o consumo de vegetais verde-escuros enquanto usar varfarina."},
+      {"letra": "B", "texto": "Pode consumir à vontade pois a vitamina K não interfere na varfarina."},
+      {"letra": "C", "texto": "Manter o consumo de forma CONSISTENTE — não aumentar nem diminuir a quantidade habitual — pois variações alteram o INR."},
+      {"letra": "D", "texto": "Consumir vitamina K em grande quantidade para potencializar o efeito anticoagulante."},
+      {"letra": "E", "texto": "Ingerir vegetais verde-escuros apenas nos dias em que não tomar varfarina."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Varfarina × vitamina K (couve, espinafre, brócolis): vegetais verde-escuros são ricos em vitamina K, que é antagonista da varfarina (reduz o efeito anticoagulante). A orientação correta NÃO é proibir — é manter consumo CONSISTENTE. Mudanças bruscas na ingestão de vitamina K (aumentar muito ou eliminar) causam variações no INR → risco de sangramento ou trombose. O paciente deve manter o mesmo padrão alimentar habitual.",
+    "explicacoes": {
+      "A": "Incorreta: proibir completamente é desnecessário e prejudica a nutrição — o importante é a consistência.",
+      "B": "Incorreta: vitamina K SIM interfere na varfarina — é a principal interação alimentar.",
+      "D": "Incorreta: aumentar vitamina K REDUZ o efeito anticoagulante — risco de trombose.",
+      "E": "Incorreta: esquema alternado gera inconsistência — pior para o controle do INR."
+    },
+    "fonte": "ENARE 2024 — Aprazamento",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Sobre a visita domiciliar na APS, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "A visita domiciliar deve ser planejada, com objetivo definido e revisar o prontuário antes de ir."},
+      {"letra": "B", "texto": "O ACS realiza visita domiciliar mensalmente a cada família cadastrada."},
+      {"letra": "C", "texto": "O profissional de saúde deve manter sigilo sobre o que observa no domicílio do usuário."},
+      {"letra": "D", "texto": "Em situação de risco imediato à segurança do profissional (conflito, violência), a visita deve ser realizada mesmo assim para não prejudicar o vínculo."},
+      {"letra": "E", "texto": "O registro da visita no prontuário é obrigatório e deve conter avaliação, orientações e plano de cuidado."}
+    ],
+    "gabarito": "D",
+    "justificativa": "INCORRETO: a segurança do profissional é PRIORITÁRIA. Em situação de conflito, violência ou risco imediato, a visita deve ser SUSPENSA e reagendada — nunca realizada sob risco. Não há obrigação de se expor ao perigo por vínculo com o paciente. As demais alternativas estão corretas: planejamento prévio ✓; ACS mensalmente ✓; sigilo ✓; registro obrigatório ✓.",
+    "explicacoes": {
+      "A": "Correta: planejamento com revisão de prontuário é pré-requisito da VD qualificada.",
+      "B": "Correta: ACS visita cada família cadastrada mensalmente — é sua função central.",
+      "C": "Correta: sigilo profissional se aplica ao que é observado no domicílio.",
+      "E": "Correta: registro no prontuário (e-SUS/PEC) é obrigatório para continuidade do cuidado."
+    },
+    "fonte": "IBFC 2023 — Visita Domiciliar",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Um paciente diabético usa metformina 500mg. O aprazamento e a orientação CORRETOS são:",
+    "alternativas": [
+      {"letra": "A", "texto": "Tomar em jejum, 30 minutos antes do café da manhã, para melhor absorção."},
+      {"letra": "B", "texto": "Tomar junto com as refeições para reduzir os efeitos gastrointestinais."},
+      {"letra": "C", "texto": "Tomar à noite antes de dormir, independente das refeições."},
+      {"letra": "D", "texto": "Tomar com leite para potencializar o efeito hipoglicemiante."},
+      {"letra": "E", "texto": "Tomar em qualquer horário, pois não há interação com alimentos."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Metformina: deve ser tomada JUNTO com as refeições ou imediatamente após. Motivo: a alimentação reduz os efeitos adversos gastrointestinais (náusea, diarreia, cólica — principais causas de abandono do tratamento). Ao contrário dos medicamentos que exigem jejum (levotiroxina, captopril, bifosfonatos), a metformina tem melhor tolerabilidade com alimento.",
+    "explicacoes": {
+      "A": "Incorreta: levotiroxina e bifosfonatos são tomados em jejum — a metformina NÃO (efeitos GI piora).",
+      "C": "Incorreta: tomar à noite sem relação com refeição aumenta risco de efeitos adversos GI.",
+      "D": "Incorreta: leite não potencializa metformina — e o laticínio não tem relação com sua farmacodinâmica.",
+      "E": "Incorreta: há sim relação com alimentos — tomada com refeição reduz efeitos adversos GI."
+    },
+    "fonte": "FAFIPA 2024 — Aprazamento",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Na visita domiciliar, o enfermeiro observa uma senhora de 80 anos acamada, com múltiplas equimoses em diferentes estágios de resolução, cuidador agitado que não deixa a idosa falar sozinha. A conduta CORRETA é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Ignorar os achados pois equimoses são normais em idosos anticoagulados."},
+      {"letra": "B", "texto": "Conversar com o cuidador sobre os riscos de quedas e orientar sobre prevenção."},
+      {"letra": "C", "texto": "Suspeitar de violência doméstica, notificar ao SINAN, acionar o Conselho Tutelar e comunicar à equipe."},
+      {"letra": "D", "texto": "Aguardar a próxima consulta da idosa na UBS para uma avaliação mais completa antes de qualquer ação."},
+      {"letra": "E", "texto": "Confrontar o cuidador diretamente sobre a suspeita de violência para obter sua confissão."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Sinais de violência contra idosa: equimoses em diferentes estágios (indicam episódios recorrentes), cuidador controlador que não deixa a idosa falar. Conduta obrigatória: (1) Notificação compulsória ao SINAN (Lei 10.741/03 — Estatuto do Idoso + ECA para crianças). (2) Acionar Conselho Tutelar ou Ministério Público (Promotoria do Idoso). (3) Comunicar à equipe. NÃO confrontar o agressor — risco ao profissional e à vítima. NÃO aguardar — violência é urgência.",
+    "explicacoes": {
+      "A": "Incorreta: equimoses em múltiplos estágios de resolução em locais atípicos indicam trauma recorrente — não são normais.",
+      "B": "Incorreta: abordar apenas o cuidador sobre quedas ignora a suspeita de violência.",
+      "D": "Incorreta: suspeita de violência não pode aguardar — é notificação imediata.",
+      "E": "Incorreta: confrontar o agressor coloca em risco o profissional e a vítima — nunca fazer isso."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Visita Domiciliar",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "A interação entre ciprofloxacino e antiácidos contendo alumínio ou magnésio provoca:",
+    "alternativas": [
+      {"letra": "A", "texto": "Aumento da absorção do ciprofloxacino — potencializa o efeito antibacteriano."},
+      {"letra": "B", "texto": "Redução da absorção do ciprofloxacino — diminui sua eficácia terapêutica."},
+      {"letra": "C", "texto": "Hepatotoxicidade grave quando administrados juntos."},
+      {"letra": "D", "texto": "Hipermagnesemia com risco de arritmia cardíaca."},
+      {"letra": "E", "texto": "Nenhuma interação clinicamente relevante."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Ciprofloxacino (fluoroquinolona) + antiácidos com alumínio/magnésio/cálcio: os íons metálicos formam quelatos com o ciprofloxacino, reduzindo sua absorção gastrointestinal em até 90%. Conduta no aprazamento: separar por pelo menos 2 horas (tomar o antibiótico 2h antes ou 6h após o antiácido). Mesma interação ocorre com tetraciclina e ferro. Orientar o paciente sobre essa separação para não comprometer o tratamento.",
+    "explicacoes": {
+      "A": "Incorreta: é o oposto — a quelação REDUZ a absorção, não aumenta.",
+      "C": "Incorreta: hepatotoxicidade não é o mecanismo dessa interação específica.",
+      "D": "Incorreta: hipermagnesemia não é o mecanismo — é a quelação que reduz absorção do antibiótico.",
+      "E": "Incorreta: é uma interação clinicamente MUITO relevante — pode comprometer totalmente o tratamento."
+    },
+    "fonte": "ENARE 2024 — Aprazamento",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Diferença entre Projeto Terapêutico Singular (PTS) e Projeto de Saúde no Território (PST):",
+    "alternativas": [
+      {"letra": "A", "texto": "PTS é coletivo e PST é individual."},
+      {"letra": "B", "texto": "PTS é individual/familiar para casos complexos; PST é coletivo/territorial para problemas de saúde de grupos ou comunidades."},
+      {"letra": "C", "texto": "PTS é exclusivo do NASF; PST é exclusivo da eSF."},
+      {"letra": "D", "texto": "Ambos são sinônimos — descrevem o mesmo instrumento de planejamento."},
+      {"letra": "E", "texto": "PTS é aplicado apenas em saúde mental; PST em doenças infecciosas endêmicas."}
+    ],
+    "gabarito": "B",
+    "justificativa": "PTS (Projeto Terapêutico Singular): abordagem INDIVIDUAL/familiar para casos complexos — elaborado com o usuário, define metas e responsabilidades da equipe multiprofissional para aquele caso específico. PST (Projeto de Saúde no Território): intervenção COLETIVA sobre um problema de saúde de um grupo ou comunidade no território — ex.: PST de promoção de AF para idosos, PST de controle da dengue. Ambos são ferramentas do apoio matricial, elaboradas pela eSF + NASF.",
+    "explicacoes": {
+      "A": "Incorreta: é o contrário — PTS é individual, PST é coletivo.",
+      "C": "Incorreta: ambos são ferramentas da eSF + NASF juntos, não exclusivos de uma equipe.",
+      "D": "Incorreta: são instrumentos distintos com finalidades diferentes.",
+      "E": "Incorreta: PTS é usado em qualquer caso complexo (não só saúde mental); PST é para qualquer problema territorial."
+    },
+    "fonte": "IBFC 2023 — NASF",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Um paciente hipertenso usa captopril 25mg 2x/dia. O aprazamento e a orientação de administração CORRETOS são:",
+    "alternativas": [
+      {"letra": "A", "texto": "Tomar com as refeições para evitar hipotensão pós-prandial."},
+      {"letra": "B", "texto": "Tomar 1 hora antes das refeições, com estômago vazio — alimentos reduzem a absorção do captopril."},
+      {"letra": "C", "texto": "Tomar imediatamente antes de dormir para evitar efeitos diurnos."},
+      {"letra": "D", "texto": "Tomar com leite ou iogurte para proteger a mucosa gástrica."},
+      {"letra": "E", "texto": "Não há restrição alimentar para o captopril — pode tomar em qualquer horário."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Captopril: deve ser tomado 1 HORA ANTES das refeições — alimentos reduzem sua absorção em até 30-40%. Diferente do enalapril (outro IECA) que pode ser tomado com ou sem alimento. O aprazamento de captopril 2x/dia deve contemplar dois momentos de jejum relativo (ex.: 7h em jejum e 19h em jejum). Efeito adverso clássico: tosse seca (mediada por bradicinina) — orientar paciente que é esperado.",
+    "explicacoes": {
+      "A": "Incorreta: alimentos REDUZEM a absorção do captopril — tomar com refeição diminui eficácia.",
+      "C": "Incorreta: antes de dormir pode causar hipotensão noturna e risco de queda — não é recomendação padrão.",
+      "D": "Incorreta: laticínios não têm papel protetor para o captopril e podem interferir na absorção.",
+      "E": "Incorreta: há restrição — captopril em jejum tem melhor absorção (diferente do enalapril)."
+    },
+    "fonte": "FAFIPA 2024 — Aprazamento",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Na detecção de fatores de risco durante a visita domiciliar, o enfermeiro encontra: moradia com janelas sempre fechadas, filho com tuberculose em tratamento domiciliar, três pessoas dormindo no mesmo quarto. A orientação PRIORITÁRIA é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Solicitar internação hospitalar de todos os moradores para tratamento preventivo."},
+      {"letra": "B", "texto": "Orientar abertura das janelas para ventilação, investigar contatos com PPD, iniciar TDO e usar máscara N95 nas visitas."},
+      {"letra": "C", "texto": "Proibir o paciente de permanecer em casa até negativação do escarro."},
+      {"letra": "D", "texto": "Recomendar apenas que todos usem máscara cirúrgica em casa."},
+      {"letra": "E", "texto": "Aguardar o resultado da cultura de escarro antes de orientar os contatos."}
+    ],
+    "gabarito": "B",
+    "justificativa": "TB + domicílio fechado + superlotação = alto risco de transmissão. Condutas prioritárias: (1) Ventilação: abrir janelas — TB transmite por aerossol, ventilação dilui partículas. (2) Investigação dos contatos: PPD (teste tuberculínico) em todos os coabitantes — se positivo, quimioprofilaxia. (3) TDO: garantir que o paciente tome a medicação observada. (4) EPI do profissional: máscara N95 na VD ao paciente bacilífero. (5) Notificação no SINAN. Não é necessário internar contatos assintomáticos.",
+    "explicacoes": {
+      "A": "Incorreta: internação dos contatos assintomáticos não é indicada — apenas investigação e quimioprofilaxia se necessário.",
+      "C": "Incorreta: o paciente não precisa ser isolado do domicílio — medidas de ventilação e TDO são suficientes.",
+      "D": "Incorreta: máscara cirúrgica não protege adequadamente contra aerossóis de TB — ventilação é mais importante.",
+      "E": "Incorreta: não aguardar cultura para agir — na suspeita clínica de TB já iniciar medidas de controle."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Visita Domiciliar",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "A levotiroxina deve ser administrada em qual condição para garantir sua absorção adequada?",
+    "alternativas": [
+      {"letra": "A", "texto": "Com o café da manhã, para facilitar a deglutição."},
+      {"letra": "B", "texto": "Junto com carbonato de cálcio para aumentar a biodisponibilidade."},
+      {"letra": "C", "texto": "Em jejum, 30-60 minutos antes do café da manhã, com água."},
+      {"letra": "D", "texto": "À noite antes de dormir, independentemente das refeições."},
+      {"letra": "E", "texto": "Com suco de laranja para potencializar a absorção."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Levotiroxina (T4 sintético): deve ser tomada EM JEJUM, 30-60 minutos antes do café da manhã, com copo de água. Motivo: alimentos, café, soja, cálcio, ferro, antiácidos reduzem significativamente sua absorção. O intervalo em jejum garante absorção adequada. Aprazamento: estabelecer horário fixo, preferencialmente ao acordar. Interações: separar ≥ 4h de cálcio, ferro e antiácidos. Monitoramento: TSH — alvo terapêutico conforme faixa etária e indicação.",
+    "explicacoes": {
+      "A": "Incorreta: tomar com café da manhã reduz a absorção da levotiroxina.",
+      "B": "Incorreta: carbonato de cálcio REDUZ a absorção da levotiroxina — deve ser separado por ≥ 4h.",
+      "D": "Incorreta: à noite pode ser uma alternativa em casos específicos, mas o padrão é manhã em jejum.",
+      "E": "Incorreta: suco de laranja (ácido) pode interferir na absorção — água é o veículo recomendado."
+    },
+    "fonte": "ENARE 2024 — Aprazamento",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Sobre polifarmácia em idosos e o papel do enfermeiro no aprazamento, assinale a CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "Polifarmácia é o uso de ≥ 10 medicamentos — não é preocupante abaixo desse número."},
+      {"letra": "B", "texto": "O enfermeiro deve reconciliar a lista de medicamentos, identificar interações e cascatas de prescrição, e sinalizar ao médico."},
+      {"letra": "C", "texto": "O uso de benzodiazepínicos em idosos é seguro e recomendado para melhorar a qualidade do sono."},
+      {"letra": "D", "texto": "O pill count (contagem de comprimidos) não é um método válido de avaliação da adesão."},
+      {"letra": "E", "texto": "Na polifarmácia, o enfermeiro deve suspender por conta própria os medicamentos que julgar desnecessários."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Papel do enfermeiro na polifarmácia: reconciliação medicamentosa (comparar lista com o que o paciente realmente usa), identificar duplicidades, interações perigosas, cascata de prescrição (efeito adverso tratado como nova doença), medicamentos inapropriados (Critérios de Beers). Sinalizar ao médico — não suspender por conta própria. Polifarmácia = ≥ 5 medicamentos (não 10). Benzodiazepínicos em idosos: risco de queda, sedação, dependência — listados nos Critérios de Beers como potencialmente inapropriados.",
+    "explicacoes": {
+      "A": "Incorreta: polifarmácia = ≥ 5 medicamentos — não 10; já a partir de 5 há risco significativo de interações.",
+      "C": "Incorreta: benzodiazepínicos são potencialmente inapropriados em idosos (Critérios de Beers) — risco de queda e delirium.",
+      "D": "Incorreta: pill count É um método válido de avaliação indireta de adesão — contagem de comprimidos restantes.",
+      "E": "Incorreta: NUNCA suspender medicamentos por conta própria — sinalizar ao médico para decisão compartilhada."
+    },
+    "fonte": "FAFIPA 2024 — Aprazamento",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "A Educação Permanente em Saúde (EPS) se diferencia da Educação Continuada porque:",
+    "alternativas": [
+      {"letra": "A", "texto": "A EPS foca em cursos e capacitações técnicas pontuais; a EC foca na reflexão sobre a prática."},
+      {"letra": "B", "texto": "A EPS é voltada apenas para profissionais com nível superior; a EC é para todos os trabalhadores."},
+      {"letra": "C", "texto": "A EPS parte dos problemas do cotidiano do trabalho, de forma reflexiva e coletiva; a EC é uma atualização técnica top-down."},
+      {"letra": "D", "texto": "São sinônimas — descrevem o mesmo processo de aprendizagem profissional."},
+      {"letra": "E", "texto": "A EPS é responsabilidade exclusiva dos municípios; a EC é competência federal."}
+    ],
+    "gabarito": "C",
+    "justificativa": "EPS (Educação Permanente em Saúde): aprendizagem no e pelo trabalho — parte dos problemas reais do cotidiano, de forma coletiva, reflexiva, horizontal e transformadora da prática. Influenciada por Paulo Freire. EC (Educação Continuada): atualização técnica, cursos, palestras, capacitações pontuais — normalmente top-down (gestores para trabalhadores). O NASF exerce papel de EPS ao matriciar a eSF a partir de casos reais. Ambas são complementares, mas têm natureza e objetivos distintos.",
+    "explicacoes": {
+      "A": "Incorreta: é o contrário — EPS parte dos problemas reais; EC foca em atualização técnica.",
+      "B": "Incorreta: EPS é para TODOS os trabalhadores de saúde, independente do nível.",
+      "D": "Incorreta: são diferentes em natureza, método e objetivo.",
+      "E": "Incorreta: a Política Nacional de EPS (2004) é de responsabilidade compartilhada entre federal, estados e municípios."
+    },
+    "fonte": "IBFC 2023 — NASF",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Um paciente em uso de metronidazol para tratamento de amebíase ingeriu cerveja durante o tratamento. Qual reação adversa pode ocorrer?",
+    "alternativas": [
+      {"letra": "A", "texto": "Hipoglicemia grave por potencialização da insulina endógena."},
+      {"letra": "B", "texto": "Reação do tipo dissulfiram (antabuse): náusea intensa, vômitos, rubor facial, taquicardia."},
+      {"letra": "C", "texto": "Aumento da eficácia do metronidazol contra a amebíase."},
+      {"letra": "D", "texto": "Hipotensão ortostática isolada sem outros sintomas."},
+      {"letra": "E", "texto": "Nenhuma reação — álcool e metronidazol não interagem."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Metronidazol + álcool = REAÇÃO DO TIPO DISSULFIRAM (antabuse): inibição da aldeído desidrogenase → acúmulo de acetaldeído → náusea intensa, vômitos, rubor facial (flushing), taquicardia, cefaleia, sudorese. Pode ser muito desconfortável. Duração do risco: durante o tratamento E por 48h após a última dose. Orientação obrigatória no aprazamento: EVITAR ÁLCOOL completamente durante e 48h após o tratamento. Mesma interação com tinidazol.",
+    "explicacoes": {
+      "A": "Incorreta: hipoglicemia não é o mecanismo da interação metronidazol-álcool.",
+      "C": "Incorreta: álcool não potencializa o efeito antimicrobiano — apenas causa a reação adversa.",
+      "D": "Incorreta: a reação é mais ampla — não apenas hipotensão.",
+      "E": "Incorreta: é uma interação clinicamente muito relevante e deve ser sempre orientada."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Aprazamento",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "O sulfato ferroso deve ser administrado de qual forma para maximizar sua absorção?",
+    "alternativas": [
+      {"letra": "A", "texto": "Com leite, para suavizar o gosto metálico e proteger o estômago."},
+      {"letra": "B", "texto": "Com chá preto ou café para facilitar a deglutição."},
+      {"letra": "C", "texto": "Em jejum, 1 hora antes das refeições, preferencialmente com suco de vitamina C (laranja)."},
+      {"letra": "D", "texto": "Junto com antiácidos para proteger a mucosa gástrica da irritação pelo ferro."},
+      {"letra": "E", "texto": "Com o café da manhã completo para aumentar a biodisponibilidade."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Sulfato ferroso (Fe²⁺) — absorção ótima: em JEJUM, 1h antes das refeições. Vitamina C (suco de laranja): reduz Fe³⁺ a Fe²⁺ e acidifica o meio → aumenta absorção. Interações que REDUZEM absorção: laticínios (cálcio), chá/café (taninos), antiácidos, cereais integrais (fitatos). Se náusea intensa: pode tomar com pequena quantidade de alimento (reduz absorção mas melhora tolerância). Efeito adverso esperado: fezes escurecidas/pretas — normal, orientar paciente. Separar de levotiroxina, ciprofloxacino e tetraciclina por ≥ 2 horas.",
+    "explicacoes": {
+      "A": "Incorreta: leite/laticínios (cálcio) REDUZEM a absorção do ferro — quelação.",
+      "B": "Incorreta: chá e café (taninos) REDUZEM a absorção do ferro — separar ≥ 2 horas.",
+      "D": "Incorreta: antiácidos REDUZEM a absorção do ferro — não usar junto.",
+      "E": "Incorreta: café da manhã completo (laticínios, fibras, taninos) reduz absorção — jejum é ideal."
+    },
+    "fonte": "ENARE 2024 — Aprazamento",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Na visita domiciliar ao paciente com tuberculose em TDO, o enfermeiro verifica que restaram muitos comprimidos de rifampicina na caixa — mais do que deveriam. Isso indica:",
+    "alternativas": [
+      {"letra": "A", "texto": "Que o paciente está guardando medicamentos para uso futuro — conduta louvável de previsão."},
+      {"letra": "B", "texto": "Baixa adesão ao tratamento (pill count positivo) — risco de falha terapêutica e resistência."},
+      {"letra": "C", "texto": "Que a prescrição foi feita em dose excessiva e precisa ser reduzida."},
+      {"letra": "D", "texto": "Efeito normal — rifampicina tem embalagens com sobras para compensar perdas."},
+      {"letra": "E", "texto": "Sinal de que o paciente está se automedicando com outros antibióticos."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Pill count (contagem de comprimidos): método de avaliação indireta da adesão. Comprimidos em excesso na caixa = o paciente não tomou todas as doses prescritas = BAIXA ADESÃO. Na TB, baixa adesão é gravíssima: risco de falha terapêutica, recidiva e desenvolvimento de TB resistente (TBMR/TBXDR). Conduta: conversar sem julgamento sobre as dificuldades, investigar motivo, reforçar educação em saúde, garantir TDO mais frequente, acionar NASF/assistente social se necessário.",
+    "explicacoes": {
+      "A": "Incorreta: guardar comprimidos não é indicação correta — o tratamento deve ser contínuo sem interrupções.",
+      "C": "Incorreta: comprimidos sobrando indicam que o PACIENTE não tomou — não que a prescrição está errada.",
+      "D": "Incorreta: não existe excesso intencional de comprimidos nas embalagens de rifampicina.",
+      "E": "Incorreta: automedicação com outros antibióticos não é a interpretação do pill count positivo."
+    },
+    "fonte": "FAFIPA 2024 — Visita Domiciliar",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "O que caracteriza a intersetorialidade nas ações do NASF/APS? Assinale a CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "Encaminhamento do usuário exclusivamente para outros serviços de saúde dentro do SUS."},
+      {"letra": "B", "texto": "Articulação com outros setores (educação, assistência social, habitação, segurança) para abordar os determinantes sociais de saúde."},
+      {"letra": "C", "texto": "Trabalho exclusivo da assistente social, sem envolvimento dos demais profissionais."},
+      {"letra": "D", "texto": "Limitada ao encaminhamento para o CAPS e CREAS nos casos de saúde mental."},
+      {"letra": "E", "texto": "Aplicável somente em municípios que possuem NASF-AB formalmente constituído."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Intersetorialidade: articulação entre diferentes políticas públicas e setores para enfrentar os determinantes sociais de saúde (renda, moradia, educação, segurança, lazer). Na APS/NASF: acionamento do CRAS (vulnerabilidade social), CREAS (violência), escola/PSE (saúde do escolar), habitação (moradia inadequada), Conselho Tutelar (violência contra criança), CVV (suicídio). É responsabilidade de TODA a equipe — não só da assistente social. Aplica-se em qualquer APS, independente de ter NASF formalmente.",
+    "explicacoes": {
+      "A": "Incorreta: intersetorialidade vai ALÉM do setor saúde — inclui educação, assistência social, habitação, etc.",
+      "C": "Incorreta: é responsabilidade de toda a equipe multiprofissional, não exclusiva da assistente social.",
+      "D": "Incorreta: intersetorialidade abrange muito mais do que CAPS e CREAS — inclui escola, CRAS, habitação, etc.",
+      "E": "Incorreta: intersetorialidade é princípio do SUS — aplica-se independente de ter NASF formalmente estruturado."
+    },
+    "fonte": "IBFC 2023 — NASF",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Um paciente idoso de 75 anos em uso de digoxina iniciou amiodarona para fibrilação atrial. O enfermeiro deve estar atento porque:",
+    "alternativas": [
+      {"letra": "A", "texto": "A amiodarona reduz os efeitos da digoxina, exigindo aumento da dose."},
+      {"letra": "B", "texto": "A associação é contraindicada e os dois medicamentos nunca podem ser usados juntos."},
+      {"letra": "C", "texto": "A amiodarona aumenta os níveis séricos da digoxina, elevando o risco de toxicidade digitálica."},
+      {"letra": "D", "texto": "Não há interação clinicamente relevante entre digoxina e amiodarona."},
+      {"letra": "E", "texto": "A amiodarona é um antídoto da digoxina, usado para reverter intoxicação."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Digoxina + amiodarona: interação medicamentosa GRAVE. A amiodarona inibe a glicoproteína-P (transportador renal e intestinal da digoxina), reduzindo sua eliminação e aumentando os níveis séricos. Resultado: toxicidade digitálica — náusea, vômitos, visão amarelada/halos, bradiarritmias. Quando se inicia amiodarona em paciente que usa digoxina: reduzir dose da digoxina em 30-50% e monitorar nível sérico. Sinais de toxicidade digitálica para observar na consulta/VD.",
+    "explicacoes": {
+      "A": "Incorreta: amiodarona AUMENTA (não reduz) os níveis de digoxina — risco de toxicidade, não subdose.",
+      "B": "Incorreta: a associação é usada em casos selecionados — mas exige ajuste de dose e monitoração.",
+      "D": "Incorreta: é uma interação MUITO relevante clinicamente — pode causar intoxicação grave.",
+      "E": "Incorreta: amiodarona não é antídoto da digoxina — é um antiarrítmico que interage com ela."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Aprazamento",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Na visita domiciliar ao idoso, o enfermeiro identifica risco de queda. Quais fatores do ambiente devem ser corrigidos?",
+    "alternativas": [
+      {"letra": "A", "texto": "Apenas a iluminação do banheiro, pois é o local de maior risco de queda."},
+      {"letra": "B", "texto": "Tapetes soltos, iluminação insuficiente, banheiro sem barras de apoio, móveis instáveis e fios pelo chão — orientar adaptações domiciliares."},
+      {"letra": "C", "texto": "Prescrever bengala e encaminhar para fisioterapia — sem necessidade de avaliar o ambiente."},
+      {"letra": "D", "texto": "Apenas os medicamentos que causam tontura, sem necessidade de avaliar o ambiente físico."},
+      {"letra": "E", "texto": "Recomendar que o idoso fique restrito ao quarto para evitar quedas em outros ambientes."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Prevenção de quedas no domicílio — avaliação ambiental completa: (1) Tapetes soltos/escorregadios: remover ou fixar. (2) Iluminação: aumentar, especialmente corredor e banheiro, luz noturna. (3) Banheiro: barras de apoio no box e vaso, assento elevador, antiderrapante. (4) Móveis: estáveis, sem bordas pontiagudas. (5) Fios: organizar. (6) Degraus: corrimão bilateral. (7) Calçado adequado: sola antiderrapante, fechado. Abordagem multifatorial: além do ambiente — rever medicamentos (diuréticos, benzodiazepínicos, anti-hipertensivos), exercícios de equilíbrio/força, avaliação da visão.",
+    "explicacoes": {
+      "A": "Incorreta: o risco de queda existe em múltiplos ambientes — não apenas no banheiro.",
+      "C": "Incorreta: bengala e fisioterapia são importantes, mas a avaliação e modificação ambiental são igualmente essenciais.",
+      "D": "Incorreta: medicamentos são um fator — mas o ambiente físico também precisa ser avaliado e corrigido.",
+      "E": "Incorreta: restringir o idoso ao quarto causa imobilidade, sarcopenia e piora da funcionalidade — é contraproducente."
+    },
+    "fonte": "ENARE 2024 — Visita Domiciliar",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "O alendronato (bifosfonato) para osteoporose deve ser administrado de qual forma?",
+    "alternativas": [
+      {"letra": "A", "texto": "Com o café da manhã, para facilitar a deglutição e aumentar a absorção."},
+      {"letra": "B", "texto": "Em jejum, 30 minutos antes do café, com copo cheio de água, permanecendo ereto por 30 minutos após."},
+      {"letra": "C", "texto": "Com leite, pois o cálcio potencializa o efeito do alendronato nos ossos."},
+      {"letra": "D", "texto": "À noite antes de dormir para aproveitar o anabolismo ósseo noturno."},
+      {"letra": "E", "texto": "Com suco de laranja para aumentar a absorção intestinal."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Alendronato (e outros bifosfonatos — risedronato, ibandronato): regras rígidas de administração: (1) Em jejum, 30-60 min ANTES do café. (2) Com copo cheio de água (≥ 200 mL). (3) Permanecer ERETO (em pé ou sentado) por 30 min após — NUNCA deitar! Motivo: evitar esofagite/úlcera esofágica (bifosfonatos são irritantes). (4) Não tomar com leite, suco, café ou outros medicamentos (cálcio e magnésio reduzem absorção). Absorção intestinal muito baixa (<1%) — qualquer interferência compromete. Frequência: alendronato = semanal (70mg/semana) ou diário (10mg/dia).",
+    "explicacoes": {
+      "A": "Incorreta: com café da manhã reduz absorção e aumenta risco de esofagite — jejum é obrigatório.",
+      "C": "Incorreta: cálcio do leite REDUZ a absorção do alendronato — contraindicado.",
+      "D": "Incorreta: deitar após tomar alendronato causa esofagite grave — deve permanecer ereto.",
+      "E": "Incorreta: suco (ácido) pode aumentar a irritação esofágica — água é o único veículo recomendado."
+    },
+    "fonte": "FAFIPA 2024 — Aprazamento",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Qual é a principal diferença entre o NASF-AB e um serviço de saúde especializado (policlínica, CAPS)?",
+    "alternativas": [
+      {"letra": "A", "texto": "O NASF-AB tem equipamentos de diagnóstico por imagem; o especializado não."},
+      {"letra": "B", "texto": "O NASF-AB não é porta de entrada e atua apoiando a eSF; o especializado é referência para casos que ultrapassam a capacidade da APS."},
+      {"letra": "C", "texto": "O NASF-AB atende apenas crianças e idosos; o especializado atende adultos em geral."},
+      {"letra": "D", "texto": "O NASF-AB pode prescrever medicamentos; o especializado não."},
+      {"letra": "E", "texto": "São equivalentes — apenas têm nomes diferentes no sistema de saúde."}
+    ],
+    "gabarito": "B",
+    "justificativa": "NASF-AB: NÃO é porta de entrada, NÃO tem agenda própria de consultas independentes, atua em apoio matricial à eSF dentro da APS — objetivo: ampliar resolubilidade da APS. Serviço especializado (policlínica, CAPS, ambulatório): é porta de entrada para casos específicos, tem agenda própria de consultas especializadas, recebe encaminhamentos da APS quando a complexidade ultrapassa a capacidade resolutiva da eSF. O NASF reduz a necessidade de encaminhamento ao especializado ao ampliar a capacidade da APS.",
+    "explicacoes": {
+      "A": "Incorreta: o NASF não tem equipamentos de diagnóstico por imagem — não é função do NASF.",
+      "C": "Incorreta: o NASF atende todos os ciclos de vida — não tem restrição etária.",
+      "D": "Incorreta: prescrição de medicamentos pelos profissionais do NASF segue as mesmas regras do seu conselho (farmacêutico não prescreve; médico do NASF pode); não é diferença entre NASF e especializado.",
+      "E": "Incorreta: têm funções e lógicas de funcionamento completamente diferentes no SUS."
+    },
+    "fonte": "IBFC 2023 — NASF",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Sobre a interação entre IECA (enalapril) e diurético poupador de potássio (espironolactona), o risco clínico principal é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Hipocalemia com risco de fraqueza muscular e câimbras."},
+      {"letra": "B", "texto": "Hipercalemia com risco de arritmia cardíaca grave."},
+      {"letra": "C", "texto": "Hiponatremia dilucional com edema cerebral."},
+      {"letra": "D", "texto": "Hipoglicemia de rebote nas primeiras horas após a tomada."},
+      {"letra": "E", "texto": "Hepatotoxicidade cumulativa com uso prolongado."}
+    ],
+    "gabarito": "B",
+    "justificativa": "IECA (captopril, enalapril) + poupador de K+ (espironolactona, amilorida): HIPERCALEMIA (K+ elevado). Mecanismo: IECA reduz aldosterona → retém K+; espironolactona antagoniza aldosterona → também retém K+. Efeito aditivo → hipercalemia grave → risco de bradiarritmia, fibrilação ventricular, parada cardíaca. Monitorar K+ sérico regularmente nessa combinação. A associação pode ser usada na IC (protocolo), mas com vigilância estreita do potássio. Sintomas de hipercalemia: fraqueza muscular, parestesias, ECG com onda T apiculada.",
+    "explicacoes": {
+      "A": "Incorreta: hipocalemia seria pela associação IECA + diurético de alça (furosemida) — não com poupador de K+.",
+      "C": "Incorreta: hiponatremia não é o principal risco dessa combinação específica.",
+      "D": "Incorreta: hipoglicemia não é mecanismo relacionado a essa interação.",
+      "E": "Incorreta: hepatotoxicidade não é o risco principal dessa combinação."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Aprazamento",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Na visita domiciliar, o enfermeiro identifica que um idoso de 82 anos mora sozinho, não sai de casa há 3 semanas, não se alimenta adequadamente e relatou ao ACS que 'está cansado de viver'. A conduta PRIORITÁRIA é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Marcar consulta de rotina para a próxima semana disponível."},
+      {"letra": "B", "texto": "Orientar os vizinhos a verificar o idoso diariamente e aguardar evolução."},
+      {"letra": "C", "texto": "Avaliar risco de suicídio, acionar equipe (médico/psicólogo NASF), articular rede de apoio (CRAS, família) e garantir acompanhamento próximo."},
+      {"letra": "D", "texto": "Internar o idoso compulsoriamente por risco social."},
+      {"letra": "E", "texto": "Notificar ao Conselho Tutelar por abandono familiar e aguardar intervenção."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Idoso isolado + anorexia + verbalização de cansaço de viver = SINAIS DE ALERTA para depressão grave e ideação suicida. Conduta prioritária: (1) Avaliação do risco de suicídio — perguntar diretamente (não aumenta o risco). (2) Acionar equipe multiprofissional: médico + psicólogo do NASF. (3) Articular rede: CRAS (vulnerabilidade social), família (informar/envolver). (4) Acompanhamento próximo e frequente. (5) CVV 188 como recurso. Internação compulsória: apenas para risco iminente de vida com recusa de tratamento — após avaliação psiquiátrica.",
+    "explicacoes": {
+      "A": "Incorreta: a situação é urgente — não pode aguardar consulta de rotina na próxima semana disponível.",
+      "B": "Incorreta: orientar vizinhos é insuficiente para o risco apresentado — a equipe deve intervir ativamente.",
+      "D": "Incorreta: internação compulsória tem critérios específicos — não por 'risco social' isolado.",
+      "E": "Incorreta: Conselho Tutelar é para crianças/adolescentes — para idosos, o órgão é o Ministério Público/Promotoria do Idoso."
+    },
+    "fonte": "FAFIPA 2024 — Visita Domiciliar",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Na acarbose (inibidor de alfa-glicosidase), o aprazamento correto é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Em jejum, 30 minutos antes do café da manhã."},
+      {"letra": "B", "texto": "Junto com a primeira garfada de cada refeição."},
+      {"letra": "C", "texto": "Após as refeições, para facilitar a digestão."},
+      {"letra": "D", "texto": "À noite antes de dormir, independente das refeições."},
+      {"letra": "E", "texto": "A qualquer momento do dia, sem relação com as refeições."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Acarbose: inibe a alfa-glicosidase intestinal, retardando a digestão e absorção de carboidratos — diminui o pico glicêmico pós-prandial. Para funcionar, deve estar presente no intestino NO MOMENTO em que os carboidratos chegam. Por isso: tomar junto com a PRIMEIRA GARFADA de cada refeição principal. Efeitos adversos: flatulência, distensão abdominal, diarreia (fermentação de carboidratos não absorvidos) — avisar o paciente que melhora com o tempo. Não causa hipoglicemia quando usada sozinha (não estimula insulina).",
+    "explicacoes": {
+      "A": "Incorreta: em jejum antes das refeições não tem efeito — a acarbose age no intestino quando os carboidratos chegam.",
+      "C": "Incorreta: após as refeições é tarde — a absorção já ocorreu, perdendo o efeito.",
+      "D": "Incorreta: antes de dormir sem relação com refeição não tem efeito terapêutico.",
+      "E": "Incorreta: a acarbose tem relação estrita com as refeições — sua eficácia depende do timing correto."
+    },
+    "fonte": "ENARE 2024 — Aprazamento",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "gestao",
+    "enunciado": "Um paciente usa prednisona 40mg/dia em dose única. O horário de aprazamento recomendado e a justificativa são:",
+    "alternativas": [
+      {"letra": "A", "texto": "À noite (22h) — para minimizar os efeitos metabólicos durante o dia."},
+      {"letra": "B", "texto": "De manhã (7-8h), com alimento — acompanha o ritmo circadiano do cortisol e reduz supressão do eixo hipotálamo-hipófise-adrenal."},
+      {"letra": "C", "texto": "Meio-dia (12h) — quando o metabolismo está mais acelerado."},
+      {"letra": "D", "texto": "Dividir em 2 tomadas iguais (manhã e noite) para reduzir efeitos adversos."},
+      {"letra": "E", "texto": "O horário não importa — corticoides têm efeito independente do momento da administração."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Corticoides em dose única — aprazamento de manhã: (1) Ritmo circadiano: cortisol endógeno tem pico pela manhã (6-8h). Tomar o corticoide exógeno pela manhã mimetiza esse ritmo, minimizando a supressão do eixo HHA (hipotálamo-hipófise-adrenal). (2) Efeitos adversos: se tomado à noite, o corticoide causa insônia (estimulante do SNC). Com alimento: reduz irritação gástrica. NÃO suspender abruptamente — desmame gradual obrigatório.",
+    "explicacoes": {
+      "A": "Incorreta: à noite causa insônia (efeito estimulante) e piora a supressão do eixo HHA.",
+      "C": "Incorreta: meio-dia é fora do pico do cortisol endógeno — menor benefício no controle do eixo HHA.",
+      "D": "Incorreta: dose única matinal é preferível à divisão — menos supressão do eixo HHA.",
+      "E": "Incorreta: o horário tem impacto significativo no eixo HHA e nos efeitos adversos (insônia, supressão)."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Aprazamento",
+    "dificuldade": "media"
+  }
+]
