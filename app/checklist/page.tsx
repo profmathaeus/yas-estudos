@@ -7,10 +7,10 @@ import type { TarefaComStatus } from "@/types";
 
 const SEMANAS = ["S1", "S2", "S3", "S4"] as const;
 const SEMANA_LABELS: Record<string, string> = {
-  S1: "Semana 1 — SUS, Técnicas",
-  S2: "Semana 2 — Doenças, Emergências, Mulher",
-  S3: "Semana 3 — Bio, Farma, Mental, Idoso",
-  S4: "Semana 4 — Revisão & Simulados",
+  S1: "Semana 1 (7–13 jun) — Legislação + Conhecimentos Gerais",
+  S2: "Semana 2 (14–20 jun) — Semiologia + Procedimentos + Gerais",
+  S3: "Semana 3 (21–27 jun) — Ciclos de Vida + Saúde Coletiva",
+  S4: "Semana 4 (28 jun–4 jul) — Revisão Intensiva + Simulados",
 };
 
 export default function ChecklistPage() {
@@ -69,7 +69,7 @@ export default function ChecklistPage() {
     <div className="flex flex-col gap-5">
       <div>
         <h1 className="font-display text-2xl text-yas-burgundy font-semibold">Tarefas</h1>
-        <p className="font-body text-xs text-yas-ink/50 mt-0.5">plano de 28 dias</p>
+        <p className="font-body text-xs text-yas-ink/50 mt-0.5">PMFI 01.001/2026 · prova 05/07/2026</p>
       </div>
 
       {/* progresso geral */}
