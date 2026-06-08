@@ -260,22 +260,21 @@ export default function FlashcardsPage() {
         </div>
       )}
 
-      {/* filtro por fonte */}
+      {/* filtro por fonte — menu suspenso */}
       {fontes.length > 1 && (
-        <div className="flex flex-wrap gap-2">
-          {["todas", ...fontes].map((f) => (
-            <button
-              key={f}
-              onClick={() => handleFonte(f)}
-              className={`text-xs font-body font-medium px-3 py-1.5 rounded-full border transition-colors ${
-                filtroFonte === f
-                  ? "bg-yas-plum text-white border-yas-plum"
-                  : "bg-transparent text-yas-ink/60 border-yas-ink/20"
-              }`}
-            >
-              {f === "todas" ? "Todas as fontes" : f}
-            </button>
-          ))}
+        <div className="relative">
+          <select
+            value={filtroFonte}
+            onChange={(e) => handleFonte(e.target.value)}
+            className="w-full font-body text-xs font-medium px-3 py-2 pr-8 rounded-xl border border-yas-ink/20 bg-white text-yas-ink/70 appearance-none cursor-pointer focus:outline-none focus:border-yas-plum"
+          >
+            <option value="todas">Todas as fontes</option>
+            {fontes.map((f) => (
+              <option key={f} value={f}>{f}</option>
+            ))}
+          </select>
+          {/* chevron */}
+          <div className="pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 text-yas-ink/40 text-xs">▼</div>
         </div>
       )}
 
