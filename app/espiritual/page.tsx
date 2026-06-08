@@ -163,6 +163,7 @@ export default function EspiritualPage() {
   const [diaSel, setDiaSel]               = useState<number | null>(null);
   const [praticaSel, setPraticaSel]       = useState<string | null>(null);
   const [checks, setChecks]               = useState<Record<string, boolean>>({});
+  const [expandido, setExpandido]         = useState<string | null>(null);
 
   // Carrega checks do localStorage
   useEffect(() => {
@@ -215,55 +216,127 @@ export default function EspiritualPage() {
         </div>
 
         {/* checklist */}
-        <div className="rounded-2xl bg-white border border-yas-ink/8 overflow-hidden">
-          {diaHoje.praticas.map((pid, i) => {
+        <div className="flex flex-col gap-3">
+          {diaHoje.praticas.map((pid) => {
             const p = PRATICAS[pid];
             const feita = !!checks[pid];
+            const aberto = expandido === pid;
+
             return (
-              <button
+              <div
                 key={pid}
-                onClick={() => toggleCheck(pid)}
-                className={`w-full flex items-center gap-3 px-4 py-4 text-left transition-colors active:bg-yas-ink/5 ${
-                  i < diaHoje.praticas.length - 1 ? "border-b border-yas-ink/8" : ""
-                }`}
+                className="rounded-2xl bg-white border overflow-hidden transition-all"
+                style={{ borderColor: aberto ? p.cor : "rgba(26,21,37,0.08)" }}
               >
-                {/* checkbox */}
-                <div
-                  className="w-5 h-5 rounded-md border-2 flex items-center justify-center flex-shrink-0 transition-colors"
-                  style={{
-                    background: feita ? "#0F6E56" : "transparent",
-                    borderColor: feita ? "#0F6E56" : "rgba(0,0,0,0.2)",
-                  }}
-                >
-                  {feita && <span className="text-white text-xs">✓</span>}
-                </div>
-                {/* ícone */}
-                <div
-                  className="w-8 h-8 rounded-lg flex items-center justify-center flex-shrink-0 text-base"
-                  style={{ background: p.bg }}
-                >
-                  {p.icon}
-                </div>
-                {/* texto */}
-                <div className="flex-1 min-w-0">
-                  <p
-                    className={`font-body text-sm font-medium transition-colors ${
-                      feita ? "text-yas-ink/30 line-through" : "text-yas-ink"
-                    }`}
-                  >
-                    {p.nome}
-                  </p>
-                  <p className="font-body text-xs text-yas-ink/40">{p.tempo}</p>
-                </div>
-                {/* seta */}
+                {/* linha principal — clique expande/colapsa */}
                 <button
-                  onClick={(e) => { e.stopPropagation(); irParaPratica(pid); }}
-                  className="text-yas-ink/20 text-sm px-1 py-1"
-                  aria-label="Ver prática"
+                  onClick={() => setExpandido(aberto ? null : pid)}
+                  className="w-full flex items-center gap-3 px-4 py-4 text-left"
                 >
-                  →
+                  {/* ícone */}
+                  <div
+                    className="w-9 h-9 rounded-xl flex items-center justify-center flex-shrink-0 text-lg"
+                    style={{ background: p.bg }}
+                  >
+                    {p.icon}
+                  </div>
+                  {/* texto */}
+                  <div className="flex-1 min-w-0">
+                    <p className={`font-body text-sm font-medium ${feita ? "text-yas-ink/30 line-through" : "text-yas-ink"}`}>
+                      {p.nome}
+                    </p>
+                    <p className="font-body text-xs text-yas-ink/40">
+                      {p.tempo} · {p.chakra}
+                    </p>
+                  </div>
+                  {/* chevron */}
+                  <span
+                    className="text-yas-ink/30 text-xs transition-transform duration-200"
+                    style={{ transform: aberto ? "rotate(90deg)" : "rotate(0deg)", display: "inline-block" }}
+                  >
+                    ▶
+                  </span>
                 </button>
-              </button>
+
+                {/* detalhe expansível */}
+                {aberto && (
+                  <div className="px-4 pb-4 flex flex-col gap-4 border-t border-yas-ink/8">
+
+                    {/* objetivo */}
+                    <div className="pt-3">
+                      <p className="font-body text-[10px] uppercase tracking-wide font-medium mb-2"
+                         style={{ color: p.cor }}>
+                        Objetivo
+                      </p>
+                      <p className="font-body text-sm text-yas-ink/70 leading-relaxed">
+                        {p.objetivo}
+                      </p>
+                    </div>
+
+                    {/* passos */}
+                    <div>
+                      <p className="font-body text-[10px] uppercase tracking-wide font-medium mb-3"
+                         style={{ color: p.cor }}>
+                        Como fazer
+                      </p>
+                      <div className="flex flex-col gap-3">
+                        {p.passos.map((s, i) => (
+                          <div key={i} className="flex gap-3 items-start">
+                            <div
+                              className="w-6 h-6 rounded-full flex items-center justify-center text-xs font-medium flex-shrink-0 mt-0.5"
+                              style={{ background: p.bg, color: p.textCor }}
+                            >
+                              {i + 1}
+                            </div>
+                            <div>
+                              <p className="font-body text-sm text-yas-ink leading-snug">{s.text}</p>
+                              <p className="font-body text-xs text-yas-ink/50 mt-0.5 italic">{s.detail}</p>
+                            </div>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+
+                    {/* botão marcar como feita */}
+                    <button
+                      onClick={() => {
+                        toggleCheck(pid);
+                        if (!feita) setExpandido(null); // colapsa ao marcar
+                      }}
+                      className="w-full py-3 rounded-xl font-body text-sm font-semibold transition-colors"
+                      style={
+                        feita
+                          ? { background: "rgba(26,21,37,0.06)", color: "rgba(26,21,37,0.4)" }
+                          : { background: p.cor, color: "white" }
+                      }
+                    >
+                      {feita ? "✓ Feita — desfazer" : "Marcar como feita"}
+                    </button>
+                  </div>
+                )}
+
+                {/* checkbox rápido (quando fechado) */}
+                {!aberto && (
+                  <div className="px-4 pb-3 flex justify-end -mt-2">
+                    <button
+                      onClick={(e) => { e.stopPropagation(); toggleCheck(pid); }}
+                      className="flex items-center gap-1.5 font-body text-xs transition-colors"
+                      style={{ color: feita ? "#0F6E56" : "rgba(26,21,37,0.3)" }}
+                    >
+                      <div
+                        className="w-4 h-4 rounded border-2 flex items-center justify-center transition-colors"
+                        style={{
+                          background: feita ? "#0F6E56" : "transparent",
+                          borderColor: feita ? "#0F6E56" : "rgba(0,0,0,0.2)",
+                        }}
+                      >
+                        {feita && <span className="text-white" style={{ fontSize: "9px" }}>✓</span>}
+                      </div>
+                      {feita ? "feita" : "marcar"}
+                    </button>
+                  </div>
+                )}
+              </div>
             );
           })}
         </div>
