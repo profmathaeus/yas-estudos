@@ -262,38 +262,50 @@ export default function FlashcardsPage() {
 
       {/* filtro por fonte */}
       {fontes.length > 1 && (
-        <div className="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1">
-          {["todas", ...fontes].map((f) => (
-            <button
-              key={f}
-              onClick={() => handleFonte(f)}
-              className={`shrink-0 text-xs font-body font-medium px-3 py-1.5 rounded-full border transition-colors ${
-                filtroFonte === f
-                  ? "bg-yas-plum text-white border-yas-plum"
-                  : "bg-transparent text-yas-ink/60 border-yas-ink/20"
-              }`}
-            >
-              {f === "todas" ? "Todas as fontes" : f}
-            </button>
-          ))}
+        <div className="relative -mx-4">
+          <div className="flex gap-2 overflow-x-auto scrollbar-hide px-4 pb-1"
+               style={{ WebkitOverflowScrolling: "touch" }}>
+            {["todas", ...fontes].map((f) => (
+              <button
+                key={f}
+                onClick={() => handleFonte(f)}
+                className={`shrink-0 text-xs font-body font-medium px-3 py-1.5 rounded-full border transition-colors ${
+                  filtroFonte === f
+                    ? "bg-yas-plum text-white border-yas-plum"
+                    : "bg-transparent text-yas-ink/60 border-yas-ink/20"
+                }`}
+              >
+                {f === "todas" ? "Todas as fontes" : f}
+              </button>
+            ))}
+            <div className="shrink-0 w-4" />
+          </div>
+          {/* fade right */}
+          <div className="pointer-events-none absolute right-0 top-0 bottom-0 w-8 bg-gradient-to-l from-yas-cream to-transparent" />
         </div>
       )}
 
       {/* filtro por bloco */}
-      <div className="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1">
-        {["todos", ...blocos].map((b) => (
-          <button
-            key={b}
-            onClick={() => { setFiltroBloco(b); carregarCards(b, filtroFonte); }}
-            className={`shrink-0 text-xs font-body font-medium px-3 py-1.5 rounded-full border transition-colors ${
-              filtroBloco === b
-                ? "bg-yas-burgundy text-white border-yas-burgundy"
-                : "bg-transparent text-yas-ink/60 border-yas-ink/20"
-            }`}
-          >
-            {b === "todos" ? "Todos" : b}
-          </button>
-        ))}
+      <div className="relative -mx-4">
+        <div className="flex gap-2 overflow-x-auto scrollbar-hide px-4 pb-1"
+             style={{ WebkitOverflowScrolling: "touch" }}>
+          {["todos", ...blocos].map((b) => (
+            <button
+              key={b}
+              onClick={() => { setFiltroBloco(b); carregarCards(b, filtroFonte); }}
+              className={`shrink-0 text-xs font-body font-medium px-3 py-1.5 rounded-full border transition-colors ${
+                filtroBloco === b
+                  ? "bg-yas-burgundy text-white border-yas-burgundy"
+                  : "bg-transparent text-yas-ink/60 border-yas-ink/20"
+              }`}
+            >
+              {b === "todos" ? "Todos" : b}
+            </button>
+          ))}
+          <div className="shrink-0 w-4" />
+        </div>
+        {/* fade right */}
+        <div className="pointer-events-none absolute right-0 top-0 bottom-0 w-8 bg-gradient-to-l from-yas-cream to-transparent" />
       </div>
 
       {/* barra de progresso da sessão */}
@@ -310,6 +322,7 @@ export default function FlashcardsPage() {
         frente={card.frente}
         verso={card.verso}
         bloco={card.bloco}
+        fonte={card.fonte}
         onAvaliar={handleAvaliar}
         cardIndex={progresso}
         totalCards={totalOriginal}

@@ -1,0 +1,302 @@
+[
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "O que é semiologia e o que é semiotecnica? Qual a diferença?",
+    "verso": "Semiologia: ciência que estuda os sinais e sintomas das doenças — o QUÊ observar. Semiotecnica: técnica utilizada para coleta sistemática dos sinais e sintomas — o COMO observar. Sinal: manifestação objetiva, detectada pelo examinador (ex: febre aferida, icterícia, edema). Sintoma: manifestação subjetiva, relatada pelo paciente (ex: dor, náusea, tontura). Síndrome: conjunto de sinais e sintomas que ocorrem juntos. Semiotecnica é a habilidade prática; semiologia é o conhecimento teórico que fundamenta a prática."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Quais são os 4 métodos do exame físico e em que ordem devem ser realizados?",
+    "verso": "Métodos do exame físico: (1) Inspeção: observação visual sistemática (aspecto, cor, simetria, movimentos). (2) Palpação: toque para avaliar textura, temperatura, consistência, sensibilidade, pulsação. (3) Percussão: produção de sons ao percutir superfícies corporais (timpânico, maciço, submaciço). (4) Ausculta: escuta de sons com estetoscópio (coração, pulmão, abdome). ORDEM geral: inspeção → palpação → percussão → ausculta. EXCEÇÃO — abdome: inspeção → ausculta → percussão → palpação (ausculta antes para não alterar os ruídos intestinais)."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Quais são os sinais vitais e quais os valores normais do adulto?",
+    "verso": "Sinais vitais: (1) Pressão Arterial (PA): normal < 120/80 mmHg; pré-hipertensão 120-139/80-89; HAS ≥ 140/90 mmHg. (2) Frequência Cardíaca (FC): normal 60-100 bpm; bradicardia < 60; taquicardia > 100. (3) Frequência Respiratória (FR): normal 12-20 irpm; bradipneia < 12; taquipneia > 20. (4) Temperatura (Tax): normal 36-37,5°C (axilar); febrícula 37,5-38°C; febre ≥ 38°C; hipotermia < 35°C. (5) Saturação de O₂ (SpO₂): normal 95-100%; hipoxemia < 95%. A DOR é considerada o 5º sinal vital."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Técnica correta para aferição da pressão arterial (PA):",
+    "verso": "Paciente sentado, em repouso por ≥5 min, braço apoiado ao nível do coração. Manguito adequado ao braço (largura 40% do comprimento do braço). Palpar artéria braquial → posicionar manguito 2-3 cm acima da fossa cubital. Inflar até 30 mmHg acima do desaparecimento do pulso radial. Desinflar lentamente (2-3 mmHg/s). Sistólica: 1º som de Korotkoff. Diastólica: 5º som (desaparecimento). Medir nos dois braços na 1ª consulta. Aguardar 1-2 min entre medidas. Não medir no braço com fístula, mastectomia ou acesso venoso."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Como avaliar o pulso? Quais as características a serem observadas?",
+    "verso": "Avaliação do pulso: palpação digital da artéria (radial, carótida, femoral, poplítea, pediosal). Características: (1) Frequência: bpm (normal 60-100). (2) Ritmo: regular ou irregular. (3) Amplitude/volume: fino (fraco), médio, cheio/amplo. (4) Tensão/dureza: mole ou duro. (5) Simetria: bilateral comparada. Tipos: braquicárdico (<60), taquicárdico (>100), filiforme (fino e rápido — choque), paradoxal (diminui na inspiração — tamponamento), dicrótico (dois picos — por rebote aórtico). Medir por 1 minuto completo se irregular."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Tipos de respiração: como classificar e identificar padrões patológicos?",
+    "verso": "Eupneia: respiração normal (12-20 irpm, regular, sem esforço). Taquipneia: FR > 20 irpm (febre, ansiedade, pneumonia). Bradipneia: FR < 12 irpm (depressão do SNC, opioides). Apneia: ausência de respiração. Dispneia: sensação subjetiva de falta de ar. Ortopneia: dispneia ao deitar (IC). Cheyne-Stokes: ciclos crescentes e decrescentes com apneia (IC grave, AVC). Kussmaul: profunda e rápida, regular (cetoacidose diabética). Biot: ciclos irregulares com apneia (lesão bulbar). Observar: ritmo, profundidade, esforço, uso de musculatura acessória."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Como medir a temperatura corporal? Quais os valores em cada via?",
+    "verso": "Vias de aferição e valores normais: Axilar: 35,5-37°C (mais comum no Brasil; 0,5°C menor que a real). Oral: 36-37,4°C (não usar em agitados, crianças < 5 anos, IOT). Retal: 36-37,5°C (mais próxima da temperatura central; contraindicada em cirurgia retal, leucopenia severa, neonatos). Timpânica: 36,5-38°C (rápida, não invasiva; influenciada por cerume). Definições: Hipotermia < 35°C. Febrícula: 37,5-37,9°C (axilar). Febre ≥ 38°C (axilar). Hiperpirexia > 41°C (emergência)."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "O que é a Escala de Glasgow e como calcular o escore?",
+    "verso": "Escala de Coma de Glasgow (ECG): avalia nível de consciência. Três componentes: (1) Abertura ocular — espontânea (4), ao som (3), à dor (2), ausente (1). (2) Resposta verbal — orientada (5), confusa (4), palavras inapropriadas (3), sons (2), ausente (1). (3) Resposta motora — obedece (6), localiza a dor (5), retirada à dor (4), flexão anormal (3), extensão anormal (2), ausente (1). Máximo: 15 (consciente); Mínimo: 3 (coma profundo). < 8 = coma (intubação indicada). 9-12 = moderado. 13-15 = leve. Mnemônico: O-V-M (Ocular-Verbal-Motor)."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Como avaliar as pupilas no exame neurológico?",
+    "verso": "Avaliação pupilar: tamanho, simetria e reatividade à luz. Valores normais: 2-5 mm de diâmetro, isocóricas (iguais), fotorreagentes (contraem à luz). Alterações: Miose: contração (< 2 mm) — uso de opioides, pilocarpina, lesão pontina. Midríase: dilatação (> 5 mm) — lesão de III nervo craniano (herniação), uso de atropina, morte cerebral (midríase arreativa fixa). Anisocoria: pupilas desiguais — herniação ipsilateral, lesão de III nervo. Sinal de Hutchinson: midríase ipsilateral à lesão com anisocoria — emergência neurocirúrgica. Reflexo fotomotor direto e consensual: ambos devem estar presentes."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Ausculta pulmonar: como realizar e quais os sons normais e patológicos?",
+    "verso": "Técnica: estetoscópio na pele, comparar os dois hemitóraces simetricamente (ápices, bases). Murmúrio vesicular (MV): som normal suave e de baixa frequência, inspiratório. MV abolido/diminuído: derrame pleural, pneumotórax, atelectasia, obesidade. Sons patológicos: Crepitações (estertores finos): som de velcro — líquido nos alvéolos (edema pulmonar, pneumonia). Roncos: som grave, inspiratório e expiratório — secreções em brônquios. Sibilos: som agudo — broncoespasmo (asma, DPOC). Atrito pleural: som áspero, como couro friccionado — pleurite. Estridor: som agudo inspiratório — obstrução de via aérea superior."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Ausculta cardíaca: onde auscultar e o que são as bulhas cardíacas?",
+    "verso": "Focos de ausculta: Aórtico (2º EID paraesternal), Pulmonar (2º EIE paraesternal), Aórtico acessório (3º EIE), Tricúspide (4-5º EIE paraesternal/borda esternal esq.), Mitral/Apex (5º EIE, linha hemiclavicular). Bulhas normais: B1 (primeira) = fechamento das valvas mitral e tricúspide — início da sístole ('TUM'). B2 (segunda) = fechamento das valvas aórtica e pulmonar — início da diástole ('TÁ'). Normal: 'TUM-TÁ'. B3: galope — IC em jovens ou patológica em adultos. B4: galope pré-sistólico — rigidez ventricular. Sopro: fluxo turbulento — valvopatia, CIV, CIA."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Como avaliar o abdome no exame físico? Ordem e achados importantes.",
+    "verso": "Ordem no abdome: Inspeção → Ausculta → Percussão → Palpação (ausculta antes de palpar para não alterar RHA). Inspeção: contorno, simetria, cicatrizes, distensão. Ausculta: ruídos hidroaéreos (RHA) — normais: 5-35 som/min. Hiperperistaltismo (gastroenterite, oclusão inicial). Hipoperistaltismo/ausência = íleo paralítico, peritonite. Percussão: timpanismo (ar) — predomina; macicez (líquido/órgão sólido). Sinal do piparote e macicez móvel: ascite. Palpação: superficial (defesa, rigidez) → profunda (hepatimetria, esplenimetria, massas). Sinal de Blumberg: dor à descompressão brusca — peritonite."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "O que é edema? Como classificar e avaliar o sinal de cacifo?",
+    "verso": "Edema: acúmulo anormal de líquido no interstício. Classificação: localizado (trombose, linfedema, inflamação) ou generalizado/anasarca (ICC, síndrome nefrótica, hipoalbuminemia). Com cacifo (godet): compressão deixa depressão — edema de causa sistêmica. Sem cacifo: linfedema, mixedema. Graus do sinal de cacifo: +1 depressão de 2mm (desaparece rapidamente), +2 depressão de 4mm, +3 depressão de 6mm, +4 depressão de 8mm (persiste > 2 min). Localização: MMII (ICC direita, hipoalbuminemia, trombose); periorbital (síndrome nefrótica); sacral (paciente acamado). Sempre comparar bilateralmente."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "O que são icterícia, cianose e palidez? Como avaliar clinicamente?",
+    "verso": "Icterícia: coloração amarelada da pele, escleras e mucosas por acúmulo de bilirrubina (> 2-3 mg/dL). Avaliação: escleras (melhor local), frenulum da língua, palmas. Causas: hepática, pré-hepática (hemólise), pós-hepática (obstrução biliar). Cianose: coloração azulada por desoxigenação (> 5g/dL de Hb desoxigenada). Central (lábios, língua — SpO₂ baixa) ou periférica (extremidades — vasoconstricção). Palidez: redução da hemoglobina (anemia) ou vasoconstrição periférica. Avaliação: conjuntivas palpebrais inferiores, lábios, palmas, leitos ungueais. Outras: eritrose (policitemia, vasodilatação), manchas (petéquias, equimoses)."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Como usar a escala PQRST para avaliar a dor?",
+    "verso": "PQRST: método estruturado para avaliação da dor. P — Provocação/Paliativos: o que provoca ou alivia a dor? Q — Qualidade: como é a dor? (em pontada, queimação, pressão, latejante, em cólica). R — Região/Radiação: onde dói? Irradia para onde? S — Severidade/Intensidade: escala numérica (0-10), EVA, FACES. T — Tempo/Duração: início, duração, intermitência, frequência. Escalas de dor: EVA (escala visual analógica — linha de 0 a 10), Numérica verbal (0-10), FACES de Wong-Baker (para crianças a partir de 3 anos), Behavioral Pain Scale (BPS) — para pacientes intubados/inconscientes."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Como avaliar o turgor da pele e o que indica sua alteração?",
+    "verso": "Turgor da pele: elasticidade tecidual. Técnica: pinçar a pele (dorso da mão, abdome ou testa) e soltar — retorno rápido é normal (< 2 segundos). Turgor diminuído (tent sign): desidratação, desnutrição, envelhecimento. Turgor aumentado: edema, mixedema. Outras avaliações da pele: Hidratação das mucosas — boca seca, mucosas ressecadas = desidratação. Lesões elementares: mácula (mancha sem relevo), pápula (elevação sólida < 1cm), vesícula (elevação com líquido claro), pústula (com pus), úlcera (perda de substância). Tempo de enchimento capilar (TEC): normal < 2 segundos (pressionando leito ungueal)."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "O que é anamnese e quais são seus componentes?",
+    "verso": "Anamnese: entrevista clínica sistemática para levantamento da história de saúde. Componentes: (1) Identificação: nome, idade, sexo, procedência, profissão. (2) Queixa principal (QP): motivo da consulta em palavras do paciente. (3) História da Doença Atual (HDA): início, evolução, características, fatores precipitantes/agravantes/atenuantes, tratamentos anteriores. (4) Antecedentes pessoais: doenças prévias, cirurgias, internações, alergias, vacinas, uso de medicamentos. (5) Antecedentes familiares: doenças hereditárias. (6) Hábitos de vida: tabagismo, etilismo, sedentarismo, alimentação, sono. (7) Dados socioeconômicos e ambientais."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Como avaliar nível de consciência além da Glasgow? O que é AVDI?",
+    "verso": "AVDI: método rápido de avaliação do nível de consciência. A — Alerta: paciente acordado e orientado (tempo, espaço, pessoa). V — Voice (Voz): responde à estimulação verbal. D — Dor: responde apenas à dor. I — Irresponsivo: sem resposta a nenhum estímulo. Para avaliação mais detalhada: Orientação (tempo e espaço), Memória (imediata, recente, remota), Atenção, Linguagem, Cálculo. Mini-Mental State Examination (MMSE): triagem de demência. Rebaixamento da consciência: sonolência (acorda com estímulo verbal leve) → torpor (acorda com estímulo vigoroso) → coma (não acorda)."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Como realizar o exame físico céfalo-caudal do paciente internado?",
+    "verso": "Sequência céfalo-caudal: Cabeça/crânio: inspeção, palpação (fontanelas em RN). Face: simetria, lesões, expressão. Olhos: acuidade, pupilas, PIRRLA (pupilas iguais, redondas, reativas à luz e acomodação). Ouvidos/nariz: permeabilidade, secreção. Boca: mucosas, dentes, lesões. Pescoço: ingurgitamento jugular, pulso carotídeo, tireóide, linfonodos. Tórax anterior e posterior: inspeção, palpação, percussão, ausculta (pulmões e coração). Abdome: inspeção, ausculta, percussão, palpação. MMSS e MMII: pulsos, edema, perfusão, temperatura, mobilidade. Pele em geral: coloração, integridade, turgor. Genitália e períneo: higiene, lesões, sondas. Coluna: deformidades."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "Como classificar feridas quanto ao grau de contaminação cirúrgica?",
+    "verso": "Classificação das feridas cirúrgicas: (1) Limpa: incisão sem contaminação, sem abertura de trato respiratório/GI/urinário/biliar. Ex: herniorrafia, mamoplastia. Infecção: < 2%. (2) Potencialmente contaminada (limpa-contaminada): abertura controlada de trato oco sem extravasamento significativo. Ex: colecistectomia eletiva, gastrectomia. Infecção: 5-10%. (3) Contaminada: inflamação aguda sem pus, abertura de víscera com extravasamento, ferida traumática recente (< 4h). Infecção: 20-30%. (4) Infectada (suja): pus presente, perfuração de víscera, ferida traumática antiga (> 4h). Infecção: > 40%."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "Quais são as fases da cicatrização de feridas?",
+    "verso": "Fases da cicatrização: (1) Hemostasia (imediata): vasoconstrição, formação do coágulo de fibrina — dura minutos a horas. (2) Inflamação (1-5 dias): vasodilatação, migração de leucócitos, limpeza do leito — edema, calor, rubor, dor. (3) Proliferação/Granulação (4-21 dias): angiogênese, formação de tecido de granulação (vermelho, friável), fibroplasia, contração da ferida, epitelização. (4) Maturação/Remodelação (21 dias a 2 anos): reorganização do colágeno, diminuição da vascularização, aumento da resistência — cicatriz fica mais clara e resistente. Qualquer interrupção em uma fase compromete a cicatrização."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "Quais são os tipos de cicatrização (intenção) de feridas?",
+    "verso": "(1) Primeira intenção (primária): bordas opostas cirurgicamente (sutura, grampo, adesivo), sem espaço morto, cicatrização rápida com mínima cicatriz. Ex: incisão cirúrgica suturada. (2) Segunda intenção (espontânea): ferida aberta, cicatriza pelo preenchimento com tecido de granulação a partir das bordas — mais lenta, maior risco de infecção, cicatriz mais ampla. Ex: abscesso drenado, úlcera por pressão. (3) Terceira intenção (primária tardia/retardada): ferida contaminada deixada aberta inicialmente para controle de infecção, fechada cirurgicamente após limpeza (3-5 dias). Ex: laparotomia por peritonite fecal."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "O que são úlceras por pressão (UPP)? Como estadiar?",
+    "verso": "UPP: lesão localizada na pele e/ou tecidos subjacentes, geralmente sobre proeminência óssea, como resultado de pressão ou de combinação de pressão com cisalhamento. Estadiamento (NPUAP/EPUAP): Estágio 1: eritema não branqueável em pele intacta. Estágio 2: perda parcial da espessura da pele (derme) — úlcera superficial, leito rosa/vermelho, sem esfácelo. Estágio 3: perda total da espessura da pele com exposição do tecido adiposo subcutâneo — sem exposição de osso/tendão/músculo. Estágio 4: perda total da espessura tecidual com exposição de osso, tendão ou músculo. Não estadiável: leito coberto por esfácelo/escara. Lesão tissular profunda (LTP): área vermelho-escura intacta ou bolha."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "O que é a Escala de Braden e para que serve?",
+    "verso": "Escala de Braden: instrumento de avaliação de risco para desenvolvimento de úlcera por pressão. 6 subescalas: (1) Percepção sensorial (1-4): capacidade de responder à dor/desconforto. (2) Umidade (1-4): grau de exposição da pele à umidade. (3) Atividade (1-4): grau de atividade física. (4) Mobilidade (1-4): capacidade de mudar posição. (5) Nutrição (1-4): padrão alimentar. (6) Fricção e cisalhamento (1-3): risco mecânico. Pontuação máxima: 23. Risco alto: ≤ 12. Risco moderado: 13-14. Risco baixo: 15-18. Sem risco: 19-23. Deve ser aplicada na admissão e reavaliada regularmente. Quanto menor a pontuação, maior o risco."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "Quais são as medidas de prevenção de UPP (úlcera por pressão)?",
+    "verso": "Prevenção de UPP (Bundle de prevenção): (1) Avaliação do risco: Escala de Braden na admissão e periodicamente. (2) Mudança de decúbito: a cada 2h em acamados (ou 4h se em colchão especial). (3) Superfícies de suporte: colchão pneumático/viscoelástico para alto risco. (4) Cuidado com a pele: manter limpa, hidratada, seca — barreira protetora em áreas úmidas. (5) Nutrição adequada: proteínas, zinco, vitamina C para cicatrização. (6) Gestão da umidade: fraldas adequadas, sondagem se necessário. (7) Proteção de proeminências: calcâneo (calcanhar), sacro, trocânteres, occipital, cotovelos — usar espuma ou curativos preventivos. (8) Educação da equipe e família."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "Como classificar as queimaduras quanto à profundidade e extensão?",
+    "verso": "Profundidade: 1º grau (superficial): epiderme apenas — eritema, dor, sem flictena. Cura em 3-5 dias. Ex: queimadura solar. 2º grau superficial: epiderme + derme superficial — flictena, dor intensa, fundo róseo úmido. Cura em 10-14 dias. 2º grau profundo: epiderme + derme profunda — flictena rota, fundo pálido/marmóreo, sensibilidade diminuída. Cura em 21-35 dias (pode necessitar enxerto). 3º grau: espessura total — pele carbonizada/coriacea/branca, indolor (destruição nervosa), necessita enxerto. Extensão — Regra dos 9 (Wallace): cabeça 9%, cada MMSS 9%, tórax ant. 18%, tórax post. 18%, cada MMII 18%, períneo 1%. Não contar 1º grau no cálculo."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "O que é a Regra dos 9 de Wallace no cálculo da área queimada?",
+    "verso": "Regra dos Nove (Wallace): método para estimar a superfície corporal queimada (SCQ) em adultos. Cada região vale 9% ou múltiplo: Cabeça e pescoço = 9%. Cada membro superior = 9% (total 18%). Tronco anterior = 18%. Tronco posterior = 18%. Cada membro inferior = 18% (total 36%). Genitália/períneo = 1%. Total: 100%. Em crianças: usa-se a Tabela de Lund & Browder (cabeça maior proporcionalmente). Importância: queimaduras > 15% SCQ em adultos (> 10% em crianças) = queimadura grave — risco de choque hipovolêmico. Reposição volêmica: Fórmula de Parkland: 4 mL/kg/% SCQ queimada nas primeiras 24h."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "Quais são os tipos de tecidos identificados em uma ferida crônica?",
+    "verso": "Avaliação do leito da ferida — tipos de tecido (TIME): Tecido necrótico seco (escara): preto/marrom/duro — necrose de coagulação, barreira para cicatrização. Tecido desvitalizado/fibrinoso (esfácelo): amarelo/branco/úmido, aderido — impede granulação. Tecido de granulação: vermelho/rosa, úmido, grumoso, friável — cicatrização ativa. Tecido epitelial: rosa claro/esbranquiçado nas bordas ou no leito — última fase. Tecido hipergranulado: vermelho elevado acima da borda — exuberante, impede epitelização. Condutas: desbridamento do necrótico/fibrinoso; manutenção do ambiente úmido para granulação; proteção do epitélio. Cor resume: preto (necrose) → amarelo (fibrina) → vermelho (granulação) → rosa (epitelização)."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "O que é desbridamento de feridas? Quais os tipos?",
+    "verso": "Desbridamento: remoção de tecido desvitalizado/necrótico para promover a cicatrização. Tipos: (1) Cirúrgico/instrumental: remoção com bisturi, tesoura — mais rápido e eficaz; realizado por Médico ou Enfermeiro (com competência). (2) Autolítico: coberturas oclusivas/semioclusivas (hidrocoloide, hidrogel) — enzimas endógenas liquefazem o tecido; lento, seletivo, indolor. (3) Enzimático: colagenase (Iruxol®) — degrada colágeno desvitalizado; seletivo; indicado para esfácelo. (4) Mecânico: molhado-seco (retirada da gaze aderida) — inespecífico e doloroso, em desuso. (5) Biológico (larvas): larvas de mosca — dissolve tecido necrótico e é bactericida. O enfermeiro pode realizar desbridamento autorizado por protocolo."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "Quais são as principais coberturas para feridas e suas indicações?",
+    "verso": "Principais coberturas (curativos modernos): Hidrocoloide: ferida com exsudato leve a moderado, estágio 2 UPP, úlcera venosa — cria ambiente úmido, autolítico. Hidrogel: ferida ressecada, necrose seca, desbridamento autolítico — hidrata o leito. Alginato de cálcio: ferida com alto exsudato, sangramento — hemostático, absorvente. Espuma/Foam: ferida com exsudato moderado a alto — alta absorção. Prata (curativo antisséptico): ferida infectada ou colonizada criticamente — ação antimicrobiana. Carvão ativado: ferida com odor intenso. Filme transparente (poliuretano): proteção de pele íntegra, úlcera de estágio 1, fixação de cateter. PHMB (polihexanida): irrigação de feridas colonizadas. Curativo primário = em contato com a ferida; secundário = sobre o primário."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "Como identificar sinais de infecção em ferida e qual a conduta?",
+    "verso": "Sinais clássicos de infecção em ferida (NERDS/STONEES): NERDS (ferida estagnada): Non-healing (não cicatriza), Exudate (exsudato aumentado), Red/bleeding (tecido friável/sangrante), Debris (esfácelo/fibrina), Smell (odor). STONEES (infecção profunda/sistêmica): Same signs (NERDS+), Temperature (febre), Os (osso exposto), New areas (novas áreas de necrose), Erythema/Edema (eritema/edema perilesional), Exudate (purulento), Smell (fétido). Conduta: coleta de swab para cultura e antibiograma, cobertura antimicrobiana (prata), desbridamento, antibiótico sistêmico se celulite. Comunicar ao médico. Registrar no prontuário: tamanho (cm), profundidade, tecidos presentes, exsudato (tipo, quantidade), bordas, pele perilesional."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "O que é deiscência e evisceração de ferida cirúrgica?",
+    "verso": "Deiscência: abertura total ou parcial das camadas da ferida cirúrgica após o fechamento. Fatores de risco: infecção, obesidade, desnutrição, uso de corticoides, tosse intensa, diabetes. Conduta: comunicar ao médico, cobrir a ferida com compressa úmida estéril (SF 0,9%), não tentar fechar, preparar para re-sutura. Evisceração: protrusão de vísceras abdominais através da deiscência. Emergência cirúrgica! Conduta imediata: NUNCA reintroduzir as vísceras — cobrir com compressa úmida aquecida e estéril, posicionar paciente em decúbito dorsal com joelhos semifletidos (reduz tensão abdominal), chamar médico imediatamente, acesso venoso, preparar para cirurgia."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "O que é infecção do sítio cirúrgico (ISC)? Como classificar?",
+    "verso": "ISC (ANVISA/CDC): infecção que ocorre nos primeiros 30 dias após cirurgia (ou 90 dias se implante). Classificação: (1) Superficial: apenas pele e tecido subcutâneo — hiperemia, calor, edema, secreção purulenta. (2) Profunda: fáscia e músculo — febre, dor, deiscência, drenagem purulenta profunda. (3) Órgão/espaço: qualquer estrutura interna manipulada na cirurgia — abscesso, fístula, deiscência de anastomose. Prevenção: banho pré-operatório, antibioticoprofilaxia (na indução anestésica), tricotomia com clipador (não lâmina), normotermia, normoglicemia, higiene das mãos da equipe, curativo asséptico por 48h. ISC é indicador de qualidade hospitalar (IRAS)."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "O que são fístulas e como o enfermeiro deve manejá-las?",
+    "verso": "Fístula: comunicação anormal entre duas superfícies epitelizadas (intestino-pele, vesico-vaginal, etc.) ou entre órgão oco e superfície corporal. Classificação por débito: baixo débito (< 200mL/24h), moderado (200-500mL), alto débito (> 500mL). Manejo de enfermagem: (1) Proteção da pele perilesional com barreira protetora (pasta de zinco, stomahesive); (2) Uso de bolsa coletora para mensurar e conter o débito; (3) Manutenção do estado nutricional (fístulas GI = grande perda proteica — NPT frequente); (4) Controle de odor; (5) Suporte emocional; (6) Registro detalhado do débito (cor, odor, volume). O enfermeiro estomaterapeuta (ET) é o especialista em fístulas, estomas e feridas complexas."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "O que são úlceras venosas e arteriais? Como diferenciar?",
+    "verso": "Úlcera venosa: insuficiência venosa crônica. Local: terço inferior da perna (região maleolar medial). Aspecto: bordas irregulares, leito vermelho/fibrinoso, exsudato moderado-alto, odor. Dor: leve a moderada, alivia com elevação do membro. Pele: dermatite ocre, lipodermatoesclerose. Tratamento: compressoterapia (bandagem elástica), cobertura adequada. Úlcera arterial (isquêmica): doença arterial periférica. Local: extremidades distais (pododáctilos, calcâneo, tornozelo lateral). Aspecto: bordas bem definidas, leito pálido/necrótico, pouco exsudato. Dor intensa, piora com elevação. Pulso periférico diminuído/ausente. ATENÇÃO: NUNCA usar compressão em úlcera arterial — piora a isquemia! Diferença essencial nas questões."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "O que é a úlcera diabética (pé diabético)?",
+    "verso": "Pé diabético: complicação do DM por neuropatia periférica + doença arterial + infecção. Características: insensibilidade (neuropatia = sem dor), localização em pontos de pressão plantar (cabeça de metatarso, calcâneo), aspecto variável (pode ter isquemia ou não). Classificação de Wagner: 0 (sem lesão, mas com risco), 1 (úlcera superficial), 2 (úlcera profunda sem osteomielite), 3 (profunda com osteomielite), 4 (gangrena focal), 5 (gangrena extensa). Cuidados: desbridamento, cobertura adequada, alívio de pressão (calçado especial), controle glicêmico rigoroso, antibiótico se infectada. Educação: inspeção diária dos pés, hidratação, corte reto das unhas, calçado adequado."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "O que é limpeza de ferida? Quais as soluções indicadas?",
+    "verso": "Limpeza de ferida: remoção mecânica de exsudato, resíduos e microrganismos sem lesar o tecido de granulação. Técnica: irrigação com seringa de 20mL e agulha 40×12 ou cateter a 15-30cm de distância — pressão de 4-15 psi, suficiente para limpar sem traumatizar. Soluções: Soro Fisiológico 0,9% (SF): indicado para feridas em granulação — não tóxico, isotônico. Água destilada: alternativa ao SF. PHMB (polihexanida): feridas colonizadas/infectadas — antimicrobiano sem toxicidade para o tecido. EVITAR: PVPI (povidona-iodo) e água oxigenada em ferida aberta — CITOTÓXICOS para fibroblastos e tecido de granulação! Apenas PVPI em pele íntegra perilesional."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "Como documentar uma ferida no prontuário?",
+    "verso": "Documentação completa de ferida (registro no prontuário): (1) Localização anatômica precisa. (2) Dimensões: comprimento × largura × profundidade (cm) — régua milimetrada ou fotografia. (3) Estágio (UPP) ou classificação. (4) Tecidos presentes no leito: % de granulação, esfácelo, necrose, epitélio. (5) Exsudato: tipo (seroso, serossanguinolento, sanguinolento, purulento) e quantidade (escasso, moderado, abundante). (6) Bordas: regulares/irregulares, aderidas/descoladas, maceradas. (7) Pele perilesional: íntegra, macerada, eritematosa, endurecida. (8) Odor: ausente/presente. (9) Cobertura utilizada. (10) Reação do paciente. (11) Plano para próximo curativo. Usar escalas validadas como PUSH (Pressure Ulcer Scale for Healing)."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Como avaliar perfusão tecidual periférica no exame físico?",
+    "verso": "Perfusão periférica — avaliação dos 5 P's (isquemia aguda de membro): Pain (dor), Pallor (palidez), Pulselessness (ausência de pulso), Paresthesia (parestesia), Paralysis (paralisia). Tempo de enchimento capilar (TEC): compressão do leito ungueal por 5s — coloração retorna em < 2s (normal). Temperatura das extremidades: membro isquêmico = frio. Coloração: palidez ou cianose. Pulsos periféricos: avaliação bilateral comparativa (radial, poplíteo, pedioso, tibial posterior). Extremidades quentes, róseas, TEC < 2s, pulsos presentes e simétricos = boa perfusão. Sinal de Buerger: membro fica pálido elevado e hiperemiado pendente = isquemia."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "O que é ingurgitamento jugular e o que indica?",
+    "verso": "Ingurgitamento jugular: distensão visível das veias jugulares externas com o paciente a 45° (posição semi-Fowler). Normal: veias jugulares visíveis apenas em decúbito dorsal plano. Patológico: visíveis com paciente a 45° ou sentado = pressão venosa central elevada. Causas: Insuficiência cardíaca direita (causa mais comum), tamponamento cardíaco, pneumotórax hipertensivo, pericardite constritiva, hipertensão pulmonar. Tríade de Beck (tamponamento): hipotensão + turgência jugular + bulhas hipofonéticas (abafadas). Pulsação venosa jugular (PVJ): reflexo de ondas de contração atrial — avaliada como PVC indireta."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Como avaliar linfonodos no exame físico?",
+    "verso": "Palpação de linfonodos (linfonodos = gânglios linfáticos): Técnica: polpa digital, movimentos circulares leves. Avaliar: tamanho (normal < 1cm), consistência (elástico/fibroelástico = normal; pétreo = neoplasia; flutuante = abscesso), mobilidade (móvel = inflamatório; fixo = neoplásico), dor (doloroso = inflamatório; indolor = neoplásico geralmente), simetria. Cadeias palpáveis: occipital, retroauricular, parotídea, submandibular, submentoniana, cervical (anterior/posterior), supraclavicular, axilar, epitroclear, inguinal. Linfonodo supraclavicular esquerdo (Virchow): câncer gástrico/pâncreas. Linfonodo de Irish (axilar): câncer gástrico. Linfadenopatia generalizada: HIV, linfoma, mononucleose."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "Quais os fatores que prejudicam a cicatrização de feridas?",
+    "verso": "Fatores locais que prejudicam: infecção, isquemia, corpo estranho, pressão contínua, umidade excessiva, ressecamento. Fatores sistêmicos: Desnutrição (deficiência de proteínas, vitamina C, zinco — essenciais para colágeno e imunidade). Diabetes mellitus (hiperglicemia prejudica função leucocitária e angiogênese). Imunossupressão (corticoides inibem inflamação = bloqueiam cicatrização). Idade avançada (pele mais fina, menor vascularização). Tabagismo (vasoconstrição, hipóxia tecidual). Anemia (hipóxia). Doenças vasculares (insuficiência arterial/venosa). Obesidade (pobre vascularização do tecido adiposo). Radioterapia (dano vascular). Quimioterapia (mielossupressão). Na enfermagem: avaliar e corrigir fatores modificáveis antes e durante o tratamento da ferida."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "O que é Terapia por Pressão Negativa (TPN/VAC) em feridas?",
+    "verso": "TPN (Terapia por Pressão Negativa) / VAC (Vacuum Assisted Closure): técnica que aplica pressão subatmosférica (negativa) sobre a ferida usando esponja de poliuretano e bomba de vácuo. Mecanismos: reduz edema, aumenta perfusão, estimula angiogênese e formação de tecido de granulação, reduz contaminação bacteriana. Indicações: feridas agudas e crônicas complexas, feridas pós-deiscência, pé diabético, úlceras de pressão profundas, feridas estanadas. Contraindicações: fístula não explorada, ferida com tecido necrótico, osteomielite não tratada, tumor maligno na ferida, ferida com sangramento ativo. O enfermeiro com capacitação realiza as trocas e monitora o funcionamento do sistema (alarmes, drenagem)."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Como avaliar o estado de hidratação do paciente no exame físico?",
+    "verso": "Avaliação de hidratação — sinais de desidratação: Pele: turgor diminuído (tent sign positivo), ressecamento. Mucosas: boca e lábios secos, língua seca. Olhos: enoftalmia (afundados), sem lágrimas. Fontanela (bebês): deprimida. Diurese: oligúria (< 0,5 mL/kg/h), urina concentrada. Pressão arterial: hipotensão (desidratação grave). Pulso: taquicardia, filiforme. Capnografia: TEC > 2s. Peso: perda aguda = perda hídrica. Sinais de hiper-hidratação: edema, turgência jugular, crepitações pulmonares, ascite. Balanço hídrico: soma de ingressos (VO + EV + SNG) menos perdas (diurese + drenos + perdas insensíveis). Positivo = retenção; negativo = perda. Monitorar diariamente em internados."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "O que são lesões por fricção e como diferenciar de UPP?",
+    "verso": "Lesões por fricção (skin tears): feridas agudas causadas por forças mecânicas de fricção/cisalhamento (arranhões, quedas, retirada de adesivos) — resultam em separação da epiderme da derme ou derme do tecido subcutâneo. Diferença de UPP: fricção = trauma mecânico superficial em qualquer local; UPP = isquemia por pressão sobre proeminência óssea. Classificação STAR: Categoria 1a (sem perda de tecido, bordas alinhadas), 1b (sem perda, pele pálida/escura), 2a (com perda parcial, bordas alinhadas), 2b (com perda, bordas não alinhadas), 3 (com perda total do retalho). Prevenção: pele hidratada, fitas não agressivas, cuidado ao mobilizar, manga protetora nos MMSS. Tratamento: aproximar bordas, curativo não aderente."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "O que é o exame físico do sistema musculoesquelético relevante para enfermagem?",
+    "verso": "Avaliação musculoesquelética: Inspeção: postura, deformidades, atrofias, assimetrias, marcha. Palpação: tônus muscular (hipertonia/hipotonia), dor à palpação, crepitação articular. Amplitude de movimento (ADM): movimentos articulares ativos e passivos — limitação = contratura, rigidez. Força muscular: escala de 0-5 (0=sem contração, 1=contração sem movimento, 2=move sem gravidade, 3=move contra gravidade, 4=contra resistência parcial, 5=normal). Reflexos tendinosos: 0 a 4+ (0=ausente, 2+=normal, 4+=hiperreflexia com clônus). Edema articular. Rigidez matinal. Clonus: contrações rítmicas involuntárias = lesão do neurônio motor superior. Testes especiais: Homans (TVP), Lasègue (hérnia discal)."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "Quais são os cuidados específicos de enfermagem no pré, intra e pós-operatório de cirurgias com ferida?",
+    "verso": "Pré-operatório: avaliação e registro do estado da pele, higienização com clorexidina, tricotomia com clipador elétrico (NUNCA lâmina), orientação do paciente, jejum adequado, antibioticoprofilaxia conforme prescrição. Intraoperatório: assepsia cirúrgica rigorosa, controle de temperatura (normotermia), manuseio cuidadoso dos tecidos, contagem de materiais. Pós-operatório: curativo asséptico por 48h (ferida fechada), observação de sinais de infecção (febre, hiperemia, secreção), registro das características, troca de curativo conforme protocolo, orientação ao paciente. Avaliação diária da ferida cirúrgica: REEDA (Redness, Edema, Ecchymosis, Discharge, Approximation) — usada em episiotomia mas aplicável a qualquer incisão."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Como realizar o exame físico do recém-nascido (aspectos de semiologia)?",
+    "verso": "Exame do RN (Apgar e avaliação sistemática): APGAR (1º e 5º minuto): Aparência/cor, Pulso/FC, Grimace/reflexo, Atividade/tônus, Respiração. 0-3=grave, 4-6=moderado, 7-10=normal. Avaliação física: Peso (normal 2.500-4.000g), comprimento (48-52cm), perímetro cefálico (33-35cm). Reflexos primitivos: sucção, Moro (abraço), preensão palmar/plantar, Babinski (extensão dos dedos), marcha automática, busca (rooting). Fontanelas: anterior (bregmática) — fecha 12-18 meses; posterior (lambdóide) — fecha 2-3 meses. Icterícia neonatal: progressão céfalo-caudal. Vérnix, lanugo, mancha mongólica, eritema tóxico. Genitália — criptorquidia (testículo não descido). Avaliação da vitalidade: tônus, choro, coloração."
+  },
+  {
+    "fonte": "Feridas",
+    "bloco": "semiologia",
+    "frente": "Quais são as principais escalas de avaliação de feridas usadas na prática de enfermagem?",
+    "verso": "Escalas e ferramentas de avaliação de feridas: PUSH (Pressure Ulcer Scale for Healing): monitora evolução de UPP — avalia tamanho (0-10), exsudato (0-3) e tipo de tecido (0-4). Score 0 = cicatriz completa. Braden: risco para UPP. BWAT (Bates-Jensen Wound Assessment Tool): avaliação abrangente de qualquer ferida crônica — 13 itens. Wound Bed Preparation (TIME): Tecido (desvitalizado), Infecção/Inflamação, Moisture (umidade), Edge/bordas. NERDS/STONEES: identificação de infecção em ferida. REEDA: cicatrização de episiotomia. Classificação de Wagner: pé diabético. NPUAP/EPUAP: estadiamento de UPP. Fotografia clínica: documentação padronizada com referência de escala métrica."
+  },
+  {
+    "fonte": "Semiologia de Enfermagem",
+    "bloco": "semiologia",
+    "frente": "Como avaliar disfagia no paciente e qual o risco associado?",
+    "verso": "Disfagia: dificuldade de deglutição. Avaliação de enfermagem: observar tosse durante ou após deglutição, mudança da voz (voz molhada/rouca após deglutição), tempo de deglutição, refluxo nasal, escape oral de alimento. Teste do copo d'água: oferecer 50mL de água — tosse/engasgo indica risco de disfagia. Escala de FOIS (Functional Oral Intake Scale): avalia via de alimentação (1=nada via oral; 7=dieta completa). Risco: broncoaspiration → pneumonia aspirativa (principal causa de mortalidade em disfágicos). Medidas: posicionar 90° durante e 30 min após alimentação, adequação da consistência dos alimentos (dieta pastosa, espessante), encaminhar ao fonoaudiólogo. Pacientes de risco: AVC, doenças neurodegenerativas, intubação prolongada, idosos."
+  }
+]

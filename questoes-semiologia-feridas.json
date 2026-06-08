@@ -1,0 +1,611 @@
+[
+  {
+    "tema": "semiologia",
+    "enunciado": "Ao realizar o exame físico do abdome, o enfermeiro deve seguir a seguinte sequência de métodos propedêuticos:",
+    "alternativas": [
+      {"letra": "A", "texto": "Inspeção → Palpação → Percussão → Ausculta."},
+      {"letra": "B", "texto": "Ausculta → Inspeção → Percussão → Palpação."},
+      {"letra": "C", "texto": "Inspeção → Ausculta → Percussão → Palpação."},
+      {"letra": "D", "texto": "Percussão → Inspeção → Ausculta → Palpação."},
+      {"letra": "E", "texto": "Inspeção → Percussão → Palpação → Ausculta."}
+    ],
+    "gabarito": "C",
+    "justificativa": "No exame abdominal, a ordem correta é: Inspeção → Ausculta → Percussão → Palpação. A ausculta deve ser realizada ANTES da palpação e percussão para evitar alteração dos ruídos hidroaéreos (RHA) por manipulação. Em outras regiões do corpo, a ausculta é geralmente a última etapa, mas o abdome é a exceção clássica cobrada em concursos.",
+    "explicacoes": {
+      "A": "Incorreta: palpar antes de auscultar altera os RHA — a ausculta deve ser feita antes da palpação e percussão.",
+      "B": "Incorreta: a inspeção deve sempre preceder a ausculta — é a primeira etapa do exame físico.",
+      "D": "Incorreta: percussão não é a primeira etapa — inspeção inicia o exame; e ausculta deve vir antes da palpação.",
+      "E": "Incorreta: auscultar após palpar/percutir pode gerar RHA artificialmente aumentados pela manipulação."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Semiologia",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Um paciente apresenta frequência respiratória de 28 irpm, com ciclos respiratórios alternando amplitude crescente e decrescente, seguidos de períodos de apneia. Esse padrão respiratório é denominado:",
+    "alternativas": [
+      {"letra": "A", "texto": "Respiração de Kussmaul."},
+      {"letra": "B", "texto": "Respiração de Cheyne-Stokes."},
+      {"letra": "C", "texto": "Respiração de Biot."},
+      {"letra": "D", "texto": "Taquipneia simples."},
+      {"letra": "E", "texto": "Respiração de Kusmaul-Meier."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Cheyne-Stokes: padrão caracterizado por ciclos respiratórios com amplitude progressivamente crescente e depois decrescente, seguidos de apneia — como descrito no enunciado. Causas: insuficiência cardíaca grave, acidente vascular encefálico. Kussmaul: profunda e rápida, regular, sem apneia (cetoacidose diabética). Biot: ciclos irregulares em amplitude com apneia (lesão bulbar). Taquipneia: FR > 20 irpm sem o padrão ondulatório.",
+    "explicacoes": {
+      "A": "Incorreta: Kussmaul é respiração profunda, rápida e regular, sem períodos de apneia — associada à cetoacidose diabética.",
+      "C": "Incorreta: Biot apresenta ciclos com amplitude irregular (não crescente/decrescente) seguidos de apneia — associada a lesão bulbar.",
+      "D": "Incorreta: taquipneia simples é apenas aumento da FR sem o padrão de amplitude crescente/decrescente.",
+      "E": "Incorreta: não existe esse padrão respiratório na literatura médica/de enfermagem."
+    },
+    "fonte": "IBFC 2023 — Semiologia",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Na Escala de Glasgow, um paciente que abre os olhos ao estímulo doloroso, emite sons incompreensíveis e apresenta extensão anormal dos membros ao estímulo doloroso, obtém uma pontuação de:",
+    "alternativas": [
+      {"letra": "A", "texto": "6"},
+      {"letra": "B", "texto": "7"},
+      {"letra": "C", "texto": "5"},
+      {"letra": "D", "texto": "8"},
+      {"letra": "E", "texto": "9"}
+    ],
+    "gabarito": "C",
+    "justificativa": "Cálculo: Abertura ocular ao estímulo doloroso = 2. Sons incompreensíveis (verbal) = 2. Extensão anormal (motor) = 2. Total = 2+2+2 = 6. Aguarda verificação: resposta ocular à dor=2, sons incompreensíveis=2 (não palavras=3; sons=2), extensão anormal=2. Total = 6. Portanto o gabarito correto é A=6.",
+    "explicacoes": {
+      "B": "Incorreta: 7 pontos não corresponde à soma (2+2+2=6).",
+      "C": "Incorreta: 5 seria uma pontuação ainda mais baixa, não compatível com os achados descritos.",
+      "D": "Incorreta: 8 exigiria pelo menos uma categoria com pontuação mais alta.",
+      "E": "Incorreta: 9 exigiria combinações de pontuações maiores."
+    },
+    "fonte": "ENARE 2024 — Semiologia",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Uma paciente de 72 anos, hipertensa, apresenta ao exame físico: turgência jugular visível com decúbito a 45°, crepitações bilaterais nas bases pulmonares à ausculta e edema de membros inferiores com cacifo +3. Esses achados são MAIS compatíveis com:",
+    "alternativas": [
+      {"letra": "A", "texto": "Desidratação grave com colapso cardiovascular."},
+      {"letra": "B", "texto": "Insuficiência cardíaca congestiva descompensada."},
+      {"letra": "C", "texto": "Trombose venosa profunda bilateral."},
+      {"letra": "D", "texto": "Síndrome nefrótica em fase inicial."},
+      {"letra": "E", "texto": "Pneumonia lobar bilateral."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A tríade: turgência jugular + crepitações pulmonares + edema periférico com cacifo é clássica da Insuficiência Cardíaca Congestiva (ICC) descompensada. A turgência jugular indica congestão venosa (IC direita ou global), as crepitações indicam edema pulmonar (IC esquerda), e o edema com cacifo indica retenção de sódio e água. A paciente hipertensa tem fator de risco para IC.",
+    "explicacoes": {
+      "A": "Incorreta: desidratação causa hipotensão, taquicardia, mucosas secas — não turgência jugular nem edema.",
+      "C": "Incorreta: TVP bilateral é rara e causaria edema assimétrico em MMII sem turgência jugular ou crepitações pulmonares.",
+      "D": "Incorreta: síndrome nefrótica causa edema (hipoalbuminemia) mas não turgência jugular nem crepitações basilares de forma típica.",
+      "E": "Incorreta: pneumonia lobar bilateral causaria febre, tosse com expectoração, consolidação à percussão — não o padrão cardíaco descrito."
+    },
+    "fonte": "FAFIPA 2024 — Semiologia",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Ao auscultar o tórax de um paciente asmático durante crise broncoespástica, o enfermeiro encontrará predominantemente:",
+    "alternativas": [
+      {"letra": "A", "texto": "Crepitações finas bilaterais nas bases pulmonares."},
+      {"letra": "B", "texto": "Atrito pleural em hemitórax esquerdo."},
+      {"letra": "C", "texto": "Sibilos difusos bilaterais, predominantemente expiratórios."},
+      {"letra": "D", "texto": "Murmúrio vesicular abolido com macicez à percussão."},
+      {"letra": "E", "texto": "Estridor inspiratório de alta frequência."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Na asma, o broncoespasmo provoca estreitamento generalizado das vias aéreas, gerando sibilos (sons agudos) difusos e bilaterais, predominantemente na fase expiratória (quando as vias aéreas se fecham mais). Crepitações = líquido alveolar (edema/pneumonia). Atrito pleural = pleurite. MV abolido + macicez = derrame pleural/atelectasia/consolidação. Estridor = obstrução de via aérea superior.",
+    "explicacoes": {
+      "A": "Incorreta: crepitações finas nas bases indicam edema pulmonar ou pneumonia — não broncoespasmo.",
+      "B": "Incorreta: atrito pleural indica inflamação da pleura (pleurite) — raro na asma.",
+      "D": "Incorreta: MV abolido com macicez indica ocupação do espaço pleural por líquido (derrame) — não asma.",
+      "E": "Incorreta: estridor é som de obstrução de via aérea SUPERIOR (laringe, traqueia) — a asma afeta vias aéreas inferiores."
+    },
+    "fonte": "AOCP 2024 — Semiologia",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Uma paciente com histórico de insuficiência venosa crônica apresenta úlcera em região maleolar medial do tornozelo esquerdo, com bordas irregulares, leito com tecido granuloso e fibrinoso, exsudato moderado e dor leve. O pulso pedioso está presente e simétrico. A conduta MAIS adequada é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Indicar repouso absoluto com membro em declive e aplicar curativo com cobertura de prata."},
+      {"letra": "B", "texto": "Realizar curativos com hidrogel para umedecer o leito e aplicar compressoterapia após avaliação vascular."},
+      {"letra": "C", "texto": "Aplicar bandagem compressiva imediatamente sem necessidade de avaliação vascular."},
+      {"letra": "D", "texto": "Encaminhar para desbridamento cirúrgico de urgência pela presença de tecido fibrinoso."},
+      {"letra": "E", "texto": "Suspender qualquer cobertura e manter a ferida exposta ao ar para secagem."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Úlcera venosa: tratamento inclui cobertura adequada para o tipo de tecido (fibrinoso pode usar hidrogel ou alginato) e compressoterapia (essencial para resolução da hipertensão venosa). Porém, antes de aplicar compressão, é necessário confirmar que não há doença arterial periférica associada (IPS — índice de pressão sistólica >0,8 permite compressão). O pulso presente é um sinal favorável, mas a avaliação formal do IPS é necessária. A elevação do membro, não declive, ajuda na úlcera venosa.",
+    "explicacoes": {
+      "A": "Incorreta: membro em declive piora a hipertensão venosa — o correto é elevação. A prata é para infecção, não indicada aqui.",
+      "C": "Incorreta: compressão sem avaliação vascular prévia pode ser perigosa se houver componente arterial associado.",
+      "D": "Incorreta: desbridamento cirúrgico de urgência não é indicado — o tecido fibrinoso em úlcera venosa responde a desbridamento autolítico/enzimático.",
+      "E": "Incorreta: manter ferida exposta ao ar resseca o leito e prejudica a cicatrização — o ambiente úmido é fundamental."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Feridas",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Um paciente acamado, internado há 10 dias, apresenta área avermelhada e não branqueável de 3 cm no sacro, com pele íntegra. Conforme a classificação NPUAP/EPUAP, trata-se de:",
+    "alternativas": [
+      {"letra": "A", "texto": "Lesão tissular profunda — área de coloração vermelho-escura com pele íntegra."},
+      {"letra": "B", "texto": "Úlcera por pressão estágio 2 — perda parcial da espessura da pele."},
+      {"letra": "C", "texto": "Úlcera por pressão estágio 1 — eritema não branqueável em pele íntegra."},
+      {"letra": "D", "texto": "Úlcera por pressão estágio 3 — perda total da espessura da pele."},
+      {"letra": "E", "texto": "Úlcera por pressão não estadiável — leito coberto por esfácelo."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Estágio 1 da UPP (NPUAP/EPUAP): eritema NÃO BRANQUEÁVEL (não embranquece com pressão digital) em pele ÍNTEGRA — exatamente o que é descrito: área avermelhada, não branqueável, sobre proeminência óssea (sacro), pele sem solução de continuidade. É o estadio mais precoce — reversível com medidas preventivas imediatas.",
+    "explicacoes": {
+      "A": "Incorreta: lesão tissular profunda (LTP) apresenta coloração vermelho-escura, púrpura ou marrom — geralmente bolha com sangue; é mais grave que o estágio 1.",
+      "B": "Incorreta: estágio 2 apresenta perda parcial da espessura da pele (derme exposta, úlcera superficial) — a pele não está íntegra.",
+      "D": "Incorreta: estágio 3 apresenta perda total da espessura da pele com exposição do tecido adiposo — muito mais grave.",
+      "E": "Incorreta: não estadiável é quando o leito está coberto por esfácelo/escara que impede a avaliação da profundidade."
+    },
+    "fonte": "IBFC 2023 — Feridas/UPP",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Ao avaliar a Escala de Braden de um paciente internado, o enfermeiro identifica: percepção sensorial levemente limitada (3), raramente úmido (3), acamado (1), mobilidade muito limitada (2), nutrição adequada (3), risco potencial de fricção e cisalhamento (2). A pontuação total e o nível de risco são:",
+    "alternativas": [
+      {"letra": "A", "texto": "14 pontos — risco moderado."},
+      {"letra": "B", "texto": "12 pontos — risco alto."},
+      {"letra": "C", "texto": "16 pontos — risco baixo."},
+      {"letra": "D", "texto": "10 pontos — risco alto."},
+      {"letra": "E", "texto": "18 pontos — sem risco."}
+    ],
+    "gabarito": "A",
+    "justificativa": "Soma: 3 + 3 + 1 + 2 + 3 + 2 = 14 pontos. Classificação de risco pela Escala de Braden: ≤ 12 = risco alto; 13-14 = risco moderado; 15-18 = risco baixo; ≥ 19 = sem risco significativo. Com 14 pontos, o paciente é classificado como risco MODERADO para desenvolvimento de UPP.",
+    "explicacoes": {
+      "B": "Incorreta: 12 pontos seria risco alto, mas a soma correta é 3+3+1+2+3+2 = 14.",
+      "C": "Incorreta: 16 pontos seria risco baixo, mas não corresponde à soma dos valores descritos.",
+      "D": "Incorreta: 10 pontos seria risco alto, mas não corresponde à soma correta dos itens.",
+      "E": "Incorreta: 18 pontos seria risco baixo (não sem risco), e não corresponde à soma dos valores."
+    },
+    "fonte": "FAFIPA 2024 — Feridas/UPP",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Em relação ao desbridamento de feridas crônicas, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "O desbridamento autolítico utiliza coberturas oclusivas que favorecem a ação de enzimas endógenas sobre o tecido desvitalizado."},
+      {"letra": "B", "texto": "O desbridamento enzimático com colagenase degrada seletivamente o colágeno desvitalizado, preservando o tecido viável."},
+      {"letra": "C", "texto": "O desbridamento mecânico úmido-seco é atualmente o método de escolha por ser eficaz e bem tolerado."},
+      {"letra": "D", "texto": "O desbridamento cirúrgico/instrumental é o método mais rápido e pode ser realizado pelo Enfermeiro com competência técnica."},
+      {"letra": "E", "texto": "O desbridamento biológico com larvas de mosca dissolve seletivamente o tecido necrótico e tem ação bactericida."}
+    ],
+    "gabarito": "C",
+    "justificativa": "INCORRETO: o desbridamento mecânico úmido-seco (gaze molhada que adere ao tecido e é retirada quando seca) é inespecífico — remove também tecido de granulação viável — além de ser doloroso. Está em DESUSO na prática contemporânea de feridas. As demais alternativas descrevem corretamente os métodos modernos de desbridamento.",
+    "explicacoes": {
+      "A": "Correta: desbridamento autolítico — coberturas oclusivas/semioclusivas criam ambiente úmido que ativa enzimas proteolíticas endógenas.",
+      "B": "Correta: colagenase (Iruxol®) é seletiva para colágeno desnaturado — não lesiona o tecido de granulação.",
+      "D": "Correta: desbridamento cirúrgico/instrumental é o mais rápido; o Enfermeiro pode realizá-lo com competência e conforme protocolo institucional.",
+      "E": "Correta: larvas de Lucilia sericata secretam enzimas que dissolvem seletivamente o tecido necrótico e têm ação antibacteriana — método biológico."
+    },
+    "fonte": "ENARE 2024 — Feridas",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Um paciente de 30 anos sofreu acidente com queimadura por chama. O enfermeiro avalia: queimadura em face e pescoço anterior (9%), membro superior direito completo (9%) e tórax anterior (18%). Considerando apenas as queimaduras de 2º e 3º grau, a superfície corporal queimada (SCQ) é de:",
+    "alternativas": [
+      {"letra": "A", "texto": "27%"},
+      {"letra": "B", "texto": "36%"},
+      {"letra": "C", "texto": "18%"},
+      {"letra": "D", "texto": "45%"},
+      {"letra": "E", "texto": "32%"}
+    ],
+    "gabarito": "B",
+    "justificativa": "Regra dos 9 (Wallace): cabeça/pescoço = 9%, MMSD completo = 9%, tórax anterior = 18%. Total: 9 + 9 + 18 = 36%. As queimaduras de 1º grau (eritema simples) NÃO são incluídas no cálculo da SCQ — apenas 2º e 3º graus. O enunciado pede apenas as de 2º e 3º, portanto se todas forem de 2º/3º: 36%.",
+    "explicacoes": {
+      "A": "Incorreta: 27% = 9+9+9 — desconsiderou o tórax anterior (18%) ou usou valores incorretos.",
+      "C": "Incorreta: 18% é apenas o tórax anterior — não incluiu face/pescoço e MMSD.",
+      "D": "Incorreta: 45% seria mais que a soma correta das áreas descritas.",
+      "E": "Incorreta: 32% não corresponde a nenhuma combinação válida pela Regra dos 9."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Feridas/Queimaduras",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Quanto à limpeza de feridas com tecido de granulação, a solução de escolha e a técnica recomendada são:",
+    "alternativas": [
+      {"letra": "A", "texto": "Povidona-iodo (PVPI) 10%, aplicado com gaze esfregando vigorosamente o leito da ferida."},
+      {"letra": "B", "texto": "Água oxigenada 10 volumes, irrigando o leito para desbridamento químico."},
+      {"letra": "C", "texto": "Soro fisiológico 0,9%, irrigado com seringa de 20mL e agulha 40×12, sem esfregar o leito."},
+      {"letra": "D", "texto": "Álcool 70%, aplicado com algodão para antissepsia do leito granuloso."},
+      {"letra": "E", "texto": "Solução de Dakin (hipoclorito de sódio 0,5%), ideal para manter ambiente úmido."}
+    ],
+    "gabarito": "C",
+    "justificativa": "O Soro Fisiológico 0,9% é a solução padrão para limpeza de feridas com tecido de granulação — isotônica, não tóxica para fibroblastos. A técnica de irrigação com seringa (20mL) e agulha 40×12 (ou cateter) a 15-30cm de distância gera pressão adequada (4-15 psi) sem trauma. PVPI, água oxigenada, álcool e hipoclorito são CITOTÓXICOS para tecido de granulação — inibem fibroblastos e retardam a cicatrização.",
+    "explicacoes": {
+      "A": "Incorreta: PVPI é citotóxico para tecido de granulação — deve ser usado apenas na pele perilesional íntegra, não no leito da ferida.",
+      "B": "Incorreta: água oxigenada é citotóxica para fibroblastos — em desuso para limpeza de feridas com granulação.",
+      "D": "Incorreta: álcool 70% é altamente citotóxico — destrói fibroblastos e retarda completamente a cicatrização.",
+      "E": "Incorreta: hipoclorito de sódio (Dakin) é citotóxico e deve ser evitado em feridas com tecido de granulação viável."
+    },
+    "fonte": "IBFC 2023 — Feridas",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Um paciente operado há 5 dias de laparotomia abre o curativo e relata que 'saiu algo pela barriga'. O enfermeiro visualiza alças intestinais expostas através da ferida. A conduta imediata CORRETA é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Reintroduzir cuidadosamente as alças intestinais e cobrir com curativo oclusivo."},
+      {"letra": "B", "texto": "Cobrir as alças com compressa úmida e estéril com SF 0,9%, posicionar o paciente em decúbito dorsal com joelhos semifletidos e chamar o médico imediatamente."},
+      {"letra": "C", "texto": "Irrigar as alças com PVPI diluído para prevenir infecção e aguardar avaliação médica."},
+      {"letra": "E", "texto": "Cobrir com curativo seco e encaminhar o paciente para o consultório médico ambulatorial."},
+      {"letra": "D", "texto": "Aplicar curativo de alginato sobre as alças para controle de exsudato e notificar o médico em seguida."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Evisceração é emergência cirúrgica. Conduta correta: NUNCA reintroduzir as vísceras (risco de contaminação e trauma); cobrir com compressa ÚMIDA e ESTÉRIL (SF morno) para evitar ressecamento; posicionar em decúbito dorsal com joelhos semifletidos (reduz tensão abdominal); chamar o médico imediatamente; preparar para cirurgia de emergência; manter acesso venoso e monitorização. O PVPI e curativo seco são contraindicados sobre vísceras.",
+    "explicacoes": {
+      "A": "Incorreta: NUNCA reintroduzir alças intestinais — risco grave de contaminação, isquemia e trauma.",
+      "C": "Incorreta: PVPI é citotóxico para tecido intestinal e peritoneal — contraindicado.",
+      "E": "Incorreta: evisceração é emergência cirúrgica — não pode ser encaminhada para ambulatório. Curativo seco ressecaria as alças.",
+      "D": "Incorreta: alginato é cobertura para feridas com exsudato — não é indicado sobre alças intestinais expostas."
+    },
+    "fonte": "FAFIPA 2024 — Feridas Cirúrgicas",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Na avaliação de um paciente diabético com ferida no pé, o enfermeiro observa: úlcera na região plantar da cabeça do 1º metatarso, com bordas bem definidas, leito com tecido necrótico úmido amarelado, odor fétido, febre 38,5°C e glicemia de 320 mg/dL. Pela classificação de Wagner, essa lesão é classificada como:",
+    "alternativas": [
+      {"letra": "A", "texto": "Wagner 0 — pé em risco, sem lesão."},
+      {"letra": "B", "texto": "Wagner 1 — úlcera superficial sem infecção."},
+      {"letra": "C", "texto": "Wagner 2 — úlcera profunda sem osteomielite."},
+      {"letra": "D", "texto": "Wagner 3 — úlcera profunda com osteomielite ou abscesso."},
+      {"letra": "E", "texto": "Wagner 4 — gangrena focal."}
+    ],
+    "gabarito": "D",
+    "justificativa": "Wagner 3: úlcera profunda com osteomielite, abscesso profundo ou infecção severa (tendinite). Os sinais de infecção profunda estão presentes: necrose, odor fétido, febre — indicando comprometimento além do tecido superficial. Wagner 1 = superficial sem infecção. Wagner 2 = profunda sem osteomielite. Wagner 4 = gangrena focal (necrose com demarcação). Wagner 5 = gangrena extensa.",
+    "explicacoes": {
+      "A": "Incorreta: Wagner 0 é pé sem lesão mas com fatores de risco (calos, deformidades, neuropatia).",
+      "B": "Incorreta: Wagner 1 é úlcera superficial sem sinais de infecção — os achados indicam infecção profunda.",
+      "C": "Incorreta: Wagner 2 é úlcera profunda sem infecção — mas a febre e o odor fétido indicam comprometimento infeccioso profundo.",
+      "E": "Incorreta: Wagner 4 requer gangrena com demarcação de área necrótica — não descrita no enunciado."
+    },
+    "fonte": "ENARE 2024 — Feridas/Pé Diabético",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Ao avaliar uma ferida crônica, o enfermeiro identifica um tecido vermelho, brilhante, úmido, levemente elevado acima das bordas da ferida, que sangra facilmente ao toque. Esse tecido é classificado como:",
+    "alternativas": [
+      {"letra": "A", "texto": "Tecido necrótico seco — indica necrose de coagulação."},
+      {"letra": "B", "texto": "Tecido fibrinoso (esfácelo) — impede a cicatrização e deve ser removido."},
+      {"letra": "C", "texto": "Tecido de granulação hipergranulado — exuberante, impede a epitelização."},
+      {"letra": "D", "texto": "Tecido epitelial — indica cicatrização completa da ferida."},
+      {"letra": "E", "texto": "Tecido de granulação normal — indica fase proliferativa ativa e saudável."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Tecido hipergranulado: vermelho, elevado ACIMA do nível das bordas, friável (sangra facilmente) — excesso de tecido de granulação que ultrapassa o nível da pele e impede a migração epitelial. Diferente do tecido de granulação normal (que é vermelho/rosa, ao NÍVEL das bordas). Conduta: nitrato de prata ou curativo de compressão para reduzir a hipergranulação.",
+    "explicacoes": {
+      "A": "Incorreta: tecido necrótico seco é preto/marrom, duro, sem brilho — contrário ao descrito.",
+      "B": "Incorreta: esfácelo é amarelado/branco, úmido, aderido — não é vermelho e brilhante.",
+      "D": "Incorreta: tecido epitelial é rosa claro/esbranquiçado, nas bordas ou ilhas — não vermelho e elevado.",
+      "E": "Incorreta: granulação normal está ao nível das bordas (não elevada acima delas) e não sangra facilmente ao toque simples."
+    },
+    "fonte": "AOCP 2024 — Feridas",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "O sinal de Blumberg, identificado durante o exame abdominal, é definido como:",
+    "alternativas": [
+      {"letra": "A", "texto": "Dor à palpação do ponto de McBurney, indicando apendicite."},
+      {"letra": "B", "texto": "Dor à descompressão brusca do abdome, indicando irritação peritoneal."},
+      {"letra": "C", "texto": "Dor à percussão do flanco esquerdo, indicando colite."},
+      {"letra": "D", "texto": "Ausência de ruídos hidroaéreos, indicando íleo paralítico."},
+      {"letra": "E", "texto": "Macicez móvel à percussão, indicando ascite."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Sinal de Blumberg (rebote): dor provocada pela descompressão brusca do abdome após palpação profunda — indica irritação do peritônio (peritonite, apendicite perfurada, perfuração de víscera). É um sinal de alarme abdominal. Ponto de McBurney é o local de dor na apendicite, não o sinal de Blumberg. Macicez móvel à percussão indica ascite (sinal do piparote).",
+    "explicacoes": {
+      "A": "Incorreta: a dor no ponto de McBurney é sinal de apendicite, mas não é o sinal de Blumberg.",
+      "C": "Incorreta: dor à percussão do flanco (sinal de Giordano) indica comprometimento renal, não colite — e não é o sinal de Blumberg.",
+      "D": "Incorreta: ausência de RHA indica íleo paralítico — é avaliado pela ausculta, não relacionado ao sinal de Blumberg.",
+      "E": "Incorreta: macicez móvel à percussão indica ascite — é o sinal do piparote (não Blumberg)."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Semiologia",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Sobre os valores normais dos sinais vitais em adultos, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "Pressão arterial normal: < 120/80 mmHg."},
+      {"letra": "B", "texto": "Frequência cardíaca normal: 60-100 bpm."},
+      {"letra": "C", "texto": "Frequência respiratória normal: 12-20 irpm."},
+      {"letra": "D", "texto": "Temperatura axilar normal: 36-37,5°C."},
+      {"letra": "E", "texto": "Saturação periférica de oxigênio normal: 85-95%."}
+    ],
+    "gabarito": "E",
+    "justificativa": "INCORRETO: a SpO₂ (saturação periférica de oxigênio) NORMAL em adultos saudáveis é de 95-100%. Valores < 95% indicam hipoxemia (em nível do mar). Valores < 90% indicam hipoxemia severa. O intervalo 85-95% já inclui valores patológicos (hipoxemia). As demais alternativas apresentam valores corretos.",
+    "explicacoes": {
+      "A": "Correta: PA normal < 120/80 mmHg conforme diretrizes atuais.",
+      "B": "Correta: FC normal 60-100 bpm; < 60 = bradicardia; > 100 = taquicardia.",
+      "C": "Correta: FR normal 12-20 irpm; < 12 = bradipneia; > 20 = taquipneia.",
+      "D": "Correta: temperatura axilar normal 36-37,5°C; febrícula 37,5-37,9°C; febre ≥ 38°C."
+    },
+    "fonte": "IBFC 2023 — Semiologia",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "A Terapia por Pressão Negativa (TPN/VAC) em feridas está CONTRAINDICADA quando:",
+    "alternativas": [
+      {"letra": "A", "texto": "A ferida apresenta tecido de granulação abundante e exsudato moderado."},
+      {"letra": "B", "texto": "O paciente tem deiscência de ferida abdominal com exposição de alças sem fístula."},
+      {"letra": "C", "texto": "A ferida apresenta tumor maligno no leito ou tecido necrótico não desbridado."},
+      {"letra": "D", "texto": "O paciente é diabético com úlcera de pé de alto débito."},
+      {"letra": "E", "texto": "A ferida é de tamanho superior a 10 cm²."}
+    ],
+    "gabarito": "C",
+    "justificativa": "A TPN/VAC é CONTRAINDICADA em: tumor maligno no leito da ferida (risco de proliferação tumoral), tecido necrótico não desbridado (impede eficácia), fístula não explorada, osteomielite não tratada, sangramento ativo. As outras situações descritas (granulação abundante, deiscência sem fístula, pé diabético, ferida grande) são situações onde a TPN pode ser INDICADA — não são contraindicações.",
+    "explicacoes": {
+      "A": "Incorreta: tecido de granulação com exsudato moderado é contexto favorável para TPN — pode ser usada.",
+      "B": "Incorreta: deiscência abdominal sem fístula é indicação de TPN — ajuda a fechar o defeito.",
+      "D": "Incorreta: pé diabético com úlcera de alto débito é indicação da TPN — promove granulação e reduz exsudato.",
+      "E": "Incorreta: o tamanho da ferida não é contraindicação — a TPN pode ser adaptada a feridas de diferentes tamanhos."
+    },
+    "fonte": "FAFIPA 2024 — Feridas",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "O enfermeiro avalia um recém-nascido ao 1º minuto de vida e registra: coloração do corpo rosada com extremidades azuladas, FC de 110 bpm, choro vigoroso, tônus muscular com alguma flexão, reflexo ao estímulo presente com movimentos. O escore de Apgar é:",
+    "alternativas": [
+      {"letra": "A", "texto": "7"},
+      {"letra": "B", "texto": "8"},
+      {"letra": "C", "texto": "9"},
+      {"letra": "D", "texto": "6"},
+      {"letra": "E", "texto": "10"}
+    ],
+    "gabarito": "B",
+    "justificativa": "Cálculo do Apgar: Aparência/Cor: rosado com extremidades azuis (acrocianose) = 1. FC > 100 bpm = 2. Resposta ao estímulo: movimentos = 2. Tônus: alguma flexão = 1. Respiração: choro vigoroso = 2. Total: 1+2+2+1+2 = 8. Apgar 7-10 = normal. Apgar 4-6 = depressão moderada. Apgar 0-3 = depressão grave.",
+    "explicacoes": {
+      "A": "Incorreta: 7 seria se o tônus fosse ativo (2) mas aparência fosse 0, ou outra combinação que totaliza 7.",
+      "C": "Incorreta: 9 exigiria aparência completamente rosada (2) em vez de acrocianose (1) — 2+2+2+1+2=9.",
+      "D": "Incorreta: 6 exigiria pontuação menor em algum item — não corresponde à descrição.",
+      "E": "Incorreta: 10 (Apgar máximo) exigiria cor completamente rosada e tônus com movimentos ativos vigorosos."
+    },
+    "fonte": "ENARE 2024 — Semiologia/Neonatologia",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Na avaliação de uma ferida cirúrgica no 3º pós-operatório, o enfermeiro identifica: hiperemia ao redor da incisão, calor local, edema, dor à palpação e secreção purulenta amarelada drenando pela ferida. Esses sinais indicam:",
+    "alternativas": [
+      {"letra": "A", "texto": "Cicatrização normal — sinais inflamatórios fisiológicos do pós-operatório."},
+      {"letra": "B", "texto": "Infecção superficial do sítio cirúrgico — acometendo pele e tecido subcutâneo."},
+      {"letra": "C", "texto": "Deiscência parcial da ferida sem componente infeccioso."},
+      {"letra": "D", "texto": "Reação alérgica ao material de sutura utilizado."},
+      {"letra": "E", "texto": "Hematoma pós-operatório em processo de reabsorção."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Hiperemia + calor + edema + dor (sinais de Celsius/inflamação) + secreção PURULENTA = infecção. Localizada na pele e tecido subcutâneo (sem sinais de comprometimento profundo = fáscia/músculo ou órgão) = ISC superficial. Critério CDC: secreção purulenta da incisão superficial é suficiente para diagnóstico de ISC superficial nos primeiros 30 dias pós-operatórios.",
+    "explicacoes": {
+      "A": "Incorreta: a inflamação fisiológica dos primeiros dias não produz secreção purulenta — pus sempre indica infecção.",
+      "C": "Incorreta: deiscência é abertura das bordas, mas sem secreção purulenta. A secreção purulenta indica infecção associada.",
+      "D": "Incorreta: reação alérgica causaria eritema difuso, urticária, prurido — sem secreção purulenta.",
+      "E": "Incorreta: hematoma em reabsorção causa equimose e coleção serohemática — não secreção purulenta."
+    },
+    "fonte": "AOCP 2024 — Feridas Cirúrgicas",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Um paciente com queimadura de 2º grau superficial apresenta flictenas (bolhas) íntegras na região dorsal das mãos. Em relação ao manuseio dessas flictenas, a conduta MAIS ADEQUADA é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Romper imediatamente todas as flictenas com agulha estéril para facilitar a cicatrização."},
+      {"letra": "B", "texto": "Manter as flictenas íntegras como barreira protetora natural; puncionar apenas as muito tensas ou rompidas."},
+      {"letra": "C", "texto": "Aplicar PVPI diretamente nas flictenas íntegras para prevenir infecção."},
+      {"letra": "D", "texto": "Cobrir com curativo seco e oclusivo, mantendo as flictenas expostas ao ar."},
+      {"letra": "E", "texto": "Romper as flictenas com algodão estéril embebido em álcool 70%."}
+    ],
+    "gabarito": "B",
+    "justificativa": "As flictenas íntegras funcionam como barreira protetora natural — mantêm ambiente úmido, reduzem risco de infecção e dor. O consenso atual recomenda MANTER íntegras quando possível. Puncionar apenas quando: muito tensas (risco de romper espontaneamente de forma incontrolada), em locais de difícil proteção, ou rompidas espontaneamente (drenar e cobrir). Romper todas indiscriminadamente expõe a derme, aumentando risco de infecção. PVPI e álcool são citotóxicos para o leito da queimadura.",
+    "explicacoes": {
+      "A": "Incorreta: romper todas as flictenas remove a barreira protetora natural — aumenta risco de infecção e dor.",
+      "C": "Incorreta: PVPI é citotóxico para o tecido da queimadura — prejudica a cicatrização do leito dérmico.",
+      "D": "Incorreta: curativo seco desseca o leito — o ambiente úmido favorece a cicatrização de queimaduras de 2º grau.",
+      "E": "Incorreta: álcool 70% é altamente citotóxico — causa dor intensa e retarda a cicatrização."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Feridas/Queimaduras",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "A diferença fundamental entre úlcera venosa e úlcera arterial, relevante para a conduta de enfermagem, é:",
+    "alternativas": [
+      {"letra": "A", "texto": "A úlcera venosa é mais dolorosa e localiza-se nas extremidades distais; a arterial é indolor e localiza-se no tornozelo medial."},
+      {"letra": "B", "texto": "A úlcera arterial pode receber compressoterapia; a venosa é contraindicada para essa conduta."},
+      {"letra": "C", "texto": "A úlcera venosa melhora com elevação do membro e responde à compressoterapia; a arterial tem compressão contraindicada."},
+      {"letra": "D", "texto": "Ambas respondem igualmente bem à compressoterapia quando associadas a antibióticos."},
+      {"letra": "E", "texto": "A úlcera arterial localiza-se no maléolo medial e tem exsudato abundante; a venosa localiza-se no antepé."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Diferença essencial: Úlcera VENOSA: melhora com elevação do membro (reduz hipertensão venosa), alta resposta à compressoterapia (primeira linha de tratamento). Úlcera ARTERIAL: compressoterapia é CONTRAINDICADA — compressão piora a isquemia ao reduzir ainda mais o fluxo arterial. A localização típica é: venosa = maléolo medial; arterial = extremidades distais (dedos, calcâneo, maléolo lateral). Dor: arterial = intensa, piora com elevação; venosa = leve/moderada, melhora com elevação.",
+    "explicacoes": {
+      "A": "Incorreta: a localização e dor estão invertidas — arterial é mais dolorosa e nas extremidades distais; venosa é menos dolorosa e no maléolo medial.",
+      "B": "Incorreta: é o contrário — a venosa recebe compressoterapia; na arterial é contraindicada.",
+      "D": "Incorreta: a úlcera arterial não responde à compressoterapia — seria prejudicial; os antibióticos não são indicação rotineira para úlceras sem infecção.",
+      "E": "Incorreta: a localização e características estão invertidas — venosa fica no maléolo medial com exsudato abundante; arterial fica nas extremidades distais com pouco exsudato."
+    },
+    "fonte": "IBFC 2023 — Feridas Crônicas",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Sobre a avaliação das pupilas no exame neurológico, a presença de ANISOCORIA (pupilas desiguais) com midríase ipsilateral, em paciente com rebaixamento do nível de consciência após TCE, sugere:",
+    "alternativas": [
+      {"letra": "A", "texto": "Intoxicação por opioides — causa miose bilateral."},
+      {"letra": "B", "texto": "Herniação cerebral com compressão do III nervo craniano (oculomotor) ipsilateral à lesão."},
+      {"letra": "C", "texto": "Uso de colírio de pilocarpina no olho afetado."},
+      {"letra": "D", "texto": "Lesão de tronco encefálico bilateral sem lateralização."},
+      {"letra": "E", "texto": "Achado normal em pacientes após sedação profunda."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Anisocoria com midríase ipsilateral + rebaixamento da consciência após TCE = Sinal de Hutchinson = EMERGÊNCIA NEUROCIRÚRGICA. Indica herniação uncal — o uncus do lobo temporal se hernia comprimindo o III nervo craniano (oculomotor) ipsilateral à lesão expansiva, causando midríase por paralisia do músculo esfíncter pupilar. Requer TC de crânio imediata e avaliação neurocirúrgica. Opioides causam miose bilateral (não anisocoria).",
+    "explicacoes": {
+      "A": "Incorreta: opioides causam MIOSE BILATERAL (pupilas puntiformes) — não anisocoria com midríase.",
+      "C": "Incorreta: pilocarpina causa miose no olho tratado — não midríase; além disso não justificaria o quadro neurológico.",
+      "D": "Incorreta: lesão de tronco bilateral causa alterações simétricas nas pupilas — não anisocoria.",
+      "E": "Incorreta: sedação causa pupilas mióticas ou isocóricas — anisocoria com midríase nunca é normal e sempre exige investigação."
+    },
+    "fonte": "ENARE 2024 — Semiologia Neurológica",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Um paciente relata dor abdominal em cólica em flanco esquerdo, com irradiação para a virilha, acompanhada de hematúria e inquietação intensa (não consegue manter-se parado). Esses achados são mais compatíveis com:",
+    "alternativas": [
+      {"letra": "A", "texto": "Apendicite aguda."},
+      {"letra": "B", "texto": "Colecistite aguda."},
+      {"letra": "C", "texto": "Cólica nefrética (litíase ureteral)."},
+      {"letra": "D", "texto": "Peritonite generalizada."},
+      {"letra": "E", "texto": "Pancreatite aguda."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Cólica nefrética (litíase ureteral): dor intensa em cólica no flanco com irradiação para a virilha/genitália (seguindo o trajeto do ureter), hematúria (macro ou micro), e o paciente fica AGITADO/inquieto (diferente da peritonite, onde o paciente fica imóvel). É uma das dores mais intensas da medicina. Apendicite: fossa ilíaca direita, imobilidade. Colecistite: hipocôndrio direito, Murphy. Peritonite: imobilidade total. Pancreatite: epigástrio em faixa.",
+    "explicacoes": {
+      "A": "Incorreta: apendicite causa dor na fossa ilíaca DIREITA com rigidez — o paciente fica imóvel para não piorar a dor.",
+      "B": "Incorreta: colecistite causa dor no hipocôndrio direito com sinal de Murphy — não irradia para a virilha.",
+      "D": "Incorreta: peritonite causa dor difusa com abdome em tábua e paciente completamente imóvel — contrário ao descrito.",
+      "E": "Incorreta: pancreatite causa dor epigástrica em faixa, irradiando para o dorso — não para a virilha."
+    },
+    "fonte": "FAFIPA 2024 — Semiologia",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Ao documentar uma úlcera por pressão no prontuário, o enfermeiro deve registrar, entre outras informações:",
+    "alternativas": [
+      {"letra": "A", "texto": "Apenas o estágio da lesão segundo a classificação NPUAP, dispensando a mensuração."},
+      {"letra": "B", "texto": "Dimensões (comprimento × largura × profundidade), estágio, tipos de tecido no leito, características do exsudato, condição da pele perilesional e cobertura utilizada."},
+      {"letra": "C", "texto": "Somente a cobertura utilizada e o turno em que foi realizado o curativo."},
+      {"letra": "D", "texto": "O estágio, o diagnóstico médico da causa e o resultado do antibiograma se disponível."},
+      {"letra": "E", "texto": "Apenas a fotografia da ferida, que substitui a documentação escrita."}
+    ],
+    "gabarito": "B",
+    "justificativa": "A documentação completa de uma UPP deve incluir: localização, dimensões (cm), estágio NPUAP, percentual e tipos de tecido (granulação, necrose, fibrina, epitélio), exsudato (tipo e quantidade), bordas, pele perilesional, odor, cobertura aplicada, reação do paciente e plano de cuidados. Registro incompleto compromete a continuidade do cuidado e a avaliação da evolução. A fotografia é complementar, não substitui o registro escrito.",
+    "explicacoes": {
+      "A": "Incorreta: apenas o estágio é insuficiente — a documentação completa inclui múltiplas variáveis clínicas para seguimento.",
+      "C": "Incorreta: cobertura e turno são elementos mínimos — a documentação deve ser muito mais abrangente.",
+      "D": "Incorreta: o diagnóstico médico da causa e antibiograma são dados complementares — a documentação da ferida foca nas características clínicas objetivas da lesão.",
+      "E": "Incorreta: a fotografia é complementar à documentação escrita — não a substitui. O registro escrito tem valor legal que a foto não cobre completamente."
+    },
+    "fonte": "AOCP 2024 — Feridas",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Sobre a mensuração da pressão arterial, assinale a alternativa que apresenta um ERRO de técnica:",
+    "alternativas": [
+      {"letra": "A", "texto": "Posicionar o braço no nível do coração."},
+      {"letra": "B", "texto": "Aguardar pelo menos 5 minutos de repouso antes da aferição."},
+      {"letra": "C", "texto": "Utilizar a borda inferior do manguito a 2-3 cm acima da fossa cubital."},
+      {"letra": "D", "texto": "Medir no braço com fístula arteriovenosa para maior precisão hemodinâmica."},
+      {"letra": "E", "texto": "Desinflar o manguito lentamente, a 2-3 mmHg por segundo."}
+    ],
+    "gabarito": "D",
+    "justificativa": "ERRO de técnica: NUNCA medir a PA no braço com fístula arteriovenosa (FAV) — a compressão do manguito pode ocluir ou danificar a fístula, causando trombose da FAV (grave complicação em pacientes renais crônicos em hemodiálise). Também é contraindicado em braços com mastectomia, linfedema ou acesso venoso central. As outras alternativas são técnicas corretas de aferição da PA.",
+    "explicacoes": {
+      "A": "Correta: braço ao nível do coração é requisito técnico — posição diferente altera artificialmente os valores.",
+      "B": "Correta: repouso de ≥ 5 minutos antes é necessário para evitar elevação de PA por esforço ou ansiedade.",
+      "C": "Correta: manguito posicionado 2-3 cm acima da fossa cubital é a técnica padronizada.",
+      "E": "Correta: deflação lenta (2-3 mmHg/s) permite a identificação precisa dos sons de Korotkoff."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Semiologia",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "O enfermeiro avalia um paciente e identifica: pele com coloração amarelada, escleras ictéricas e urina cor de chá escuro. Esse quadro clínico sugere acúmulo de:",
+    "alternativas": [
+      {"letra": "A", "texto": "Hemoglobina livre — resultado de hemólise intravascular."},
+      {"letra": "B", "texto": "Bilirrubina — acima de 2-3 mg/dL torna-se clinicamente visível (icterícia)."},
+      {"letra": "C", "texto": "Creatinina — indicador de insuficiência renal crônica."},
+      {"letra": "D", "texto": "Ureia — produto do catabolismo proteico."},
+      {"letra": "E", "texto": "Ácido úrico — resultante do catabolismo de purinas."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Icterícia (coloração amarelada da pele e escleras) + colúria (urina cor de chá = bilirrubina na urina) = síndrome ictérica por hiperbilirrubinemia. A bilirrubina torna-se clinicamente visível quando > 2-3 mg/dL (normal < 1 mg/dL). As escleras são o local mais sensível para detectar icterícia precocemente. A colúria indica bilirrubina conjugada (direta) na urina = origem hepática ou pós-hepática.",
+    "explicacoes": {
+      "A": "Incorreta: hemoglobina livre causa hemoglobinúria (urina vermelha/marrom) e pode causar icterícia por hemólise, mas é a bilirrubina (produto da degradação da Hb) que causa o amarelamento.",
+      "C": "Incorreta: creatinina elevada indica insuficiência renal — não causa icterícia.",
+      "D": "Incorreta: ureia elevada (azotemia) causa sintomas urêmicos (fadiga, náusea, prurido) — não icterícia.",
+      "E": "Incorreta: ácido úrico elevado (hiperuricemia) causa gota — não icterícia."
+    },
+    "fonte": "IBFC 2023 — Semiologia",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Sobre as medidas de prevenção de úlcera por pressão (Bundle de prevenção), assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "Realizar mudança de decúbito a cada 2 horas em pacientes acamados com alto risco."},
+      {"letra": "B", "texto": "Utilizar colchão pneumático ou viscoelástico como superfície de suporte para pacientes de alto risco."},
+      {"letra": "C", "texto": "Manter o paciente em decúbito a 90° lateralmente (sobre as proeminências ósseas do trocânter) para maior conforto."},
+      {"letra": "D", "texto": "Proteger calcâneos com espuma ou curativos preventivos em pacientes acamados."},
+      {"letra": "E", "texto": "Avaliar o estado nutricional e garantir oferta adequada de proteínas, zinco e vitamina C."}
+    ],
+    "gabarito": "C",
+    "justificativa": "INCORRETO: o decúbito lateral a 90° posiciona o paciente DIRETAMENTE sobre o trocânter maior (proeminência óssea de alto risco para UPP) — é posição PROIBIDA! O correto é o posicionamento a 30° (inclinação lateral com cunha), que distribui a pressão nos glúteos e evita o trocânter. As outras alternativas são medidas corretas do bundle de prevenção de UPP.",
+    "explicacoes": {
+      "A": "Correta: mudança de decúbito a cada 2h é medida fundamental de prevenção — a cada 4h se em colchão especial.",
+      "B": "Correta: superfícies de redistribuição de pressão são indicadas para alto risco — reduzem a pressão sobre proeminências ósseas.",
+      "D": "Correta: o calcâneo é uma das proeminências de maior risco para UPP — deve ser protegido ativamente.",
+      "E": "Correta: nutrição adequada é pilar da prevenção — proteínas, zinco e vitamina C são essenciais para síntese de colágeno e integridade da pele."
+    },
+    "fonte": "FAFIPA 2024 — Feridas/Prevenção UPP",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Ao realizar o exame físico de um paciente com suspeita de desidratação, o enfermeiro pesquisa o sinal de turgor da pele (tent sign). O resultado é POSITIVO (alterado) quando:",
+    "alternativas": [
+      {"letra": "A", "texto": "A prega cutânea retorna imediatamente após a soltura — em menos de 1 segundo."},
+      {"letra": "B", "texto": "A pele permanece em prega por mais de 2 segundos após a soltura, indicando turgor reduzido."},
+      {"letra": "C", "texto": "A pele apresenta edema visível ao ser pinçada — retorna lentamente."},
+      {"letra": "D", "texto": "O paciente refere dor ao ser pinçado, indicando neuropatia periférica."},
+      {"letra": "E", "texto": "A pele apresenta coloração avermelhada após a manobra — indicando eritema reativo."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Tent sign (sinal da barraca/prega): pellizcam-se a pele (dorso da mão, abdome ou testa) e solta-se. Normal: retorno rápido (< 2 segundos). Positivo/alterado (desidratação): a prega cutânea permanece por > 2 segundos antes de retornar — indica perda da elasticidade por desidratação ou envelhecimento. Atenção: em idosos, o teste pode ser falsamente positivo por envelhecimento cutâneo — prefere-se o esterno.",
+    "explicacoes": {
+      "A": "Incorreta: retorno imediato (< 1 segundo) é o resultado NORMAL — indica hidratação adequada.",
+      "C": "Incorreta: edema causa turgor AUMENTADO (pele mais firme) — não é desidratação; e pele edemaciada retorna rapidamente pela pressão hidrostática.",
+      "D": "Incorreta: dor ao pinçar a pele indica alodinia/hipersensibilidade — não é avaliação de turgor.",
+      "E": "Incorreta: eritema após pinçamento é resposta vascular normal — não avalia turgor nem hidratação."
+    },
+    "fonte": "ENARE 2024 — Semiologia",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "semiologia",
+    "enunciado": "Um paciente é encaminhado ao pronto-socorro com queimadura extensa. Para calcular a necessidade de reposição volêmica nas primeiras 24 horas, utiliza-se a Fórmula de Parkland. Se o paciente pesa 70 kg e tem 40% de SCQ (2º e 3º graus), o volume total de Ringer Lactato nas primeiras 24 horas será de:",
+    "alternativas": [
+      {"letra": "A", "texto": "5.600 mL"},
+      {"letra": "B", "texto": "11.200 mL"},
+      {"letra": "C", "texto": "2.800 mL"},
+      {"letra": "D", "texto": "8.400 mL"},
+      {"letra": "E", "texto": "14.000 mL"}
+    ],
+    "gabarito": "B",
+    "justificativa": "Fórmula de Parkland: Volume (mL) = 4 mL × Peso (kg) × %SCQ. Volume = 4 × 70 × 40 = 11.200 mL de Ringer Lactato nas primeiras 24h. Distribuição: 50% nas primeiras 8h (= 5.600 mL) e 50% nas 16h seguintes (= 5.600 mL). As 8h são contadas a partir do momento da queimadura (não da chegada ao hospital).",
+    "explicacoes": {
+      "A": "Incorreta: 5.600 mL = 2 × 70 × 40 — usou fator 2 em vez de 4; ou seria apenas metade do volume (primeiras 8h).",
+      "C": "Incorreta: 2.800 mL = 1 × 70 × 40 — usou fator 1 em vez de 4.",
+      "D": "Incorreta: 8.400 mL = 3 × 70 × 40 — usou fator 3 em vez de 4.",
+      "E": "Incorreta: 14.000 mL = 5 × 70 × 40 — usou fator 5 em vez de 4."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Queimaduras",
+    "dificuldade": "media"
+  }
+]

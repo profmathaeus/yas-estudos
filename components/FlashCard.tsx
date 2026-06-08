@@ -8,12 +8,13 @@ interface FlashCardProps {
   frente: string;
   verso: string;
   bloco: string;
+  fonte?: string;
   onAvaliar: (av: Avaliacao) => void;
   cardIndex: number;
   totalCards: number;
 }
 
-export function FlashCard({ frente, verso, bloco, onAvaliar, cardIndex, totalCards }: FlashCardProps) {
+export function FlashCard({ frente, verso, bloco, fonte, onAvaliar, cardIndex, totalCards }: FlashCardProps) {
   const [flipped, setFlipped] = useState(false);
 
   function handleFlip() {
@@ -71,15 +72,22 @@ export function FlashCard({ frente, verso, bloco, onAvaliar, cardIndex, totalCar
 
           {/* verso */}
           <div
-            className="absolute inset-0 flex flex-col items-center justify-center p-8 rounded-2xl bg-yas-burgundy shadow-lg"
+            className="absolute inset-0 flex flex-col items-center justify-between p-8 rounded-2xl bg-yas-burgundy shadow-lg"
             style={{
               backfaceVisibility: "hidden",
               transform: "rotateY(180deg)",
             }}
           >
-            <p className="font-body text-white text-center text-base leading-relaxed">
-              {verso}
-            </p>
+            <div className="flex-1 flex items-center justify-center">
+              <p className="font-body text-white text-center text-base leading-relaxed">
+                {verso}
+              </p>
+            </div>
+            {fonte && (
+              <p className="text-white/40 text-[10px] font-body mt-3 text-center">
+                {fonte}
+              </p>
+            )}
           </div>
         </div>
       </div>
