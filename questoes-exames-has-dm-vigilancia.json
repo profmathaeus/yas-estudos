@@ -1,0 +1,527 @@
+[
+  {
+    "tema": "doencas",
+    "enunciado": "Uma paciente de 45 anos apresenta hemoglobina de 9,5 g/dL, VCM de 68 fL, HCM baixo e ferritina de 8 ng/mL. O tipo de anemia e a conduta CORRETOS são:",
+    "alternativas": [
+      {"letra": "A", "texto": "Anemia megaloblástica — prescrever vitamina B12 IM."},
+      {"letra": "B", "texto": "Anemia de doença crônica — investigar doença de base."},
+      {"letra": "C", "texto": "Anemia ferropriva microcítica hipocrômica — sulfato ferroso VO + investigar causa da perda."},
+      {"letra": "D", "texto": "Anemia hemolítica — solicitar bilirrubinas e reticulócitos."},
+      {"letra": "E", "texto": "Anemia por deficiência de ácido fólico — suplementar 5 mg/dia."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Hb baixa + VCM < 80 (microcítica) + HCM baixo (hipocrômica) + ferritina < 12 ng/mL = ANEMIA FERROPRIVA clássica. Conduta: sulfato ferroso 3 mg/kg/dia (adulto: 300 mg 2-3x/dia) + investigar causa da perda (hemorragia digestiva, menorragia) + vitamina C para melhorar absorção. Anemia megaloblástica: VCM ↑ (macrocítica). Anemia de doença crônica: VCM normal. Hemolítica: bilirrubinas e reticulócitos ↑.",
+    "explicacoes": {
+      "A": "Incorreta: B12 trata anemia megaloblástica (VCM ↑) — não microcítica.",
+      "B": "Incorreta: anemia de doença crônica tem VCM normal e ferritina normal/elevada — não microcítica com ferritina baixa.",
+      "D": "Incorreta: anemia hemolítica tem bilirrubina indireta ↑ e reticulócitos ↑ — não ferritina baixa.",
+      "E": "Incorreta: folato trata anemia macrocítica megaloblástica — não microcítica hipocrômica."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Interpretação de Exames",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Um paciente de 55 anos tem os seguintes resultados: glicemia de jejum 118 mg/dL, TOTG 2h: 162 mg/dL e HbA1c 6,1%. O diagnóstico CORRETO é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Diabetes mellitus tipo 2 — iniciar metformina imediatamente."},
+      {"letra": "B", "texto": "Normal — não requer nenhuma intervenção."},
+      {"letra": "C", "texto": "Pré-diabetes — iniciar mudanças de estilo de vida e monitorar anualmente."},
+      {"letra": "D", "texto": "Hipoglicemia de rebote — investigar insulinoma."},
+      {"letra": "E", "texto": "DM gestacional — solicitar nova avaliação com TOTG 100g."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Pré-diabetes: GJ 100-125 mg/dL (118 ✓) + TOTG 2h 140-199 mg/dL (162 ✓) + HbA1c 5,7-6,4% (6,1% ✓). Todos os critérios confirmam pré-diabetes. Conduta: mudanças intensivas de estilo de vida (dieta, exercício, perda de peso) — reduzem progressão para DM em 58%. Metformina pode ser considerada em obesos ou com alto risco de progressão. Monitorar a cada 6-12 meses. DM: GJ ≥ 126; TOTG ≥ 200; HbA1c ≥ 6,5%.",
+    "explicacoes": {
+      "A": "Incorreta: os valores não atingem o critério diagnóstico de DM (GJ ≥ 126, TOTG ≥ 200 ou HbA1c ≥ 6,5%).",
+      "B": "Incorreta: pré-diabetes não é normal — exige intervenção para prevenir progressão ao DM.",
+      "D": "Incorreta: hipoglicemia é < 70 mg/dL — os valores apresentados não são hipoglicemia.",
+      "E": "Incorreta: DM gestacional é diagnosticado durante a gestação — não se aplica a este paciente do sexo masculino."
+    },
+    "fonte": "FAFIPA 2024 — Diabetes Mellitus",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Sobre a classificação de risco do paciente com dengue, um adulto de 30 anos sem comorbidades apresenta febre há 3 dias, cefaleia, artralgia e exantema. Pressão arterial: 120/80 mmHg. Sem sinais de alarme. Ele pertence ao:",
+    "alternativas": [
+      {"letra": "A", "texto": "Grupo B — hidratação IV supervisionada na UBS."},
+      {"letra": "B", "texto": "Grupo C — internação por sinais de alarme."},
+      {"letra": "C", "texto": "Grupo A — hidratação VO domiciliar, paracetamol, retornar se sinais de alarme."},
+      {"letra": "D", "texto": "Grupo D — UTI por dengue grave."},
+      {"letra": "E", "texto": "Grupo B — grupo de risco por idade."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Grupo A: dengue SEM sinais de alarme e SEM grupo de risco (gestante, lactente < 2 anos, idoso ≥ 60 anos, DM, DRC, HAS, doenças hematológicas, obesidade). Conduta: hidratação VO (60 mL/kg/dia), paracetamol para febre e dor — NUNCA AAS ou ibuprofeno (risco de hemorragia), retornar se sinais de alarme, hemograma no 1º dia e no 3°-4° dia. Grupo B = grupo de risco OU sinais de alarme. 30 anos sem comorbidades = sem grupo de risco.",
+    "explicacoes": {
+      "A": "Incorreta: hidratação IV supervisionada é para Grupo B — este paciente é Grupo A.",
+      "B": "Incorreta: 30 anos sem comorbidades e sem sinais de alarme = Grupo A — não B.",
+      "D": "Incorreta: Grupo D (UTI) = dengue grave com choque, sangramento grave ou lesão orgânica.",
+      "E": "Incorreta: grupo de risco por idade seria idoso ≥ 60 anos — 30 anos não se enquadra."
+    },
+    "fonte": "IBFC 2023 — Vigilância Epidemiológica",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Um paciente hipertenso tem PA de 158/96 mmHg em duas medidas em duas consultas diferentes, sem lesão de órgão-alvo. A classificação e a meta terapêutica são:",
+    "alternativas": [
+      {"letra": "A", "texto": "Pré-hipertensão — meta < 140/90 mmHg com apenas mudanças de estilo de vida."},
+      {"letra": "B", "texto": "HAS estágio 1 — meta < 140/90 mmHg, associar MEV ao tratamento farmacológico."},
+      {"letra": "C", "texto": "HAS estágio 2 — meta < 130/80 mmHg, iniciar 2 anti-hipertensivos imediatamente."},
+      {"letra": "D", "texto": "Crise hipertensiva — encaminhar imediatamente ao pronto-socorro."},
+      {"letra": "E", "texto": "HAS estágio 3 — iniciar 3 anti-hipertensivos em combinação."}
+    ],
+    "gabarito": "B",
+    "justificativa": "HAS estágio 1: PAS 140-159 OU PAD 90-99 mmHg. Este paciente tem 158/96 = estágio 1. Meta geral: < 140/90 mmHg. Conduta: MEV (redução de peso, DASH, sódio, exercício) + tratamento farmacológico. HAS estágio 1 sem outros fatores de risco pode ter 3-6 meses de MEV isolada antes do medicamento. Com risco cardiovascular moderado-alto: iniciar medicamento logo. Estágio 2: 160-179/100-109. Estágio 3: ≥ 180/110. Crise hipertensiva: > 180/120.",
+    "explicacoes": {
+      "A": "Incorreta: 158/96 não é pré-hipertensão (120-139/80-89) — é HAS estágio 1.",
+      "C": "Incorreta: HAS estágio 2 é 160-179/100-109 — 158/96 é estágio 1; e 2 anti-hipertensivos de início não são obrigatórios no estágio 1.",
+      "D": "Incorreta: crise hipertensiva é > 180/120 — 158/96 não é crise.",
+      "E": "Incorreta: HAS estágio 3 é ≥ 180/110 — não é o caso; 3 anti-hipertensivos são para HAS resistente."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — HAS",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Sobre a notificação compulsória de doenças, é de notificação IMEDIATA (24 horas):",
+    "alternativas": [
+      {"letra": "A", "texto": "Sífilis adquirida em adulto."},
+      {"letra": "B", "texto": "Tuberculose pulmonar bacilífera em adulto."},
+      {"letra": "C", "texto": "Sarampo com exantema típico e IgM positivo."},
+      {"letra": "D", "texto": "Dengue leve sem sinais de alarme em área endêmica."},
+      {"letra": "E", "texto": "Hepatite B crônica identificada em triagem."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Sarampo é de NOTIFICAÇÃO IMEDIATA (até 24h) por ser doença de alto potencial epidêmico (R0 12-18), estar em fase de eliminação no Brasil e requerer resposta rápida (vacinação de bloqueio, investigação de contatos). Sífilis adquirida = semanal. TB = semanal. Dengue em área endêmica = semanal (surto ou fora da área = imediata). Hepatite B crônica = semanal.",
+    "explicacoes": {
+      "A": "Incorreta: sífilis adquirida é notificação semanal (até 7 dias) — não imediata.",
+      "B": "Incorreta: tuberculose pulmonar é notificação semanal — não imediata.",
+      "D": "Incorreta: dengue em área endêmica sem sinais de alarme = notificação semanal.",
+      "E": "Incorreta: hepatite B crônica é notificação semanal — não imediata."
+    },
+    "fonte": "ENARE 2024 — Vigilância Epidemiológica",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Um paciente em uso de sinvastatina relata dor muscular intensa nos membros inferiores há 1 semana. O exame solicitado e a conduta CORRETOS são:",
+    "alternativas": [
+      {"letra": "A", "texto": "Solicitar apenas lipidograma de controle e manter a medicação."},
+      {"letra": "B", "texto": "Solicitar CPK e transaminases; se CPK > 10x o limite superior normal, suspender a estatina e avaliar rabdomiólise."},
+      {"letra": "C", "texto": "Aumentar a dose da sinvastatina pois a dor é efeito adaptativo esperado."},
+      {"letra": "D", "texto": "Substituir imediatamente por fibrato para o mesmo efeito."},
+      {"letra": "E", "texto": "Prescrever anti-inflamatório e manter a estatina por mais 30 dias."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Mialgia/miopatia por estatina: efeito adverso relevante. CPK (creatinofosfoquinase): marcador de lesão muscular. Protocolo: (1) Solicitar CPK + TGO/TGP. (2) CPK < 4x = leve — pode continuar com monitorização. (3) CPK 4-10x = miopatia — reduzir dose ou trocar estatina. (4) CPK > 10x OU sinais de rabdomiólise (urina escura, IRA) = SUSPENDER IMEDIATAMENTE + hidratação IV. Rabdomiólise: destruição muscular maciça → mioglobinúria → IRA. Risco aumentado com: dose alta, interação com fibratos/macrolídeos/antifúngicos azólicos.",
+    "explicacoes": {
+      "A": "Incorreta: ignorar a dor muscular com estatina é perigoso — risco de rabdomiólise.",
+      "C": "Incorreta: aumentar a dose com dor muscular piora o risco de miopatia/rabdomiólise.",
+      "D": "Incorreta: substituir por fibrato sem investigação não é a conduta — e fibratos + estatinas aumentam risco de miopatia.",
+      "E": "Incorreta: anti-inflamatório mascara o sintoma sem resolver a causa — e manter a estatina pode piorar."
+    },
+    "fonte": "FAFIPA 2024 — Dislipidemias",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "O tratamento da tuberculose pulmonar no Brasil (esquema básico para adultos) consiste em:",
+    "alternativas": [
+      {"letra": "A", "texto": "Isoniazida + Rifampicina por 9 meses (fase intensiva) e Etambutol por 3 meses."},
+      {"letra": "B", "texto": "Rifampicina + Isoniazida + Pirazinamida + Etambutol por 2 meses, seguido de Rifampicina + Isoniazida por 4 meses — total de 6 meses."},
+      {"letra": "C", "texto": "Apenas Isoniazida por 12 meses para todos os casos novos."},
+      {"letra": "D", "texto": "Rifampicina + Isoniazida por 6 meses (sem pirazinamida nem etambutol)."},
+      {"letra": "E", "texto": "Rifampicina + Pirazinamida + Etambutol por 4 meses e amoxicilina por 2 meses."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Esquema básico de TB no Brasil (RIPE): 2 meses de RIPE (Rifampicina + Isoniazida + Pirazinamida + Etambutol) = fase intensiva, seguido de 4 meses de RI (Rifampicina + Isoniazida) = fase de manutenção. Total: 6 meses. Apresentação: comprimido de dose fixa combinada (DFC). TDO: Tratamento Diretamente Observado — 24 tomadas observadas no mínimo. Isoniazida isolada por 9 meses: é o esquema de ILTB (infecção latente) — não do caso de TB ativa.",
+    "explicacoes": {
+      "A": "Incorreta: o esquema atual tem 4 drogas na fase intensiva (2 meses), não 3; e dura 6 meses, não 9.",
+      "C": "Incorreta: isoniazida isolada é quimioprofilaxia para ILTB — não tratamento de TB ativa.",
+      "D": "Incorreta: o esquema sem pirazinamida e etambutol é insuficiente — risco de falha e resistência.",
+      "E": "Incorreta: amoxicilina não faz parte do esquema de TB; a composição e duração estão incorretas."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Vigilância Epidemiológica",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Um paciente com DM tipo 2 tem HbA1c de 9,2%, apesar de usar metformina há 6 meses com boa adesão. O LDL é 135 mg/dL, PA 145/92 mmHg e microalbuminúria positiva. O plano de cuidados MAIS ADEQUADO inclui:",
+    "alternativas": [
+      {"letra": "A", "texto": "Manter apenas metformina e reforçar orientações de dieta por mais 6 meses."},
+      {"letra": "B", "texto": "Intensificar o tratamento do DM (adicionar outro hipoglicemiante ou insulina), iniciar IECA e estatina, monitorar função renal."},
+      {"letra": "C", "texto": "Suspender metformina por nefropatia e iniciar insulina basal."},
+      {"letra": "D", "texto": "Encaminhar apenas ao endocrinologista sem intervenções na APS."},
+      {"letra": "E", "texto": "Tratar apenas a HAS com anti-hipertensivo e aguardar o DM melhorar espontaneamente."}
+    ],
+    "gabarito": "B",
+    "justificativa": "DM com HbA1c 9,2% (descompensado), LOA (microalbuminúria = nefropatia precoce), HAS e dislipidemia = caso de alto risco CV. Plano: (1) Intensificar hipoglicemiante: adicionar inibidor SGLT2 ou GLP-1 (com benefício renal/CV) ou insulina; (2) IECA/BRA: indicado em DM + microalbuminúria (nefroprotetor) + trata a HAS; (3) Estatina: LDL 135 com DM = indicação (meta LDL < 100 ou < 70 se muito alto risco); (4) Monitorar creatinina e K+. Metformina pode ser mantida se TFG ≥ 30 mL/min.",
+    "explicacoes": {
+      "A": "Incorreta: HbA1c 9,2% com metformina em monoterapia exige intensificação — não aguardar mais 6 meses.",
+      "C": "Incorreta: metformina não está contraindicada até TFG < 30 mL/min — microalbuminúria isolada não contraindica.",
+      "D": "Incorreta: a APS deve iniciar as intervenções — o encaminhamento ao especialista não exclui tratamento imediato.",
+      "E": "Incorreta: tratar apenas a HAS é insuficiente — DM descompensado e dislipidemia exigem tratamento conjunto."
+    },
+    "fonte": "FAFIPA 2024 — DM",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Ao avaliar o lipidograma de um paciente de 60 anos com DM tipo 2: CT 240 mg/dL, LDL 155 mg/dL, HDL 38 mg/dL, TG 234 mg/dL. Com base nisso, a conduta CORRETA é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Apenas orientar dieta e exercício — valores limítrofes não exigem medicamento."},
+      {"letra": "B", "texto": "Iniciar fibrato para reduzir os triglicerídeos como prioridade."},
+      {"letra": "C", "texto": "Iniciar estatina — paciente com DM tem meta de LDL < 100 mg/dL (LDL atual 155); fibrato pode ser associado se TG ≥ 500."},
+      {"letra": "D", "texto": "Aguardar novo lipidograma em 1 ano para confirmar o resultado."},
+      {"letra": "E", "texto": "Iniciar ômega-3 em alta dose como única intervenção farmacológica."}
+    ],
+    "gabarito": "C",
+    "justificativa": "DM tipo 2 = alto risco cardiovascular = meta de LDL < 100 mg/dL (ou < 70 se doença CV estabelecida). LDL atual = 155 → acima da meta → INDICAÇÃO DE ESTATINA. Fibrato: indicado quando TG ≥ 500 mg/dL (risco de pancreatite) — TG 234 não atinge esse limiar. HDL baixo (38, meta > 40 H) e TG alto são fatores de risco adicionais — mas a estatina é a 1ª prioridade para reduzir LDL. MEV sempre associada ao tratamento farmacológico.",
+    "explicacoes": {
+      "A": "Incorreta: com DM e LDL 155 (meta < 100), a estatina é indicada — MEV isolada é insuficiente para esse risco.",
+      "B": "Incorreta: fibrato é 1ª linha para TG ≥ 500 — TG de 234 não atinge esse limiar; a estatina tem prioridade.",
+      "D": "Incorreta: aguardar 1 ano com LDL 55 acima da meta em diabético é inapropriado.",
+      "E": "Incorreta: ômega-3 em alta dose pode reduzir TG, mas não é substituto da estatina na dislipidemia do diabético."
+    },
+    "fonte": "ENARE 2024 — Dislipidemias",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "No exame de urina (EAS), o achado de leucocitúria > 10/campo + nitrito positivo + bacteriúria em paciente com disúria e polaciúria indica:",
+    "alternativas": [
+      {"letra": "A", "texto": "Glomerulonefrite aguda — encaminhar urgente ao nefrologista."},
+      {"letra": "B", "texto": "Infecção do trato urinário (ITU) — urocultura para confirmar e antibioticoterapia conforme perfil de sensibilidade."},
+      {"letra": "C", "texto": "Proteinúria nefrótica — solicitar dosagem de proteínas de 24h."},
+      {"letra": "D", "texto": "Hematúria macroscópica — solicitar cistoscopia de urgência."},
+      {"letra": "E", "texto": "Cetoacidose diabética — solicitar glicemia de urgência."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Leucocitúria > 10/campo + nitrito positivo (bactérias gram-negativas produzem nitrito) + bacteriúria + sintomas (disúria, polaciúria) = critério diagnóstico de ITU não complicada. Conduta: urocultura + antibiograma para identificar o agente e sensibilidade; iniciar antibiótico empírico (sulfametoxazol-trimetoprim, ciprofloxacino ou nitrofurantoína). A Enfermagem pode coletar a amostra e encaminhar para prescrição médica. ITU recorrente: investigar fatores predisponentes.",
+    "explicacoes": {
+      "A": "Incorreta: glomerulonefrite tem hematúria com cilindros hemáticos, proteinúria — não leucocitúria + nitrito.",
+      "C": "Incorreta: proteinúria nefrótica não está associada a leucocitúria e nitrito positivo.",
+      "D": "Incorreta: hematúria macroscópica seria sangue visível na urina — não é o padrão descrito.",
+      "E": "Incorreta: cetoacidose apresenta cetonúria e glicosúria — não leucocitúria + nitrito."
+    },
+    "fonte": "IBFC 2023 — Interpretação de Exames",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Sobre a sífilis gestacional, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "O tratamento de escolha é azitromicina, pois a penicilina é contraindicada na gestação."},
+      {"letra": "B", "texto": "A penicilina G benzatina é o único tratamento eficaz na gestação — não pode ser substituída por outros antibióticos."},
+      {"letra": "C", "texto": "O VDRL negativo no 1° trimestre exclui definitivamente o diagnóstico de sífilis."},
+      {"letra": "D", "texto": "O tratamento do parceiro sexual não é necessário se a gestante responder bem à penicilina."},
+      {"letra": "E", "texto": "Sífilis gestacional só precisa ser notificada se o VDRL for ≥ 1:16."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Sífilis gestacional: penicilina G benzatina é o ÚNICO tratamento aceito na gestação que previne a sífilis congênita. Outros antibióticos (como azitromicina) tratam a mãe mas NÃO passam adequadamente para o feto → não previnem sífilis congênita. Gestante alérgica à penicilina: dessensibilização é obrigatória. Tratamento do parceiro: obrigatório — parceiro não tratado reinfecta a gestante. VDRL mensal após tratamento. Notificação: compulsória para qualquer titulação.",
+    "explicacoes": {
+      "A": "Incorreta: penicilina NÃO é contraindicada na gestação — é o tratamento de ESCOLHA e insubstituível.",
+      "C": "Incorreta: VDRL pode ser negativo na fase primária recente — janela imunológica. Colher novamente no 3° trimestre.",
+      "D": "Incorreta: tratar o parceiro é OBRIGATÓRIO para evitar reinfecção e interromper a cadeia de transmissão.",
+      "E": "Incorreta: sífilis gestacional é notificação compulsória INDEPENDENTE do título do VDRL."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Vigilância Epidemiológica",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Um paciente diabético tipo 1 é encontrado inconsciente em casa com glicemia capilar de 32 mg/dL. A conduta de enfermagem IMEDIATA é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Oferecer suco de laranja ou açúcar VO para elevar a glicemia rapidamente."},
+      {"letra": "B", "texto": "Administrar glucagon 1 mg IM (se disponível) ou glicose hipertônica 50% IV, chamar SAMU."},
+      {"letra": "C", "texto": "Aguardar o paciente recuperar a consciência espontaneamente."},
+      {"letra": "D", "texto": "Aplicar insulina regular SC para estabilizar a glicemia."},
+      {"letra": "E", "texto": "Iniciar solução salina 0,9% IV em bomba de infusão."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Hipoglicemia grave (< 54 mg/dL) com inconsciência = emergência. NUNCA oferecer líquido VO a paciente inconsciente (risco de broncoaspiração). Conduta: glucagon 1 mg IM (ou SC) — estimula produção hepática de glicose; OU glicose 50% IV (50 mL = 25g de glicose). Acionar SAMU/emergência. Monitorar glicemia a cada 15 min até > 100 mg/dL. Causas: dose excessiva de insulina, refeição omitida, exercício inesperado, álcool. Após recuperação: alimentação com carboidrato complexo para estabilizar.",
+    "explicacoes": {
+      "A": "Incorreta: oferecer líquido/alimento VO a paciente inconsciente causa broncoaspiração — risco de asfixia.",
+      "C": "Incorreta: glicemia de 32 mg/dL causa dano neurológico irreversível se não corrigida rapidamente.",
+      "D": "Incorreta: aplicar insulina em hipoglicemia agravaria o quadro — fatal.",
+      "E": "Incorreta: solução salina não contém glicose — não corrige hipoglicemia."
+    },
+    "fonte": "FAFIPA 2024 — Diabetes Mellitus",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "O conceito epidemiológico de INCIDÊNCIA difere de PREVALÊNCIA porque:",
+    "alternativas": [
+      {"letra": "A", "texto": "Incidência mede casos novos e antigos; prevalência mede apenas casos novos."},
+      {"letra": "B", "texto": "Incidência mede apenas casos fatais; prevalência mede casos não fatais."},
+      {"letra": "C", "texto": "Incidência mede casos novos em um período; prevalência mede todos os casos existentes (novos + antigos) em um momento."},
+      {"letra": "D", "texto": "São sinônimos — ambos medem a frequência de doenças na população."},
+      {"letra": "E", "texto": "Incidência é usada para doenças crônicas; prevalência para doenças agudas."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Incidência: número de CASOS NOVOS de uma doença em uma população em risco durante um período de tempo determinado. Mede o RISCO de adoecer. Prevalência: número de TODOS OS CASOS existentes (novos + antigos) em um momento ou período. Mede a carga da doença. Relação: Prevalência ≈ Incidência × Duração média da doença. Alta prevalência com baixa incidência = doença crônica (DM, HAS, HIV). Alta incidência com baixa prevalência = doença de curta duração (cura rápida ou alta letalidade).",
+    "explicacoes": {
+      "A": "Incorreta: é o contrário — incidência = casos novos; prevalência = casos novos + antigos.",
+      "B": "Incorreta: incidência inclui todos os casos novos, fatais e não fatais.",
+      "D": "Incorreta: são indicadores distintos com significados e usos diferentes.",
+      "E": "Incorreta: a aplicação é inversa — prevalência é mais útil para crônicas; incidência para avaliar velocidade de ocorrência em agudas ou crônicas."
+    },
+    "fonte": "ENARE 2024 — Vigilância Epidemiológica",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Em relação ao paciente hipertenso com emergência hipertensiva (PA 220/130 mmHg + déficit neurológico focal), a conduta CORRETA é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Administrar captopril 50 mg SL e observar por 2h na UBS."},
+      {"letra": "B", "texto": "Reduzir a PA imediatamente para < 120/80 mmHg com anti-hipertensivo oral."},
+      {"letra": "C", "texto": "Acionar SAMU, garantir acesso venoso, monitorizar continuamente e encaminhar urgente para hospital com UTI."},
+      {"letra": "D", "texto": "Aguardar o paciente se acalmar naturalmente, pois a PA alta pode ser devida à ansiedade."},
+      {"letra": "E", "texto": "Aplicar furosemida IM para redução rápida da PA."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Emergência hipertensiva: PA muito elevada + lesão de órgão-alvo AGUDA (déficit neurológico focal = AVC em evolução). Exige: internação em UTI, anti-hipertensivo IV (nicardipina, nitroprussiato, labetalol). Meta: reduzir PA em 10-15% na 1ª hora — redução muito rápida causa isquemia cerebral. Na UBS: acionar SAMU, acesso venoso, monitorização, não administrar captopril SL (inadequado para emergência — redução imprevisível). Urgência hipertensiva (sem LOA aguda): captopril VO + redução gradual em 24-48h.",
+    "explicacoes": {
+      "A": "Incorreta: captopril SL não é recomendado para emergência hipertensiva — controle imprevisível; e a UBS não tem UTI.",
+      "B": "Incorreta: reduzir para < 120/80 abruptamente causa hipoperfusão cerebral — meta é 10-15% na 1ª hora.",
+      "D": "Incorreta: aguardar é perigoso — déficit neurológico + PA de 220/130 é emergência que mata.",
+      "E": "Incorreta: furosemida IM trata congestão/edema pulmonar — não é anti-hipertensivo de emergência isolado."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — HAS",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Na avaliação de um paciente com suspeita de IAM, o marcador mais SENSÍVEL e ESPECÍFICO para diagnóstico de lesão miocárdica é:",
+    "alternativas": [
+      {"letra": "A", "texto": "LDH (desidrogenase lática) — marcador tardio."},
+      {"letra": "B", "texto": "Troponina I ou T — marcador mais sensível e específico de lesão miocárdica."},
+      {"letra": "C", "texto": "CPK total — marcador mais específico para lesão cardíaca."},
+      {"letra": "D", "texto": "Mioglobina — marcador mais tardio com maior especificidade cardíaca."},
+      {"letra": "E", "texto": "BNP (peptídeo natriurético) — diagnóstico de IAM."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Troponina I e T (especialmente de alta sensibilidade): marcadores MAIS SENSÍVEIS e ESPECÍFICOS de lesão miocárdica. Início de elevação: 3-6h do IAM (hs-Tn: 1-2h). Pico: 12-24h. Normalização: 7-14 dias. CPK total: elevada no IAM e rabdomiólise — menos específica. CPK-MB: mais específica que CPK total para coração, mas inferior à troponina. Mioglobina: sobe cedo mas pouco específica. LDH: tardio (24-72h). BNP: marcador de IC, não de IAM especificamente. A troponina é o padrão-ouro atual para diagnóstico de IAM.",
+    "explicacoes": {
+      "A": "Incorreta: LDH é tardia (24-72h) e pouco específica para o coração.",
+      "C": "Incorreta: CPK total também sobe em lesões musculares esqueléticas — menos específica que troponina.",
+      "D": "Incorreta: mioglobina é o marcador que sobe MAIS CEDO (1-3h), mas é inespecífica (também ↑ na rabdomiólise).",
+      "E": "Incorreta: BNP é marcador de sobrecarga ventricular / IC — não diagnóstico de IAM."
+    },
+    "fonte": "IBFC 2023 — Interpretação de Exames",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "A dieta DASH é indicada como tratamento não farmacológico da HAS. Suas características principais são:",
+    "alternativas": [
+      {"letra": "A", "texto": "Rica em proteína animal, pobre em carboidratos e sem restrição de sódio."},
+      {"letra": "B", "texto": "Rica em gordura saturada, sem frutas e com alto teor de sal para manter o sódio sérico."},
+      {"letra": "C", "texto": "Rica em frutas, vegetais, laticínios com baixo teor de gordura e grãos integrais; pobre em gordura saturada e sódio (< 2g/dia)."},
+      {"letra": "D", "texto": "Baseada em jejum intermitente e alta ingestão de proteínas."},
+      {"letra": "E", "texto": "Sem restrição de nenhum grupo alimentar, apenas com redução calórica total."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Dieta DASH (Dietary Approaches to Stop Hypertension): evidência A para redução da PA (redução de até 14 mmHg). Características: rica em frutas, vegetais, grãos integrais, laticínios com baixo teor de gordura, proteínas magras (peixe, frango, leguminosas); pobre em gordura saturada, gordura trans, açúcar e SÓDIO (< 2g de Na = < 5g de sal/dia). Benefícios adicionais: redução do LDL, perda de peso leve. Combinada com restrição de sódio e perda de peso: potencializa a redução da PA.",
+    "explicacoes": {
+      "A": "Incorreta: DASH não é dieta proteica — é baseada em vegetais, frutas e laticínios com baixo teor de gordura.",
+      "B": "Incorreta: DASH é pobre em gordura saturada e restrita em sódio — o oposto do descrito.",
+      "D": "Incorreta: DASH não é jejum intermitente — é uma dieta equilibrada com restrição de sódio e gordura.",
+      "E": "Incorreta: DASH tem restrições específicas — especialmente sódio, gordura saturada e alimentos processados."
+    },
+    "fonte": "FAFIPA 2024 — HAS",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Na hanseníase, qual achado é PATOGNOMÔNICO (exclusivo) da doença?",
+    "alternativas": [
+      {"letra": "A", "texto": "Mancha hipocromática com hipersensibilidade aumentada."},
+      {"letra": "B", "texto": "Úlcera plantar indolor com bordas elevadas."},
+      {"letra": "C", "texto": "Mácula eritematosa pruriginosa com cura espontânea."},
+      {"letra": "D", "texto": "Espessamento de nervos periféricos com perda de sensibilidade (térmica, dolorosa, tátil) associada a lesões cutâneas."},
+      {"letra": "E", "texto": "Artrite simétrica de pequenas articulações das mãos."}
+    ],
+    "gabarito": "D",
+    "justificativa": "Hanseníase — achado diagnóstico: a combinação de lesão cutânea com perda de sensibilidade e espessamento de nervos periféricos é característico da hanseníase. A perda de sensibilidade (anestesia) na lesão é o critério mais importante — a lepra é a principal causa de neuropatia periférica evitável no mundo. Sinais de acometimento nervoso: perda de sensibilidade térmica (primeira a ser afetada) → dolorosa → tátil; espessamento de nervos (ulnar, fibular, auricular, radial). A baciloscopia positiva confirma MB. Diagnóstico: 1 sinal — lesão com anestesia OU espessamento nervoso OU baciloscopia +.",
+    "explicacoes": {
+      "A": "Incorreta: hanseníase causa HIPO ou ANEstesia (diminuição/ausência) — não hipersensibilidade aumentada.",
+      "B": "Incorreta: úlcera plantar indolor pode ocorrer, mas não é o achado patognomônico principal.",
+      "C": "Incorreta: mácula pruriginosa com cura espontânea não é hanseníase — pode ser tinea, pitiríase.",
+      "E": "Incorreta: artrite simétrica de pequenas articulações é padrão de artrite reumatoide, não hanseníase."
+    },
+    "fonte": "ENARE 2024 — Vigilância Epidemiológica",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Sobre a Síndrome Congênita do Zika (SCZ), assinale a alternativa CORRETA:",
+    "alternativas": [
+      {"letra": "A", "texto": "O risco de SCZ é igual em todos os trimestres da gestação."},
+      {"letra": "B", "texto": "A SCZ é caracterizada apenas por microcefalia, sem outras alterações neurológicas."},
+      {"letra": "C", "texto": "A infecção pelo Zika no 1° trimestre tem maior risco de causar SCZ — microcefalia, calcificações cerebrais, artrogripose, comprometimento neurológico."},
+      {"letra": "D", "texto": "A SCZ é prevenida pela vacinação da gestante antes da concepção."},
+      {"letra": "E", "texto": "Gestantes com sorologia positiva para Zika não necessitam de seguimento especializado."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Síndrome Congênita do Zika: infecção pelo vírus Zika durante a gestação, especialmente no 1° trimestre (organogênese), tem maior risco de causar anomalias congênitas graves. Manifesta-se como: microcefalia, calcificações cerebrais (pericorticais), malformações corticais, artrogripose (contraturas articulares), comprometimento visual e auditivo. Não existe vacina contra Zika. Gestante com Zika confirmada: pré-natal de alto risco + USG morfológico seriado. Risco no 3° trimestre: menor, mas pode causar alterações mais sutis.",
+    "explicacoes": {
+      "A": "Incorreta: 1° trimestre tem MAIOR risco — coincide com organogênese (formação do SNC).",
+      "B": "Incorreta: SCZ inclui calcificações cerebrais, artrogripose, comprometimento visual, auditivo — não é apenas microcefalia.",
+      "D": "Incorreta: não existe vacina aprovada contra o vírus Zika.",
+      "E": "Incorreta: gestantes com Zika confirmada devem ter seguimento especializado com USG morfológico seriado."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Vigilância Epidemiológica",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "O monofilamento de 10g de Semmes-Weinstein, utilizado na avaliação do pé diabético, serve para rastrear:",
+    "alternativas": [
+      {"letra": "A", "texto": "Isquemia periférica por doença arterial periférica."},
+      {"letra": "B", "texto": "Perda de sensibilidade protetora plantar — rastreio de neuropatia diabética periférica."},
+      {"letra": "C", "texto": "Infecção fúngica interdigital."},
+      {"letra": "D", "texto": "Pressão plantar excessiva com risco de formação de calo."},
+      {"letra": "E", "texto": "Presença de úlcera infectada no leito plantar."}
+    ],
+    "gabarito": "B",
+    "justificativa": "Monofilamento de 10g (Semmes-Weinstein): instrumento de triagem para perda de sensibilidade protetora plantar — rastreia neuropatia diabética periférica. Técnica: aplicar o monofilamento perpendicularmente em 4-10 pontos do pé (incluindo região plantar de cabeças metatarsais e calcâneo) com pressão suficiente para doblá-lo. Paciente com olhos fechados — responde SIM ou NÃO. Incapacidade de sentir o monofilamento = perda de sensibilidade protetora = risco aumentado de ulceração por trauma não percebido = pé de alto risco. DAP: avaliada pelos pulsos periféricos e ABI.",
+    "explicacoes": {
+      "A": "Incorreta: isquemia é avaliada pelos pulsos periféricos e ABI — não pelo monofilamento.",
+      "C": "Incorreta: infecção fúngica é avaliada por inspeção visual — não pelo monofilamento.",
+      "D": "Incorreta: calo é avaliado por inspeção visual e palpação — não pelo monofilamento.",
+      "E": "Incorreta: úlcera infectada é avaliada por inspeção e exploração clínica — não por monofilamento."
+    },
+    "fonte": "FAFIPA 2024 — Diabetes Mellitus",
+    "dificuldade": "facil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Sobre o bundles (pacotes) de prevenção de IRAS hospitalares, a medida de prevenção de IPCS (infecção de corrente sanguínea) relacionada a cateter venoso central inclui, EXCETO:",
+    "alternativas": [
+      {"letra": "A", "texto": "Higienização das mãos antes e após a inserção e manipulação."},
+      {"letra": "B", "texto": "Uso de barreira máxima (capote, luva estéril, máscara, gorro, campo estéril)."},
+      {"letra": "C", "texto": "Antissepsia da pele com clorexidina alcoólica 2% antes da inserção."},
+      {"letra": "D", "texto": "Troca rotineira do cateter a cada 48h para prevenir colonização."},
+      {"letra": "E", "texto": "Avaliação diária da necessidade de manutenção do cateter e retirada quando não mais necessário."}
+    ],
+    "gabarito": "D",
+    "justificativa": "INCORRETO: a troca ROTINEIRA programada do cateter NÃO faz parte do bundle de prevenção — na verdade, AUMENTA o risco por cada troca representa nova inserção com risco de contaminação. A troca deve ser feita apenas por indicação clínica (infecção, oclusão, mau funcionamento). O bundle de IPCS inclui: higienização das mãos, barreira máxima, clorexidina 2%, sítio preferencial (subclávia), avaliação diária com retirada precoce. Cada elemento do bundle reduz independentemente o risco — todos juntos multiplicam o benefício.",
+    "explicacoes": {
+      "A": "Correta: higiene das mãos é o componente mais crítico — reduz contaminação por flora transitória.",
+      "B": "Correta: barreira máxima na inserção reduz contaminação por 5x comparado a barreira mínima.",
+      "C": "Correta: clorexidina alcoólica 2% é superior ao PVPI para antissepsia da pele antes do cateter.",
+      "E": "Correta: retirar o cateter assim que não for mais necessário é o principal fator de redução de IPCS."
+    },
+    "fonte": "ENARE 2024 — Vigilância Epidemiológica",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Um paciente de 62 anos tem creatinina de 2,1 mg/dL, ureia 68 mg/dL e microalbuminúria de 280 mg/24h. A TFG calculada é de 35 mL/min. O estágio de DRC e as condutas prioritárias do enfermeiro são:",
+    "alternativas": [
+      {"letra": "A", "texto": "DRC G1 (normal) — apenas monitorar anualmente."},
+      {"letra": "B", "texto": "DRC G3b (moderada a grave) — controlar PA < 130/80, evitar nefrotóxicos, ajustar doses de medicamentos, encaminhar ao nefrologista."},
+      {"letra": "C", "texto": "DRC G5 (falência) — preparar para diálise imediata."},
+      {"letra": "D", "texto": "Insuficiência renal aguda — hidratar com SF 0,9% abundantemente."},
+      {"letra": "E", "texto": "DRC G2 (leve) — orientar apenas sobre ingestão adequada de água."}
+    ],
+    "gabarito": "B",
+    "justificativa": "TFG 35 mL/min = DRC G3b (30-44 mL/min) — moderada a grave. Estágios: G1 ≥ 90, G2 60-89, G3a 45-59, G3b 30-44, G4 15-29, G5 < 15. Condutas: (1) PA < 130/80 com IECA/BRA (nefroprotetor, reduz proteinúria); (2) Evitar nefrotóxicos: AINEs, contraste iodado sem hidratação, aminoglicosídeos; (3) Ajuste de doses de medicamentos renalmente eliminados; (4) Controle do DM se diabético; (5) Encaminhamento ao nefrologista (G3b-G5); (6) Monitorar K+, acidose, anemia (eritropoetina reduzida), metabolismo ósseo.",
+    "explicacoes": {
+      "A": "Incorreta: TFG 35 = G3b — monitorar anualmente é insuficiente; exige intervenção ativa.",
+      "C": "Incorreta: G5 é TFG < 15 — com 35 ainda não é indicação imediata de diálise.",
+      "D": "Incorreta: não há dados sugerindo insuficiência renal AGUDA — o quadro é compatível com DRC.",
+      "E": "Incorreta: G2 é TFG 60-89 — TFG 35 é G3b, muito mais grave."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Interpretação de Exames",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Na gasometria arterial de um paciente com cetoacidose diabética (CAD), o padrão esperado é:",
+    "alternativas": [
+      {"letra": "A", "texto": "pH ↑, PaCO2 ↑, HCO3- ↑ — alcalose metabólica."},
+      {"letra": "B", "texto": "pH ↓, PaCO2 ↑, HCO3- normal — acidose respiratória."},
+      {"letra": "C", "texto": "pH ↓, PaCO2 ↓ (compensação), HCO3- ↓ — acidose metabólica com compensação respiratória."},
+      {"letra": "D", "texto": "pH normal, PaCO2 normal, HCO3- ↓ — distúrbio misto compensado."},
+      {"letra": "E", "texto": "pH ↑, PaCO2 ↓, HCO3- normal — alcalose respiratória."}
+    ],
+    "gabarito": "C",
+    "justificativa": "CAD: acidose metabólica. Produção de corpos cetônicos (ácido beta-hidroxibutírico, acetoacetato) → consumo de HCO3- → HCO3- ↓ → pH ↓. Compensação respiratória: ↑ FR e profundidade (respiração de Kussmaul) → eliminação de CO2 → PaCO2 ↓. Padrão gasométrico: pH ↓ + HCO3- ↓ + PaCO2 ↓ (compensação). Anion gap aumentado (> 12): acidose por acúmulo de ânions (cetoácidos). Critérios da CAD: glicemia ≥ 250 + pH < 7,3 + HCO3- < 15 + cetonas +.",
+    "explicacoes": {
+      "A": "Incorreta: alcalose metabólica ocorre em vômito, diuréticos — não em CAD.",
+      "B": "Incorreta: acidose respiratória: pH ↓ + PaCO2 ↑ — ocorre em hipoventilação, não em CAD.",
+      "D": "Incorreta: CAD cursa com acidose significativa — pH não está normal.",
+      "E": "Incorreta: alcalose respiratória: pH ↑ + PaCO2 ↓ — ocorre em hiperventilação de outras causas."
+    },
+    "fonte": "IBFC 2023 — Interpretação de Exames",
+    "dificuldade": "dificil"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Na vigilância em saúde do trabalhador, o que é a NR-32 e qual sua relevância para o enfermeiro?",
+    "alternativas": [
+      {"letra": "A", "texto": "Norma que regula o uso de agrotóxicos na zona rural."},
+      {"letra": "B", "texto": "Norma que regulamenta a segurança e saúde no trabalho em serviços de saúde, incluindo EPI, vacinação de HBV, manejo de perfurocortantes e riscos biológicos."},
+      {"letra": "C", "texto": "Norma que estabelece o salário mínimo dos profissionais de saúde."},
+      {"letra": "D", "texto": "Norma exclusiva para técnicos de laboratório — não se aplica ao enfermeiro."},
+      {"letra": "E", "texto": "Norma que regula apenas os riscos ergonômicos em hospitais."}
+    ],
+    "gabarito": "B",
+    "justificativa": "NR-32 (Norma Regulamentadora 32 — MTE): regulamenta a segurança e saúde no trabalho em SERVIÇOS DE SAÚDE. Aplica-se a todos os profissionais de saúde, incluindo enfermeiros. Estabelece: (1) Obrigatoriedade de EPI (luvas, avental, máscara, óculos); (2) Vacinação obrigatória do trabalhador (hepatite B, tétano, influenza); (3) Manejo seguro de perfurocortantes (descarte em caixas rígidas, nunca reencapar agulha); (4) Gerenciamento de resíduos de serviços de saúde; (5) Investigação de acidentes com material biológico; (6) Medidas contra riscos físicos, químicos e biológicos.",
+    "explicacoes": {
+      "A": "Incorreta: NR-32 é para serviços de saúde — agrotóxicos são regulados pela NR-31 (rural).",
+      "C": "Incorreta: salário é definido por lei federal e convenções coletivas — não pela NR-32.",
+      "D": "Incorreta: NR-32 se aplica a TODOS os trabalhadores em serviços de saúde — não apenas laboratoristas.",
+      "E": "Incorreta: NR-32 abrange riscos biológicos, químicos, físicos e ergonômicos — não apenas ergonomia."
+    },
+    "fonte": "FAFIPA 2024 — Vigilância Epidemiológica",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "A hipocalemia (K+ < 3,5 mEq/L) é um risco importante em pacientes em uso de diuréticos de alça. O sinal clínico mais preocupante desta alteração é:",
+    "alternativas": [
+      {"letra": "A", "texto": "Hipertensão arterial súbita e cefaleia intensa."},
+      {"letra": "B", "texto": "Hiperglicemia de difícil controle."},
+      {"letra": "C", "texto": "Fraqueza muscular, câimbras e arritmia cardíaca — incluindo fibrilação ventricular."},
+      {"letra": "D", "texto": "Oligúria e insuficiência renal aguda."},
+      {"letra": "E", "texto": "Alcalose respiratória com taquipneia."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Hipocalemia: K+ < 3,5 mEq/L. Causas em pacientes com diuréticos de alça (furosemida): perda renal de K+. Sinais clínicos: fraqueza muscular (membros inferiores, progressiva), câimbras, paralisia flácida em casos graves, íleo paralítico, poliúria (diabetes insipidus nefrogênico). Risco CARDÍACO: arritmias (extrassístoles, FA, flutter, TV, FV — especialmente em digitalizados). ECG: onda U proeminente, achatamento da onda T, prolongamento do QT. Conduta: reposição de K+ (VO se leve-moderada; IV se grave ou sintomático) + tratar a causa. Monitorar K+ em uso de furosemida — associar espironolactona pode ser necessário.",
+    "explicacoes": {
+      "A": "Incorreta: hipertensão e cefaleia são sinais de hipercalemia grave ou hipertensão — não de hipocalemia.",
+      "B": "Incorreta: hiperglicemia não é consequência direta da hipocalemia.",
+      "D": "Incorreta: oligúria e IRA são mais relacionados a nefrotoxicidade ou hipercalemia com hipoaldosteronismo — não hipocalemia.",
+      "E": "Incorreta: alcalose metabólica (não respiratória) pode acompanhar hipocalemia — mas não é o sinal mais preocupante."
+    },
+    "fonte": "COGEPS/UNIOESTE 2025 — Interpretação de Exames",
+    "dificuldade": "media"
+  },
+  {
+    "tema": "doencas",
+    "enunciado": "Uma paciente de 52 anos tem colesterol total de 242 mg/dL, LDL de 165 mg/dL, HDL de 62 mg/dL, triglicerídeos de 75 mg/dL, sem DM, sem HAS, não tabagista, sem histórico familiar. Sua estratificação de risco cardiovascular indica:",
+    "alternativas": [
+      {"letra": "A", "texto": "Risco muito alto — iniciar estatina em alta dose imediatamente."},
+      {"letra": "B", "texto": "Risco alto — meta de LDL < 70 mg/dL com estatina + ezetimiba."},
+      {"letra": "C", "texto": "Risco baixo a moderado — MEV por 3 meses; estatina se LDL ≥ 160 após MEV sem outros fatores."},
+      {"letra": "D", "texto": "Risco inexistente — HDL alto e TG normal protegem completamente."},
+      {"letra": "E", "texto": "Indicação de fibrato por triglicerídeos borderline."}
+    ],
+    "gabarito": "C",
+    "justificativa": "Estratificação: sem DM, sem HAS, não tabagista, sem histórico familiar de DCV prematura, 52 anos (M = fator de risco ≥ 65a) → RISCO BAIXO a MODERADO. Para risco baixo: meta LDL < 130; para moderado: < 100. LDL 165 está acima da meta para a maioria dos perfis de risco moderado. Conduta: iniciar MEV (DASH, exercício, redução peso) por 3 meses. Se LDL persistir elevado após MEV, considerar estatina. HDL 62 (protetor ≥ 60) e TG 75 (ótimo < 150) são favoráveis — mas não eliminam o risco do LDL elevado. Fibrato: indicado para TG ≥ 500 — TG 75 não tem indicação.",
+    "explicacoes": {
+      "A": "Incorreta: risco muito alto = DCV estabelecida ou DM com LOA — não se aplica a este perfil.",
+      "B": "Incorreta: risco alto = ≥ 3 fatores de risco, DM sem LOA, SM — não corresponde ao perfil.",
+      "D": "Incorreta: HDL alto e TG normal atenuam o risco, mas LDL 165 ainda é fator de risco independente.",
+      "E": "Incorreta: TG 75 está ótimo — fibrato não tem indicação neste contexto."
+    },
+    "fonte": "ENARE 2024 — Dislipidemias",
+    "dificuldade": "dificil"
+  }
+]
