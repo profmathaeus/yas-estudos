@@ -5,6 +5,7 @@ const config: Config = {
   content: [
     "./app/**/*.{ts,tsx}",
     "./components/**/*.{ts,tsx}",
+    "./types/**/*.{ts,tsx}",
   ],
   theme: {
     extend: {
@@ -19,15 +20,29 @@ const config: Config = {
           ink:        "#1A1525",
         },
         bloco: {
-          sus:        "#5B4A7E",
-          tecnicas:   "#B89FD4",
-          doencas:    "#C8876A",
-          emergencias:"#8B1D3A",
-          mulher:     "#F5F5A0",
-          bio:        "#5B8A7E",
-          farma:      "#9B84C4",
-          mental:     "#7B6A9E",
-          idoso:      "#D4A08A",
+          // blocos originais
+          sus:         "#5B4A7E",
+          tecnicas:    "#B89FD4",
+          doencas:     "#C8876A",
+          emergencias: "#8B1D3A",
+          mulher:      "#F5F5A0",
+          bio:         "#5B8A7E",
+          farma:       "#9B84C4",
+          mental:      "#7B6A9E",
+          idoso:       "#D4A08A",
+          // blocos PMFI novos
+          gestao:      "#5B4A7E",
+          estatuto:    "#2D2540",
+          etica:       "#8B1D3A",
+          semiologia:  "#0D7377",
+          homem:       "#1D4ED8",
+          adolescente: "#0EA5E9",
+          pediatria:   "#EC4899",
+          exames:      "#D97706",
+          vigilancia:  "#B91C1C",
+          portugues:   "#059669",
+          matematica:  "#7C3AED",
+          informatica: "#0891B2",
         },
       },
       fontFamily: {

@@ -82,28 +82,64 @@ export type BlocoKey =
   | "bio"
   | "farma"
   | "mental"
-  | "idoso";
+  | "idoso"
+  | "gestao"
+  | "estatuto"
+  | "etica"
+  | "semiologia"
+  | "homem"
+  | "adolescente"
+  | "pediatria"
+  | "exames"
+  | "vigilancia"
+  | "portugues"
+  | "matematica"
+  | "informatica";
 
 export const BLOCO_LABELS: Record<BlocoKey, string> = {
-  sus:        "SUS & Legislação",
-  tecnicas:   "Técnicas de Enfermagem",
-  doencas:    "Doenças & Epidemiologia",
-  emergencias:"Emergências",
-  mulher:     "Saúde da Mulher & Criança",
-  bio:        "Biossegurança & Infecção",
-  farma:      "Farmacologia & PNI",
-  mental:     "Saúde Mental & CAPS",
-  idoso:      "Idoso & Geriátrico",
+  sus:         "SUS & Legislação",
+  tecnicas:    "Técnicas de Enfermagem",
+  doencas:     "Doenças & Clínica",
+  emergencias: "Urgência & Emergência",
+  mulher:      "Saúde da Mulher",
+  bio:         "Biossegurança & CME",
+  farma:       "Farmacologia & PNI",
+  mental:      "Saúde Mental",
+  idoso:       "Saúde do Idoso",
+  gestao:      "Gestão & APS",
+  estatuto:    "Estatuto do Servidor",
+  etica:       "Ética & Lei 7498",
+  semiologia:  "Semiologia & Feridas",
+  homem:       "Saúde do Homem",
+  adolescente: "Saúde do Adolescente",
+  pediatria:   "Pediatria & AIDIPI",
+  exames:      "Interpretação de Exames",
+  vigilancia:  "Vigilância Epidemiológica",
+  portugues:   "Língua Portuguesa",
+  matematica:  "Matemática & Lógica",
+  informatica: "Informática",
 };
 
 export const BLOCO_COLORS: Record<BlocoKey, string> = {
-  sus:        "bg-bloco-sus text-white",
-  tecnicas:   "bg-bloco-tecnicas text-yas-ink",
-  doencas:    "bg-bloco-doencas text-white",
-  emergencias:"bg-bloco-emergencias text-white",
-  mulher:     "bg-bloco-mulher text-yas-ink",
-  bio:        "bg-bloco-bio text-white",
-  farma:      "bg-bloco-farma text-white",
-  mental:     "bg-bloco-mental text-white",
-  idoso:      "bg-bloco-idoso text-white",
+  sus:         "bg-bloco-sus text-white",
+  tecnicas:    "bg-bloco-tecnicas text-yas-ink",
+  doencas:     "bg-bloco-doencas text-white",
+  emergencias: "bg-bloco-emergencias text-white",
+  mulher:      "bg-bloco-mulher text-yas-ink",
+  bio:         "bg-bloco-bio text-white",
+  farma:       "bg-bloco-farma text-white",
+  mental:      "bg-bloco-mental text-white",
+  idoso:       "bg-bloco-idoso text-white",
+  gestao:      "bg-bloco-gestao text-white",
+  estatuto:    "bg-bloco-estatuto text-white",
+  etica:       "bg-bloco-etica text-white",
+  semiologia:  "bg-bloco-semiologia text-white",
+  homem:       "bg-bloco-homem text-white",
+  adolescente: "bg-bloco-adolescente text-white",
+  pediatria:   "bg-bloco-pediatria text-white",
+  exames:      "bg-bloco-exames text-white",
+  vigilancia:  "bg-bloco-vigilancia text-white",
+  portugues:   "bg-bloco-portugues text-white",
+  matematica:  "bg-bloco-matematica text-white",
+  informatica: "bg-bloco-informatica text-white",
 };
