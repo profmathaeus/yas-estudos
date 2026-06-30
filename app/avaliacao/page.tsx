@@ -47,7 +47,10 @@ const TEMA_LABELS: Record<string, string> = {
   informatica: "Informática",
   estatuto:    "Estatuto do Servidor",
   etica:       "Lei 7498/86 · Ética · SAE",
+  semiologia:  "Semiologia & Feridas",
   completa:    "Avaliação Completa",
+  fafipa1:     "Provão FAFIPA I",
+  fafipa2:     "Provão FAFIPA II",
 };
 
 function labelTema(t: string) {
@@ -424,6 +427,62 @@ export default function AvaliacaoPage() {
     setTela("prova");
   }
 
+  // Ordem das seções como em uma prova FAFIPA real: gerais → conhecimentos específicos
+  const ORDEM_TEMA_FAFIPA = [
+    "portugues", "matematica", "informatica",
+    "estatuto", "etica", "sus", "gestao",
+    "semiologia", "doencas", "mulher", "pediatria",
+    "tecnicas", "farma", "mental", "idoso", "emergencias",
+  ];
+
+  function ordenarComoProvaReal(qs: Questao[]): Questao[] {
+    return [...qs].sort((a, b) => {
+      const ia = ORDEM_TEMA_FAFIPA.indexOf(a.tema);
+      const ib = ORDEM_TEMA_FAFIPA.indexOf(b.tema);
+      return (ia === -1 ? 999 : ia) - (ib === -1 ? 999 : ib);
+    });
+  }
+
+  async function iniciarFafipa(numero: 1 | 2) {
+    setLoading(true);
+    limparProvaSalva();
+    const chave = numero === 1 ? "fafipa1" : "fafipa2";
+    setTemaSel(chave);
+    setModo(false);
+
+    const { data } = await supabase
+      .from("questoes")
+      .select("*")
+      .ilike("fonte", "%FAFIPA%");
+
+    // Dedup por enunciado (provas antigas têm registros duplicados)
+    const vistos = new Set<string>();
+    const unicas: Questao[] = [];
+    for (const q of (data ?? []) as Questao[]) {
+      const chaveDedup = q.enunciado.slice(0, 120);
+      if (!vistos.has(chaveDedup)) {
+        vistos.add(chaveDedup);
+        unicas.push(q);
+      }
+    }
+
+    // Split determinístico: metade ímpar para Provão I, metade par para Provão II
+    // garante que as duas provas tenham mix equilibrado de todas as fontes/temas
+    const grupo1: Questao[] = [];
+    const grupo2: Questao[] = [];
+    unicas.forEach((q, i) => (i % 2 === 0 ? grupo1 : grupo2).push(q));
+
+    const selecionadas = ordenarComoProvaReal(numero === 1 ? grupo1 : grupo2).slice(0, 60);
+
+    setQuestoes(selecionadas.map(shuffleAlternativas));
+    setIndice(0);
+    setRespostas({});
+    setSegundos(0);
+    setPausada(false);
+    setLoading(false);
+    setTela("prova");
+  }
+
   function responder(letra: string) {
     const q = questoes[indice];
     if (!q || respostas[q.id]) return;
@@ -543,6 +602,25 @@ export default function AvaliacaoPage() {
           <p className="text-2xl mb-1">🎯</p>
           <p className="font-display text-xl font-semibold">Avaliação completa</p>
           <p className="font-body text-xs opacity-70 mt-0.5">100 questões (70 enfermagem + 10 português + 10 matemática + 10 informática)</p>
+        </div>
+
+        <div className="grid grid-cols-2 gap-3">
+          <div
+            onClick={() => iniciarFafipa(1)}
+            className="rounded-xl bg-bloco-estatuto p-4 text-white cursor-pointer active:scale-95 transition-transform"
+          >
+            <p className="text-xl mb-1">🏛️</p>
+            <p className="font-display text-base font-semibold leading-tight">Provão FAFIPA I</p>
+            <p className="font-body text-[10px] opacity-70 mt-0.5">60 questões · estilo banca real</p>
+          </div>
+          <div
+            onClick={() => iniciarFafipa(2)}
+            className="rounded-xl bg-bloco-vigilancia p-4 text-white cursor-pointer active:scale-95 transition-transform"
+          >
+            <p className="text-xl mb-1">🏛️</p>
+            <p className="font-display text-base font-semibold leading-tight">Provão FAFIPA II</p>
+            <p className="font-body text-[10px] opacity-70 mt-0.5">60 questões · estilo banca real</p>
+          </div>
         </div>
 
         <div
